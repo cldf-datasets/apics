@@ -1,0 +1,127 @@
+pk,jsondata,id,name,description,markup_description,ord,mime_type,object_pk,version
+10,"{""mimetype"": ""application/pdf"", ""original"": ""7_gt.pdf"", ""objid"": ""EAEA0-7756-600B-3E45-0"", ""size"": 89855}",7-gt.pdf,Glossed text,,,1,application/pdf,7,1
+12,"{""mimetype"": ""application/pdf"", ""original"": ""8_gt.pdf"", ""objid"": ""EAEA0-3A35-3650-07D6-0"", ""size"": 75333}",8-gt.pdf,Glossed text,,,1,application/pdf,8,1
+16,"{""mimetype"": ""application/pdf"", ""original"": ""11_gt.pdf"", ""objid"": ""EAEA0-6069-7C12-765E-0"", ""size"": 52165}",11-gt.pdf,Glossed text,,,1,application/pdf,11,1
+18,"{""mimetype"": ""application/pdf"", ""original"": ""12_gt.pdf"", ""objid"": ""EAEA0-CA7F-4AD9-4D30-0"", ""size"": 84895}",12-gt.pdf,Glossed text,,,1,application/pdf,12,1
+20,"{""mimetype"": ""application/pdf"", ""original"": ""13_gt.pdf"", ""objid"": ""EAEA0-FE27-4ED1-3332-0"", ""size"": 68430}",13-gt.pdf,Glossed text,,,1,application/pdf,13,1
+22,"{""mimetype"": ""application/pdf"", ""original"": ""14_gt.pdf"", ""objid"": ""EAEA0-2BEF-BCCD-AEF5-0"", ""size"": 53700}",14-gt.pdf,Glossed text,,,1,application/pdf,14,1
+24,"{""mimetype"": ""application/pdf"", ""original"": ""15_gt.pdf"", ""objid"": ""EAEA0-0D65-917F-6395-0"", ""size"": 73915}",15-gt.pdf,Glossed text,,,1,application/pdf,15,1
+26,"{""mimetype"": ""application/pdf"", ""original"": ""16_gt.pdf"", ""objid"": ""EAEA0-CA39-12B4-3C15-0"", ""size"": 65563}",16-gt.pdf,Glossed text,,,1,application/pdf,16,1
+28,"{""mimetype"": ""application/pdf"", ""original"": ""17_gt.pdf"", ""objid"": ""EAEA0-2E17-9925-8EC9-0"", ""size"": 47286}",17-gt.pdf,Glossed text,,,1,application/pdf,17,1
+32,"{""mimetype"": ""application/pdf"", ""original"": ""19_gt.pdf"", ""objid"": ""EAEA0-41D7-B3F4-A080-0"", ""size"": 71051}",19-gt.pdf,Glossed text,,,1,application/pdf,19,1
+35,"{""mimetype"": ""application/pdf"", ""original"": ""22_gt.pdf"", ""objid"": ""EAEA0-4CA6-8542-A148-0"", ""size"": 53957}",22-gt.pdf,Glossed text,,,1,application/pdf,22,1
+37,"{""mimetype"": ""application/pdf"", ""original"": ""23_gt.pdf"", ""objid"": ""EAEA0-82AD-E503-DB1A-0"", ""size"": 57073}",23-gt.pdf,Glossed text,,,1,application/pdf,23,1
+40,"{""mimetype"": ""application/pdf"", ""original"": ""25_gt.pdf"", ""objid"": ""EAEA0-2D91-916D-CC5D-0"", ""size"": 73233}",25-gt.pdf,Glossed text,,,1,application/pdf,25,1
+42,"{""mimetype"": ""application/pdf"", ""original"": ""26_gt.pdf"", ""objid"": ""EAEA0-7B89-0EA2-EB8A-0"", ""size"": 91822}",26-gt.pdf,Glossed text,,,1,application/pdf,26,1
+47,"{""mimetype"": ""application/pdf"", ""original"": ""30_gt.pdf"", ""objid"": ""EAEA0-A634-85C0-2D7B-0"", ""size"": 51308}",30-gt.pdf,Glossed text,,,1,application/pdf,30,1
+50,"{""mimetype"": ""application/pdf"", ""original"": ""32_gt.pdf"", ""objid"": ""EAEA0-CF1D-BC9D-57F5-0"", ""size"": 85220}",32-gt.pdf,Glossed text,,,1,application/pdf,32,1
+52,"{""mimetype"": ""application/pdf"", ""original"": ""33_gt.pdf"", ""objid"": ""EAEA0-65AB-ED2B-0A34-0"", ""size"": 67964}",33-gt.pdf,Glossed text,,,1,application/pdf,33,1
+54,"{""mimetype"": ""application/pdf"", ""original"": ""34_gt.pdf"", ""objid"": ""EAEA0-43FC-F459-7F28-0"", ""size"": 73394}",34-gt.pdf,Glossed text,,,1,application/pdf,34,1
+58,"{""mimetype"": ""application/pdf"", ""original"": ""36_gt.pdf"", ""objid"": ""EAEA0-657C-15B3-C77E-0"", ""size"": 60434}",36-gt.pdf,Glossed text,,,1,application/pdf,36,1
+60,"{""mimetype"": ""application/pdf"", ""original"": ""37_gt.pdf"", ""objid"": ""EAEA0-7128-6A3F-3A49-0"", ""size"": 59378}",37-gt.pdf,Glossed text,,,1,application/pdf,37,1
+64,"{""mimetype"": ""application/pdf"", ""original"": ""40_gt.pdf"", ""objid"": ""EAEA0-4559-E978-D103-0"", ""size"": 60467}",40-gt.pdf,Glossed text,,,1,application/pdf,40,1
+66,"{""mimetype"": ""application/pdf"", ""original"": ""41_gt.pdf"", ""objid"": ""EAEA0-1CB0-06AF-55DD-0"", ""size"": 114600}",41-gt.pdf,Glossed text,,,1,application/pdf,41,1
+68,"{""mimetype"": ""application/pdf"", ""original"": ""42_gt.pdf"", ""objid"": ""EAEA0-9B85-6443-C682-0"", ""size"": 81880}",42-gt.pdf,Glossed text,,,1,application/pdf,42,1
+71,"{""mimetype"": ""application/pdf"", ""original"": ""44_gt.pdf"", ""objid"": ""EAEA0-5011-D4D4-6699-0"", ""size"": 59198}",44-gt.pdf,Glossed text,,,1,application/pdf,44,1
+73,"{""mimetype"": ""application/pdf"", ""original"": ""45_gt.pdf"", ""objid"": ""EAEA0-2476-7C34-DC94-0"", ""size"": 65282}",45-gt.pdf,Glossed text,,,1,application/pdf,45,1
+75,"{""mimetype"": ""application/pdf"", ""original"": ""46_gt.pdf"", ""objid"": ""EAEA0-B284-E744-3BCE-0"", ""size"": 68303}",46-gt.pdf,Glossed text,,,1,application/pdf,46,1
+77,"{""mimetype"": ""application/pdf"", ""original"": ""47_gt.pdf"", ""objid"": ""EAEA0-C405-C636-A55E-0"", ""size"": 89990}",47-gt.pdf,Glossed text,,,1,application/pdf,47,1
+81,"{""mimetype"": ""application/pdf"", ""original"": ""49_gt.pdf"", ""objid"": ""EAEA0-0922-9845-D14C-0"", ""size"": 61499}",49-gt.pdf,Glossed text,,,1,application/pdf,49,1
+83,"{""mimetype"": ""application/pdf"", ""original"": ""50_gt.pdf"", ""objid"": ""EAEA0-AC40-B4D9-633B-0"", ""size"": 88990}",50-gt.pdf,Glossed text,,,1,application/pdf,50,1
+86,"{""mimetype"": ""application/pdf"", ""original"": ""52_gt.pdf"", ""objid"": ""EAEA0-182A-829B-1381-0"", ""size"": 58753}",52-gt.pdf,Glossed text,,,1,application/pdf,52,1
+88,"{""mimetype"": ""application/pdf"", ""original"": ""53_gt.pdf"", ""objid"": ""EAEA0-9940-68D9-20C5-0"", ""size"": 86450}",53-gt.pdf,Glossed text,,,1,application/pdf,53,1
+91,"{""mimetype"": ""application/pdf"", ""original"": ""55_gt.pdf"", ""objid"": ""EAEA0-7BA9-1923-57AC-0"", ""size"": 62892}",55-gt.pdf,Glossed text,,,1,application/pdf,55,1
+93,"{""mimetype"": ""application/pdf"", ""original"": ""56_gt.pdf"", ""objid"": ""EAEA0-20F6-BE49-D7F7-0"", ""size"": 73673}",56-gt.pdf,Glossed text,,,1,application/pdf,56,1
+97,"{""mimetype"": ""application/pdf"", ""original"": ""59_gt.pdf"", ""objid"": ""EAEA0-7E04-F1F2-A42D-0"", ""size"": 110697}",59-gt.pdf,Glossed text,,,1,application/pdf,59,1
+99,"{""mimetype"": ""application/pdf"", ""original"": ""60_gt.pdf"", ""objid"": ""EAEA0-5916-5CA3-28EB-0"", ""size"": 64477}",60-gt.pdf,Glossed text,,,1,application/pdf,60,1
+101,"{""mimetype"": ""application/pdf"", ""original"": ""61_gt.pdf"", ""objid"": ""EAEA0-FDC4-0F6B-1CAC-0"", ""size"": 65673}",61-gt.pdf,Glossed text,,,1,application/pdf,61,1
+106,"{""mimetype"": ""application/pdf"", ""original"": ""64_gt.pdf"", ""objid"": ""EAEA0-D8F6-D4CC-2801-0"", ""size"": 51581}",64-gt.pdf,Glossed text,,,1,application/pdf,64,1
+109,"{""mimetype"": ""application/pdf"", ""original"": ""66_gt.pdf"", ""objid"": ""EAEA0-4011-EE5E-B117-0"", ""size"": 66891}",66-gt.pdf,Glossed text,,,1,application/pdf,66,1
+111,"{""mimetype"": ""application/pdf"", ""original"": ""67_gt.pdf"", ""objid"": ""EAEA0-889F-F835-01FD-0"", ""size"": 63398}",67-gt.pdf,Glossed text,,,1,application/pdf,67,1
+114,"{""mimetype"": ""application/pdf"", ""original"": ""69_gt.pdf"", ""objid"": ""EAEA0-FCF3-869A-7E01-0"", ""size"": 71956}",69-gt.pdf,Glossed text,,,1,application/pdf,69,1
+116,"{""mimetype"": ""application/pdf"", ""original"": ""70_gt.pdf"", ""objid"": ""EAEA0-3485-19DA-53C7-0"", ""size"": 57141}",70-gt.pdf,Glossed text,,,1,application/pdf,70,1
+2,"{""mimetype"": ""application/pdf"", ""original"": ""2_gt.pdf"", ""objid"": ""EAEA0-A03D-7E7F-35AA-0"", ""size"": 71503}",2-gt.pdf,Glossed text,,,1,application/pdf,2,1
+5,"{""mimetype"": ""application/pdf"", ""original"": ""4_gt.pdf"", ""objid"": ""EAEA0-43D4-4263-1F01-0"", ""size"": 52792}",4-gt.pdf,Glossed text,,,1,application/pdf,4,1
+119,"{""mimetype"": ""application/pdf"", ""original"": ""72_gt.pdf"", ""objid"": ""EAEA0-5321-76EF-C623-0"", ""size"": 76643}",72-gt.pdf,Glossed text,,,1,application/pdf,72,1
+122,"{""mimetype"": ""application/pdf"", ""original"": ""74_gt.pdf"", ""objid"": ""EAEA0-8008-C65A-ED25-0"", ""size"": 66921}",74-gt.pdf,Glossed text,,,1,application/pdf,74,1
+124,"{""mimetype"": ""application/pdf"", ""original"": ""75_gt.pdf"", ""objid"": ""EAEA0-F017-65B4-5BF1-0"", ""size"": 66334}",75-gt.pdf,Glossed text,,,1,application/pdf,75,1
+126,"{""mimetype"": ""application/pdf"", ""original"": ""76_gt.pdf"", ""objid"": ""EAEA0-16B0-33CB-9534-0"", ""size"": 55660}",76-gt.pdf,Glossed text,,,1,application/pdf,76,1
+123,"{""mimetype"": ""audio/mpeg"", ""original"": ""74_gt.mp3"", ""objid"": ""EAEA0-8008-C65A-ED25-0"", ""size"": 3359380}",74-gt.mp3,Glossed text audio,,,1,audio/mpeg,74,1
+121,"{""mimetype"": ""application/pdf"", ""original"": ""73_gt.pdf"", ""objid"": ""EAEA0-E90B-E0A5-D843-0"", ""size"": 58316}",73-gt.pdf,Glossed text,,,1,application/pdf,73,1
+120,"{""mimetype"": ""audio/mpeg"", ""original"": ""72_gt.mp3"", ""objid"": ""EAEA0-5321-76EF-C623-0"", ""size"": 1012539}",72-gt.mp3,Glossed text audio,,,1,audio/mpeg,72,1
+118,"{""mimetype"": ""application/pdf"", ""original"": ""71_gt.pdf"", ""objid"": ""EAEA0-F355-EBC4-708C-0"", ""size"": 57903}",71-gt.pdf,Glossed text,,,1,application/pdf,71,1
+117,"{""mimetype"": ""audio/mpeg"", ""original"": ""70_gt.mp3"", ""objid"": ""EAEA0-3485-19DA-53C7-0"", ""size"": 2529731}",70-gt.mp3,Glossed text audio,,,1,audio/mpeg,70,1
+115,"{""mimetype"": ""audio/mpeg"", ""original"": ""69_gt.mp3"", ""objid"": ""EAEA0-FCF3-869A-7E01-0"", ""size"": 3507804}",69-gt.mp3,Glossed text audio,,,1,audio/mpeg,69,1
+113,"{""mimetype"": ""application/pdf"", ""original"": ""68_gt.pdf"", ""objid"": ""EAEA0-C3AE-FDFE-AAC6-0"", ""size"": 96667}",68-gt.pdf,Glossed text,,,1,application/pdf,68,1
+112,"{""mimetype"": ""audio/mpeg"", ""original"": ""67_gt.mp3"", ""objid"": ""EAEA0-889F-F835-01FD-0"", ""size"": 4182938}",67-gt.mp3,Glossed text audio,,,1,audio/mpeg,67,1
+110,"{""mimetype"": ""audio/mpeg"", ""original"": ""66_gt.mp3"", ""objid"": ""EAEA0-4011-EE5E-B117-0"", ""size"": 1079520}",66-gt.mp3,Glossed text audio,,,1,audio/mpeg,66,1
+107,"{""mimetype"": ""audio/mpeg"", ""original"": ""64_gt.mp3"", ""objid"": ""EAEA0-D8F6-D4CC-2801-0"", ""size"": 568503}",64-gt.mp3,Glossed text audio,,,1,audio/mpeg,64,1
+105,"{""mimetype"": ""application/pdf"", ""original"": ""63_gt.pdf"", ""objid"": ""EAEA0-3311-EE23-CF86-0"", ""size"": 60698}",63-gt.pdf,Glossed text,,,1,application/pdf,63,1
+104,"{""mimetype"": ""audio/mpeg"", ""original"": ""62_gt.mp3"", ""objid"": ""EAEA0-8D7B-BDCF-3D0D-0"", ""size"": 5270498}",62-gt.mp3,Glossed text audio,,,1,audio/mpeg,62,1
+102,"{""mimetype"": ""audio/mpeg"", ""original"": ""61_gt.mp3"", ""objid"": ""EAEA0-FDC4-0F6B-1CAC-0"", ""size"": 1622016}",61-gt.mp3,Glossed text audio,,,1,audio/mpeg,61,1
+100,"{""mimetype"": ""audio/mpeg"", ""original"": ""60_gt.mp3"", ""objid"": ""EAEA0-5916-5CA3-28EB-0"", ""size"": 290305}",60-gt.mp3,Glossed text audio,,,1,audio/mpeg,60,1
+98,"{""mimetype"": ""audio/mpeg"", ""original"": ""59_gt.mp3"", ""objid"": ""EAEA0-7E04-F1F2-A42D-0"", ""size"": 2506752}",59-gt.mp3,Glossed text audio,,,1,audio/mpeg,59,1
+96,"{""mimetype"": ""application/pdf"", ""original"": ""58_gt.pdf"", ""objid"": ""EAEA0-6442-67EF-C9AD-0"", ""size"": 76900}",58-gt.pdf,Glossed text,,,1,application/pdf,58,1
+95,"{""mimetype"": ""application/pdf"", ""original"": ""57_gt.pdf"", ""objid"": ""EAEA0-6FF4-72F0-207E-0"", ""size"": 65621}",57-gt.pdf,Glossed text,,,1,application/pdf,57,1
+94,"{""mimetype"": ""audio/mpeg"", ""original"": ""56_gt.mp3"", ""objid"": ""EAEA0-20F6-BE49-D7F7-0"", ""size"": 532480}",56-gt.mp3,Glossed text audio,,,1,audio/mpeg,56,1
+90,"{""mimetype"": ""application/pdf"", ""original"": ""54_gt.pdf"", ""objid"": ""EAEA0-77CF-4F39-D254-0"", ""size"": 60138}",54-gt.pdf,Glossed text,,,1,application/pdf,54,1
+89,"{""mimetype"": ""audio/mpeg"", ""original"": ""53_gt.mp3"", ""objid"": ""EAEA0-9940-68D9-20C5-0"", ""size"": 2166531}",53-gt.mp3,Glossed text audio,,,1,audio/mpeg,53,1
+87,"{""mimetype"": ""audio/mpeg"", ""original"": ""52_gt.mp3"", ""objid"": ""EAEA0-182A-829B-1381-0"", ""size"": 1900669}",52-gt.mp3,Glossed text audio,,,1,audio/mpeg,52,1
+85,"{""mimetype"": ""application/pdf"", ""original"": ""51_gt.pdf"", ""objid"": ""EAEA0-C116-1703-A749-0"", ""size"": 88990}",51-gt.pdf,Glossed text,,,1,application/pdf,51,1
+84,"{""mimetype"": ""audio/mpeg"", ""original"": ""50_gt.mp3"", ""objid"": ""EAEA0-AC40-B4D9-633B-0"", ""size"": 3139951}",50-gt.mp3,Glossed text audio,,,1,audio/mpeg,50,1
+82,"{""mimetype"": ""audio/mpeg"", ""original"": ""49_gt.mp3"", ""objid"": ""EAEA0-0922-9845-D14C-0"", ""size"": 688829}",49-gt.mp3,Glossed text audio,,,1,audio/mpeg,49,1
+80,"{""mimetype"": ""audio/mpeg"", ""original"": ""48_gt.mp3"", ""objid"": ""EAEA0-5738-22E4-18BC-0"", ""size"": 607712}",48-gt.mp3,Glossed text audio,,,1,audio/mpeg,48,1
+78,"{""mimetype"": ""audio/mpeg"", ""original"": ""47_gt.mp3"", ""objid"": ""EAEA0-C405-C636-A55E-0"", ""size"": 2987541}",47-gt.mp3,Glossed text audio,,,1,audio/mpeg,47,1
+76,"{""mimetype"": ""audio/mpeg"", ""original"": ""46_gt.mp3"", ""objid"": ""EAEA0-B284-E744-3BCE-0"", ""size"": 673815}",46-gt.mp3,Glossed text audio,,,1,audio/mpeg,46,1
+8,"{""mimetype"": ""application/pdf"", ""original"": ""6_gt.pdf"", ""objid"": ""EAEA0-1DC6-28E5-C84A-0"", ""size"": 47658}",6-gt.pdf,Glossed text,,,1,application/pdf,6,1
+30,"{""mimetype"": ""application/pdf"", ""original"": ""18_gt.pdf"", ""objid"": ""EAEA0-FA0D-34A4-432A-0"", ""size"": 54715}",18-gt.pdf,Glossed text,,,1,application/pdf,18,1
+56,"{""mimetype"": ""application/pdf"", ""original"": ""35_gt.pdf"", ""objid"": ""EAEA0-7D6D-0953-8485-0"", ""size"": 57313}",35-gt.pdf,Glossed text,,,1,application/pdf,35,1
+79,"{""mimetype"": ""application/pdf"", ""original"": ""48_gt.pdf"", ""objid"": ""EAEA0-5738-22E4-18BC-0"", ""size"": 73699}",48-gt.pdf,Glossed text,,,1,application/pdf,48,1
+103,"{""mimetype"": ""application/pdf"", ""original"": ""62_gt.pdf"", ""objid"": ""EAEA0-8D7B-BDCF-3D0D-0"", ""size"": 72985}",62-gt.pdf,Glossed text,,,1,application/pdf,62,1
+125,"{""mimetype"": ""audio/mpeg"", ""original"": ""75_gt.mp3"", ""objid"": ""EAEA0-F017-65B4-5BF1-0"", ""size"": 2740093}",75-gt.mp3,Glossed text audio,,,1,audio/mpeg,75,1
+108,"{""mimetype"": ""application/pdf"", ""original"": ""65_gt.pdf"", ""objid"": ""EAEA0-4A02-6FED-6382-0"", ""size"": 51883}",65-gt.pdf,Glossed text,,,1,application/pdf,65,1
+92,"{""mimetype"": ""audio/mpeg"", ""original"": ""55_gt.mp3"", ""objid"": ""EAEA0-7BA9-1923-57AC-0"", ""size"": 2023424}",55-gt.mp3,Glossed text audio,,,1,audio/mpeg,55,1
+74,"{""mimetype"": ""audio/mpeg"", ""original"": ""45_gt.mp3"", ""objid"": ""EAEA0-2476-7C34-DC94-0"", ""size"": 1439477}",45-gt.mp3,Glossed text audio,,,1,audio/mpeg,45,1
+72,"{""mimetype"": ""audio/mpeg"", ""original"": ""44_gt.mp3"", ""objid"": ""EAEA0-5011-D4D4-6699-0"", ""size"": 866873}",44-gt.mp3,Glossed text audio,,,1,audio/mpeg,44,1
+70,"{""mimetype"": ""application/pdf"", ""original"": ""43_gt.pdf"", ""objid"": ""EAEA0-2564-62A6-E107-0"", ""size"": 65461}",43-gt.pdf,Glossed text,,,1,application/pdf,43,1
+69,"{""mimetype"": ""audio/mpeg"", ""original"": ""42_gt.mp3"", ""objid"": ""EAEA0-9B85-6443-C682-0"", ""size"": 7322677}",42-gt.mp3,Glossed text audio,,,1,audio/mpeg,42,1
+67,"{""mimetype"": ""audio/mpeg"", ""original"": ""41_gt.mp3"", ""objid"": ""EAEA0-1CB0-06AF-55DD-0"", ""size"": 876544}",41-gt.mp3,Glossed text audio,,,1,audio/mpeg,41,1
+65,"{""mimetype"": ""audio/mpeg"", ""original"": ""40_gt.mp3"", ""objid"": ""EAEA0-4559-E978-D103-0"", ""size"": 990244}",40-gt.mp3,Glossed text audio,,,1,audio/mpeg,40,1
+63,"{""mimetype"": ""application/pdf"", ""original"": ""39_gt.pdf"", ""objid"": ""EAEA0-84F8-5EAE-67DE-0"", ""size"": 76600}",39-gt.pdf,Glossed text,,,1,application/pdf,39,1
+62,"{""mimetype"": ""application/pdf"", ""original"": ""38_gt.pdf"", ""objid"": ""EAEA0-B0B9-790D-6A4D-0"", ""size"": 52540}",38-gt.pdf,Glossed text,,,1,application/pdf,38,1
+61,"{""mimetype"": ""audio/mpeg"", ""original"": ""37_gt.mp3"", ""objid"": ""EAEA0-7128-6A3F-3A49-0"", ""size"": 337535}",37-gt.mp3,Glossed text audio,,,1,audio/mpeg,37,1
+59,"{""mimetype"": ""audio/mpeg"", ""original"": ""36_gt.mp3"", ""objid"": ""EAEA0-657C-15B3-C77E-0"", ""size"": 358015}",36-gt.mp3,Glossed text audio,,,1,audio/mpeg,36,1
+57,"{""mimetype"": ""audio/mpeg"", ""original"": ""35_gt.mp3"", ""objid"": ""EAEA0-7D6D-0953-8485-0"", ""size"": 1602906}",35-gt.mp3,Glossed text audio,,,1,audio/mpeg,35,1
+55,"{""mimetype"": ""audio/mpeg"", ""original"": ""34_gt.mp3"", ""objid"": ""EAEA0-43FC-F459-7F28-0"", ""size"": 3881829}",34-gt.mp3,Glossed text audio,,,1,audio/mpeg,34,1
+53,"{""mimetype"": ""audio/mpeg"", ""original"": ""33_gt.mp3"", ""objid"": ""EAEA0-65AB-ED2B-0A34-0"", ""size"": 4655053}",33-gt.mp3,Glossed text audio,,,1,audio/mpeg,33,1
+51,"{""mimetype"": ""audio/mpeg"", ""original"": ""32_gt.mp3"", ""objid"": ""EAEA0-CF1D-BC9D-57F5-0"", ""size"": 3469152}",32-gt.mp3,Glossed text audio,,,1,audio/mpeg,32,1
+49,"{""mimetype"": ""application/pdf"", ""original"": ""31_gt.pdf"", ""objid"": ""EAEA0-B86B-35E9-90AF-0"", ""size"": 56029}",31-gt.pdf,Glossed text,,,1,application/pdf,31,1
+48,"{""mimetype"": ""audio/mpeg"", ""original"": ""30_gt.mp3"", ""objid"": ""EAEA0-A634-85C0-2D7B-0"", ""size"": 2754384}",30-gt.mp3,Glossed text audio,,,1,audio/mpeg,30,1
+46,"{""mimetype"": ""application/pdf"", ""original"": ""29_gt.pdf"", ""objid"": ""EAEA0-5904-B53C-DD7D-0"", ""size"": 88514}",29-gt.pdf,Glossed text,,,1,application/pdf,29,1
+45,"{""mimetype"": ""application/pdf"", ""original"": ""28_gt.pdf"", ""objid"": ""EAEA0-3220-83D9-1D4C-0"", ""size"": 76676}",28-gt.pdf,Glossed text,,,1,application/pdf,28,1
+44,"{""mimetype"": ""application/pdf"", ""original"": ""27_gt.pdf"", ""objid"": ""EAEA0-B6DD-0D82-8C5F-0"", ""size"": 91012}",27-gt.pdf,Glossed text,,,1,application/pdf,27,1
+43,"{""mimetype"": ""audio/mpeg"", ""original"": ""26_gt.mp3"", ""objid"": ""EAEA0-7B89-0EA2-EB8A-0"", ""size"": 1782594}",26-gt.mp3,Glossed text audio,,,1,audio/mpeg,26,1
+41,"{""mimetype"": ""audio/mpeg"", ""original"": ""25_gt.mp3"", ""objid"": ""EAEA0-2D91-916D-CC5D-0"", ""size"": 495314}",25-gt.mp3,Glossed text audio,,,1,audio/mpeg,25,1
+39,"{""mimetype"": ""application/pdf"", ""original"": ""24_gt.pdf"", ""objid"": ""EAEA0-B214-2D4B-7ABF-0"", ""size"": 46303}",24-gt.pdf,Glossed text,,,1,application/pdf,24,1
+38,"{""mimetype"": ""audio/mpeg"", ""original"": ""23_gt.mp3"", ""objid"": ""EAEA0-82AD-E503-DB1A-0"", ""size"": 262}",23-gt.mp3,Glossed text audio,,,1,audio/mpeg,23,1
+36,"{""mimetype"": ""audio/mpeg"", ""original"": ""22_gt.mp3"", ""objid"": ""EAEA0-4CA6-8542-A148-0"", ""size"": 1347648}",22-gt.mp3,Glossed text audio,,,1,audio/mpeg,22,1
+34,"{""mimetype"": ""application/pdf"", ""original"": ""20_gt.pdf"", ""objid"": ""EAEA0-6100-139B-1AAD-0"", ""size"": 62792}",20-gt.pdf,Glossed text,,,1,application/pdf,20,1
+33,"{""mimetype"": ""audio/mpeg"", ""original"": ""19_gt.mp3"", ""objid"": ""EAEA0-41D7-B3F4-A080-0"", ""size"": 806454}",19-gt.mp3,Glossed text audio,,,1,audio/mpeg,19,1
+31,"{""mimetype"": ""audio/mpeg"", ""original"": ""18_gt.mp3"", ""objid"": ""EAEA0-FA0D-34A4-432A-0"", ""size"": 2455543}",18-gt.mp3,Glossed text audio,,,1,audio/mpeg,18,1
+29,"{""mimetype"": ""audio/mpeg"", ""original"": ""17_gt.mp3"", ""objid"": ""EAEA0-2E17-9925-8EC9-0"", ""size"": 728326}",17-gt.mp3,Glossed text audio,,,1,audio/mpeg,17,1
+27,"{""mimetype"": ""audio/mpeg"", ""original"": ""16_gt.mp3"", ""objid"": ""EAEA0-CA39-12B4-3C15-0"", ""size"": 955502}",16-gt.mp3,Glossed text audio,,,1,audio/mpeg,16,1
+25,"{""mimetype"": ""audio/mpeg"", ""original"": ""15_gt.mp3"", ""objid"": ""EAEA0-0D65-917F-6395-0"", ""size"": 2269962}",15-gt.mp3,Glossed text audio,,,1,audio/mpeg,15,1
+23,"{""mimetype"": ""audio/mpeg"", ""original"": ""14_gt.mp3"", ""objid"": ""EAEA0-2BEF-BCCD-AEF5-0"", ""size"": 1893733}",14-gt.mp3,Glossed text audio,,,1,audio/mpeg,14,1
+21,"{""mimetype"": ""audio/mpeg"", ""original"": ""13_gt.mp3"", ""objid"": ""EAEA0-FE27-4ED1-3332-0"", ""size"": 505330}",13-gt.mp3,Glossed text audio,,,1,audio/mpeg,13,1
+19,"{""mimetype"": ""audio/mpeg"", ""original"": ""12_gt.mp3"", ""objid"": ""EAEA0-CA7F-4AD9-4D30-0"", ""size"": 1678766}",12-gt.mp3,Glossed text audio,,,1,audio/mpeg,12,1
+17,"{""mimetype"": ""audio/mpeg"", ""original"": ""11_gt.mp3"", ""objid"": ""EAEA0-6069-7C12-765E-0"", ""size"": 560516}",11-gt.mp3,Glossed text audio,,,1,audio/mpeg,11,1
+15,"{""mimetype"": ""application/pdf"", ""original"": ""10_gt.pdf"", ""objid"": ""EAEA0-DD53-3548-FE55-0"", ""size"": 65351}",10-gt.pdf,Glossed text,,,1,application/pdf,10,1
+14,"{""mimetype"": ""application/pdf"", ""original"": ""9_gt.pdf"", ""objid"": ""EAEA0-592B-5B36-0AD5-0"", ""size"": 60430}",9-gt.pdf,Glossed text,,,1,application/pdf,9,1
+13,"{""mimetype"": ""audio/mpeg"", ""original"": ""8_gt.mp3"", ""objid"": ""EAEA0-3A35-3650-07D6-0"", ""size"": 5363494}",8-gt.mp3,Glossed text audio,,,1,audio/mpeg,8,1
+11,"{""mimetype"": ""audio/mpeg"", ""original"": ""7_gt.mp3"", ""objid"": ""EAEA0-7756-600B-3E45-0"", ""size"": 4053158}",7-gt.mp3,Glossed text audio,,,1,audio/mpeg,7,1
+9,"{""mimetype"": ""audio/mpeg"", ""original"": ""6_gt.mp3"", ""objid"": ""EAEA0-1DC6-28E5-C84A-0"", ""size"": 90112}",6-gt.mp3,Glossed text audio,,,1,audio/mpeg,6,1
+7,"{""mimetype"": ""application/pdf"", ""original"": ""5_gt.pdf"", ""objid"": ""EAEA0-B62A-6C0F-AAD1-0"", ""size"": 81859}",5-gt.pdf,Glossed text,,,1,application/pdf,5,1
+6,"{""mimetype"": ""audio/mpeg"", ""original"": ""4_gt.mp3"", ""objid"": ""EAEA0-43D4-4263-1F01-0"", ""size"": 1336457}",4-gt.mp3,Glossed text audio,,,1,audio/mpeg,4,1
+4,"{""mimetype"": ""application/pdf"", ""original"": ""3_gt.pdf"", ""objid"": ""EAEA0-FABF-475D-5CFF-0"", ""size"": 56359}",3-gt.pdf,Glossed text,,,1,application/pdf,3,1
+3,"{""mimetype"": ""audio/mpeg"", ""original"": ""2_gt.mp3"", ""objid"": ""EAEA0-A03D-7E7F-35AA-0"", ""size"": 1795970}",2-gt.mp3,Glossed text audio,,,1,audio/mpeg,2,1
+1,"{""mimetype"": ""application/pdf"", ""original"": ""1_gt.pdf"", ""objid"": ""EAEA0-F3F6-F66F-9B1E-0"", ""size"": 50302}",1-gt.pdf,Glossed text,,,1,application/pdf,1,1

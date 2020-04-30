@@ -1,0 +1,1405 @@
+pk,jsondata,id,name,description,markup_description,parameter_pk,number,abbr,version
+1,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",0-1,English-based,,,1,1,English-based,1
+2,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",0-2,French-based,,,1,5,French-based,1
+3,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",0-3,Portuguese-based,,,1,3,Portuguese-based,1
+4,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",0-4,Spanish-based,,,1,4,Spanish-based,1
+5,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",0-5,Arabic-based,,,1,6,Arabic-based,1
+6,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",0-6,Bantu-based,,,1,7,Bantu-based,1
+7,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",0-7,Dutch-based,,,1,2,Dutch-based,1
+8,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",0-8,Malay-based,,,1,8,Malay-based,1
+9,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",0-9,Other-based,,,1,9,Other-based,1
+10,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",1-1,Subject-object-verb (SOV),,,2,2,Subject-object-verb (SOV),1
+11,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",1-2,Subject-verb-object (SVO),,,2,1,Subject-verb-object (SVO),1
+12,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",1-3,Verb-subject-object (VSO),,,2,3,Verb-subject-object (VSO),1
+13,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",1-4,Verb-object-subject (VOS),,,2,4,Verb-object-subject (VOS),1
+14,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",1-5,Object-verb-subject (OVS),,,2,6,Object-verb-subject (OVS),1
+15,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",1-6,Object-subject-verb (OSV),,,2,5,Object-subject-verb (OSV),1
+16,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",2-1,Possessor-possessum,,,3,1,Possessor-possessum,1
+17,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",2-2,Possessum-possessor,,,3,2,Possessum-possessor,1
+18,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",3-1,Modifying adjective precedes noun,,,4,1,Modifying adjective precedes noun,1
+19,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",3-2,Modifying adjective follows noun,,,4,2,Modifying adjective follows noun,1
+20,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",4-1,Postpositions,,,5,2,Postpositions,1
+21,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",4-2,Prepositions,,,5,1,Prepositions,1
+22,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",4-5,Circumpositions,,,5,3,Circumpositions,1
+23,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",5-1,Demonstrative word precedes noun,,,6,1,Demonstrative word precedes noun,1
+24,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",5-2,Demonstrative word follows noun,,,6,2,Demonstrative word follows noun,1
+25,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",5-5,Demonstrative simultaneously before and after noun,,,6,3,Demonstrative before and after noun,1
+26,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",6-1,Numeral precedes noun,,,7,1,Numeral precedes noun,1
+27,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",6-2,Numeral follows noun,,,7,2,Numeral follows noun,1
+28,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",7-1,Relative clause follows noun,,,8,1,Relative clause follows noun,1
+29,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",7-2,Relative clause precedes noun,,,8,2,Relative clause precedes noun,1
+30,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",7-3,Internally-headed relative clause,,,8,3,Internally-headed relative clause,1
+31,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",7-4,Correlative relative clause,,,8,4,Correlative relative clause,1
+32,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",7-5,Adjoined relative clause,,,8,5,Adjoined relative clause,1
+33,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",8-1,Degree word precedes adjective,,,9,1,Degree word precedes adjective,1
+34,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",8-2,Degree word follows adjective,,,9,2,Degree word follows adjective,1
+35,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",8-3,Degree word precedes and follows adjective,,,9,3,Degree word precedes and follows adjective,1
+36,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",9-1,Definite article is preposed,,,10,1,Definite article is preposed,1
+37,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",9-2,Definite article is postposed,,,10,2,Definite article is postposed,1
+38,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",9-3,Definite article is circumposed,,,10,3,Definite article is circumposed,1
+39,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",9-4,The language has no definite article,,,10,4,The language has no definite article,1
+40,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",10-1,Indefinite article is preposed,,,11,1,Indefinite article is preposed,1
+41,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",10-2,Indefinite article is postposed,,,11,2,Indefinite article is postposed,1
+42,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",10-4,The language has no indefinite article,,,11,3,No indefinite article,1
+43,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",11-1,Verb – adverb – object,,,12,1,Verb – adverb – object,1
+44,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",11-2,Adverb – verb – object,,,12,2,Adverb – verb – object,1
+45,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",11-3,Verb – object – adverb,,,12,3,Verb – object – adverb,1
+46,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",11-4,Object – adverb – verb,,,12,4,Object – adverb – verb,1
+47,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",11-5,Adverb – object – verb,,,12,5,Adverb – object – verb,1
+48,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",11-6,Object – verb – adverb,,,12,6,Object – verb – adverb,1
+49,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",12-1,Interrogative phrase initial,,,13,1,Interrogative phrase initial,1
+50,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",12-2,Interrogative phrase not initial,,,13,2,Interrogative phrase not initial,1
+51,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",13-1,No gender distinctions,,,14,1,No gender distinctions,1
+52,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",13-2,In 3rd person singular only,,,14,2,In 3rd person singular only,1
+53,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",13-4,In 3rd person singular and plural only,,,14,3,In 3rd person singular and plural only,1
+54,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",13-6,In 2nd person but not in 3rd person,,,14,4,In 2nd person but not in 3rd person,1
+55,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",14-1,No special dual form,,,15,1,No special dual form,1
+56,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",14-2,Dual form in all three persons,,,15,2,Dual form in all three persons,1
+57,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",14-3,Dual form only in first person,,,15,3,Dual form only in first person,1
+58,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",15-1,No inclusive/exclusive distinction,,,16,1,No inclusive/exclusive distinction,1
+59,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",15-2,Inclusive and exclusive differentiated,,,16,2,Inclusive and exclusive differentiated,1
+60,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",16-1,No person syncretism,,,17,1,No syncretism,1
+61,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",16-2,Syncretism between 1st and 2nd person,,,17,2,1st/2nd person plural syncretism,1
+62,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",16-3,Syncretism between 2nd and 3rd person,,,17,3,2nd/3rd person plural syncretism,1
+63,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",17-1,No dependent person forms,,,18,1,No dependent person forms,1
+64,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",17-2,Only dependent subject forms,,,18,2,Only dependent subject forms,1
+65,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",17-3,Only dependent object forms,,,18,3,Only dependent object forms,1
+66,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",17-4,Dependent subject and object forms,,,18,4,Dependent subject and object forms,1
+67,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",18-1,No pronominal politeness distinction,,,19,1,No politeness distinction,1
+68,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",18-2,Binary pronominal politeness distinction,,,19,2,Binary politeness distinction,1
+69,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",18-3,Multiple pronominal politeness distinction,,,19,3,Multiple politeness distinction,1
+70,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",18-5,Titles used as second person forms,,,19,4,Titles used as second person pronouns,1
+71,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",19-1,All simple words,,,20,1,All simple words,1
+72,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",19-2,One compound expression,,,20,2,One compound expression,1
+73,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",19-3,Two compound expressions,,,20,3,Two compound expressions,1
+74,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",19-4,Three compound expressions,,,20,4,Three compound expressions,1
+75,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",19-5,Four compound expressions,,,20,5,Four compound expressions,1
+76,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",20-1,Singular pronoun overtly conjoined with other conjunct,,,21,1,Pronoun overtly conjoined,1
+77,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",20-2,Inclusory pronoun juxtaposed with subset NP,,,21,2,Inclusory pronoun juxtaposed,1
+78,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",20-3,Inclusory pronoun plus marker plus subset NP,,,21,3,Inclusory pronoun plus marker,1
+79,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",20-4,Inclusory pronoun plus numeral plus subset NP,,,21,4,Inclusory pronoun plus numeral,1
+80,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",20-5,Singular pronoun juxtaposed with other conjunct,,,21,5,Pronoun juxtaposed,1
+81,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",21-1,Interrogative-based indefinites,,,22,1,Interrogative-based indefinites,1
+82,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",21-2,Generic-noun-based indefinites,,,22,2,Generic-noun-based indefinites,1
+83,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",21-3,Special indefinites,,,22,4,Special indefinites,1
+84,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",21-4,Existential construction,,,22,5,Existential construction,1
+85,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",21-5,Old generic-noun-based indefinites continuing somebody/something,,,22,3,Old generic-noun-based indefinites,1
+86,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",22-1,No plural marking,,,23,1,No plural marking,1
+87,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",22-2,Variable plural marking of human nouns,,,23,2,Variable plural marking of human nouns,1
+88,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",22-4,Variable plural marking of human or inanimate nouns,,,23,3,Variable plural marking of all nouns,1
+89,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",22-6,Invariant plural marking,,,23,4,Invariant plural marking,1
+90,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",23-1,Plural is not expressed overtly,,,24,1,Plural is not expressed overtly,1
+91,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",23-2,Plural prefix,,,24,2,Plural prefix,1
+92,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",23-3,Plural suffix,,,24,3,Plural suffix,1
+93,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",23-4,Plural stem change,,,24,4,Plural stem change,1
+94,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",23-5,Plural tone or stress change,,,24,5,Plural tone or stress change,1
+95,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",23-6,Plural reduplication,,,24,6,Plural reduplication,1
+96,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",23-7,Plural word preceding the noun,,,24,7,Plural word preceding the noun,1
+97,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",23-8,Plural word following the noun,,,24,8,Plural word following the noun,1
+98,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",24-1,Associative plural marker identical to additive plural marker,,,25,1,Associative identical to ordinary plural,1
+99,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",24-2,Special associative plural marker identical to 3rd plural pronoun,,,25,2,Associative identical to 3rd plural pronoun,1
+100,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",24-3,Other special associative plural marker,,,25,3,Other special associative plural marker,1
+101,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",24-4,No associative plural marker,,,25,4,No associative plural marker,1
+102,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",25-1,No nominal plural word,,,26,1,No nominal plural word,1
+103,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",25-2,Identity,,,26,2,Identity,1
+104,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",25-3,Differentiation,,,26,3,Differentiation,1
+105,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",25-4,Overlap,,,26,4,Overlap,1
+106,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",26-1,No reduplication,,,27,1,No reduplication,1
+107,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",26-2,Only iconic functions,,,27,2,Only iconic functions,1
+108,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",26-5,Attenuating function,,,27,3,Attenuating function,1
+109,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",26-6,Word-class-changing function,,,27,4,Word-class changing function,1
+110,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",26-8,Attenuating and word-class-changing function,,,27,5,Attenuating and word-class changing function,1
+111,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",27-1,Antidual,,,28,1,Antidual,1
+112,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",27-2,No antidual,,,28,2,No antidual,1
+113,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",28-1,Definite article distinct from demonstratives,,,29,1,Definite article distinct from demonstratives,1
+114,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",28-2,Definite article identical to a demonstrative,,,29,2,Definite article identical to a demonstrative,1
+115,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",28-4,"No definite article, but indefinite article",,,29,3,"No definite article, but indefinite article",1
+116,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",28-5,Neither definite nor indefinite article,,,29,4,Neither definite nor indefinite article,1
+117,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",29-1,Indefinite article distinct from numeral ‘one’,,,30,1,Indefinite article distinct from ‘one’,1
+118,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",29-2,Indefinite article identical to numeral ‘one’,,,30,2,Indefinite article identical to ‘one’,1
+119,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",29-4,"No indefinite article, but definite article",,,30,3,"No indefinite article, but definite article",1
+120,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",29-5,Neither indefinite nor definite article,,,30,4,Neither indefinite nor definite article,1
+121,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",30-1,Language without definite and indefinite article,,,31,1,Language without definite/indefinite article,1
+122,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",30-2,Bare singular noun phrase in languages with definite article,,,31,2,Bare singular NP (with definite article),1
+123,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",30-3,Bare singular noun phrase in languages without definite article,,,31,3,Bare singular NP (without definite article),1
+124,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",30-4,Singular noun phrase with definite article,,,31,4,Singular NP with definite article,1
+125,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",30-5,Bare plural noun phrase in languages with definite article,,,31,5,Bare plural NP (with definite article),1
+126,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",30-6,Bare plural noun phrase in languages without definite article,,,31,6,Bare plural NP (without definite article),1
+127,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",30-7,Plural noun phrase with definite article,,,31,7,Plural NP with definite article,1
+128,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",30-8,Singular noun phrase  with indefinite articles,,,31,8,Singular NP with indefinite article,1
+129,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",30-9,Singular noun phrase with adnominal possessive,,,31,9,Singular NP with adnominal possessive,1
+130,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",31-1,Co-occurrence,,,32,1,Co-occurrence,1
+131,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",31-2,No co-occurrence,,,32,2,No co-occurrence,1
+132,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",31-3,Demonstrative identical to definite article,,,32,3,Demonstrative identical to definite article,1
+133,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",31-4,No definite article exists,,,32,4,No definite article exists,1
+134,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",32-1,Same forms,,,33,1,Same forms,1
+135,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",32-2,Different forms,,,33,2,Different forms,1
+136,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",32-3,"Same stems, different inflectional features",,,33,3,"Same stems, different inflectional features",1
+137,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",33-1,No distance contrast,,,34,1,No distance contrast,1
+138,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",33-2,Two-way contrast,,,34,2,Two-way contrast,1
+139,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",33-3,Three-way contrast,,,34,3,Three-way contrast,1
+140,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",33-4,Four-way contrast,,,34,4,Four-way contrast,1
+141,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",34-1,No special adjacent distributive numerals,,,35,2,No special adjacent distributive numerals,1
+142,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",34-2,Distributivity marked by reduplication,,,35,1,Distributivity marked by reduplication,1
+143,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",35-1,Ordinal numerals do not exist,,,36,1,Ordinals do not exist,1
+144,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",35-2,All ordinal numerals are suppletive,,,36,7,All ordinals suppletive,1
+145,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",35-3,Cardinal and ordinal numerals are identical except for ‘one’ and ‘first’,,,36,2,All ordinals identical except for 'first',1
+146,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",35-4,All ordinal numerals are synchronically derived from cardinal numerals,,,36,3,All ordinals synchronically derived,1
+147,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",35-5,"All ordinal numerals are synchronically derived from cardinal numerals, but ‘first’ may also be suppletive",,,36,4,"'First' suppl. or derived, others derived",1
+148,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",35-6,"'First' is suppletive, all other numerals are synchronically derived from cardinal numerals",,,36,5,"'First' suppletive, others derived",1
+149,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",35-7,"‘First’, ‘second’, or more are suppletive, the others are synchronically derived from cardinal numerals",,,36,6,"'First' etc. suppletive, others derived",1
+150,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",35-8,Other solutions,,,36,8,Other solutions,1
+151,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",36-1,The language has no numeral classifiers,,,37,1,The language has no numeral classifiers,1
+152,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",36-2,The language has numeral classifiers,,,37,2,The language has numeral classifiers,1
+153,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",37-1,Preceding word,,,38,1,Preceding word,1
+154,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",37-2,Following word,,,38,2,Following word,1
+155,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",37-3,Prefix,,,38,5,Prefix,1
+156,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",37-4,Suffix,,,38,6,Suffix,1
+157,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",37-5,Adpositional phrase preceding the possessum,,,38,3,Adpositional phrase preceding the possessum,1
+158,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",37-6,Adpositional phrase following the possessum,,,38,4,Adpositional phrase following the possessum,1
+159,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",38-1,Person-indexing on possessum,,,39,3,Person-indexing on possessum,1
+160,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",38-2,Adpositional or case marking of possessor,,,39,1,Adpositional or case marking of possessor,1
+161,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",38-4,No marking,,,39,2,No marking,1
+162,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",39-1,Identical to dependent pronominal possessor,,,40,1,Identical to dependent pronominal possessor,1
+163,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",39-2,Special preposition plus pronoun,,,40,2,Special preposition plus pronoun,1
+164,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",39-3,Special word plus dependent pronominal possessor,,,40,3,Special word plus dependent possessor,1
+165,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",39-4,Special pronoun form,,,40,4,Special pronoun form,1
+166,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",40-1,No adjective agrees with the noun,,,41,1,No adjective agrees with the noun,1
+167,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",40-2,Only few adjectives agree with the noun,,,41,2,Only few adjectives agree with the noun,1
+168,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",40-3,Many adjectives agree with the noun,,,41,3,Many adjectives agree with the noun,1
+169,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",40-4,All adjectives agree with the noun,,,41,4,All adjectives agree with the noun,1
+170,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",41-1,Adjective is marked,,,42,1,Adjective is marked,1
+171,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",41-2,Adjective is not marked,,,42,2,Adjective is not marked,1
+172,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",42-1,Secondary surpass marking,,,43,2,Secondary surpass marking,1
+173,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",42-2,Particle marking,,,43,4,Particle marking,1
+174,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",42-3,Locational marking,,,43,3,Locational marking,1
+175,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",42-4,Conjoined marking,,,43,7,Conjoined marking,1
+176,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",42-5,Standard is not overtly marked,,,43,6,Standard is not overtly marked,1
+177,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",42-7,Primary surpass marking,,,43,1,Primary surpass marking,1
+178,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",42-8,Locational plus particle marking,,,43,5,Locational plus particle marking,1
+179,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",43-1,Immediately preceding the verb,,,44,1,Immediately preceding the verb,1
+180,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",43-2,Immediately following the verb,,,44,2,Immediately following the verb,1
+181,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",43-3,In a leftward position,,,44,3,In a leftward position,1
+182,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",43-4,In a rightward position,,,44,4,In a rightward position,1
+183,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",43-5,No TAM markers,,,44,5,No TAM markers,1
+184,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",44-1,Tense-Mood-Aspect,,,45,1,Tense-Mood-Aspect,1
+185,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",44-2,Tense-Aspect-Mood,,,45,2,Tense-Aspect-Mood,1
+186,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",44-4,Mood-Tense-Aspect,,,45,3,Mood-Tense-Aspect,1
+187,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",44-8,The feature does not apply,,,45,4,The feature does not apply,1
+188,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",45-1,Affix,,,46,1,Affix,1
+189,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",45-2,"Particle, nothing can intervene",,,46,2,"Particle, nothing can intervene",1
+190,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",45-3,"Particle, only grammatical markers can intervene",,,46,3,"Particle, grammatical markers can intervene",1
+191,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",45-4,"Particle, a few lexical items may intervene",,,46,4,"Particle, a few lexical items may intervene",1
+192,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",45-5,"Particle, open-class items may intervene",,,46,5,"Particle, open-class items may intervene",1
+193,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",45-6,No overt past marker exists,,,46,7,No past marker,1
+194,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",45-7,"Particle, clause-second position",,,46,6,"Particle, clause-second position",1
+195,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",46-1,Affix,,,47,1,Affix,1
+196,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",46-2,"Particle, nothing can intervene",,,47,2,"Particle, nothing can intervene",1
+197,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",46-3,"Particle, only grammatical markers can intervene",,,47,3,"Particle, grammatical markers can intervene",1
+198,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",46-4,"Particle, a few lexical items may intervene",,,47,4,"Particle, a few lexical items may intervene",1
+199,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",46-5,"Particle, open-class items may intervene",,,47,5,"Particle, open-class items may intervene",1
+200,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",46-6,No overt progressive marker,,,47,6,No overt progressive marker,1
+201,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",47-1,No overt progressive marker,,,48,1,No overt progressive marker,1
+202,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",47-2,Only progressive function,,,48,2,Only progressive function,1
+203,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",47-3,Progressive and current state,,,48,4,Progressive and current state,1
+204,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",47-4,Progressive and habitual,,,48,3,Progressive and habitual,1
+205,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",47-5,Progressive and future,,,48,5,Progressive and future,1
+206,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",47-6,"Progressive, habitual, and current state",,,48,6,"Progressive, habitual, and current state",1
+207,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",47-8,"Progressive, habitual, and future",,,48,7,"Progressive, habitual, and future",1
+208,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",47-9,"Progressive, habitual, current state, and future",,,48,8,"Progressive, habit., current state, and fut.",1
+209,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",48-1,No overt habitual marker,,,49,1,No overt habitual marker,1
+210,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",48-2,Only habitual function,,,49,2,Only habitual function,1
+211,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",48-3,Habitual and current state,,,49,4,Habitual and current state,1
+212,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",48-4,Habitual and progressive,,,49,3,Habitual and progressive,1
+213,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",48-5,Habitual and future,,,49,5,Habitual and future,1
+214,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",48-6,"Habitual, progressive, and current state",,,49,6,"Habitual, progressive, and current state",1
+215,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",48-7,"Habitual, current state, and future",,,49,7,"Habitual, current state, and future",1
+216,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",48-8,"Habitual, progressive and future",,,49,8,"Habitual, progressive, and future",1
+217,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",48-9,"Habitual, progressive, current state, and future",,,49,9,"Habitual, prog., current state, and future",1
+218,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",49-1,Purely aspectual system,,,50,1,Purely aspectual system,1
+219,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",49-2,Purely temporal system,,,50,2,Purely temporal system,1
+220,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",49-3,Mixed aspectual-temporal system,,,50,3,Mixed aspectual-temporal system,1
+221,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",49-4,No or only one tense or aspect marker,,,50,4,No or only one tense or aspect marker,1
+222,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",50-1,Same TAM marking in negated clauses,,,51,1,Same TAM marking in negated clauses,1
+223,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",50-2,Reduced TAM marking in negated clauses,,,51,2,Reduced TAM marking in negated clauses,1
+224,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",50-3,Different TAM marking in negated clauses,,,51,3,Different TAM marking in negated clauses,1
+225,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",50-4,Reduced and different TAM marking in negated clauses,,,51,4,Reduced and different TAM marking,1
+226,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",50-6,No TAM marker,,,51,5,No TAM marker,1
+227,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",51-1,Stative verbs with present reference and dynamic verbs with past perfective reference are marked differently,,,52,3,Stative and dynamic verbs marked differently,1
+228,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",51-3,Stative verbs with present reference and dynamic verbs with past perfective reference are both unmarked,,,52,1,Stative and dynamic verbs both unmarked,1
+229,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",51-6,Stative verbs with present reference and dynamic verbs with past perfective reference are marked with the same overt marker,,,52,2,Stative and dynamic verbs marked the same way,1
+230,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",51-8,The language has no or only one TAM marker,,,52,4,The language has no or only one TAM marker,1
+231,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",52-1,No inchoative meaning with aspect markers,,,53,1,No inchoative meaning with aspect markers,1
+232,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",52-2,Inchoative expressed by progressive marker,,,53,2,Inchoative expressed by progressive marker,1
+233,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",52-3,Inchoative expressed by completive marker,,,53,3,Inchoative expressed by completive marker,1
+234,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",52-4,Inchoative expressed by progressive and completive markers,,,53,4,Inch. expr. by progressive and completive m.,1
+235,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",52-5,No aspect markers,,,53,5,,1
+236,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",53-1,Verb chaining does not exist,,,54,3,Verb chaining does not exist,1
+237,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",53-2,Aspect change in verb chains is possible,,,54,1,Aspect change in verb chains is possible,1
+238,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",53-3,Aspect change in verb chains is not possible,,,54,2,Aspect change in verb chains is not possible,1
+239,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",54-1,Weak suppletion according to tense only,,,55,1,Weak suppletion according to tense only,1
+240,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",54-2,Strong suppletion according to tense only,,,55,2,Strong suppletion according to tense only,1
+241,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",54-3,Weak suppletion according to aspect only,,,55,3,Weak suppletion according to aspect only,1
+242,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",54-4,Strong suppletion according to aspect only,,,55,4,Strong suppletion according to aspect only,1
+243,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",54-6,Strong suppletion according to both tense and aspect,,,55,5,Strong suppletion in to both tense and aspect,1
+244,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",54-7,No suppletion according to tense or aspect,,,55,6,No suppletion according to tense or aspect,1
+286,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",65-5,Rains,,,66,4,Rains,1
+245,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",55-1,Ability verb also expresses epistemic possibility,,,56,1,Ability verb also expresses epist. poss.,1
+246,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",55-2,Ability verb cannot express epistemic possibility,,,56,2,Ability verb cannot express epist. poss.,1
+247,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",55-3,No ability verb,,,56,3,No ability verb,1
+248,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",56-1,Normal imperative construction and normal negator,,,57,1,"Normal imperative, normal negator",1
+249,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",56-2,Normal imperative construction and special negator,,,57,2,"Normal imperative, special negator",1
+250,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",56-3,Special imperative construction and normal negator,,,57,3,"Special imperative, normal negator",1
+251,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",56-4,Special imperative construction and special negator,,,57,4,"Special imperative, special negator",1
+252,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",57-1,No marking of patient NPs,,,58,1,No marking of patient NPs,1
+253,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",57-2,Only definite patient NPs are marked,,,58,2,Only definite patient NPs are marked,1
+254,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",57-3,Only animate patient NPs are marked,,,58,3,Only animate patient NPs are marked,1
+255,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",57-4,Only definite and animate patient NPs are marked,,,58,4,Only definite and animate patients are marked,1
+256,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",57-5,All patient NPs are marked,,,58,5,All patient NPs are marked,1
+257,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",58-1,Neutral alignment,,,59,1,Neutral alignment,1
+258,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",58-2,Accusative alignment,,,59,2,Accusative alignment,1
+259,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",58-4,Ergative alignment,,,59,3,Ergative alignment,1
+260,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",59-1,Neutral alignment,,,60,1,Neutral alignment,1
+261,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",59-2,Accusative alignment,,,60,2,Accusative alignment,1
+262,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",60-1,Indirect-object construction,,,61,2,Indirect-object construction,1
+263,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",60-2,Double-object construction,,,61,1,Double-object construction,1
+264,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",60-3,Secondary-object construction,,,61,3,Secondary-object construction,1
+265,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",61-1,Subject – verb – recipient – theme,,,62,1,Subject – verb – recipient – theme,1
+266,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",61-2,Subject – verb – theme – recipient,,,62,2,Subject – verb – theme – recipient,1
+267,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",61-3,Subject – theme – recipient – verb,,,62,3,Subject – theme – recipient – verb,1
+268,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",61-4,Subject – recipient – theme – verb,,,62,4,Subject – recipient – theme – verb,1
+269,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",61-5,Verb-initial recipient – theme,,,62,5,Verb-initial recipient – theme,1
+270,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",61-6,Verb-initial theme – recipient,,,62,6,Verb-initial theme – recipient,1
+271,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",61-7,Other recipient – theme,,,62,7,Other recipient – theme,1
+272,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",61-8,Other theme – recipient,,,62,8,Other theme – recipient,1
+273,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",62-1,Obligatory pronoun words,,,63,1,Obligatory pronoun words,1
+274,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",62-2,Pronoun affixes,,,63,2,Pronoun affixes,1
+275,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",62-4,Subject pronouns in different position,,,63,4,Subject pronouns in different position,1
+276,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",62-5,Optional pronoun words,,,63,3,Optional pronoun words,1
+277,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",62-6,Mixed behaviour of pronominal subjects,,,63,5,Mixed behaviour of pronominal subjects,1
+278,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",63-1,An expletive subject is used,,,64,1,An expletive subject is used,1
+279,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",63-2,An expletive subject is not used,,,64,2,An expletive subject is not used,1
+280,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",63-3,'There is no 'seem' construction,,,64,3,'There is no 'seem' construction,1
+281,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",64-1,An expletive subject is used,,,65,1,An expletive subject is used,1
+282,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",64-2,An expletive subject is not used,,,65,2,An expletive subject is not used,1
+283,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",65-1,Rain falls,,,66,1,Rain falls,1
+284,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",65-3,Rain rains,,,66,2,Rain rains,1
+285,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",65-4,It rains,,,66,3,It rains,1
+287,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",65-6,Rain exists,,,66,6,Rain exists,1
+288,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",65-7,It gives rain,,,66,5,It gives rain,1
+289,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",66-1,Experiencer is subject,,,67,1,Experiencer is subject,1
+290,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",66-2,Pain is subject,,,67,3,Pain is subject,1
+291,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",66-3,Body-part is subject,,,67,2,Body-part is subject,1
+292,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",66-5,Experiencer is dative,,,67,4,Experiencer is dative,1
+293,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",66-6,Incorporated body-part noun,,,67,5,Incorporated body-part noun,1
+294,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",67-1,Experiencer is subject,,,68,1,Experiencer is subject,1
+295,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",67-2,Experiencer is object,,,68,2,Experiencer is object,1
+296,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",67-5,Both experiencer and stimulus are objects,,,68,4,Experiencer and stimulus are objects,1
+297,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",67-6,Experiencer is dative,,,68,3,Experiencer is dative,1
+298,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",68-1,"Experiencer is subject, 'fear' is verbal",,,69,1,"Experiencer is subject, 'fear' is verbal",1
+299,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",68-2,"Experiencer is subject, 'fear' is non-verbal",,,69,2,"Experiencer is subject, 'fear' is non-verbal",1
+300,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",68-3,"'Fear' is subject, experiencer is object",,,69,3,"'Fear' is subject, experiencer is object",1
+301,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",68-4,"'Fear' is subject, experiencer is oblique",,,69,5,"'Fear' is subject, experiencer is oblique",1
+302,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",68-5,Body-part is subject,,,69,6,Body-part is subject,1
+303,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",68-7,Experiencer is dative,,,69,4,Experiencer is dative,1
+304,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",69-1,Adposition,,,70,1,Adposition,1
+305,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",69-2,Serial verb,,,70,2,Serial verb,1
+306,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",69-3,Case marker,,,70,5,Case marker,1
+307,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",69-4,Unmarked noun phrase,,,70,4,Unmarked noun phrase,1
+308,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",69-5,Non-serial verb,,,70,3,Non-serial verb,1
+309,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",70-1,Identity,,,71,1,Identity,1
+310,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",70-2,Differentiation,,,71,2,Differentiation,1
+311,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",70-3,Overlap,,,71,3,Overlap,1
+312,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",71-1,Identity,,,72,1,Identity,1
+313,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",71-2,Differentiation,,,72,2,Differentiation,1
+314,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",71-3,Overlap,,,72,3,Overlap,1
+315,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",72-1,"Identity, overtly expressed",,,73,1,"Identity, overtly expressed",1
+316,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",72-2,"Identity, expressed by juxtaposition",,,73,2,"Identity, expressed by juxtaposition",1
+317,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",72-3,Differentiation,,,73,3,Differentiation,1
+318,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",72-4,Overlap,,,73,4,Overlap,1
+319,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",72-5,Identity and differentiation,,,73,5,Identity and differentiation,1
+320,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",73-1,Invariant copula,,,74,1,Invariant copula,1
+321,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",73-2,No copula,,,74,2,No copula,1
+322,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",73-3,Variable copula,,,74,3,Variable copula,1
+323,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",74-1,Invariant copula,,,75,1,Invariant copula,1
+324,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",74-2,No copula,,,75,2,No copula,1
+325,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",74-3,Variable copula,,,75,3,Variable copula,1
+326,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",75-1,Invariant copula,,,76,1,Invariant copula,1
+327,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",75-2,No copula,,,76,2,No copula,1
+328,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",75-3,Variable copula,,,76,3,Variable copula,1
+329,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",76-1,Identity,,,77,1,Identity,1
+330,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",76-2,Differentiation,,,77,2,Differentiation,1
+331,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",76-3,Overlap,,,77,3,Overlap,1
+332,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",76-4,Identity and differentiation,,,77,4,Identity and differentiation,1
+333,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",77-1,Transitive,,,78,1,Transitive,1
+334,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",77-2,Locational,,,78,3,Locational,1
+335,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",77-3,Genitive,,,78,4,Genitive,1
+336,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",77-4,Comitative,,,78,2,Comitative,1
+337,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",77-5,Topic,,,78,5,Topic,1
+338,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",78-1,Identity,,,79,1,Identity,1
+339,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",78-2,Differentiation,,,79,2,Differentiation,1
+340,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",78-3,Overlap,,,79,3,Overlap,1
+341,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",78-5,No transitive possession verb,,,79,4,No transitive possession verb,1
+342,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",79-1,No adpositional/case marking,,,80,1,No adpositional/case marking,1
+343,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",79-2,Preposition,,,80,2,Preposition,1
+344,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",79-3,Postpostion,,,80,3,Postposition,1
+345,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",79-4,Circumposition,,,80,4,Circumposition,1
+346,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",79-5,Serial verb,,,80,5,Serial verb,1
+347,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",79-6,Serial verb plus preposition,,,80,6,Serial verb plus preposition,1
+348,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",79-7,Case,,,80,7,Case,1
+349,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",80-1,No adpositional/case marking,,,81,1,No adpositional/case marking,1
+350,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",80-2,Preposition,,,81,2,Preposition,1
+351,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",80-3,Postposition,,,81,3,Postposition,1
+352,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",80-4,Circumposition,,,81,4,Circumposition,1
+353,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",80-5,Serial verb,,,81,5,Serial verb,1
+354,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",80-6,Serial verb plus preposition,,,81,6,Serial verb plus preposition,1
+355,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",80-7,Case,,,81,7,Case,1
+356,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",81-1,Identity,,,82,1,Identity,1
+357,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",81-2,Differentiation,,,82,2,Differentiation,1
+358,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",81-3,Overlap,,,82,3,Overlap,1
+359,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",81-4,Identity and differentiation,,,82,4,Identity and differentiation,1
+360,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",82-1,Special motion-to preposition,,,83,1,Special motion-to preposition,1
+361,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",82-2,At-rest marking is used to express motion-to,,,83,2,At-rest marking is used to express motion-to,1
+362,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",82-3,Serial verb construction,,,83,3,Serial verb construction,1
+363,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",82-4,Serial verb construction plus preposition,,,83,4,Serial verb construction plus preposition,1
+364,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",82-5,Circumposition,,,83,5,Circumposition,1
+365,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",82-6,Allative case,,,83,6,Allative case,1
+366,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",83-1,Special motion-from adposition,,,84,1,Special motion-from adposition,1
+367,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",83-2,At-rest marking is used to express motion-from,,,84,2,At-rest marking used to express motion-from,1
+368,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",83-3,Serial verb construction,,,84,3,Serial verb construction,1
+369,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",83-4,Serial verb construction plus preposition,,,84,4,Serial verb construction plus preposition,1
+370,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",83-5,Circumposition,,,84,5,Circumposition,1
+371,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",83-6,Ablative case,,,84,6,Ablative case,1
+372,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",84-2,‘Come’ and ‘go’ directionals exist,,,85,1,‘Come’ and ‘go’ directionals exist,1
+373,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",84-3,‘Come’ and ‘go’ directionals do not exist,,,85,2,‘Come’ and ‘go’ directionals do not exist,1
+374,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",85-1,No ‘take’ serials,,,86,5,No ‘take’ serials,1
+375,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",85-2,"Theme of the second verb, literal interpretation possible",,,86,1,"Theme of 2nd verb, literal interpr. possible",1
+376,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",85-3,"Theme of the second verb, literal interpretation impossible",,,86,2,"Theme of 2nd verb, lit. interpr. impossible",1
+416,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",93-2,Relative particle and gap,,,94,2,Relative particle and gap,1
+377,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",85-4,"Instrument of the second verb, with resumptive pronoun",,,86,4,"Instrument of 2nd verb, with res. pron.",1
+378,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",85-5,"Instrument of the second verb, no resumptive pronoun",,,86,3,"Instrument of 2nd verb, no res. pron.",1
+379,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",86-1,"‘Give’ in second position, recipient only",,,87,1,"Second verb, recipient only",1
+380,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",86-2,"‘Give’ in second position, recipient or beneficiary",,,87,2,"Second verb, recipient or beneficiary",1
+381,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",86-3,"‘Give’ in first position, recipient only",,,87,3,"First verb, recipient only",1
+382,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",86-5,No ‘give’ serials exist,,,87,4,No ‘give’ serials exist,1
+383,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",87-1,Ordinary anaphoric pronoun,,,88,1,Ordinary anaphoric pronoun,1
+384,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",87-2,Reflexive pronoun with ‘body’ or body-part,,,88,4,Body-part reflexive pronoun,1
+385,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",87-3,Compound reflexive pronoun with emphasizer,,,88,5,Compound reflexive pronoun with emphasizer,1
+386,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",87-4,Reflexive marking on the verb,,,88,3,Reflexive marking on the verb,1
+387,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",87-6,Implicit expression,,,88,2,Implicit expression,1
+388,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",87-7,Dedicated reflexive pronoun,,,88,6,Dedicated reflexive pronoun,1
+389,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",88-1,Intensifiers and reflexives are identical,,,89,1,Intensifiers and reflexives are identical,1
+390,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",88-2,Intensifiers and reflexives are differentiated,,,89,2,Intensifiers and reflexives are different,1
+391,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",88-3,Intensifiers and reflexives overlap,,,89,3,Intensifiers and reflexives overlap,1
+392,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",88-4,Identical and differentiated,,,89,4,Identical and differentiated,1
+516,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",115-3,Overlap,,,116,3,Overlap,1
+393,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",88-5,No special reflexive pronouns exist,,,89,5,No special reflexive pronouns exist,1
+394,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",89-1,Reciprocal construction identical to reflexive,,,90,1,Reciprocal and reflexive identical,1
+395,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",89-2,Special reciprocal construction based on 'other',,,90,3,Reciprocal construction based on 'other',1
+396,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",89-3,Identical and special reciprocal construction,,,90,2,Identical and special reciprocal construction,1
+397,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",89-4,No reciprocal construction exists,,,90,6,No reciprocal construction exists,1
+398,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",89-5,Other special reciprocal construction,,,90,5,Other special reciprocal construction,1
+399,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",89-6,Special reciprocal construction based on 'companion',,,90,4,Reciprocal construction based on 'companion',1
+400,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",90-1,Typical passive construction,,,91,1,Typical passive construction,1
+401,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",90-2,Absence of passive construction,,,91,4,Absence of passive construction,1
+402,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",90-3,Passive without verbal coding,,,91,2,Passive without verbal marking,1
+403,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",90-4,Other atypical passive construction,,,91,3,Other atypical passive construction,1
+404,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",91-1,Benefactive function and any base,,,92,2,Benefactive function and any base,1
+405,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",91-2,Benefactive function and transitive base,,,92,1,Benefactive function and transitive base,1
+406,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",91-3,Benefactive and other functions,,,92,3,Benefactive and other functions,1
+407,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",91-8,No applicative construction exists,,,92,4,No applicative construction exists,1
+408,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",92-1,Relative pronoun,,,93,1,Relative pronoun,1
+409,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",92-2,Relative particle and gap,,,93,2,Relative particle and gap,1
+410,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",92-3,Relative particle and resumptive pronoun,,,93,3,Relative particle and resumptive pronoun,1
+411,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",92-4,Zero and gap,,,93,4,Zero and gap,1
+412,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",92-5,Zero and resumptive pronoun,,,93,5,Zero and resumptive pronoun,1
+413,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",92-6,Non-reduction,,,93,6,Non-reduction,1
+414,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",92-7,Verbal affix,,,93,7,Verbal affix,1
+415,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",93-1,Relative pronoun,,,94,1,Relative pronoun,1
+417,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",93-3,Relative particle and resumptive pronoun,,,94,3,Relative particle and resumptive pronoun,1
+418,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",93-4,Zero and gap,,,94,4,Zero and gap,1
+419,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",93-5,Zero and resumptive pronoun,,,94,5,Zero and resumptive pronoun,1
+420,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",93-6,Non-reduction,,,94,6,Non-reduction,1
+421,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",93-7,Impossible,,,94,8,Impossible,1
+422,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",93-8,Verbal affix,,,94,7,Verbal affix,1
+423,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",94-1,Relative pronoun with pied-piping,,,95,1,Relative pronoun with pied-piping,1
+424,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",94-2,Relative particle and gap with preposition stranding,,,95,2,Particle and gap with preposition stranding,1
+425,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",94-3,Relative particle and resumptive pronoun,,,95,3,Relative particle and resumptive pronoun,1
+426,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",94-4,Zero and gap with preposition stranding,,,95,4,Zero and gap with preposition stranding,1
+427,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",94-5,Zero and resumptive pronoun,,,95,5,Zero and resumptive pronoun,1
+428,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",94-7,Relative pronoun with resumptive pronoun,,,95,6,Relative pronoun with resumptive pronoun,1
+429,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",94-8,Impossible,,,95,8,Impossible,1
+430,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",94-9,Instrument meaning is left implicit,,,95,7,Instrument meaning is left implicit,1
+431,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",95-1,Complementizer identical to bare ‘say’,,,96,1,Complementizer identical to bare ‘say’,1
+432,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",95-2,Complementizer consists of ‘say’ plus some other marker,,,96,2,Complementizer is ‘say’ plus other marker,1
+615,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",139-4,Does not exist,,,140,4,,1
+433,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",95-3,Complementizer not synchronically related to ‘say’,,,96,3,Complementizer not related to ‘say’,1
+434,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",95-4,No complementizer,,,96,4,No complementizer,1
+435,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",96-1,Complementizer identical to bare ‘say’,,,97,1,Complementizer identical to bare ‘say’,1
+436,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",96-2,Complementizer consists of ‘say’ plus some other marker,,,97,2,Complementizer is ‘say’ plus other marker,1
+437,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",96-3,Complementizer not synchronically related to ‘say’,,,97,3,Complementizer not related to ‘say’,1
+438,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",96-4,No complementizer,,,97,4,No complementizer,1
+439,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",97-1,The complement subject is left implicit,,,98,1,The complement subject is left implicit,1
+440,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",97-2,The complement subject is expressed overtly,,,98,2,The complement subject is expressed overtly,1
+441,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",97-3,Desiderative verbal affix,,,98,3,Desiderative verbal affix,1
+442,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",97-4,Desiderative particle,,,98,4,Desiderative particle,1
+443,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",98-1,Identical complementizer,,,99,1,Identical complementizer,1
+444,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",98-3,Different complementizer,,,99,2,Different complementizer,1
+445,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",98-5,No complementizer,,,99,5,No complementizer,1
+446,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",98-6,Only 'think' complement has a complementizer,,,99,3,Only 'think' complement has a complementizer,1
+447,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",98-7,Only 'want' complement has a complementizer,,,99,4,Only 'want' complement has a complementizer,1
+448,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",99-1,Verb doubling is possible in temporal clauses,,,100,1,Temporal clause verb doubling exists,1
+449,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",99-2,Verb doubling is not possible in temporal clauses,,,100,2,No temporal clause verb doubling,1
+450,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",100-1,Negative affix,,,101,1,Negative affix,1
+451,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",100-3,Negative auxiliary verb,,,101,3,Negative auxiliary verb,1
+452,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",100-4,Negative particle,,,101,2,Negative particle,1
+453,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",100-5,Bipartite negative marker,,,101,4,Bipartite negative marker,1
+454,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",101-1,Before the verb,,,102,1,Before the verb,1
+455,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",101-2,Immediately after the verb,,,102,2,Immediately after the verb,1
+456,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",101-3,After verb plus postverbal object,,,102,3,After verb plus postverbal object,1
+457,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",101-4,"Bipartite, before verb and immediately after",,,102,4,"Bipartite, before verb and immediately after",1
+458,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",101-5,"Bipartite, before verb and after object",,,102,5,"Bipartite, before verb and after object",1
+459,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",101-6,"Bipartite, other possibilities",,,102,6,"Bipartite, other possibilities",1
+460,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",102-1,Co-occurrence with predicate negation,,,103,1,Co-occurrence with predicate negation,1
+461,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",102-3,Preclusion possible with preverbal indefinites,,,103,2,Preclusion possible when preverbal,1
+462,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",102-5,Preclusion possible under other conditions,,,103,3,Preclusion possible otherwise,1
+463,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",102-6,Negative existential construction,,,103,4,Negative existential construction,1
+464,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",103-1,Initial question particle,,,104,3,Initial question particle,1
+465,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",103-2,Final question particle,,,104,4,Final question particle,1
+466,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",103-3,Interrogative verb morphology,,,104,6,Interrogative verb morphology,1
+467,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",103-5,Interrogative word order,,,104,2,Interrogative word order,1
+468,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",103-7,Only interrogative intonation,,,104,1,Only interrogative intonation,1
+469,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",103-8,Question particle in other position,,,104,5,Other question particle,1
+470,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",103-9,A-not-A question,,,104,7,A-not-A question,1
+471,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",104-1,Cleft with copula before focus,,,105,1,Cleft with copula before focus,1
+472,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",104-2,Cleft with copula after focus,,,105,2,Cleft with copula after focus,1
+473,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",104-3,Cleft with focus particle before focus,,,105,3,Cleft with focus particle before focus,1
+474,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",104-4,Cleft with focus particle after focus,,,105,4,Cleft with focus particle after focus,1
+475,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",104-5,Bare cleft (without highlighter),,,105,5,Bare cleft (without highlighter),1
+476,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",104-6,Fronting with particle before focus,,,105,6,Fronting with particle before focus,1
+477,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",104-7,Fronting with particle after focus,,,105,7,Fronting with particle after focus,1
+478,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",104-8,Bare fronting (without particle),,,105,8,Bare fronting (without particle),1
+479,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",104-9,In situ focusing (with particle),,,105,9,In situ focusing (with particle),1
+480,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",105-1,Verb fronted with a copy in the background clause,,,106,2,Verb fronted with copy in background clause,1
+481,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",105-2,Verb reduplicated,,,106,3,Verb reduplicated,1
+482,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",105-3,No verb doubling,,,106,1,No verb doubling,1
+483,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",106-1,Before the focused element,,,107,1,Before the focused element,1
+484,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",106-2,After the focused element,,,107,2,After the focused element,1
+485,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",106-3,Non-adjacent following,,,107,4,Non-adjacent following,1
+486,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",106-4,Non-adjacent preceding,,,107,3,Non-adjacent preceding,1
+487,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",107-1,Optional vocative marker preceding noun,,,108,1,Optional vocative marker preceding noun,1
+488,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",107-2,Optional vocative marker following noun,,,108,2,Optional vocative marker following noun,1
+489,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",107-3,Optional vocative marker in both positions,,,108,3,Optional vocative marker in both positions,1
+490,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",107-4,Obligatory vocative marker preceding noun,,,108,4,Obligatory vocative marker preceding noun,1
+491,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",107-7,No vocative marker,,,108,5,No vocative marker,1
+492,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",108-1,Clicks can express only logical meanings,,,109,3,Only logical meanings,1
+493,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",108-2,Clicks can express only affective meanings,,,109,2,Only affective meanings,1
+494,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",108-3,Both logical and affective meanings,,,109,4,Both logical and affective meanings,1
+495,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",108-4,No para-linguistic clicks,,,109,1,No para-linguistic clicks,1
+496,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",109-1,A word derived from pequenino exists,,,110,1,Pequenino exists,1
+497,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",109-2,A word derived from pequenino does not exist,,,110,2,Pequenino does not exist,1
+498,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",110-1,A savvy word exists,,,111,1,A savvy word exists,1
+499,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",110-2,A savvy word does not exist,,,111,2,A savvy word does not exist,1
+500,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",111-1,Monomorphemic,,,112,1,Monomorphemic,1
+501,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",111-2,Bimorphemic,,,112,2,Bimorphemic,1
+502,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",111-3,Phrase/circumlocution,,,112,3,Phrase/circumlocution,1
+503,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",112-1,Identity,,,113,1,Identity,1
+504,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",112-2,Differentiation,,,113,2,Differentiation,1
+505,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",112-3,Overlap,,,113,3,Overlap,1
+506,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",113-1,Identity,,,114,4,Identity,1
+507,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",113-2,Differentiation,,,114,1,Differentiation,1
+508,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",113-3,Overlap,,,114,3,Overlap,1
+509,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",113-4,Identity and differentiation,,,114,2,Identity and differentiation,1
+510,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",114-1,Identity,,,115,2,Identity,1
+511,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",114-2,Differentiation,,,115,1,Differentiation,1
+512,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",114-3,Overlap,,,115,3,Overlap,1
+513,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",114-4,Identity and differentiation,,,115,4,Identity and differentiation,1
+514,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",115-1,Identity,,,116,2,Identity,1
+515,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",115-2,Differentiation,,,116,1,Differentiation,1
+517,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",115-4,Identity and differentiation,,,116,4,Identity and differentiation,1
+518,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",116-1,Identity,,,117,2,Identity,1
+519,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",116-2,Differentiation,,,117,1,Differentiation,1
+520,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",116-3,Overlap,,,117,3,Overlap,1
+521,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",116-5,Not applicable,,,117,4,,1
+522,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",117-1,Preposed sex-denoting word,,,118,1,Preposed sex-denoting word,1
+523,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",117-2,Postposed sex-denoting word,,,118,2,Postposed sex-denoting word,1
+524,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",117-3,Sex-denoting prefix,,,118,3,Sex-denoting prefix,1
+525,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",117-4,Sex-denoting suffix,,,118,4,Sex-denoting suffix,1
+526,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",117-5,Other,,,118,5,Other,1
+527,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",118-1,Only simple onsets,,,119,1,Only simple onsets,1
+528,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",118-2,Onsets at most moderately complex,,,119,2,Onsets at most moderately complex,1
+529,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",118-3,Onsets may be complex,,,119,3,Onsets may be complex,1
+530,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",119-1,No syllable codas,,,120,1,No syllable codas,1
+531,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",119-2,Only simple codas,,,120,2,Only simple codas,1
+532,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",119-3,Codas at most moderately complex,,,120,3,Codas at most moderately complex,1
+533,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",119-4,Codas may be complex,,,120,4,Codas may be complex,1
+534,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",120-1,No tone distinctions,,,121,1,No tone distinctions,1
+535,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",120-2,Reduced tone system,,,121,2,Reduced tone system,1
+536,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",120-3,"Simple system, for lexical distinctions only",,,121,3,"Simple system, lexical distinctions",1
+537,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",120-5,"Simple tone system, for lexical and grammatical distinctions",,,121,4,"Simple system, lexical and grammatical",1
+538,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",120-8,"Complex tone system, for lexical and grammatical distinctions",,,121,5,"Complex system, lexical and grammatical",1
+539,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",121-1,Two vowel heights,,,122,1,Two vowel heights,1
+540,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",121-2,Three vowel heights,,,122,2,Three vowel heights,1
+541,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",121-3,Four vowel heights,,,122,3,Four vowel heights,1
+542,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",121-4,Five vowel heights,,,122,4,Five vowel heights,1
+543,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",122-1,Present in a prominent way,,,123,1,Present in a prominent way,1
+544,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",122-2,Present in a limited way,,,123,2,Present in a limited way,1
+545,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",122-3,Present only as minor allophones,,,123,3,Present only as minor allophones,1
+546,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",122-4,No nasal vowels exist,,,123,4,No nasal vowels exist,1
+547,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",123-1,[ə] exists as a major allophone,,,124,1,[ə] exists as a major allophone,1
+548,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",123-2,[ə] exists as a minor allophone,,,124,2,[ə] exists as a minor allophone,1
+549,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",123-3,[ə] exists only in loanwords,,,124,3,[ə] exists only in loanwords,1
+550,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",123-4,[ə] does not exist,,,124,4,[ə] does not exist,1
+551,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",124-1,Both [f] and [v] exist as major allophones,,,125,1,Both [f] and [v] exist as major allophones,1
+552,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",124-2,[f] and [v] exist in a limited way,,,125,2,[f] and [v] exist in a limited way,1
+553,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",124-3,Only [f] exists,,,125,3,Only [f] exists,1
+554,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",124-4,Only [v] exists,,,125,4,Only [v] exists,1
+555,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",124-5,Neither [f] nor [v] exists,,,125,5,Neither [f] nor [v] exists,1
+556,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",125-1,Both [ʃ] and [ʒ] exist as major allophones,,,126,1,Both [ʃ] and [ʒ] exist as major allophones,1
+557,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",125-2,[ʃ] and [ʒ] exist in a limited way,,,126,2,[ʃ] and [ʒ] exist in a limited way,1
+558,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",125-3,Only [ʃ] exists,,,126,3,Only [ʃ] exists,1
+559,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",125-4,Neither [ʃ] nor [ʒ] exists,,,126,4,Neither [ʃ] nor [ʒ] exists,1
+560,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",126-1,[z] exists as a major allophone,,,127,1,[z] exists as a major allophone,1
+561,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",126-2,[z] exists as a minor allophone,,,127,2,[z] exists as a minor allophone,1
+562,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",126-3,[z] exists only in loanwords,,,127,3,[z] exists only in loanwords,1
+563,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",126-4,[z] does not exist,,,127,4,[z] does not exist,1
+564,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",127-1,[θ] and [ð] are major allophones,,,128,1,[θ] and [ð] are major allophones,1
+565,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",127-2,[θ] and [ð] are minor allophones,,,128,2,[θ] and [ð] are minor allophones,1
+566,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",127-3,[θ] and [ð] exist only in loanwords,,,128,3,[θ] and [ð] exist only in loanwords,1
+567,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",127-4,"Only [ð] exists, as a minor allophone",,,128,4,"Only [ð] exists, as a minor allophone",1
+568,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",127-5,"Only [θ] exists, in a limited way",,,128,5,"Only [θ] exists, in a limited way",1
+569,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",127-6,Neither [θ] nor [ð] exists,,,128,6,Neither [θ] nor [ð] exists,1
+570,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",128-1,[ɲ] exists as a major allophone,,,129,1,[ɲ] exists as a major allophone,1
+571,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",128-2,[ɲ] exists as a minor allophone,,,129,2,[ɲ] exists as a minor allophone,1
+572,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",128-3,[ɲ] exists only in loanwords,,,129,3,[ɲ] exists only in loanwords,1
+573,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",128-4,[ɲ] does not exist,,,129,4,[ɲ] does not exist,1
+574,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",129-1,Prenasalized segments exist,,,130,1,Prenasalized segments exist,1
+575,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",129-2,No prenasalized segments,,,130,2,No prenasalized segments,1
+576,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",130-1,[h] exists as a major allophone,,,131,1,[h] exists as a major allophone,1
+577,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",130-2,[h] exists as a minor allophone,,,131,2,[h] exists as a minor allophone,1
+578,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",130-3,[h] exists only in loanwords,,,131,3,[h] exists only in loanwords,1
+579,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",130-4,[h] does not exist,,,131,4,[h] does not exist,1
+580,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",131-1,Exists (as a major allophone),,,132,1,,1
+581,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",131-2,Exists only as a minor allophone,,,132,2,,1
+582,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",131-3,Exists only in loanwords,,,132,3,,1
+584,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",132-1,Exists (as a major allophone),,,133,1,,1
+656,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",150-1,Exists (as a major allophone),,,151,1,,1
+585,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",132-2,Exists only as a minor allophone,,,133,2,,1
+586,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",132-3,Exists only in loanwords,,,133,3,,1
+587,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",132-4,Does not exist,,,133,4,,1
+588,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",133-1,Exists (as a major allophone),,,134,1,,1
+589,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",133-2,Exists only as a minor allophone,,,134,2,,1
+592,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",134-1,Exists (as a major allophone),,,135,1,,1
+593,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",134-2,Exists only as a minor allophone,,,135,2,,1
+594,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",134-3,Exists only in loanwords,,,135,3,,1
+595,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",134-4,Does not exist,,,135,4,,1
+597,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",135-2,Exists only as a minor allophone,,,136,2,,1
+601,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",136-2,Exists only as a minor allophone,,,137,2,,1
+604,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",137-1,Exists (as a major allophone),,,138,1,,1
+605,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",137-2,Exists only as a minor allophone,,,138,2,,1
+606,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",137-3,Exists only in loanwords,,,138,3,,1
+607,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",137-4,Does not exist,,,138,4,,1
+608,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",138-1,Exists (as a major allophone),,,139,1,,1
+609,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",138-2,Exists only as a minor allophone,,,139,2,,1
+611,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",138-4,Does not exist,,,139,4,,1
+612,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",139-1,Exists (as a major allophone),,,140,1,,1
+613,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",139-2,Exists only as a minor allophone,,,140,2,,1
+614,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",139-3,Exists only in loanwords,,,140,3,,1
+616,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",140-1,Exists (as a major allophone),,,141,1,,1
+617,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",140-2,Exists only as a minor allophone,,,141,2,,1
+618,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",140-3,Exists only in loanwords,,,141,3,,1
+619,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",140-4,Does not exist,,,141,4,,1
+621,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",141-2,Exists only as a minor allophone,,,142,2,,1
+625,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",142-2,Exists only as a minor allophone,,,143,2,,1
+628,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",143-1,Exists (as a major allophone),,,144,1,,1
+629,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",143-2,Exists only as a minor allophone,,,144,2,,1
+630,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",143-3,Exists only in loanwords,,,144,3,,1
+631,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",143-4,Does not exist,,,144,4,,1
+632,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",144-1,Exists (as a major allophone),,,145,1,,1
+633,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",144-2,Exists only as a minor allophone,,,145,2,,1
+634,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",144-3,Exists only in loanwords,,,145,3,,1
+635,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",144-4,Does not exist,,,145,4,,1
+636,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",145-1,Exists (as a major allophone),,,146,1,,1
+637,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",145-2,Exists only as a minor allophone,,,146,2,,1
+639,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",145-4,Does not exist,,,146,4,,1
+640,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",146-1,Exists (as a major allophone),,,147,1,,1
+641,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",146-2,Exists only as a minor allophone,,,147,2,,1
+643,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",146-4,Does not exist,,,147,4,,1
+644,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",147-1,Exists (as a major allophone),,,148,1,,1
+645,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",147-2,Exists only as a minor allophone,,,148,2,,1
+648,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",148-1,Exists (as a major allophone),,,149,1,,1
+649,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",148-2,Exists only as a minor allophone,,,149,2,,1
+651,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",148-4,Does not exist,,,149,4,,1
+652,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",149-1,Exists (as a major allophone),,,150,1,,1
+653,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",149-2,Exists only as a minor allophone,,,150,2,,1
+655,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",149-4,Does not exist,,,150,4,,1
+660,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",151-1,Exists (as a major allophone),,,152,1,,1
+661,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",151-2,Exists only as a minor allophone,,,152,2,,1
+662,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",151-3,Exists only in loanwords,,,152,3,,1
+663,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",151-4,Does not exist,,,152,4,,1
+664,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",152-1,Exists (as a major allophone),,,153,1,,1
+665,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",152-2,Exists only as a minor allophone,,,153,2,,1
+666,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",152-3,Exists only in loanwords,,,153,3,,1
+667,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",152-4,Does not exist,,,153,4,,1
+668,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",153-1,Exists (as a major allophone),,,154,1,,1
+669,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",153-2,Exists only as a minor allophone,,,154,2,,1
+670,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",153-3,Exists only in loanwords,,,154,3,,1
+671,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",153-4,Does not exist,,,154,4,,1
+672,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",154-1,Exists (as a major allophone),,,155,1,,1
+676,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",155-1,Exists (as a major allophone),,,156,1,,1
+677,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",155-2,Exists only as a minor allophone,,,156,2,,1
+678,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",155-3,Exists only in loanwords,,,156,3,,1
+679,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",155-4,Does not exist,,,156,4,,1
+680,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",156-1,Exists (as a major allophone),,,157,1,,1
+681,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",156-2,Exists only as a minor allophone,,,157,2,,1
+682,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",156-3,Exists only in loanwords,,,157,3,,1
+683,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",156-4,Does not exist,,,157,4,,1
+684,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",157-1,Exists (as a major allophone),,,158,1,,1
+688,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",158-1,Exists (as a major allophone),,,159,1,,1
+689,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",158-2,Exists only as a minor allophone,,,159,2,,1
+690,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",158-3,Exists only in loanwords,,,159,3,,1
+691,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",158-4,Does not exist,,,159,4,,1
+692,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",159-1,Exists (as a major allophone),,,160,1,,1
+694,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",159-3,Exists only in loanwords,,,160,3,,1
+695,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",159-4,Does not exist,,,160,4,,1
+696,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",160-1,Exists (as a major allophone),,,161,1,,1
+697,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",160-2,Exists only as a minor allophone,,,161,2,,1
+699,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",160-4,Does not exist,,,161,4,,1
+701,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",161-2,Exists only as a minor allophone,,,162,2,,1
+702,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",161-3,Exists only in loanwords,,,162,3,,1
+703,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",161-4,Does not exist,,,162,4,,1
+706,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",162-3,Exists only in loanwords,,,163,3,,1
+708,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",163-1,Exists (as a major allophone),,,164,1,,1
+709,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",163-2,Exists only as a minor allophone,,,164,2,,1
+710,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",163-3,Exists only in loanwords,,,164,3,,1
+711,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",163-4,Does not exist,,,164,4,,1
+713,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",164-2,Exists only as a minor allophone,,,165,2,,1
+718,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",165-3,Exists only in loanwords,,,166,3,,1
+721,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",166-2,Exists only as a minor allophone,,,167,2,,1
+725,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",167-2,Exists only as a minor allophone,,,168,2,,1
+728,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",168-1,Exists (as a major allophone),,,169,1,,1
+729,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",168-2,Exists only as a minor allophone,,,169,2,,1
+731,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",168-4,Does not exist,,,169,4,,1
+732,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",169-1,Exists (as a major allophone),,,170,1,,1
+733,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",169-2,Exists only as a minor allophone,,,170,2,,1
+735,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",169-4,Does not exist,,,170,4,,1
+736,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",170-1,Exists (as a major allophone),,,171,1,,1
+739,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",170-4,Does not exist,,,171,4,,1
+740,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",171-1,Exists (as a major allophone),,,172,1,,1
+743,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",171-4,Does not exist,,,172,4,,1
+744,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",172-1,Exists (as a major allophone),,,173,1,,1
+745,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",172-2,Exists only as a minor allophone,,,173,2,,1
+747,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",172-4,Does not exist,,,173,4,,1
+748,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",173-1,Exists (as a major allophone),,,174,1,,1
+749,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",173-2,Exists only as a minor allophone,,,174,2,,1
+751,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",173-4,Does not exist,,,174,4,,1
+752,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",174-1,Exists (as a major allophone),,,175,1,,1
+755,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",174-4,Does not exist,,,175,4,,1
+756,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",175-1,Exists (as a major allophone),,,176,1,,1
+760,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",176-1,Exists (as a major allophone),,,177,1,,1
+761,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",176-2,Exists only as a minor allophone,,,177,2,,1
+762,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",176-3,Exists only in loanwords,,,177,3,,1
+763,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",176-4,Does not exist,,,177,4,,1
+764,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",177-1,Exists (as a major allophone),,,178,1,,1
+768,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",178-1,Exists (as a major allophone),,,179,1,,1
+772,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",179-1,Exists (as a major allophone),,,180,1,,1
+776,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",180-1,Exists (as a major allophone),,,181,1,,1
+777,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",180-2,Exists only as a minor allophone,,,181,2,,1
+778,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",180-3,Exists only in loanwords,,,181,3,,1
+779,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",180-4,Does not exist,,,181,4,,1
+780,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",181-1,Exists (as a major allophone),,,182,1,,1
+781,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",181-2,Exists only as a minor allophone,,,182,2,,1
+782,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",181-3,Exists only in loanwords,,,182,3,,1
+783,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",181-4,Does not exist,,,182,4,,1
+784,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",182-1,Exists (as a major allophone),,,183,1,,1
+785,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",182-2,Exists only as a minor allophone,,,183,2,,1
+786,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",182-3,Exists only in loanwords,,,183,3,,1
+787,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",182-4,Does not exist,,,183,4,,1
+788,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",183-1,Exists (as a major allophone),,,184,1,,1
+789,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",183-2,Exists only as a minor allophone,,,184,2,,1
+790,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",183-3,Exists only in loanwords,,,184,3,,1
+791,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",183-4,Does not exist,,,184,4,,1
+792,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",184-1,Exists (as a major allophone),,,185,1,,1
+793,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",184-2,Exists only as a minor allophone,,,185,2,,1
+795,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",184-4,Does not exist,,,185,4,,1
+796,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",185-1,Exists (as a major allophone),,,186,1,,1
+797,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",185-2,Exists only as a minor allophone,,,186,2,,1
+800,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",186-1,Exists (as a major allophone),,,187,1,,1
+804,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",187-1,Exists (as a major allophone),,,188,1,,1
+805,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",187-2,Exists only as a minor allophone,,,188,2,,1
+806,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",187-3,Exists only in loanwords,,,188,3,,1
+807,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",187-4,Does not exist,,,188,4,,1
+808,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",188-1,Exists (as a major allophone),,,189,1,,1
+809,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",188-2,Exists only as a minor allophone,,,189,2,,1
+811,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",188-4,Does not exist,,,189,4,,1
+812,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",189-1,Exists (as a major allophone),,,190,1,,1
+813,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",189-2,Exists only as a minor allophone,,,190,2,,1
+814,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",189-3,Exists only in loanwords,,,190,3,,1
+815,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",189-4,Does not exist,,,190,4,,1
+816,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",190-1,Exists (as a major allophone),,,191,1,,1
+817,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",190-2,Exists only as a minor allophone,,,191,2,,1
+818,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",190-3,Exists only in loanwords,,,191,3,,1
+819,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",190-4,Does not exist,,,191,4,,1
+820,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",191-1,Exists (as a major allophone),,,192,1,,1
+821,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",191-2,Exists only as a minor allophone,,,192,2,,1
+822,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",191-3,Exists only in loanwords,,,192,3,,1
+823,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",191-4,Does not exist,,,192,4,,1
+824,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",192-1,Exists (as a major allophone),,,193,1,,1
+825,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",192-2,Exists only as a minor allophone,,,193,2,,1
+826,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",192-3,Exists only in loanwords,,,193,3,,1
+827,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",192-4,Does not exist,,,193,4,,1
+828,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",193-1,Exists (as a major allophone),,,194,1,,1
+829,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",193-2,Exists only as a minor allophone,,,194,2,,1
+830,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",193-3,Exists only in loanwords,,,194,3,,1
+832,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",194-1,Exists (as a major allophone),,,195,1,,1
+833,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",194-2,Exists only as a minor allophone,,,195,2,,1
+834,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",194-3,Exists only in loanwords,,,195,3,,1
+835,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",194-4,Does not exist,,,195,4,,1
+836,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",195-1,Exists (as a major allophone),,,196,1,,1
+837,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",195-2,Exists only as a minor allophone,,,196,2,,1
+838,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",195-3,Exists only in loanwords,,,196,3,,1
+839,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",195-4,Does not exist,,,196,4,,1
+840,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",196-1,Exists (as a major allophone),,,197,1,,1
+841,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",196-2,Exists only as a minor allophone,,,197,2,,1
+842,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",196-3,Exists only in loanwords,,,197,3,,1
+843,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",196-4,Does not exist,,,197,4,,1
+845,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",197-2,Exists only as a minor allophone,,,198,2,,1
+849,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",198-2,Exists only as a minor allophone,,,199,2,,1
+852,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",199-1,Exists (as a major allophone),,,200,1,,1
+853,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",199-2,Exists only as a minor allophone,,,200,2,,1
+854,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",199-3,Exists only in loanwords,,,200,3,,1
+855,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",199-4,Does not exist,,,200,4,,1
+856,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",200-1,Exists (as a major allophone),,,201,1,,1
+859,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",200-4,Does not exist,,,201,4,,1
+860,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",201-1,Exists (as a major allophone),,,202,1,,1
+861,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",201-2,Exists only as a minor allophone,,,202,2,,1
+862,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",201-3,Exists only in loanwords,,,202,3,,1
+863,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",201-4,Does not exist,,,202,4,,1
+864,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",202-1,Exists (as a major allophone),,,203,1,,1
+865,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",202-2,Exists only as a minor allophone,,,203,2,,1
+866,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",202-3,Exists only in loanwords,,,203,3,,1
+867,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",202-4,Does not exist,,,203,4,,1
+868,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",203-1,Exists (as a major allophone),,,204,1,,1
+872,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",204-1,Exists (as a major allophone),,,205,1,,1
+874,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",204-3,Exists only in loanwords,,,205,3,,1
+876,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",205-1,Exists (as a major allophone),,,206,1,,1
+877,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",205-2,Exists only as a minor allophone,,,206,2,,1
+878,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",205-3,Exists only in loanwords,,,206,3,,1
+879,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",205-4,Does not exist,,,206,4,,1
+880,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",206-1,Exists (as a major allophone),,,207,1,,1
+885,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",207-2,Exists only as a minor allophone,,,208,2,,1
+890,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",208-3,Exists only in loanwords,,,209,3,,1
+892,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",209-1,Exists (as a major allophone),,,210,1,,1
+895,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",209-4,Does not exist,,,210,4,,1
+896,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",210-1,Exists (as a major allophone),,,211,1,,1
+900,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",211-1,Exists (as a major allophone),,,212,1,,1
+904,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",212-1,Exists (as a major allophone),,,213,1,,1
+905,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",212-2,Exists only as a minor allophone,,,213,2,,1
+907,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",212-4,Does not exist,,,213,4,,1
+908,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",213-1,Exists (as a major allophone),,,214,1,,1
+912,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",214-1,Exists (as a major allophone),,,215,1,,1
+916,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",215-1,Exists (as a major allophone),,,216,1,,1
+917,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",215-2,Exists only as a minor allophone,,,216,2,,1
+921,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",216-2,Exists only as a minor allophone,,,217,2,,1
+924,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",217-1,Exists (as a major allophone),,,218,1,,1
+925,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",217-2,Exists only as a minor allophone,,,218,2,,1
+926,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",217-3,Exists only in loanwords,,,218,3,,1
+927,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",217-4,Does not exist,,,218,4,,1
+928,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",218-1,Exists (as a major allophone),,,219,1,,1
+929,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",218-2,Exists only as a minor allophone,,,219,2,,1
+931,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",218-4,Does not exist,,,219,4,,1
+932,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",219-1,Exists (as a major allophone),,,220,1,,1
+933,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",219-2,Exists only as a minor allophone,,,220,2,,1
+936,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",220-1,Exists (as a major allophone),,,221,1,,1
+937,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",220-2,Exists only as a minor allophone,,,221,2,,1
+940,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",221-1,Exists (as a major allophone),,,222,1,,1
+941,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",221-2,Exists only as a minor allophone,,,222,2,,1
+943,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",221-4,Does not exist,,,222,4,,1
+944,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",222-1,Exists (as a major allophone),,,223,1,,1
+947,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",222-4,Does not exist,,,223,4,,1
+948,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",223-1,Exists (as a major allophone),,,224,1,,1
+952,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",224-1,Exists (as a major allophone),,,225,1,,1
+956,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",225-1,Exists (as a major allophone),,,226,1,,1
+960,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",226-1,Exists (as a major allophone),,,227,1,,1
+964,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",227-1,Exists (as a major allophone),,,228,1,,1
+968,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",228-1,Exists (as a major allophone),,,229,1,,1
+972,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",229-1,Exists (as a major allophone),,,230,1,,1
+976,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",230-1,Exists (as a major allophone),,,231,1,,1
+980,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",231-1,Exists (as a major allophone),,,232,1,,1
+981,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",231-2,Exists only as a minor allophone,,,232,2,,1
+982,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",231-3,Exists only in loanwords,,,232,3,,1
+983,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",231-4,Does not exist,,,232,4,,1
+984,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",232-1,Exists (as a major allophone),,,233,1,,1
+988,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",233-1,Exists (as a major allophone),,,234,1,,1
+992,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",234-1,Exists (as a major allophone),,,235,1,,1
+996,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",235-1,Exists (as a major allophone),,,236,1,,1
+998,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",235-3,Exists only in loanwords,,,236,3,,1
+1000,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",236-1,Exists (as a major allophone),,,237,1,,1
+1004,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",237-1,Exists (as a major allophone),,,238,1,,1
+1008,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",238-1,Exists (as a major allophone),,,239,1,,1
+1012,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",239-1,Exists (as a major allophone),,,240,1,,1
+1014,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",239-3,Exists only in loanwords,,,240,3,,1
+1016,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",240-1,Exists (as a major allophone),,,241,1,,1
+1022,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",241-3,Exists only in loanwords,,,242,3,,1
+1026,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",242-3,Exists only in loanwords,,,243,3,,1
+1028,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",243-1,Exists (as a major allophone),,,244,1,,1
+1029,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",243-2,Exists only as a minor allophone,,,244,2,,1
+1032,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",244-1,Exists (as a major allophone),,,245,1,,1
+1036,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",245-1,Exists (as a major allophone),,,246,1,,1
+1042,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",246-3,Exists only in loanwords,,,247,3,,1
+1044,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",247-1,Exists (as a major allophone),,,248,1,,1
+1048,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",248-1,Exists (as a major allophone),,,249,1,,1
+1052,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",249-1,Exists (as a major allophone),,,250,1,,1
+1056,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",250-1,Exists (as a major allophone),,,251,1,,1
+1060,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",251-1,Exists (as a major allophone),,,252,1,,1
+1064,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",252-1,Exists (as a major allophone),,,253,1,,1
+1065,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",252-2,Exists only as a minor allophone,,,253,2,,1
+1067,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",252-4,Does not exist,,,253,4,,1
+1068,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",253-1,Exists (as a major allophone),,,254,1,,1
+1069,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",253-2,Exists only as a minor allophone,,,254,2,,1
+1071,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",253-4,Does not exist,,,254,4,,1
+1072,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",254-1,Exists (as a major allophone),,,255,1,,1
+1073,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",254-2,Exists only as a minor allophone,,,255,2,,1
+1074,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",254-3,Exists only in loanwords,,,255,3,,1
+1075,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",254-4,Does not exist,,,255,4,,1
+1076,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",255-1,Exists (as a major allophone),,,256,1,,1
+1077,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",255-2,Exists only as a minor allophone,,,256,2,,1
+1078,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",255-3,Exists only in loanwords,,,256,3,,1
+1079,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",255-4,Does not exist,,,256,4,,1
+1080,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",256-1,Exists (as a major allophone),,,257,1,,1
+1081,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",256-2,Exists only as a minor allophone,,,257,2,,1
+1083,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",256-4,Does not exist,,,257,4,,1
+1084,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",257-1,Exists (as a major allophone),,,258,1,,1
+1085,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",257-2,Exists only as a minor allophone,,,258,2,,1
+1087,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",257-4,Does not exist,,,258,4,,1
+1088,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",258-1,Exists (as a major allophone),,,259,1,,1
+1089,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",258-2,Exists only as a minor allophone,,,259,2,,1
+1090,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",258-3,Exists only in loanwords,,,259,3,,1
+1091,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",258-4,Does not exist,,,259,4,,1
+1092,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",259-1,Exists (as a major allophone),,,260,1,,1
+1093,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",259-2,Exists only as a minor allophone,,,260,2,,1
+1094,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",259-3,Exists only in loanwords,,,260,3,,1
+1095,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",259-4,Does not exist,,,260,4,,1
+1096,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",260-1,Exists (as a major allophone),,,261,1,,1
+1097,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",260-2,Exists only as a minor allophone,,,261,2,,1
+1099,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",260-4,Does not exist,,,261,4,,1
+1100,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",261-1,Exists (as a major allophone),,,262,1,,1
+1101,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",261-2,Exists only as a minor allophone,,,262,2,,1
+1103,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",261-4,Does not exist,,,262,4,,1
+1105,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",262-2,Exists only as a minor allophone,,,263,2,,1
+1108,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",263-1,Exists (as a major allophone),,,264,1,,1
+1109,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",263-2,Exists only as a minor allophone,,,264,2,,1
+1111,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",263-4,Does not exist,,,264,4,,1
+1112,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",264-1,Exists (as a major allophone),,,265,1,,1
+1116,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",265-1,Exists (as a major allophone),,,266,1,,1
+1117,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",265-2,Exists only as a minor allophone,,,266,2,,1
+1120,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",266-1,Exists (as a major allophone),,,267,1,,1
+1121,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",266-2,Exists only as a minor allophone,,,267,2,,1
+1124,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",267-1,Exists (as a major allophone),,,268,1,,1
+1125,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",267-2,Exists only as a minor allophone,,,268,2,,1
+1126,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",267-3,Exists only in loanwords,,,268,3,,1
+1127,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",267-4,Does not exist,,,268,4,,1
+1128,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",268-1,Exists (as a major allophone),,,269,1,,1
+1129,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",268-2,Exists only as a minor allophone,,,269,2,,1
+1130,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",268-3,Exists only in loanwords,,,269,3,,1
+1131,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",268-4,Does not exist,,,269,4,,1
+1132,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",269-1,Exists (as a major allophone),,,270,1,,1
+1136,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",270-1,Exists (as a major allophone),,,271,1,,1
+1141,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",271-2,Exists only as a minor allophone,,,272,2,,1
+1144,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",272-1,Exists (as a major allophone),,,273,1,,1
+1145,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",272-2,Exists only as a minor allophone,,,273,2,,1
+1147,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",272-4,Does not exist,,,273,4,,1
+1148,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",273-1,Exists (as a major allophone),,,274,1,,1
+1149,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",273-2,Exists only as a minor allophone,,,274,2,,1
+1150,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",273-3,Exists only in loanwords,,,274,3,,1
+1151,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",273-4,Does not exist,,,274,4,,1
+1152,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",274-1,Exists (as a major allophone),,,275,1,,1
+1153,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",274-2,Exists only as a minor allophone,,,275,2,,1
+1155,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",274-4,Does not exist,,,275,4,,1
+1156,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",275-1,Exists (as a major allophone),,,276,1,,1
+1157,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",275-2,Exists only as a minor allophone,,,276,2,,1
+1159,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",275-4,Does not exist,,,276,4,,1
+1160,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",276-1,Exists (as a major allophone),,,277,1,,1
+1161,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",276-2,Exists only as a minor allophone,,,277,2,,1
+1163,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",276-4,Does not exist,,,277,4,,1
+1165,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",277-2,Exists only as a minor allophone,,,278,2,,1
+1166,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",277-3,Exists only in loanwords,,,278,3,,1
+1167,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",277-4,Does not exist,,,278,4,,1
+1168,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",278-1,Exists (as a major allophone),,,279,1,,1
+1169,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",278-2,Exists only as a minor allophone,,,279,2,,1
+1171,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",278-4,Does not exist,,,279,4,,1
+1172,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",279-1,Exists (as a major allophone),,,280,1,,1
+1173,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",279-2,Exists only as a minor allophone,,,280,2,,1
+1175,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",279-4,Does not exist,,,280,4,,1
+1176,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",280-1,Exists (as a major allophone),,,281,1,,1
+1177,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",280-2,Exists only as a minor allophone,,,281,2,,1
+1179,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",280-4,Does not exist,,,281,4,,1
+1180,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",281-1,Exists (as a major allophone),,,282,1,,1
+1181,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",281-2,Exists only as a minor allophone,,,282,2,,1
+1182,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",281-3,Exists only in loanwords,,,282,3,,1
+1183,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",281-4,Does not exist,,,282,4,,1
+1184,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",282-1,Exists (as a major allophone),,,283,1,,1
+1185,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",282-2,Exists only as a minor allophone,,,283,2,,1
+1187,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",282-4,Does not exist,,,283,4,,1
+1190,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",283-3,Exists only in loanwords,,,284,3,,1
+1193,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",284-2,Exists only as a minor allophone,,,285,2,,1
+1195,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",284-4,Does not exist,,,285,4,,1
+1196,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",285-1,Exists (as a major allophone),,,286,1,,1
+1197,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",285-2,Exists only as a minor allophone,,,286,2,,1
+1199,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",285-4,Does not exist,,,286,4,,1
+1200,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",286-1,Exists (as a major allophone),,,287,1,,1
+1201,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",286-2,Exists only as a minor allophone,,,287,2,,1
+1203,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",286-4,Does not exist,,,287,4,,1
+1204,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",287-1,Exists (as a major allophone),,,288,1,,1
+1205,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",287-2,Exists only as a minor allophone,,,288,2,,1
+1206,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",287-3,Exists only in loanwords,,,288,3,,1
+1207,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",287-4,Does not exist,,,288,4,,1
+1208,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",288-1,Exists (as a major allophone),,,289,1,,1
+1209,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",288-2,Exists only as a minor allophone,,,289,2,,1
+1211,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",288-4,Does not exist,,,289,4,,1
+1212,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",289-1,Exists (as a major allophone),,,290,1,,1
+1213,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",289-2,Exists only as a minor allophone,,,290,2,,1
+1215,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",289-4,Does not exist,,,290,4,,1
+1216,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",290-1,Exists (as a major allophone),,,291,1,,1
+1217,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",290-2,Exists only as a minor allophone,,,291,2,,1
+1219,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",290-4,Does not exist,,,291,4,,1
+1220,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",291-1,Exists (as a major allophone),,,292,1,,1
+1221,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",291-2,Exists only as a minor allophone,,,292,2,,1
+1223,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",291-4,Does not exist,,,292,4,,1
+1224,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",292-1,Exists (as a major allophone),,,293,1,,1
+1228,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",293-1,Exists (as a major allophone),,,294,1,,1
+1233,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",294-2,Exists only as a minor allophone,,,295,2,,1
+1236,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",295-1,Exists (as a major allophone),,,296,1,,1
+1240,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",296-1,Exists (as a major allophone),,,297,1,,1
+1244,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",297-1,Exists (as a major allophone),,,298,1,,1
+1248,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",298-1,Exists (as a major allophone),,,299,1,,1
+1254,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",299-3,Exists only in loanwords,,,300,3,,1
+1256,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",300-1,Exists (as a major allophone),,,301,1,,1
+1260,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",301-1,Exists (as a major allophone),,,302,1,,1
+1264,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",302-1,Exists (as a major allophone),,,303,1,,1
+1268,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",303-1,Exists (as a major allophone),,,304,1,,1
+1271,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",303-4,Does not exist,,,304,4,,1
+1272,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",304-1,Exists (as a major allophone),,,305,1,,1
+1276,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",305-1,Exists (as a major allophone),,,306,1,,1
+1280,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",306-1,Exists (as a major allophone),,,307,1,,1
+1284,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",307-1,Exists (as a major allophone),,,308,1,,1
+1288,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",308-1,English,,,309,1,,1
+1289,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",308-2,French,,,309,2,,1
+1290,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",308-3,Portuguese,,,309,3,,1
+1291,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",308-4,Spanish,,,309,4,,1
+1292,"{""color"": ""800080"", ""icon"": ""pie-100-800080.png""}",308-5,Arabic,,,309,5,,1
+1293,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",308-6,Other,,,309,6,,1
+1294,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",308-7,Dutch,,,309,7,,1
+1295,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",308-8,Malay,,,309,8,,1
+1296,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",308-9,Bantu,,,309,9,,1
+1297,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",309-1,Virtually all,,,310,1,,1
+1298,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",309-2,Most,,,310,2,,1
+1299,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",309-3,Many,,,310,3,,1
+1300,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",309-4,Some,,,310,4,,1
+1301,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",309-5,Virtually none,,,310,5,,1
+1302,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",310-1,Widespread,,,311,1,,1
+1303,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",310-2,Limited,,,311,2,,1
+1304,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",310-3,Absent,,,311,3,,1
+1305,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",310-4,Not applicable (because the language is not a pidgin),,,311,4,,1
+1306,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",311-1,Quickly,,,312,1,,1
+1307,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",311-2,Slowly,,,312,2,,1
+1308,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",311-3,Not at all,,,312,3,,1
+1309,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",312-1,Widespread,,,313,1,,1
+1310,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",312-2,Limited,,,313,2,,1
+1311,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",312-3,Absent,,,313,3,,1
+1312,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",312-4,Not applicable (because the language is not currently spoken),,,313,4,,1
+1313,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",313-1,Less than 100 speakers or extinct,,,314,1,,1
+1314,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",313-2,"Less than 1,000 speakers",,,314,2,,1
+1315,"{""color"": ""FF7F00"", ""icon"": ""pie-100-FF7F00.png""}",313-3,"Less than 10,000 speakers",,,314,3,,1
+1316,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",313-4,"Less than 100,000 speakers",,,314,4,,1
+1317,"{""color"": ""964B00"", ""icon"": ""pie-100-964B00.png""}",313-5,"Less than 1,000,000 speakers",,,314,5,,1
+1318,"{""color"": ""000000"", ""icon"": ""pie-100-000000.png""}",313-6,"More than 1,000,000 speakers",,,314,6,,1
+1319,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",314-1,(Near-) exclusively,,,315,1,,1
+1320,"{""color"": ""ADD8E6"", ""icon"": ""pie-100-ADD8E6.png""}",314-2,Predominantly,,,315,2,,1
+1321,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",314-3,Used to the same extent by both genders,,,315,3,,1
+1322,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",315-1,Widespread,,,316,1,,1
+1323,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",315-2,Limited,,,316,2,,1
+1324,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",315-3,Absent,,,316,3,,1
+1325,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",315-4,Not applicable (because no radio/TV station exists),,,316,4,,1
+1326,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",316-1,Widespread,,,317,1,,1
+1327,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",316-2,Limited,,,317,2,,1
+1328,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",316-3,Absent,,,317,3,,1
+1329,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",316-4,Not applicable (because no radio/TV station exists),,,317,4,,1
+1330,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",317-1,Widespread,,,318,1,,1
+1331,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",317-2,Limited,,,318,2,,1
+1332,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",317-3,Absent,,,318,3,,1
+1333,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",318-1,Widespread,,,319,1,,1
+1334,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",318-2,Limited,,,319,2,,1
+1335,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",318-3,Absent,,,319,3,,1
+1336,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",318-4,Not applicable (because there are virtually no printed works),,,319,4,,1
+1337,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",319-1,Widespread,,,320,1,,1
+1338,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",319-2,Limited,,,320,2,,1
+1339,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",319-3,Absent,,,320,3,,1
+1340,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",319-4,Not applicable (because no newspapers exist),,,320,4,,1
+1341,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",320-1,Widespread,,,321,1,,1
+1342,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",320-2,Limited,,,321,2,,1
+1343,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",320-3,Absent,,,321,3,,1
+1344,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",320-4,Not applicable (because no newspapers exist),,,321,4,,1
+1345,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",321-1,Widespread,,,322,1,,1
+1346,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",321-2,Limited,,,322,2,,1
+1347,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",321-3,Absent,,,322,3,,1
+1348,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",321-4,Not applicable (because there are no such offices in the relevant area),,,322,4,,1
+1349,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",322-1,Widespread,,,323,1,,1
+1350,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",322-2,Limited,,,323,2,,1
+1351,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",322-3,Absent,,,323,3,,1
+1352,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",322-4,Not applicable (because there is no court in the relevant area),,,323,4,,1
+1353,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",323-1,Widespread,,,324,1,,1
+1354,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",323-2,Limited,,,324,2,,1
+1355,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",323-3,Absent,,,324,3,,1
+1356,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",323-4,Not applicable (because no parliament or similar legislative body exists),,,324,4,,1
+1357,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",324-1,Widespread,,,325,1,,1
+1358,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",324-2,Limited,,,325,2,,1
+1359,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",324-3,Absent,,,325,3,,1
+1361,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",325-1,Widespread,,,326,1,,1
+1362,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",325-2,Limited,,,326,2,,1
+1363,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",325-3,Absent,,,326,3,,1
+1364,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",325-4,Not applicable (because there is no access to electronic media in the area),,,326,4,,1
+1365,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",326-1,The main lexifier language,,,327,1,,1
+1366,"{""color"": ""0000FF"", ""icon"": ""pie-100-0000FF.png""}",326-2,A major world language that is not the main lexifier,,,327,2,,1
+1367,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",326-3,A neighbouring language that is neither the main lexifier nor a major world language,,,327,3,,1
+1368,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",326-4,Several different kinds of languages are equally important in terms of contact influence,,,327,4,,1
+1369,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",327-1,Widespread,,,328,1,,1
+1370,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",327-2,Limited,,,328,2,,1
+1371,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",327-3,Absent,,,328,3,,1
+1372,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",327-4,Not applicable (because the language is spoken in a very small area),,,328,4,,1
+1373,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",328-1,Widespread,,,329,1,,1
+1374,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",328-2,Limited,,,329,2,,1
+1375,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",328-3,Absent,,,329,3,,1
+1376,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",328-4,Not applicable (because the language is spoken in a very small area),,,329,4,,1
+1377,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",329-1,Widespread,,,330,1,,1
+1378,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",329-2,Limited,,,330,2,,1
+1379,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",329-3,Absent,,,330,3,,1
+1380,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",329-4,Not applicable (because the language is spoken in a very small area),,,330,4,,1
+1381,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",330-1,Widespread,,,331,1,,1
+1382,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",330-2,Limited,,,331,2,,1
+1383,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",330-3,Absent,,,331,3,,1
+1384,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",330-4,Not applicable (because the language is only spoken in urban or only in rural areas),,,331,4,,1
+1385,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",331-1,Widespread,,,332,1,,1
+1386,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",331-2,Limited,,,332,2,,1
+1387,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",331-3,Absent,,,332,3,,1
+1388,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",331-4,Not applicable (because the language is only spoken in urban or only in rural areas),,,332,4,,1
+1389,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",332-1,Widespread,,,333,1,,1
+1390,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",332-2,Limited,,,333,2,,1
+1391,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",332-3,Absent,,,333,3,,1
+1392,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",332-4,Not applicable (because the language is only spoken in urban or only in rural areas),,,333,4,,1
+1393,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",333-1,Widespread,,,334,1,,1
+1394,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",333-2,Limited,,,334,2,,1
+1395,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",333-3,Absent,,,334,3,,1
+1396,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",333-4,Not applicable (because there is little social stratification),,,334,4,,1
+1397,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",334-1,Widespread,,,335,1,,1
+1398,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",334-2,Limited,,,335,2,,1
+1399,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",334-3,Absent,,,335,3,,1
+1400,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",334-4,Not applicable (because there is little social stratification),,,335,4,,1
+1401,"{""color"": ""FF0000"", ""icon"": ""pie-100-FF0000.png""}",335-1,Widespread,,,336,1,,1
+1402,"{""color"": ""FFFF00"", ""icon"": ""pie-100-FFFF00.png""}",335-2,Limited,,,336,2,,1
+1403,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",335-3,Absent,,,336,3,,1
+1404,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",335-4,Not applicable (because there is little social stratification),,,336,4,,1
+583,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",131-4,Does not exist,,,132,4,,1
+590,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",133-3,Exists only in loanwords,,,134,3,,1
+591,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",133-4,Does not exist,,,134,4,,1
+596,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",135-1,Exists (as a major allophone),,,136,1,,1
+598,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",135-3,Exists only in loanwords,,,136,3,,1
+599,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",135-4,Does not exist,,,136,4,,1
+600,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",136-1,Exists (as a major allophone),,,137,1,,1
+602,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",136-3,Exists only in loanwords,,,137,3,,1
+603,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",136-4,Does not exist,,,137,4,,1
+610,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",138-3,Exists only in loanwords,,,139,3,,1
+620,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",141-1,Exists (as a major allophone),,,142,1,,1
+622,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",141-3,Exists only in loanwords,,,142,3,,1
+623,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",141-4,Does not exist,,,142,4,,1
+624,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",142-1,Exists (as a major allophone),,,143,1,,1
+626,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",142-3,Exists only in loanwords,,,143,3,,1
+627,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",142-4,Does not exist,,,143,4,,1
+638,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",145-3,Exists only in loanwords,,,146,3,,1
+642,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",146-3,Exists only in loanwords,,,147,3,,1
+646,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",147-3,Exists only in loanwords,,,148,3,,1
+647,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",147-4,Does not exist,,,148,4,,1
+650,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",148-3,Exists only in loanwords,,,149,3,,1
+654,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",149-3,Exists only in loanwords,,,150,3,,1
+657,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",150-2,Exists only as a minor allophone,,,151,2,,1
+658,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",150-3,Exists only in loanwords,,,151,3,,1
+659,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",150-4,Does not exist,,,151,4,,1
+673,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",154-2,Exists only as a minor allophone,,,155,2,,1
+674,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",154-3,Exists only in loanwords,,,155,3,,1
+675,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",154-4,Does not exist,,,155,4,,1
+685,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",157-2,Exists only as a minor allophone,,,158,2,,1
+686,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",157-3,Exists only in loanwords,,,158,3,,1
+687,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",157-4,Does not exist,,,158,4,,1
+693,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",159-2,Exists only as a minor allophone,,,160,2,,1
+698,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",160-3,Exists only in loanwords,,,161,3,,1
+700,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",161-1,Exists (as a major allophone),,,162,1,,1
+704,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",162-1,Exists (as a major allophone),,,163,1,,1
+705,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",162-2,Exists only as a minor allophone,,,163,2,,1
+707,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",162-4,Does not exist,,,163,4,,1
+712,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",164-1,Exists (as a major allophone),,,165,1,,1
+714,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",164-3,Exists only in loanwords,,,165,3,,1
+715,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",164-4,Does not exist,,,165,4,,1
+716,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",165-1,Exists (as a major allophone),,,166,1,,1
+717,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",165-2,Exists only as a minor allophone,,,166,2,,1
+719,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",165-4,Does not exist,,,166,4,,1
+720,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",166-1,Exists (as a major allophone),,,167,1,,1
+722,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",166-3,Exists only in loanwords,,,167,3,,1
+723,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",166-4,Does not exist,,,167,4,,1
+724,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",167-1,Exists (as a major allophone),,,168,1,,1
+726,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",167-3,Exists only in loanwords,,,168,3,,1
+727,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",167-4,Does not exist,,,168,4,,1
+730,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",168-3,Exists only in loanwords,,,169,3,,1
+734,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",169-3,Exists only in loanwords,,,170,3,,1
+737,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",170-2,Exists only as a minor allophone,,,171,2,,1
+738,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",170-3,Exists only in loanwords,,,171,3,,1
+741,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",171-2,Exists only as a minor allophone,,,172,2,,1
+742,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",171-3,Exists only in loanwords,,,172,3,,1
+746,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",172-3,Exists only in loanwords,,,173,3,,1
+750,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",173-3,Exists only in loanwords,,,174,3,,1
+753,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",174-2,Exists only as a minor allophone,,,175,2,,1
+754,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",174-3,Exists only in loanwords,,,175,3,,1
+757,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",175-2,Exists only as a minor allophone,,,176,2,,1
+758,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",175-3,Exists only in loanwords,,,176,3,,1
+759,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",175-4,Does not exist,,,176,4,,1
+765,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",177-2,Exists only as a minor allophone,,,178,2,,1
+766,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",177-3,Exists only in loanwords,,,178,3,,1
+767,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",177-4,Does not exist,,,178,4,,1
+769,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",178-2,Exists only as a minor allophone,,,179,2,,1
+770,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",178-3,Exists only in loanwords,,,179,3,,1
+771,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",178-4,Does not exist,,,179,4,,1
+773,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",179-2,Exists only as a minor allophone,,,180,2,,1
+774,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",179-3,Exists only in loanwords,,,180,3,,1
+775,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",179-4,Does not exist,,,180,4,,1
+794,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",184-3,Exists only in loanwords,,,185,3,,1
+798,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",185-3,Exists only in loanwords,,,186,3,,1
+799,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",185-4,Does not exist,,,186,4,,1
+801,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",186-2,Exists only as a minor allophone,,,187,2,,1
+802,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",186-3,Exists only in loanwords,,,187,3,,1
+803,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",186-4,Does not exist,,,187,4,,1
+810,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",188-3,Exists only in loanwords,,,189,3,,1
+831,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",193-4,Does not exist,,,194,4,,1
+844,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",197-1,Exists (as a major allophone),,,198,1,,1
+846,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",197-3,Exists only in loanwords,,,198,3,,1
+847,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",197-4,Does not exist,,,198,4,,1
+848,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",198-1,Exists (as a major allophone),,,199,1,,1
+850,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",198-3,Exists only in loanwords,,,199,3,,1
+851,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",198-4,Does not exist,,,199,4,,1
+857,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",200-2,Exists only as a minor allophone,,,201,2,,1
+858,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",200-3,Exists only in loanwords,,,201,3,,1
+869,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",203-2,Exists only as a minor allophone,,,204,2,,1
+870,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",203-3,Exists only in loanwords,,,204,3,,1
+871,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",203-4,Does not exist,,,204,4,,1
+873,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",204-2,Exists only as a minor allophone,,,205,2,,1
+875,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",204-4,Does not exist,,,205,4,,1
+881,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",206-2,Exists only as a minor allophone,,,207,2,,1
+882,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",206-3,Exists only in loanwords,,,207,3,,1
+883,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",206-4,Does not exist,,,207,4,,1
+884,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",207-1,Exists (as a major allophone),,,208,1,,1
+886,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",207-3,Exists only in loanwords,,,208,3,,1
+887,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",207-4,Does not exist,,,208,4,,1
+888,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",208-1,Exists (as a major allophone),,,209,1,,1
+889,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",208-2,Exists only as a minor allophone,,,209,2,,1
+891,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",208-4,Does not exist,,,209,4,,1
+893,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",209-2,Exists only as a minor allophone,,,210,2,,1
+894,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",209-3,Exists only in loanwords,,,210,3,,1
+897,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",210-2,Exists only as a minor allophone,,,211,2,,1
+898,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",210-3,Exists only in loanwords,,,211,3,,1
+899,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",210-4,Does not exist,,,211,4,,1
+901,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",211-2,Exists only as a minor allophone,,,212,2,,1
+902,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",211-3,Exists only in loanwords,,,212,3,,1
+903,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",211-4,Does not exist,,,212,4,,1
+906,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",212-3,Exists only in loanwords,,,213,3,,1
+909,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",213-2,Exists only as a minor allophone,,,214,2,,1
+910,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",213-3,Exists only in loanwords,,,214,3,,1
+911,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",213-4,Does not exist,,,214,4,,1
+913,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",214-2,Exists only as a minor allophone,,,215,2,,1
+914,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",214-3,Exists only in loanwords,,,215,3,,1
+915,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",214-4,Does not exist,,,215,4,,1
+918,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",215-3,Exists only in loanwords,,,216,3,,1
+919,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",215-4,Does not exist,,,216,4,,1
+920,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",216-1,Exists (as a major allophone),,,217,1,,1
+922,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",216-3,Exists only in loanwords,,,217,3,,1
+923,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",216-4,Does not exist,,,217,4,,1
+930,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",218-3,Exists only in loanwords,,,219,3,,1
+934,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",219-3,Exists only in loanwords,,,220,3,,1
+935,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",219-4,Does not exist,,,220,4,,1
+938,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",220-3,Exists only in loanwords,,,221,3,,1
+939,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",220-4,Does not exist,,,221,4,,1
+942,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",221-3,Exists only in loanwords,,,222,3,,1
+945,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",222-2,Exists only as a minor allophone,,,223,2,,1
+946,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",222-3,Exists only in loanwords,,,223,3,,1
+949,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",223-2,Exists only as a minor allophone,,,224,2,,1
+950,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",223-3,Exists only in loanwords,,,224,3,,1
+951,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",223-4,Does not exist,,,224,4,,1
+953,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",224-2,Exists only as a minor allophone,,,225,2,,1
+954,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",224-3,Exists only in loanwords,,,225,3,,1
+955,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",224-4,Does not exist,,,225,4,,1
+957,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",225-2,Exists only as a minor allophone,,,226,2,,1
+958,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",225-3,Exists only in loanwords,,,226,3,,1
+959,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",225-4,Does not exist,,,226,4,,1
+961,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",226-2,Exists only as a minor allophone,,,227,2,,1
+962,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",226-3,Exists only in loanwords,,,227,3,,1
+963,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",226-4,Does not exist,,,227,4,,1
+965,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",227-2,Exists only as a minor allophone,,,228,2,,1
+966,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",227-3,Exists only in loanwords,,,228,3,,1
+967,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",227-4,Does not exist,,,228,4,,1
+969,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",228-2,Exists only as a minor allophone,,,229,2,,1
+970,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",228-3,Exists only in loanwords,,,229,3,,1
+971,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",228-4,Does not exist,,,229,4,,1
+973,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",229-2,Exists only as a minor allophone,,,230,2,,1
+974,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",229-3,Exists only in loanwords,,,230,3,,1
+975,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",229-4,Does not exist,,,230,4,,1
+977,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",230-2,Exists only as a minor allophone,,,231,2,,1
+978,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",230-3,Exists only in loanwords,,,231,3,,1
+979,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",230-4,Does not exist,,,231,4,,1
+985,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",232-2,Exists only as a minor allophone,,,233,2,,1
+986,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",232-3,Exists only in loanwords,,,233,3,,1
+987,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",232-4,Does not exist,,,233,4,,1
+989,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",233-2,Exists only as a minor allophone,,,234,2,,1
+990,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",233-3,Exists only in loanwords,,,234,3,,1
+991,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",233-4,Does not exist,,,234,4,,1
+993,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",234-2,Exists only as a minor allophone,,,235,2,,1
+994,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",234-3,Exists only in loanwords,,,235,3,,1
+995,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",234-4,Does not exist,,,235,4,,1
+997,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",235-2,Exists only as a minor allophone,,,236,2,,1
+999,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",235-4,Does not exist,,,236,4,,1
+1001,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",236-2,Exists only as a minor allophone,,,237,2,,1
+1002,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",236-3,Exists only in loanwords,,,237,3,,1
+1003,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",236-4,Does not exist,,,237,4,,1
+1005,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",237-2,Exists only as a minor allophone,,,238,2,,1
+1006,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",237-3,Exists only in loanwords,,,238,3,,1
+1007,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",237-4,Does not exist,,,238,4,,1
+1009,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",238-2,Exists only as a minor allophone,,,239,2,,1
+1010,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",238-3,Exists only in loanwords,,,239,3,,1
+1011,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",238-4,Does not exist,,,239,4,,1
+1013,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",239-2,Exists only as a minor allophone,,,240,2,,1
+1015,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",239-4,Does not exist,,,240,4,,1
+1017,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",240-2,Exists only as a minor allophone,,,241,2,,1
+1018,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",240-3,Exists only in loanwords,,,241,3,,1
+1019,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",240-4,Does not exist,,,241,4,,1
+1020,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",241-1,Exists (as a major allophone),,,242,1,,1
+1021,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",241-2,Exists only as a minor allophone,,,242,2,,1
+1023,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",241-4,Does not exist,,,242,4,,1
+1024,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",242-1,Exists (as a major allophone),,,243,1,,1
+1025,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",242-2,Exists only as a minor allophone,,,243,2,,1
+1027,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",242-4,Does not exist,,,243,4,,1
+1030,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",243-3,Exists only in loanwords,,,244,3,,1
+1031,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",243-4,Does not exist,,,244,4,,1
+1033,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",244-2,Exists only as a minor allophone,,,245,2,,1
+1034,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",244-3,Exists only in loanwords,,,245,3,,1
+1035,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",244-4,Does not exist,,,245,4,,1
+1037,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",245-2,Exists only as a minor allophone,,,246,2,,1
+1038,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",245-3,Exists only in loanwords,,,246,3,,1
+1039,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",245-4,Does not exist,,,246,4,,1
+1040,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",246-1,Exists (as a major allophone),,,247,1,,1
+1041,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",246-2,Exists only as a minor allophone,,,247,2,,1
+1043,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",246-4,Does not exist,,,247,4,,1
+1045,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",247-2,Exists only as a minor allophone,,,248,2,,1
+1046,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",247-3,Exists only in loanwords,,,248,3,,1
+1047,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",247-4,Does not exist,,,248,4,,1
+1049,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",248-2,Exists only as a minor allophone,,,249,2,,1
+1050,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",248-3,Exists only in loanwords,,,249,3,,1
+1051,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",248-4,Does not exist,,,249,4,,1
+1053,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",249-2,Exists only as a minor allophone,,,250,2,,1
+1054,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",249-3,Exists only in loanwords,,,250,3,,1
+1055,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",249-4,Does not exist,,,250,4,,1
+1057,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",250-2,Exists only as a minor allophone,,,251,2,,1
+1058,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",250-3,Exists only in loanwords,,,251,3,,1
+1059,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",250-4,Does not exist,,,251,4,,1
+1061,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",251-2,Exists only as a minor allophone,,,252,2,,1
+1062,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",251-3,Exists only in loanwords,,,252,3,,1
+1063,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",251-4,Does not exist,,,252,4,,1
+1066,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",252-3,Exists only in loanwords,,,253,3,,1
+1070,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",253-3,Exists only in loanwords,,,254,3,,1
+1082,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",256-3,Exists only in loanwords,,,257,3,,1
+1086,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",257-3,Exists only in loanwords,,,258,3,,1
+1098,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",260-3,Exists only in loanwords,,,261,3,,1
+1102,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",261-3,Exists only in loanwords,,,262,3,,1
+1104,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",262-1,Exists (as a major allophone),,,263,1,,1
+1106,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",262-3,Exists only in loanwords,,,263,3,,1
+1107,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",262-4,Does not exist,,,263,4,,1
+1110,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",263-3,Exists only in loanwords,,,264,3,,1
+1113,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",264-2,Exists only as a minor allophone,,,265,2,,1
+1114,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",264-3,Exists only in loanwords,,,265,3,,1
+1115,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",264-4,Does not exist,,,265,4,,1
+1118,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",265-3,Exists only in loanwords,,,266,3,,1
+1119,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",265-4,Does not exist,,,266,4,,1
+1122,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",266-3,Exists only in loanwords,,,267,3,,1
+1123,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",266-4,Does not exist,,,267,4,,1
+1133,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",269-2,Exists only as a minor allophone,,,270,2,,1
+1134,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",269-3,Exists only in loanwords,,,270,3,,1
+1135,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",269-4,Does not exist,,,270,4,,1
+1137,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",270-2,Exists only as a minor allophone,,,271,2,,1
+1138,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",270-3,Exists only in loanwords,,,271,3,,1
+1139,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",270-4,Does not exist,,,271,4,,1
+1140,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",271-1,Exists (as a major allophone),,,272,1,,1
+1142,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",271-3,Exists only in loanwords,,,272,3,,1
+1143,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",271-4,Does not exist,,,272,4,,1
+1146,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",272-3,Exists only in loanwords,,,273,3,,1
+1154,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",274-3,Exists only in loanwords,,,275,3,,1
+1158,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",275-3,Exists only in loanwords,,,276,3,,1
+1162,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",276-3,Exists only in loanwords,,,277,3,,1
+1164,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",277-1,Exists (as a major allophone),,,278,1,,1
+1170,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",278-3,Exists only in loanwords,,,279,3,,1
+1174,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",279-3,Exists only in loanwords,,,280,3,,1
+1178,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",280-3,Exists only in loanwords,,,281,3,,1
+1186,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",282-3,Exists only in loanwords,,,283,3,,1
+1188,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",283-1,Exists (as a major allophone),,,284,1,,1
+1189,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",283-2,Exists only as a minor allophone,,,284,2,,1
+1191,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",283-4,Does not exist,,,284,4,,1
+1192,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",284-1,Exists (as a major allophone),,,285,1,,1
+1194,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",284-3,Exists only in loanwords,,,285,3,,1
+1198,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",285-3,Exists only in loanwords,,,286,3,,1
+1202,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",286-3,Exists only in loanwords,,,287,3,,1
+1210,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",288-3,Exists only in loanwords,,,289,3,,1
+1214,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",289-3,Exists only in loanwords,,,290,3,,1
+1218,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",290-3,Exists only in loanwords,,,291,3,,1
+1222,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",291-3,Exists only in loanwords,,,292,3,,1
+1225,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",292-2,Exists only as a minor allophone,,,293,2,,1
+1226,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",292-3,Exists only in loanwords,,,293,3,,1
+1227,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",292-4,Does not exist,,,293,4,,1
+1229,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",293-2,Exists only as a minor allophone,,,294,2,,1
+1230,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",293-3,Exists only in loanwords,,,294,3,,1
+1231,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",293-4,Does not exist,,,294,4,,1
+1232,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",294-1,Exists (as a major allophone),,,295,1,,1
+1234,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",294-3,Exists only in loanwords,,,295,3,,1
+1235,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",294-4,Does not exist,,,295,4,,1
+1237,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",295-2,Exists only as a minor allophone,,,296,2,,1
+1238,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",295-3,Exists only in loanwords,,,296,3,,1
+1239,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",295-4,Does not exist,,,296,4,,1
+1241,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",296-2,Exists only as a minor allophone,,,297,2,,1
+1242,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",296-3,Exists only in loanwords,,,297,3,,1
+1243,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",296-4,Does not exist,,,297,4,,1
+1245,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",297-2,Exists only as a minor allophone,,,298,2,,1
+1246,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",297-3,Exists only in loanwords,,,298,3,,1
+1247,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",297-4,Does not exist,,,298,4,,1
+1249,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",298-2,Exists only as a minor allophone,,,299,2,,1
+1250,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",298-3,Exists only in loanwords,,,299,3,,1
+1251,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",298-4,Does not exist,,,299,4,,1
+1252,"{""color"": ""FC3535"", ""icon"": ""pie-100-FC3535.png""}",299-1,Exists (as a major allophone),,,300,1,,1
+1253,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",299-2,Exists only as a minor allophone,,,300,2,,1
+1255,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",299-4,Does not exist,,,300,4,,1
+1257,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",300-2,Exists only as a minor allophone,,,301,2,,1
+1258,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",300-3,Exists only in loanwords,,,301,3,,1
+1259,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",300-4,Does not exist,,,301,4,,1
+1261,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",301-2,Exists only as a minor allophone,,,302,2,,1
+1262,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",301-3,Exists only in loanwords,,,302,3,,1
+1263,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",301-4,Does not exist,,,302,4,,1
+1265,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",302-2,Exists only as a minor allophone,,,303,2,,1
+1266,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",302-3,Exists only in loanwords,,,303,3,,1
+1267,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",302-4,Does not exist,,,303,4,,1
+1269,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",303-2,Exists only as a minor allophone,,,304,2,,1
+1270,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",303-3,Exists only in loanwords,,,304,3,,1
+1273,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",304-2,Exists only as a minor allophone,,,305,2,,1
+1274,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",304-3,Exists only in loanwords,,,305,3,,1
+1275,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",304-4,Does not exist,,,305,4,,1
+1277,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",305-2,Exists only as a minor allophone,,,306,2,,1
+1278,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",305-3,Exists only in loanwords,,,306,3,,1
+1279,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",305-4,Does not exist,,,306,4,,1
+1281,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",306-2,Exists only as a minor allophone,,,307,2,,1
+1282,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",306-3,Exists only in loanwords,,,307,3,,1
+1283,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",306-4,Does not exist,,,307,4,,1
+1285,"{""color"": ""FFB6C1"", ""icon"": ""pie-100-FFB6C1.png""}",307-2,Exists only as a minor allophone,,,308,2,,1
+1286,"{""color"": ""F7F713"", ""icon"": ""pie-100-F7F713.png""}",307-3,Exists only in loanwords,,,308,3,,1
+1287,"{""color"": ""FFFFFF"", ""icon"": ""pie-100-FFFFFF.png""}",307-4,Does not exist,,,308,4,,1
+1360,"{""color"": ""808080"", ""icon"": ""pie-100-808080.png""}",324-4,Not applicable (because there are no schools in the area),,,325,4,,1

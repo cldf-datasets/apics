@@ -1,0 +1,268 @@
+pk,jsondata,id,name,description,markup_description,language_pk,version
+1,,ACC,accusative,,,,1
+2,,ADV,adverb(ial),,,,1
+3,,FUT,future,,,,1
+4,,BEN,benefactive,,,,1
+5,,REL,relative,,,,1
+6,,COP,copula,,,,1
+7,,NEG,"negation, negative",,,,1
+8,,TOP,topic,,,,1
+9,,FOC,focus,,,,1
+10,,DET,determiner,,,,1
+11,,QUOT,quotative,,,,1
+12,,VOC,vocative,,,,1
+13,,ERG,ergative,,,,1
+14,,COND,conditional,,,,1
+15,,DEM,demonstrative,,,,1
+16,,INTR,intransitive,,,,1
+17,,PTCP,participle,,,,1
+18,,DIST,distal,,,,1
+19,,PASS,passive,,,,1
+20,,DU,dual,,,,1
+21,,COM,comitative,,,,1
+22,,AGR,agreement,,,,1
+23,,DEF,definite,,,,1
+24,,EXCL,exclusive,,,,1
+25,,DAT,dative,,,,1
+26,,PRF,perfect,,,,1
+27,,IRR,irrealis,,,,1
+28,,ANTIP,antipassive,,,,1
+29,,IPFV,imperfective,,,,1
+30,,CVB,converb,,,,1
+31,,SBJV,subjunctive,,,,1
+32,,TR,transitive,,,,1
+33,,PROG,progressive,,,,1
+34,,CAUS,causative,,,,1
+35,,RECP,reciprocal,,,,1
+36,,APPL,applicative,,,,1
+37,,Q,question particle/marker,,,,1
+38,,PRS,present,,,,1
+39,,RES,resultative,,,,1
+40,,INCL,inclusive,,,,1
+41,,GEN,genitive,,,,1
+42,,PL,plural,,,,1
+43,,A,agent-like argument of canonical transitive verb,,,,1
+44,,OBL,oblique,,,,1
+45,,OBJ,object,,,,1
+46,,N-,"non- (e.g. NSG nonsingular, NPST nonpast)",,,,1
+47,,F,feminine,,,,1
+48,,COMP,complementizer,,,,1
+49,,CLF,classifier,,,,1
+50,,PROH,prohibitive,,,,1
+51,,ABL,ablative,,,,1
+52,,N,neuter,,,,1
+53,,LOC,locative,,,,1
+54,,IMP,imperative,,,,1
+55,,DECL,declarative,,,,1
+56,,ABS,absolutive,,,,1
+57,,REFL,reflexive,,,,1
+58,,DISTR,distributive,,,,1
+59,,SBJ,subject,,,,1
+60,,AUX,auxiliary,,,,1
+61,,DUR,durative,,,,1
+62,,ADJ,adjective,,,,1
+63,,POSS,possessive,,,,1
+64,,NOM,nominative,,,,1
+65,,ALL,allative,,,,1
+66,,PURP,purposive,,,,1
+67,,ART,article,,,,1
+68,,P,patient-like argument of canonical transitive verb,,,,1
+69,,PRED,predicative,,,,1
+70,,PROX,proximal/proximate,,,,1
+71,,S,single argument of canonical intransitive verb,,,,1
+72,,COMPL,completive,,,,1
+73,,INS,instrumental,,,,1
+74,,INDF,indefinite,,,,1
+75,,M,masculine,,,,1
+76,,NMLZ,nominalizer/nominalization,,,,1
+77,,PFV,perfective,,,,1
+78,,IND,indicative,,,,1
+79,,INF,infinitive,,,,1
+80,,SG,singular,,,,1
+81,,PST,past,,,,1
+82,,INTERM,intermediate,,,,1
+83,,CLIT,clitic,,,,1
+84,,NCOMPL,noncompletive,,,,1
+85,,IMPF,imperfect,,,,1
+86,,TMA,tense-mood-aspect,,,,1
+87,,NPROX,nonproximal,,,,1
+88,,PROP,proprietive,,,,1
+89,,NONFUT,nonfuture,,,,1
+90,,PP,past participle,,,,1
+91,,NSG,nonsingular,,,,1
+92,,CS,Bedeutung,,,,1
+93,,OR,reduplication,,,,1
+94,,RED,reduplication,,,,1
+95,,ABIL,"ability (verb), abilitive mood",,,,1
+96,,ACCID,accidental,,,,1
+97,,ACT,action marker,,,,1
+98,,ADD,additive,,,,1
+99,,ADJZ,adjectivalizer,,,,1
+100,,ADMON,admonitive,,,,1
+101,,ADNOM,adnominal,,,,1
+102,,ADR,addressive,,,,1
+103,,ADVERS,adversative,,,,1
+104,,ADVZ,adverbializer,,,,1
+105,,AFF,affirmative,,,,1
+106,,AG,"agent, agentive",,,,1
+107,,ANAPH,anaphoric,,,,1
+108,,ANIM,animate,,,,1
+109,,ANT,anterior,,,,1
+110,,ASP,aspect [marker|particle],,,,1
+111,,ASS,associative (plural),,,,1
+112,,ASSOBL,associative (obligation),,,,1
+113,,ASSOC,associative [preposition],,,,1
+114,,ATT,attenuative,,,,1
+115,,ATTR,attributive marker,,,,1
+116,,BE,"identity-copula, locative-existential copula",,,,1
+117,,BGND,background,,,,1
+118,,BIND,binding element,,,,1
+119,,CIS,"cislocative, movement towards speaker",,,,1
+120,,CL,class,,,,1
+121,,CNS,consuetudinal,,,,1
+122,,CNTRFAC,counterfactual,,,,1
+123,,COLL,associative plural,,,,1
+124,,COMPAR,comparative affix/marker,,,,1
+125,,CONC,concessive,,,,1
+126,,CONF,confirmation particle,,,,1
+127,,CONJ,conjunction,,,,1
+128,,CONN,connective,,,,1
+129,,CONSEC,consecutive,,,,1
+130,,CONT,"continuative, continuous, ongoing action",,,,1
+131,,CONTR,contrastive,,,,1
+132,,CPD,compound component derived by tone deletion,,,,1
+133,,CPLT,contemplated aspect,,,,1
+134,,CSEC,consecutive,,,,1
+135,,CTPL,contemplated aspect,,,,1
+136,,DEFRCLT,deferential clitic,,,,1
+137,,DEG,degree [particle|word],,,,1
+138,,DEIC,deictic,,,,1
+139,,DELIM,delimitative,,,,1
+140,,DEP,dependent (pronoun),,,,1
+141,,DEPV,dependent verb,,,,1
+142,,DESID,desiderative,,,,1
+143,,DETRANS,detransitivizing,,,,1
+144,,DIM,diminutive,,,,1
+145,,DIR,"direction, directional",,,,1
+146,,DISASS,disassociative,,,,1
+147,,DISC,discourse marker,,,,1
+148,,PCL,discourse particle,,,,1
+149,,DO,direct object,,,,1
+150,,DOUBT,doubt,,,,1
+151,,DS,different subject,,,,1
+152,,DUB,"dubitative, uncertain knowledge",,,,1
+153,,DUMMY,dummy pronoun,,,,1
+154,,EMPH,"emphatic, emphasis",,,,1
+155,,ENCL,enclitic,,,,1
+156,,EPIST,epistemic,,,,1
+157,,EQ,equational copula,,,,1
+158,,EVID,evidential,,,,1
+159,,EXCLAM,exclamation,,,,1
+160,,EXIST,existential,,,,1
+161,,EXPL,expletive,,,,1
+162,,FAM,familiar,,,,1
+163,,FILL,filler (item),,,,1
+164,,FIN,finite,,,,1
+165,,FPST,far past,,,,1
+166,,FORMAL,formal,,,,1
+167,,FV,final vowel (default final vowel of verb form),,,,1
+168,,GENER,generic,,,,1
+169,,GER,gerund,,,,1
+170,,H,high toneme,,,,1
+171,,HAB,habitual,,,,1
+172,,HABIL,habilitative,,,,1
+173,,HL,highlighter,,,,1
+174,,HON,honorific,,,,1
+175,,HORT,hortative,,,,1
+176,,HUM,human,,,,1
+177,,IDENTITY,identity copula,,,,1
+178,,IDEO,ideophone,,,,1
+179,,IGN,ignorative,,,,1
+180,,IMM,immediate past,,,,1
+181,,IMPRS,impersonal pronoun,,,,1
+182,,INAB,inability,,,,1
+183,,INACC,inaccompli,,,,1
+184,,INAN,inanimate,,,,1
+185,,INC,inchoative,,,,1
+186,,INCEP,inceptive [future],,,,1
+187,,INCOMPL,incompletive,,,,1
+188,,INCORP,incorporated (noun),,,,1
+189,,INDP,independent,,,,1
+190,,INFL,inflectional marker,,,,1
+191,,INGR,ingressive,,,,1
+192,,INSIST,insistence,,,,1
+193,,INT,"intentional, intentionalis",,,,1
+194,,INTENS,"intensifier, intensitive, intensive, intensity",,,,1
+195,,INTERJ,interjection,,,,1
+196,,INTFR,intensifier,,,,1
+197,,INTIM,intimate,,,,1
+198,,INV,inverse marker,,,,1
+199,,IO,indirect object,,,,1
+200,,ITER,iterative,,,,1
+201,,JUDG,judgment,,,,1
+202,,LINK,"link vowel, link consonant",,,,1
+203,,LK,linker,,,,1
+204,,LOCV,locative verb,,,,1
+205,,LOG,logophoric personal pronoun,,,,1
+206,,MIR,mirative,,,,1
+207,,MKD,marked,,,,1
+208,,MOD,"modal auxiliary/verb/particle, modality",,,,1
+209,,MODIF,modifier,,,,1
+210,,MOOD,mood particle,,,,1
+211,,NACCOMPL,non accomplished,,,,1
+212,,NARR,narrative,,,,1
+213,,NECESS,necessity,,,,1
+214,,NFIN,non-finite,,,,1
+215,,NFUT,non-future,,,,1
+216,,NHON,non-honorific,,,,1
+217,,NP,noun phrase,,,,1
+218,,NPST,nonpast,,,,1
+219,,NSBJ,non-subject,,,,1
+220,,NUM,"number, numeral",,,,1
+221,,OBLIG,"obligative [mood marker], obligatory",,,,1
+222,,OBV,obviative,,,,1
+223,,OPT,optative,,,,1
+224,,ORD,ordinal,,,,1
+225,,PAUC,paucal,,,,1
+226,,PERM,"permission, permissive",,,,1
+227,,PERMANENT,permanent state,,,,1
+228,,PM,predicate marker,,,,1
+229,,POL,polite,,,,1
+230,,POSTP,postposition,,,,1
+231,,POT,potential,,,,1
+232,,PREP,preposition,,,,1
+233,,PRESV,"presentational, presentative",,,,1
+234,,PRET,preterite,,,,1
+235,,PRO,"pronoun, resumptive pronoun",,,,1
+236,,PSREFL,pseudo-reflexive pronoun,,,,1
+237,,TAG,question tag,,,,1
+238,,QUANT,"quantifier, quantitative",,,,1
+239,,REM,remote,,,,1
+240,,REP,"repetition, repetitive",,,,1
+241,,REPORT,reportative,,,,1
+242,,REQ,requestative,,,,1
+243,,SENT,sentence particle,,,,1
+244,,SEQ,sequence marker,,,,1
+245,,SI,subject index,,,,1
+246,,SIML,similative,,,,1
+247,,SM,subject marker,,,,1
+248,,SP,post-verbal demonstrative-like marker,,,,1
+249,,SPECUL,speculative,,,,1
+250,,SS,same subject,,,,1
+251,,STANDARD,comparative standard,,,,1
+252,,MARKER,comparative standard,,,,1
+253,,STAT,stative,,,,1
+254,,SUBORD,subordinator,,,,1
+255,,SUPERL,superlative,,,,1
+256,,SUPPL,suppletive,,,,1
+257,,SVC,serial verb construction,,,,1
+258,,TA,transitive animate,,,,1
+259,,TAM,"tense aspect mood, tense-mood-aspect",,,,1
+260,,TEMP,temporal,,,,1
+261,,TNS,tense particle,,,,1
+262,,V,verb,,,,1
+263,,PREF,verbal prefix,,,,1
+264,,VAL,validator,,,,1
+265,,VBLZ,verbalizer,,,,1
+266,,VOL,volitive,,,,1
+267,,VPCL,verb particle,,,,1

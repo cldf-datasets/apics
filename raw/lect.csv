@@ -1,0 +1,105 @@
+pk,region,lexifier,language_pk,survey_pk
+77,,Portuguese,43,
+78,,Portuguese,30,
+79,,English,20,
+80,,Other,65,
+81,,Other,74,
+82,,Portuguese,39,
+83,,English,16,
+84,,English,16,
+85,,French,50,
+86,,Portuguese,33,
+87,,Portuguese,33,
+88,,Portuguese,33,
+89,,French,52,
+90,,English,8,
+91,,Arabic,64,
+92,,Arabic,64,
+94,,French,53,
+95,,French,53,
+96,,French,55,
+97,,Spanish,73,
+98,,Portuguese,37,
+93,,English,25,
+99,,Other,59,
+100,,French,56,
+101,,French,56,
+102,,French,56,
+21,Southeast Asia,English,,
+103,,English,2,
+104,,English,7,
+1,Caribbean,English,,1
+2,Caribbean,English,,2
+3,Caribbean,English,,3
+4,Caribbean,English,,4
+5,Caribbean,English,,5
+6,Caribbean,English,,6
+7,Caribbean,English,,7
+8,Caribbean,English,,8
+9,Caribbean,English,,9
+10,Caribbean,English,,10
+11,Caribbean,English,,11
+12,North America,English,,12
+13,North America,English,,13
+14,North America,English,,14
+15,West Africa,English,,15
+16,West Africa,English,,16
+17,West Africa,English,,17
+18,West Africa,English,,18
+19,West Africa,English,,19
+20,East Asia,English,,20
+22,Pacific,English,,22
+23,Pacific,English,,23
+24,Pacific,English,,24
+25,Australia,English,,25
+26,Pacific,English,,26
+27,Caribbean,Dutch,,27
+28,Caribbean,Dutch,,28
+29,Southern Africa,Dutch,,29
+30,West Africa,Portuguese,,30
+31,West Africa,Portuguese,,31
+32,West Africa,Portuguese,,32
+33,West Africa,Portuguese,,33
+34,West Africa,Portuguese,,34
+35,West Africa,Portuguese,,35
+36,West Africa,Portuguese,,36
+37,West Africa,Portuguese,,37
+38,West Africa,Portuguese,,38
+39,South Asia,Portuguese,,39
+40,South Asia,Portuguese,,40
+41,South Asia,Portuguese,,41
+42,Southeast Asia,Portuguese,,42
+43,Southeast Asia,Portuguese,,43
+44,Southeast Asia,Spanish,,44
+45,Southeast Asia,Spanish,,45
+46,Southeast Asia,Spanish,,46
+47,Caribbean,Spanish,,47
+48,Caribbean,Spanish,,48
+49,Caribbean,French,,49
+50,Caribbean,French,,50
+51,Caribbean,French,,50
+52,Caribbean,French,,52
+53,North America,French,,53
+54,Indian Ocean,French,,54
+55,Indian Ocean,French,,55
+56,Indian Ocean,French,,56
+57,Pacific,French,,57
+58,Central and East Africa,Bantu,,58
+59,Central and East Africa,Other,,59
+60,Central and East Africa,Bantu,,60
+61,Southern Africa,Bantu,,61
+62,Central and East Africa,Other,,62
+63,Central and East Africa,Arabic,,63
+64,Central and East Africa,Arabic,,64
+65,East Asia,Other,,65
+66,South Asia,Malay,,66
+67,Southeast Asia,Malay,,67
+68,Southeast Asia,Malay,,68
+69,Pacific,Other,,69
+70,Pacific,Other,,70
+71,Pacific,Other,,71
+72,Australia,Other,,72
+73,South America,Spanish,,73
+74,North America,Other,,74
+75,North America,Other,,75
+76,North America,Other,,76

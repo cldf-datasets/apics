@@ -1,0 +1,1405 @@
+ID,Parameter_ID,Name,Description,Number,icon,color
+0-1,0,English-based,,1,pie-100-0000FF.png,0000FF
+0-7,0,Dutch-based,,2,pie-100-ADD8E6.png,ADD8E6
+0-3,0,Portuguese-based,,3,pie-100-FFFF00.png,FFFF00
+0-4,0,Spanish-based,,4,pie-100-FF7F00.png,FF7F00
+0-2,0,French-based,,5,pie-100-FF0000.png,FF0000
+0-5,0,Arabic-based,,6,pie-100-800080.png,800080
+0-6,0,Bantu-based,,7,pie-100-000000.png,000000
+0-8,0,Malay-based,,8,pie-100-FFB6C1.png,FFB6C1
+0-9,0,Other-based,,9,pie-100-808080.png,808080
+1-2,1,Subject-verb-object (SVO),,1,pie-100-FF0000.png,FF0000
+1-1,1,Subject-object-verb (SOV),,2,pie-100-0000FF.png,0000FF
+1-3,1,Verb-subject-object (VSO),,3,pie-100-FFFF00.png,FFFF00
+1-4,1,Verb-object-subject (VOS),,4,pie-100-964B00.png,964B00
+1-6,1,Object-subject-verb (OSV),,5,pie-100-ADD8E6.png,ADD8E6
+1-5,1,Object-verb-subject (OVS),,6,pie-100-800080.png,800080
+2-1,2,Possessor-possessum,,1,pie-100-0000FF.png,0000FF
+2-2,2,Possessum-possessor,,2,pie-100-FF0000.png,FF0000
+3-1,3,Modifying adjective precedes noun,,1,pie-100-FFFF00.png,FFFF00
+3-2,3,Modifying adjective follows noun,,2,pie-100-800080.png,800080
+4-2,4,Prepositions,,1,pie-100-FF0000.png,FF0000
+4-1,4,Postpositions,,2,pie-100-0000FF.png,0000FF
+4-5,4,Circumpositions,,3,pie-100-FFFF00.png,FFFF00
+5-1,5,Demonstrative word precedes noun,,1,pie-100-FFFF00.png,FFFF00
+5-2,5,Demonstrative word follows noun,,2,pie-100-800080.png,800080
+5-5,5,Demonstrative simultaneously before and after noun,,3,pie-100-ADD8E6.png,ADD8E6
+6-1,6,Numeral precedes noun,,1,pie-100-FFFF00.png,FFFF00
+6-2,6,Numeral follows noun,,2,pie-100-800080.png,800080
+7-1,7,Relative clause follows noun,,1,pie-100-FF0000.png,FF0000
+7-2,7,Relative clause precedes noun,,2,pie-100-0000FF.png,0000FF
+7-3,7,Internally-headed relative clause,,3,pie-100-FFFF00.png,FFFF00
+7-4,7,Correlative relative clause,,4,pie-100-ADD8E6.png,ADD8E6
+7-5,7,Adjoined relative clause,,5,pie-100-FFFFFF.png,FFFFFF
+8-1,8,Degree word precedes adjective,,1,pie-100-FFFF00.png,FFFF00
+8-2,8,Degree word follows adjective,,2,pie-100-800080.png,800080
+8-3,8,Degree word precedes and follows adjective,,3,pie-100-ADD8E6.png,ADD8E6
+9-1,9,Definite article is preposed,,1,pie-100-FFFF00.png,FFFF00
+9-2,9,Definite article is postposed,,2,pie-100-800080.png,800080
+9-3,9,Definite article is circumposed,,3,pie-100-ADD8E6.png,ADD8E6
+9-4,9,The language has no definite article,,4,pie-100-FFFFFF.png,FFFFFF
+10-1,10,Indefinite article is preposed,,1,pie-100-FFFF00.png,FFFF00
+10-2,10,Indefinite article is postposed,,2,pie-100-800080.png,800080
+10-4,10,The language has no indefinite article,,3,pie-100-FFFFFF.png,FFFFFF
+11-1,11,Verb – adverb – object,,1,pie-100-800080.png,800080
+11-2,11,Adverb – verb – object,,2,pie-100-FF0000.png,FF0000
+11-3,11,Verb – object – adverb,,3,pie-100-FFFF00.png,FFFF00
+11-4,11,Object – adverb – verb,,4,pie-100-0000FF.png,0000FF
+11-5,11,Adverb – object – verb,,5,pie-100-ADD8E6.png,ADD8E6
+11-6,11,Object – verb – adverb,,6,pie-100-000000.png,000000
+12-1,12,Interrogative phrase initial,,1,pie-100-FF0000.png,FF0000
+12-2,12,Interrogative phrase not initial,,2,pie-100-0000FF.png,0000FF
+13-1,13,No gender distinctions,,1,pie-100-FFFFFF.png,FFFFFF
+13-2,13,In 3rd person singular only,,2,pie-100-FF0000.png,FF0000
+13-4,13,In 3rd person singular and plural only,,3,pie-100-FFFF00.png,FFFF00
+13-6,13,In 2nd person but not in 3rd person,,4,pie-100-0000FF.png,0000FF
+14-1,14,No special dual form,,1,pie-100-FFFFFF.png,FFFFFF
+14-2,14,Dual form in all three persons,,2,pie-100-FF0000.png,FF0000
+14-3,14,Dual form only in first person,,3,pie-100-FFFF00.png,FFFF00
+15-1,15,No inclusive/exclusive distinction,,1,pie-100-FFFFFF.png,FFFFFF
+15-2,15,Inclusive and exclusive differentiated,,2,pie-100-FF0000.png,FF0000
+16-1,16,No person syncretism,,1,pie-100-FFFFFF.png,FFFFFF
+16-2,16,Syncretism between 1st and 2nd person,,2,pie-100-FF0000.png,FF0000
+16-3,16,Syncretism between 2nd and 3rd person,,3,pie-100-0000FF.png,0000FF
+17-1,17,No dependent person forms,,1,pie-100-FFFFFF.png,FFFFFF
+17-2,17,Only dependent subject forms,,2,pie-100-FF0000.png,FF0000
+17-3,17,Only dependent object forms,,3,pie-100-FFFF00.png,FFFF00
+17-4,17,Dependent subject and object forms,,4,pie-100-0000FF.png,0000FF
+18-1,18,No pronominal politeness distinction,,1,pie-100-FFFFFF.png,FFFFFF
+18-2,18,Binary pronominal politeness distinction,,2,pie-100-FFFF00.png,FFFF00
+18-3,18,Multiple pronominal politeness distinction,,3,pie-100-FF0000.png,FF0000
+18-5,18,Titles used as second person forms,,4,pie-100-0000FF.png,0000FF
+19-1,19,All simple words,,1,pie-100-FFFFFF.png,FFFFFF
+19-2,19,One compound expression,,2,pie-100-FFFF00.png,FFFF00
+19-3,19,Two compound expressions,,3,pie-100-FF7F00.png,FF7F00
+19-4,19,Three compound expressions,,4,pie-100-FF0000.png,FF0000
+19-5,19,Four compound expressions,,5,pie-100-000000.png,000000
+20-1,20,Singular pronoun overtly conjoined with other conjunct,,1,pie-100-0000FF.png,0000FF
+20-2,20,Inclusory pronoun juxtaposed with subset NP,,2,pie-100-FFFF00.png,FFFF00
+20-3,20,Inclusory pronoun plus marker plus subset NP,,3,pie-100-FF0000.png,FF0000
+20-4,20,Inclusory pronoun plus numeral plus subset NP,,4,pie-100-ADD8E6.png,ADD8E6
+20-5,20,Singular pronoun juxtaposed with other conjunct,,5,pie-100-FFFFFF.png,FFFFFF
+21-1,21,Interrogative-based indefinites,,1,pie-100-0000FF.png,0000FF
+21-2,21,Generic-noun-based indefinites,,2,pie-100-FF0000.png,FF0000
+21-5,21,Old generic-noun-based indefinites continuing somebody/something,,3,pie-100-FF7F00.png,FF7F00
+21-3,21,Special indefinites,,4,pie-100-000000.png,000000
+21-4,21,Existential construction,,5,pie-100-FFFFFF.png,FFFFFF
+22-1,22,No plural marking,,1,pie-100-FFFFFF.png,FFFFFF
+22-2,22,Variable plural marking of human nouns,,2,pie-100-FFFF00.png,FFFF00
+22-4,22,Variable plural marking of human or inanimate nouns,,3,pie-100-FF7F00.png,FF7F00
+22-6,22,Invariant plural marking,,4,pie-100-FF0000.png,FF0000
+23-1,23,Plural is not expressed overtly,,1,pie-100-FFFFFF.png,FFFFFF
+23-2,23,Plural prefix,,2,pie-100-FF0000.png,FF0000
+23-3,23,Plural suffix,,3,pie-100-0000FF.png,0000FF
+23-4,23,Plural stem change,,4,pie-100-FFFF00.png,FFFF00
+23-5,23,Plural tone or stress change,,5,pie-100-964B00.png,964B00
+23-6,23,Plural reduplication,,6,pie-100-800080.png,800080
+23-7,23,Plural word preceding the noun,,7,pie-100-FFB6C1.png,FFB6C1
+23-8,23,Plural word following the noun,,8,pie-100-ADD8E6.png,ADD8E6
+24-1,24,Associative plural marker identical to additive plural marker,,1,pie-100-FF0000.png,FF0000
+24-2,24,Special associative plural marker identical to 3rd plural pronoun,,2,pie-100-0000FF.png,0000FF
+24-3,24,Other special associative plural marker,,3,pie-100-FFFF00.png,FFFF00
+24-4,24,No associative plural marker,,4,pie-100-FFFFFF.png,FFFFFF
+25-1,25,No nominal plural word,,1,pie-100-FFFFFF.png,FFFFFF
+25-2,25,Identity,,2,pie-100-FFFF00.png,FFFF00
+25-3,25,Differentiation,,3,pie-100-FF0000.png,FF0000
+25-4,25,Overlap,,4,pie-100-FF7F00.png,FF7F00
+26-1,26,No reduplication,,1,pie-100-FFFFFF.png,FFFFFF
+26-2,26,Only iconic functions,,2,pie-100-FFFF00.png,FFFF00
+26-5,26,Attenuating function,,3,pie-100-FF0000.png,FF0000
+26-6,26,Word-class-changing function,,4,pie-100-0000FF.png,0000FF
+26-8,26,Attenuating and word-class-changing function,,5,pie-100-000000.png,000000
+27-1,27,Antidual,,1,pie-100-FF0000.png,FF0000
+27-2,27,No antidual,,2,pie-100-FFFFFF.png,FFFFFF
+28-1,28,Definite article distinct from demonstratives,,1,pie-100-FF0000.png,FF0000
+28-2,28,Definite article identical to a demonstrative,,2,pie-100-FFFF00.png,FFFF00
+28-4,28,"No definite article, but indefinite article",,3,pie-100-0000FF.png,0000FF
+28-5,28,Neither definite nor indefinite article,,4,pie-100-FFFFFF.png,FFFFFF
+29-1,29,Indefinite article distinct from numeral ‘one’,,1,pie-100-FF0000.png,FF0000
+29-2,29,Indefinite article identical to numeral ‘one’,,2,pie-100-FFFF00.png,FFFF00
+29-4,29,"No indefinite article, but definite article",,3,pie-100-0000FF.png,0000FF
+29-5,29,Neither indefinite nor definite article,,4,pie-100-FFFFFF.png,FFFFFF
+30-1,30,Language without definite and indefinite article,,1,pie-100-FFFFFF.png,FFFFFF
+30-2,30,Bare singular noun phrase in languages with definite article,,2,pie-100-FF0000.png,FF0000
+30-3,30,Bare singular noun phrase in languages without definite article,,3,pie-100-FFB6C1.png,FFB6C1
+30-4,30,Singular noun phrase with definite article,,4,pie-100-0000FF.png,0000FF
+30-5,30,Bare plural noun phrase in languages with definite article,,5,pie-100-FFFF00.png,FFFF00
+30-6,30,Bare plural noun phrase in languages without definite article,,6,pie-100-FF7F00.png,FF7F00
+30-7,30,Plural noun phrase with definite article,,7,pie-100-800080.png,800080
+30-8,30,Singular noun phrase  with indefinite articles,,8,pie-100-964B00.png,964B00
+30-9,30,Singular noun phrase with adnominal possessive,,9,pie-100-000000.png,000000
+31-1,31,Co-occurrence,,1,pie-100-0000FF.png,0000FF
+31-2,31,No co-occurrence,,2,pie-100-FF0000.png,FF0000
+31-3,31,Demonstrative identical to definite article,,3,pie-100-FFFF00.png,FFFF00
+31-4,31,No definite article exists,,4,pie-100-FFFFFF.png,FFFFFF
+32-1,32,Same forms,,1,pie-100-FFFF00.png,FFFF00
+32-2,32,Different forms,,2,pie-100-FF0000.png,FF0000
+32-3,32,"Same stems, different inflectional features",,3,pie-100-0000FF.png,0000FF
+33-1,33,No distance contrast,,1,pie-100-FFFFFF.png,FFFFFF
+33-2,33,Two-way contrast,,2,pie-100-FFFF00.png,FFFF00
+33-3,33,Three-way contrast,,3,pie-100-FF0000.png,FF0000
+33-4,33,Four-way contrast,,4,pie-100-000000.png,000000
+34-2,34,Distributivity marked by reduplication,,1,pie-100-FF0000.png,FF0000
+34-1,34,No special adjacent distributive numerals,,2,pie-100-FFFFFF.png,FFFFFF
+35-1,35,Ordinal numerals do not exist,,1,pie-100-FFFFFF.png,FFFFFF
+35-3,35,Cardinal and ordinal numerals are identical except for ‘one’ and ‘first’,,2,pie-100-FF7F00.png,FF7F00
+35-4,35,All ordinal numerals are synchronically derived from cardinal numerals,,3,pie-100-FF0000.png,FF0000
+35-5,35,"All ordinal numerals are synchronically derived from cardinal numerals, but ‘first’ may also be suppletive",,4,pie-100-800080.png,800080
+35-6,35,"'First' is suppletive, all other numerals are synchronically derived from cardinal numerals",,5,pie-100-0000FF.png,0000FF
+35-7,35,"‘First’, ‘second’, or more are suppletive, the others are synchronically derived from cardinal numerals",,6,pie-100-FFB6C1.png,FFB6C1
+35-2,35,All ordinal numerals are suppletive,,7,pie-100-FFFF00.png,FFFF00
+35-8,35,Other solutions,,8,pie-100-964B00.png,964B00
+36-1,36,The language has no numeral classifiers,,1,pie-100-FFFFFF.png,FFFFFF
+36-2,36,The language has numeral classifiers,,2,pie-100-FF0000.png,FF0000
+37-1,37,Preceding word,,1,pie-100-FF0000.png,FF0000
+37-2,37,Following word,,2,pie-100-0000FF.png,0000FF
+37-5,37,Adpositional phrase preceding the possessum,,3,pie-100-FFB6C1.png,FFB6C1
+37-6,37,Adpositional phrase following the possessum,,4,pie-100-ADD8E6.png,ADD8E6
+37-3,37,Prefix,,5,pie-100-FFFF00.png,FFFF00
+37-4,37,Suffix,,6,pie-100-000000.png,000000
+38-2,38,Adpositional or case marking of possessor,,1,pie-100-0000FF.png,0000FF
+38-4,38,No marking,,2,pie-100-FFFFFF.png,FFFFFF
+38-1,38,Person-indexing on possessum,,3,pie-100-FF0000.png,FF0000
+39-1,39,Identical to dependent pronominal possessor,,1,pie-100-FFFF00.png,FFFF00
+39-2,39,Special preposition plus pronoun,,2,pie-100-FFB6C1.png,FFB6C1
+39-3,39,Special word plus dependent pronominal possessor,,3,pie-100-FF0000.png,FF0000
+39-4,39,Special pronoun form,,4,pie-100-0000FF.png,0000FF
+40-1,40,No adjective agrees with the noun,,1,pie-100-FFFFFF.png,FFFFFF
+40-2,40,Only few adjectives agree with the noun,,2,pie-100-FFFF00.png,FFFF00
+40-3,40,Many adjectives agree with the noun,,3,pie-100-FF7F00.png,FF7F00
+40-4,40,All adjectives agree with the noun,,4,pie-100-FF0000.png,FF0000
+41-1,41,Adjective is marked,,1,pie-100-FF0000.png,FF0000
+41-2,41,Adjective is not marked,,2,pie-100-FFFFFF.png,FFFFFF
+42-7,42,Primary surpass marking,,1,pie-100-FF7F00.png,FF7F00
+42-1,42,Secondary surpass marking,,2,pie-100-FF0000.png,FF0000
+42-3,42,Locational marking,,3,pie-100-0000FF.png,0000FF
+42-2,42,Particle marking,,4,pie-100-FFFF00.png,FFFF00
+42-8,42,Locational plus particle marking,,5,pie-100-ADD8E6.png,ADD8E6
+42-5,42,Standard is not overtly marked,,6,pie-100-FFFFFF.png,FFFFFF
+42-4,42,Conjoined marking,,7,pie-100-000000.png,000000
+43-1,43,Immediately preceding the verb,,1,pie-100-FF0000.png,FF0000
+43-2,43,Immediately following the verb,,2,pie-100-0000FF.png,0000FF
+43-3,43,In a leftward position,,3,pie-100-FFB6C1.png,FFB6C1
+43-4,43,In a rightward position,,4,pie-100-ADD8E6.png,ADD8E6
+43-5,43,No TAM markers,,5,pie-100-FFFFFF.png,FFFFFF
+44-1,44,Tense-Mood-Aspect,,1,pie-100-0000FF.png,0000FF
+44-2,44,Tense-Aspect-Mood,,2,pie-100-FFFF00.png,FFFF00
+44-4,44,Mood-Tense-Aspect,,3,pie-100-FF0000.png,FF0000
+44-8,44,The feature does not apply,,4,pie-100-FFFFFF.png,FFFFFF
+45-1,45,Affix,,1,pie-100-000000.png,000000
+45-2,45,"Particle, nothing can intervene",,2,pie-100-964B00.png,964B00
+45-3,45,"Particle, only grammatical markers can intervene",,3,pie-100-FF0000.png,FF0000
+45-4,45,"Particle, a few lexical items may intervene",,4,pie-100-FF7F00.png,FF7F00
+45-5,45,"Particle, open-class items may intervene",,5,pie-100-FFFF00.png,FFFF00
+45-7,45,"Particle, clause-second position",,6,pie-100-0000FF.png,0000FF
+45-6,45,No overt past marker exists,,7,pie-100-FFFFFF.png,FFFFFF
+46-1,46,Affix,,1,pie-100-000000.png,000000
+46-2,46,"Particle, nothing can intervene",,2,pie-100-964B00.png,964B00
+46-3,46,"Particle, only grammatical markers can intervene",,3,pie-100-FF0000.png,FF0000
+46-4,46,"Particle, a few lexical items may intervene",,4,pie-100-FF7F00.png,FF7F00
+46-5,46,"Particle, open-class items may intervene",,5,pie-100-FFFF00.png,FFFF00
+46-6,46,No overt progressive marker,,6,pie-100-FFFFFF.png,FFFFFF
+47-1,47,No overt progressive marker,,1,pie-100-FFFFFF.png,FFFFFF
+47-2,47,Only progressive function,,2,pie-100-FFFF00.png,FFFF00
+47-4,47,Progressive and habitual,,3,pie-100-FF0000.png,FF0000
+47-3,47,Progressive and current state,,4,pie-100-FF7F00.png,FF7F00
+47-5,47,Progressive and future,,5,pie-100-ADD8E6.png,ADD8E6
+47-6,47,"Progressive, habitual, and current state",,6,pie-100-964B00.png,964B00
+47-8,47,"Progressive, habitual, and future",,7,pie-100-0000FF.png,0000FF
+47-9,47,"Progressive, habitual, current state, and future",,8,pie-100-000000.png,000000
+48-1,48,No overt habitual marker,,1,pie-100-FFFFFF.png,FFFFFF
+48-2,48,Only habitual function,,2,pie-100-FFFF00.png,FFFF00
+48-4,48,Habitual and progressive,,3,pie-100-FF0000.png,FF0000
+48-3,48,Habitual and current state,,4,pie-100-FF7F00.png,FF7F00
+48-5,48,Habitual and future,,5,pie-100-ADD8E6.png,ADD8E6
+48-6,48,"Habitual, progressive, and current state",,6,pie-100-0000FF.png,0000FF
+48-7,48,"Habitual, current state, and future",,7,pie-100-800080.png,800080
+48-8,48,"Habitual, progressive and future",,8,pie-100-964B00.png,964B00
+48-9,48,"Habitual, progressive, current state, and future",,9,pie-100-000000.png,000000
+49-1,49,Purely aspectual system,,1,pie-100-FF0000.png,FF0000
+49-2,49,Purely temporal system,,2,pie-100-0000FF.png,0000FF
+49-3,49,Mixed aspectual-temporal system,,3,pie-100-FFFF00.png,FFFF00
+49-4,49,No or only one tense or aspect marker,,4,pie-100-FFFFFF.png,FFFFFF
+50-1,50,Same TAM marking in negated clauses,,1,pie-100-0000FF.png,0000FF
+50-2,50,Reduced TAM marking in negated clauses,,2,pie-100-FFFF00.png,FFFF00
+50-3,50,Different TAM marking in negated clauses,,3,pie-100-FF0000.png,FF0000
+50-4,50,Reduced and different TAM marking in negated clauses,,4,pie-100-FF7F00.png,FF7F00
+50-6,50,No TAM marker,,5,pie-100-FFFFFF.png,FFFFFF
+51-3,51,Stative verbs with present reference and dynamic verbs with past perfective reference are both unmarked,,1,pie-100-FF0000.png,FF0000
+51-6,51,Stative verbs with present reference and dynamic verbs with past perfective reference are marked with the same overt marker,,2,pie-100-FF7F00.png,FF7F00
+51-1,51,Stative verbs with present reference and dynamic verbs with past perfective reference are marked differently,,3,pie-100-0000FF.png,0000FF
+51-8,51,The language has no or only one TAM marker,,4,pie-100-FFFFFF.png,FFFFFF
+52-1,52,No inchoative meaning with aspect markers,,1,pie-100-FFFFFF.png,FFFFFF
+52-2,52,Inchoative expressed by progressive marker,,2,pie-100-FFFF00.png,FFFF00
+52-3,52,Inchoative expressed by completive marker,,3,pie-100-FF0000.png,FF0000
+52-4,52,Inchoative expressed by progressive and completive markers,,4,pie-100-FF7F00.png,FF7F00
+52-5,52,No aspect markers,,5,pie-100-000000.png,000000
+53-2,53,Aspect change in verb chains is possible,,1,pie-100-FF0000.png,FF0000
+53-3,53,Aspect change in verb chains is not possible,,2,pie-100-0000FF.png,0000FF
+53-1,53,Verb chaining does not exist,,3,pie-100-FFFFFF.png,FFFFFF
+54-1,54,Weak suppletion according to tense only,,1,pie-100-ADD8E6.png,ADD8E6
+54-2,54,Strong suppletion according to tense only,,2,pie-100-0000FF.png,0000FF
+54-3,54,Weak suppletion according to aspect only,,3,pie-100-FFB6C1.png,FFB6C1
+54-4,54,Strong suppletion according to aspect only,,4,pie-100-FF0000.png,FF0000
+54-6,54,Strong suppletion according to both tense and aspect,,5,pie-100-000000.png,000000
+54-7,54,No suppletion according to tense or aspect,,6,pie-100-FFFFFF.png,FFFFFF
+55-1,55,Ability verb also expresses epistemic possibility,,1,pie-100-FF0000.png,FF0000
+55-2,55,Ability verb cannot express epistemic possibility,,2,pie-100-0000FF.png,0000FF
+55-3,55,No ability verb,,3,pie-100-FFFFFF.png,FFFFFF
+56-1,56,Normal imperative construction and normal negator,,1,pie-100-0000FF.png,0000FF
+56-2,56,Normal imperative construction and special negator,,2,pie-100-FF0000.png,FF0000
+56-3,56,Special imperative construction and normal negator,,3,pie-100-ADD8E6.png,ADD8E6
+56-4,56,Special imperative construction and special negator,,4,pie-100-FFB6C1.png,FFB6C1
+57-1,57,No marking of patient NPs,,1,pie-100-FFFFFF.png,FFFFFF
+57-2,57,Only definite patient NPs are marked,,2,pie-100-FFFF00.png,FFFF00
+57-3,57,Only animate patient NPs are marked,,3,pie-100-FF0000.png,FF0000
+57-4,57,Only definite and animate patient NPs are marked,,4,pie-100-FF7F00.png,FF7F00
+57-5,57,All patient NPs are marked,,5,pie-100-000000.png,000000
+58-1,58,Neutral alignment,,1,pie-100-FFFFFF.png,FFFFFF
+58-2,58,Accusative alignment,,2,pie-100-0000FF.png,0000FF
+58-4,58,Ergative alignment,,3,pie-100-FF0000.png,FF0000
+59-1,59,Neutral alignment,,1,pie-100-FFFFFF.png,FFFFFF
+59-2,59,Accusative alignment,,2,pie-100-0000FF.png,0000FF
+60-2,60,Double-object construction,,1,pie-100-0000FF.png,0000FF
+60-1,60,Indirect-object construction,,2,pie-100-FF0000.png,FF0000
+60-3,60,Secondary-object construction,,3,pie-100-FFFF00.png,FFFF00
+61-1,61,Subject – verb – recipient – theme,,1,pie-100-0000FF.png,0000FF
+61-2,61,Subject – verb – theme – recipient,,2,pie-100-FF0000.png,FF0000
+61-3,61,Subject – theme – recipient – verb,,3,pie-100-FFB6C1.png,FFB6C1
+61-4,61,Subject – recipient – theme – verb,,4,pie-100-ADD8E6.png,ADD8E6
+61-5,61,Verb-initial recipient – theme,,5,pie-100-000000.png,000000
+61-6,61,Verb-initial theme – recipient,,6,pie-100-FFFF00.png,FFFF00
+61-7,61,Other recipient – theme,,7,pie-100-964B00.png,964B00
+61-8,61,Other theme – recipient,,8,pie-100-800080.png,800080
+62-1,62,Obligatory pronoun words,,1,pie-100-FF0000.png,FF0000
+62-2,62,Pronoun affixes,,2,pie-100-FF7F00.png,FF7F00
+62-5,62,Optional pronoun words,,3,pie-100-0000FF.png,0000FF
+62-4,62,Subject pronouns in different position,,4,pie-100-FFFF00.png,FFFF00
+62-6,62,Mixed behaviour of pronominal subjects,,5,pie-100-000000.png,000000
+63-1,63,An expletive subject is used,,1,pie-100-FF0000.png,FF0000
+63-2,63,An expletive subject is not used,,2,pie-100-0000FF.png,0000FF
+63-3,63,'There is no 'seem' construction,,3,pie-100-FFFFFF.png,FFFFFF
+64-1,64,An expletive subject is used,,1,pie-100-FF0000.png,FF0000
+64-2,64,An expletive subject is not used,,2,pie-100-0000FF.png,0000FF
+65-1,65,Rain falls,,1,pie-100-0000FF.png,0000FF
+65-3,65,Rain rains,,2,pie-100-ADD8E6.png,ADD8E6
+65-4,65,It rains,,3,pie-100-FF0000.png,FF0000
+65-5,65,Rains,,4,pie-100-FFFF00.png,FFFF00
+65-7,65,It gives rain,,5,pie-100-000000.png,000000
+65-6,65,Rain exists,,6,pie-100-964B00.png,964B00
+66-1,66,Experiencer is subject,,1,pie-100-FF0000.png,FF0000
+66-3,66,Body-part is subject,,2,pie-100-FFFF00.png,FFFF00
+66-2,66,Pain is subject,,3,pie-100-0000FF.png,0000FF
+66-5,66,Experiencer is dative,,4,pie-100-ADD8E6.png,ADD8E6
+66-6,66,Incorporated body-part noun,,5,pie-100-000000.png,000000
+67-1,67,Experiencer is subject,,1,pie-100-FF0000.png,FF0000
+67-2,67,Experiencer is object,,2,pie-100-0000FF.png,0000FF
+67-6,67,Experiencer is dative,,3,pie-100-ADD8E6.png,ADD8E6
+67-5,67,Both experiencer and stimulus are objects,,4,pie-100-800080.png,800080
+68-1,68,"Experiencer is subject, 'fear' is verbal",,1,pie-100-FF0000.png,FF0000
+68-2,68,"Experiencer is subject, 'fear' is non-verbal",,2,pie-100-FF7F00.png,FF7F00
+68-3,68,"'Fear' is subject, experiencer is object",,3,pie-100-0000FF.png,0000FF
+68-7,68,Experiencer is dative,,4,pie-100-ADD8E6.png,ADD8E6
+68-4,68,"'Fear' is subject, experiencer is oblique",,5,pie-100-000000.png,000000
+68-5,68,Body-part is subject,,6,pie-100-FFFF00.png,FFFF00
+69-1,69,Adposition,,1,pie-100-0000FF.png,0000FF
+69-2,69,Serial verb,,2,pie-100-FF0000.png,FF0000
+69-5,69,Non-serial verb,,3,pie-100-FFFF00.png,FFFF00
+69-4,69,Unmarked noun phrase,,4,pie-100-FFFFFF.png,FFFFFF
+69-3,69,Case marker,,5,pie-100-000000.png,000000
+70-1,70,Identity,,1,pie-100-FFFF00.png,FFFF00
+70-2,70,Differentiation,,2,pie-100-FF0000.png,FF0000
+70-3,70,Overlap,,3,pie-100-FF7F00.png,FF7F00
+71-1,71,Identity,,1,pie-100-FFFF00.png,FFFF00
+71-2,71,Differentiation,,2,pie-100-FF0000.png,FF0000
+71-3,71,Overlap,,3,pie-100-FF7F00.png,FF7F00
+72-1,72,"Identity, overtly expressed",,1,pie-100-FFFF00.png,FFFF00
+72-2,72,"Identity, expressed by juxtaposition",,2,pie-100-000000.png,000000
+72-3,72,Differentiation,,3,pie-100-FF0000.png,FF0000
+72-4,72,Overlap,,4,pie-100-FF7F00.png,FF7F00
+72-5,72,Identity and differentiation,,5,pie-100-FFFFFF.png,FFFFFF
+73-1,73,Invariant copula,,1,pie-100-FF0000.png,FF0000
+73-2,73,No copula,,2,pie-100-FFFFFF.png,FFFFFF
+73-3,73,Variable copula,,3,pie-100-FFB6C1.png,FFB6C1
+74-1,74,Invariant copula,,1,pie-100-FF0000.png,FF0000
+74-2,74,No copula,,2,pie-100-FFFFFF.png,FFFFFF
+74-3,74,Variable copula,,3,pie-100-FFB6C1.png,FFB6C1
+75-1,75,Invariant copula,,1,pie-100-FF0000.png,FF0000
+75-2,75,No copula,,2,pie-100-FFFFFF.png,FFFFFF
+75-3,75,Variable copula,,3,pie-100-FFB6C1.png,FFB6C1
+76-1,76,Identity,,1,pie-100-FFFF00.png,FFFF00
+76-2,76,Differentiation,,2,pie-100-FF0000.png,FF0000
+76-3,76,Overlap,,3,pie-100-FF7F00.png,FF7F00
+76-4,76,Identity and differentiation,,4,pie-100-000000.png,000000
+77-1,77,Transitive,,1,pie-100-FF0000.png,FF0000
+77-4,77,Comitative,,2,pie-100-FFFF00.png,FFFF00
+77-2,77,Locational,,3,pie-100-000000.png,000000
+77-3,77,Genitive,,4,pie-100-ADD8E6.png,ADD8E6
+77-5,77,Topic,,5,pie-100-FF7F00.png,FF7F00
+78-1,78,Identity,,1,pie-100-FFFF00.png,FFFF00
+78-2,78,Differentiation,,2,pie-100-FF0000.png,FF0000
+78-3,78,Overlap,,3,pie-100-FF7F00.png,FF7F00
+78-5,78,No transitive possession verb,,4,pie-100-FFFFFF.png,FFFFFF
+79-1,79,No adpositional/case marking,,1,pie-100-FFFFFF.png,FFFFFF
+79-2,79,Preposition,,2,pie-100-FF0000.png,FF0000
+79-3,79,Postpostion,,3,pie-100-0000FF.png,0000FF
+79-4,79,Circumposition,,4,pie-100-800080.png,800080
+79-5,79,Serial verb,,5,pie-100-FFFF00.png,FFFF00
+79-6,79,Serial verb plus preposition,,6,pie-100-FF7F00.png,FF7F00
+79-7,79,Case,,7,pie-100-000000.png,000000
+80-1,80,No adpositional/case marking,,1,pie-100-FFFFFF.png,FFFFFF
+80-2,80,Preposition,,2,pie-100-FF0000.png,FF0000
+80-3,80,Postposition,,3,pie-100-0000FF.png,0000FF
+80-4,80,Circumposition,,4,pie-100-800080.png,800080
+80-5,80,Serial verb,,5,pie-100-FFFF00.png,FFFF00
+80-6,80,Serial verb plus preposition,,6,pie-100-FF7F00.png,FF7F00
+80-7,80,Case,,7,pie-100-000000.png,000000
+81-1,81,Identity,,1,pie-100-FFFF00.png,FFFF00
+81-2,81,Differentiation,,2,pie-100-FF0000.png,FF0000
+81-3,81,Overlap,,3,pie-100-FF7F00.png,FF7F00
+81-4,81,Identity and differentiation,,4,pie-100-000000.png,000000
+82-1,82,Special motion-to preposition,,1,pie-100-FF0000.png,FF0000
+82-2,82,At-rest marking is used to express motion-to,,2,pie-100-0000FF.png,0000FF
+82-3,82,Serial verb construction,,3,pie-100-FFFF00.png,FFFF00
+82-4,82,Serial verb construction plus preposition,,4,pie-100-FF7F00.png,FF7F00
+82-5,82,Circumposition,,5,pie-100-800080.png,800080
+82-6,82,Allative case,,6,pie-100-000000.png,000000
+83-1,83,Special motion-from adposition,,1,pie-100-FF0000.png,FF0000
+83-2,83,At-rest marking is used to express motion-from,,2,pie-100-0000FF.png,0000FF
+83-3,83,Serial verb construction,,3,pie-100-FFFF00.png,FFFF00
+83-4,83,Serial verb construction plus preposition,,4,pie-100-FF7F00.png,FF7F00
+83-5,83,Circumposition,,5,pie-100-800080.png,800080
+83-6,83,Ablative case,,6,pie-100-000000.png,000000
+84-2,84,‘Come’ and ‘go’ directionals exist,,1,pie-100-FF0000.png,FF0000
+84-3,84,‘Come’ and ‘go’ directionals do not exist,,2,pie-100-FFFFFF.png,FFFFFF
+85-2,85,"Theme of the second verb, literal interpretation possible",,1,pie-100-0000FF.png,0000FF
+85-3,85,"Theme of the second verb, literal interpretation impossible",,2,pie-100-ADD8E6.png,ADD8E6
+85-5,85,"Instrument of the second verb, no resumptive pronoun",,3,pie-100-FF0000.png,FF0000
+85-4,85,"Instrument of the second verb, with resumptive pronoun",,4,pie-100-FFFF00.png,FFFF00
+85-1,85,No ‘take’ serials,,5,pie-100-FFFFFF.png,FFFFFF
+86-1,86,"‘Give’ in second position, recipient only",,1,pie-100-0000FF.png,0000FF
+86-2,86,"‘Give’ in second position, recipient or beneficiary",,2,pie-100-FF0000.png,FF0000
+86-3,86,"‘Give’ in first position, recipient only",,3,pie-100-FFFF00.png,FFFF00
+86-5,86,No ‘give’ serials exist,,4,pie-100-FFFFFF.png,FFFFFF
+87-1,87,Ordinary anaphoric pronoun,,1,pie-100-FFFFFF.png,FFFFFF
+87-6,87,Implicit expression,,2,pie-100-ADD8E6.png,ADD8E6
+87-4,87,Reflexive marking on the verb,,3,pie-100-000000.png,000000
+87-2,87,Reflexive pronoun with ‘body’ or body-part,,4,pie-100-FF0000.png,FF0000
+87-3,87,Compound reflexive pronoun with emphasizer,,5,pie-100-FFFF00.png,FFFF00
+87-7,87,Dedicated reflexive pronoun,,6,pie-100-0000FF.png,0000FF
+88-1,88,Intensifiers and reflexives are identical,,1,pie-100-FFFF00.png,FFFF00
+88-2,88,Intensifiers and reflexives are differentiated,,2,pie-100-FF0000.png,FF0000
+88-3,88,Intensifiers and reflexives overlap,,3,pie-100-FF7F00.png,FF7F00
+88-4,88,Identical and differentiated,,4,pie-100-000000.png,000000
+88-5,88,No special reflexive pronouns exist,,5,pie-100-FFFFFF.png,FFFFFF
+89-1,89,Reciprocal construction identical to reflexive,,1,pie-100-FFFF00.png,FFFF00
+89-3,89,Identical and special reciprocal construction,,2,pie-100-000000.png,000000
+89-2,89,Special reciprocal construction based on 'other',,3,pie-100-FF0000.png,FF0000
+89-6,89,Special reciprocal construction based on 'companion',,4,pie-100-FF7F00.png,FF7F00
+89-5,89,Other special reciprocal construction,,5,pie-100-800080.png,800080
+89-4,89,No reciprocal construction exists,,6,pie-100-FFFFFF.png,FFFFFF
+90-1,90,Typical passive construction,,1,pie-100-FF0000.png,FF0000
+90-3,90,Passive without verbal coding,,2,pie-100-FFFF00.png,FFFF00
+90-4,90,Other atypical passive construction,,3,pie-100-0000FF.png,0000FF
+90-2,90,Absence of passive construction,,4,pie-100-FFFFFF.png,FFFFFF
+91-2,91,Benefactive function and transitive base,,1,pie-100-FF0000.png,FF0000
+91-1,91,Benefactive function and any base,,2,pie-100-FFFF00.png,FFFF00
+91-3,91,Benefactive and other functions,,3,pie-100-0000FF.png,0000FF
+91-8,91,No applicative construction exists,,4,pie-100-FFFFFF.png,FFFFFF
+92-1,92,Relative pronoun,,1,pie-100-FFFF00.png,FFFF00
+92-2,92,Relative particle and gap,,2,pie-100-FF0000.png,FF0000
+92-3,92,Relative particle and resumptive pronoun,,3,pie-100-FFB6C1.png,FFB6C1
+92-4,92,Zero and gap,,4,pie-100-0000FF.png,0000FF
+92-5,92,Zero and resumptive pronoun,,5,pie-100-ADD8E6.png,ADD8E6
+92-6,92,Non-reduction,,6,pie-100-FFFFFF.png,FFFFFF
+92-7,92,Verbal affix,,7,pie-100-000000.png,000000
+93-1,93,Relative pronoun,,1,pie-100-FFFF00.png,FFFF00
+93-2,93,Relative particle and gap,,2,pie-100-FF0000.png,FF0000
+93-3,93,Relative particle and resumptive pronoun,,3,pie-100-FFB6C1.png,FFB6C1
+93-4,93,Zero and gap,,4,pie-100-0000FF.png,0000FF
+93-5,93,Zero and resumptive pronoun,,5,pie-100-ADD8E6.png,ADD8E6
+93-6,93,Non-reduction,,6,pie-100-FFFFFF.png,FFFFFF
+93-8,93,Verbal affix,,7,pie-100-000000.png,000000
+93-7,93,Impossible,,8,pie-100-808080.png,808080
+94-1,94,Relative pronoun with pied-piping,,1,pie-100-FFFF00.png,FFFF00
+94-2,94,Relative particle and gap with preposition stranding,,2,pie-100-FF0000.png,FF0000
+94-3,94,Relative particle and resumptive pronoun,,3,pie-100-FFB6C1.png,FFB6C1
+94-4,94,Zero and gap with preposition stranding,,4,pie-100-0000FF.png,0000FF
+94-5,94,Zero and resumptive pronoun,,5,pie-100-ADD8E6.png,ADD8E6
+94-7,94,Relative pronoun with resumptive pronoun,,6,pie-100-FF7F00.png,FF7F00
+94-9,94,Instrument meaning is left implicit,,7,pie-100-964B00.png,964B00
+94-8,94,Impossible,,8,pie-100-808080.png,808080
+95-1,95,Complementizer identical to bare ‘say’,,1,pie-100-FFFF00.png,FFFF00
+95-2,95,Complementizer consists of ‘say’ plus some other marker,,2,pie-100-FF0000.png,FF0000
+95-3,95,Complementizer not synchronically related to ‘say’,,3,pie-100-0000FF.png,0000FF
+95-4,95,No complementizer,,4,pie-100-FFFFFF.png,FFFFFF
+96-1,96,Complementizer identical to bare ‘say’,,1,pie-100-FFFF00.png,FFFF00
+96-2,96,Complementizer consists of ‘say’ plus some other marker,,2,pie-100-FF0000.png,FF0000
+96-3,96,Complementizer not synchronically related to ‘say’,,3,pie-100-0000FF.png,0000FF
+96-4,96,No complementizer,,4,pie-100-FFFFFF.png,FFFFFF
+97-1,97,The complement subject is left implicit,,1,pie-100-0000FF.png,0000FF
+97-2,97,The complement subject is expressed overtly,,2,pie-100-FF0000.png,FF0000
+97-3,97,Desiderative verbal affix,,3,pie-100-FFFF00.png,FFFF00
+97-4,97,Desiderative particle,,4,pie-100-000000.png,000000
+98-1,98,Identical complementizer,,1,pie-100-FFFF00.png,FFFF00
+98-3,98,Different complementizer,,2,pie-100-FF0000.png,FF0000
+98-6,98,Only 'think' complement has a complementizer,,3,pie-100-0000FF.png,0000FF
+98-7,98,Only 'want' complement has a complementizer,,4,pie-100-ADD8E6.png,ADD8E6
+98-5,98,No complementizer,,5,pie-100-FFFFFF.png,FFFFFF
+99-1,99,Verb doubling is possible in temporal clauses,,1,pie-100-FF0000.png,FF0000
+99-2,99,Verb doubling is not possible in temporal clauses,,2,pie-100-FFFFFF.png,FFFFFF
+100-1,100,Negative affix,,1,pie-100-ADD8E6.png,ADD8E6
+100-4,100,Negative particle,,2,pie-100-0000FF.png,0000FF
+100-3,100,Negative auxiliary verb,,3,pie-100-FFFF00.png,FFFF00
+100-5,100,Bipartite negative marker,,4,pie-100-FF0000.png,FF0000
+101-1,101,Before the verb,,1,pie-100-FF0000.png,FF0000
+101-2,101,Immediately after the verb,,2,pie-100-0000FF.png,0000FF
+101-3,101,After verb plus postverbal object,,3,pie-100-ADD8E6.png,ADD8E6
+101-4,101,"Bipartite, before verb and immediately after",,4,pie-100-800080.png,800080
+101-5,101,"Bipartite, before verb and after object",,5,pie-100-FFFF00.png,FFFF00
+101-6,101,"Bipartite, other possibilities",,6,pie-100-000000.png,000000
+102-1,102,Co-occurrence with predicate negation,,1,pie-100-0000FF.png,0000FF
+102-3,102,Preclusion possible with preverbal indefinites,,2,pie-100-FF0000.png,FF0000
+102-5,102,Preclusion possible under other conditions,,3,pie-100-FF7F00.png,FF7F00
+102-6,102,Negative existential construction,,4,pie-100-FFFF00.png,FFFF00
+103-7,103,Only interrogative intonation,,1,pie-100-FFFFFF.png,FFFFFF
+103-5,103,Interrogative word order,,2,pie-100-FF0000.png,FF0000
+103-1,103,Initial question particle,,3,pie-100-ADD8E6.png,ADD8E6
+103-2,103,Final question particle,,4,pie-100-0000FF.png,0000FF
+103-8,103,Question particle in other position,,5,pie-100-FFFF00.png,FFFF00
+103-3,103,Interrogative verb morphology,,6,pie-100-000000.png,000000
+103-9,103,A-not-A question,,7,pie-100-FFB6C1.png,FFB6C1
+104-1,104,Cleft with copula before focus,,1,pie-100-FF0000.png,FF0000
+104-2,104,Cleft with copula after focus,,2,pie-100-0000FF.png,0000FF
+104-3,104,Cleft with focus particle before focus,,3,pie-100-FFB6C1.png,FFB6C1
+104-4,104,Cleft with focus particle after focus,,4,pie-100-ADD8E6.png,ADD8E6
+104-5,104,Bare cleft (without highlighter),,5,pie-100-FFFFFF.png,FFFFFF
+104-6,104,Fronting with particle before focus,,6,pie-100-800080.png,800080
+104-7,104,Fronting with particle after focus,,7,pie-100-FFFF00.png,FFFF00
+104-8,104,Bare fronting (without particle),,8,pie-100-808080.png,808080
+104-9,104,In situ focusing (with particle),,9,pie-100-000000.png,000000
+105-3,105,No verb doubling,,1,pie-100-FFFFFF.png,FFFFFF
+105-1,105,Verb fronted with a copy in the background clause,,2,pie-100-FF0000.png,FF0000
+105-2,105,Verb reduplicated,,3,pie-100-0000FF.png,0000FF
+106-1,106,Before the focused element,,1,pie-100-FF0000.png,FF0000
+106-2,106,After the focused element,,2,pie-100-0000FF.png,0000FF
+106-4,106,Non-adjacent preceding,,3,pie-100-FFFF00.png,FFFF00
+106-3,106,Non-adjacent following,,4,pie-100-ADD8E6.png,ADD8E6
+107-1,107,Optional vocative marker preceding noun,,1,pie-100-FF0000.png,FF0000
+107-2,107,Optional vocative marker following noun,,2,pie-100-0000FF.png,0000FF
+107-3,107,Optional vocative marker in both positions,,3,pie-100-FFFF00.png,FFFF00
+107-4,107,Obligatory vocative marker preceding noun,,4,pie-100-000000.png,000000
+107-7,107,No vocative marker,,5,pie-100-FFFFFF.png,FFFFFF
+108-4,108,No para-linguistic clicks,,1,pie-100-FFFFFF.png,FFFFFF
+108-2,108,Clicks can express only affective meanings,,2,pie-100-FF0000.png,FF0000
+108-1,108,Clicks can express only logical meanings,,3,pie-100-0000FF.png,0000FF
+108-3,108,Both logical and affective meanings,,4,pie-100-FFFF00.png,FFFF00
+109-1,109,A word derived from pequenino exists,,1,pie-100-FF0000.png,FF0000
+109-2,109,A word derived from pequenino does not exist,,2,pie-100-FFFFFF.png,FFFFFF
+110-1,110,A savvy word exists,,1,pie-100-FF0000.png,FF0000
+110-2,110,A savvy word does not exist,,2,pie-100-FFFFFF.png,FFFFFF
+111-1,111,Monomorphemic,,1,pie-100-0000FF.png,0000FF
+111-2,111,Bimorphemic,,2,pie-100-FF0000.png,FF0000
+111-3,111,Phrase/circumlocution,,3,pie-100-FFFF00.png,FFFF00
+112-1,112,Identity,,1,pie-100-FFFF00.png,FFFF00
+112-2,112,Differentiation,,2,pie-100-FF0000.png,FF0000
+112-3,112,Overlap,,3,pie-100-FF7F00.png,FF7F00
+113-2,113,Differentiation,,1,pie-100-FF0000.png,FF0000
+113-4,113,Identity and differentiation,,2,pie-100-000000.png,000000
+113-3,113,Overlap,,3,pie-100-FF7F00.png,FF7F00
+113-1,113,Identity,,4,pie-100-FFFF00.png,FFFF00
+114-2,114,Differentiation,,1,pie-100-FF0000.png,FF0000
+114-1,114,Identity,,2,pie-100-FFFF00.png,FFFF00
+114-3,114,Overlap,,3,pie-100-FF7F00.png,FF7F00
+114-4,114,Identity and differentiation,,4,pie-100-000000.png,000000
+115-2,115,Differentiation,,1,pie-100-FF0000.png,FF0000
+115-1,115,Identity,,2,pie-100-FFFF00.png,FFFF00
+115-3,115,Overlap,,3,pie-100-FF7F00.png,FF7F00
+115-4,115,Identity and differentiation,,4,pie-100-000000.png,000000
+116-2,116,Differentiation,,1,pie-100-FF0000.png,FF0000
+116-1,116,Identity,,2,pie-100-FFFF00.png,FFFF00
+116-3,116,Overlap,,3,pie-100-FF7F00.png,FF7F00
+116-5,116,Not applicable,,4,pie-100-FFFFFF.png,FFFFFF
+117-1,117,Preposed sex-denoting word,,1,pie-100-FF0000.png,FF0000
+117-2,117,Postposed sex-denoting word,,2,pie-100-0000FF.png,0000FF
+117-3,117,Sex-denoting prefix,,3,pie-100-FFB6C1.png,FFB6C1
+117-4,117,Sex-denoting suffix,,4,pie-100-ADD8E6.png,ADD8E6
+117-5,117,Other,,5,pie-100-FFFF00.png,FFFF00
+118-1,118,Only simple onsets,,1,pie-100-FFFF00.png,FFFF00
+118-2,118,Onsets at most moderately complex,,2,pie-100-FF7F00.png,FF7F00
+118-3,118,Onsets may be complex,,3,pie-100-FF0000.png,FF0000
+119-1,119,No syllable codas,,1,pie-100-FFFF00.png,FFFF00
+119-2,119,Only simple codas,,2,pie-100-FF7F00.png,FF7F00
+119-3,119,Codas at most moderately complex,,3,pie-100-FF0000.png,FF0000
+119-4,119,Codas may be complex,,4,pie-100-000000.png,000000
+120-1,120,No tone distinctions,,1,pie-100-FFFFFF.png,FFFFFF
+120-2,120,Reduced tone system,,2,pie-100-FFFF00.png,FFFF00
+120-3,120,"Simple system, for lexical distinctions only",,3,pie-100-FF0000.png,FF0000
+120-5,120,"Simple tone system, for lexical and grammatical distinctions",,4,pie-100-800080.png,800080
+120-8,120,"Complex tone system, for lexical and grammatical distinctions",,5,pie-100-000000.png,000000
+121-1,121,Two vowel heights,,1,pie-100-FFFFFF.png,FFFFFF
+121-2,121,Three vowel heights,,2,pie-100-FFFF00.png,FFFF00
+121-3,121,Four vowel heights,,3,pie-100-FF0000.png,FF0000
+121-4,121,Five vowel heights,,4,pie-100-000000.png,000000
+122-1,122,Present in a prominent way,,1,pie-100-FF0000.png,FF0000
+122-2,122,Present in a limited way,,2,pie-100-FFB6C1.png,FFB6C1
+122-3,122,Present only as minor allophones,,3,pie-100-ADD8E6.png,ADD8E6
+122-4,122,No nasal vowels exist,,4,pie-100-FFFFFF.png,FFFFFF
+123-1,123,[ə] exists as a major allophone,,1,pie-100-FF0000.png,FF0000
+123-2,123,[ə] exists as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+123-3,123,[ə] exists only in loanwords,,3,pie-100-FFFF00.png,FFFF00
+123-4,123,[ə] does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+124-1,124,Both [f] and [v] exist as major allophones,,1,pie-100-FF0000.png,FF0000
+124-2,124,[f] and [v] exist in a limited way,,2,pie-100-FF7F00.png,FF7F00
+124-3,124,Only [f] exists,,3,pie-100-FFFF00.png,FFFF00
+124-4,124,Only [v] exists,,4,pie-100-ADD8E6.png,ADD8E6
+124-5,124,Neither [f] nor [v] exists,,5,pie-100-FFFFFF.png,FFFFFF
+125-1,125,Both [ʃ] and [ʒ] exist as major allophones,,1,pie-100-FF0000.png,FF0000
+125-2,125,[ʃ] and [ʒ] exist in a limited way,,2,pie-100-FF7F00.png,FF7F00
+125-3,125,Only [ʃ] exists,,3,pie-100-FFFF00.png,FFFF00
+125-4,125,Neither [ʃ] nor [ʒ] exists,,4,pie-100-FFFFFF.png,FFFFFF
+126-1,126,[z] exists as a major allophone,,1,pie-100-FF0000.png,FF0000
+126-2,126,[z] exists as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+126-3,126,[z] exists only in loanwords,,3,pie-100-FFFF00.png,FFFF00
+126-4,126,[z] does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+127-1,127,[θ] and [ð] are major allophones,,1,pie-100-FF0000.png,FF0000
+127-2,127,[θ] and [ð] are minor allophones,,2,pie-100-FFB6C1.png,FFB6C1
+127-3,127,[θ] and [ð] exist only in loanwords,,3,pie-100-FFFF00.png,FFFF00
+127-4,127,"Only [ð] exists, as a minor allophone",,4,pie-100-808080.png,808080
+127-5,127,"Only [θ] exists, in a limited way",,5,pie-100-000000.png,000000
+127-6,127,Neither [θ] nor [ð] exists,,6,pie-100-FFFFFF.png,FFFFFF
+128-1,128,[ɲ] exists as a major allophone,,1,pie-100-FF0000.png,FF0000
+128-2,128,[ɲ] exists as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+128-3,128,[ɲ] exists only in loanwords,,3,pie-100-FFFF00.png,FFFF00
+128-4,128,[ɲ] does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+129-1,129,Prenasalized segments exist,,1,pie-100-FF0000.png,FF0000
+129-2,129,No prenasalized segments,,2,pie-100-FFFFFF.png,FFFFFF
+130-1,130,[h] exists as a major allophone,,1,pie-100-FF0000.png,FF0000
+130-2,130,[h] exists as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+130-3,130,[h] exists only in loanwords,,3,pie-100-FFFF00.png,FFFF00
+130-4,130,[h] does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+131-1,131,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+131-2,131,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+131-3,131,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+131-4,131,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+132-1,132,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+132-2,132,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+132-3,132,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+132-4,132,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+133-1,133,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+133-2,133,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+133-3,133,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+133-4,133,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+134-1,134,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+134-2,134,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+134-3,134,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+134-4,134,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+135-1,135,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+135-2,135,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+135-3,135,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+135-4,135,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+136-1,136,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+136-2,136,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+136-3,136,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+136-4,136,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+137-1,137,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+137-2,137,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+137-3,137,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+137-4,137,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+138-1,138,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+138-2,138,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+138-3,138,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+138-4,138,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+139-1,139,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+139-2,139,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+139-3,139,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+139-4,139,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+140-1,140,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+140-2,140,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+140-3,140,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+140-4,140,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+141-1,141,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+141-2,141,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+141-3,141,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+141-4,141,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+142-1,142,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+142-2,142,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+142-3,142,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+142-4,142,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+143-1,143,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+143-2,143,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+143-3,143,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+143-4,143,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+144-1,144,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+144-2,144,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+144-3,144,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+144-4,144,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+145-1,145,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+145-2,145,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+145-3,145,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+145-4,145,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+146-1,146,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+146-2,146,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+146-3,146,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+146-4,146,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+147-1,147,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+147-2,147,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+147-3,147,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+147-4,147,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+148-1,148,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+148-2,148,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+148-3,148,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+148-4,148,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+149-1,149,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+149-2,149,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+149-3,149,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+149-4,149,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+150-1,150,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+150-2,150,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+150-3,150,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+150-4,150,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+151-1,151,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+151-2,151,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+151-3,151,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+151-4,151,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+152-1,152,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+152-2,152,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+152-3,152,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+152-4,152,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+153-1,153,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+153-2,153,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+153-3,153,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+153-4,153,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+154-1,154,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+154-2,154,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+154-3,154,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+154-4,154,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+155-1,155,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+155-2,155,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+155-3,155,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+155-4,155,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+156-1,156,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+156-2,156,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+156-3,156,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+156-4,156,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+157-1,157,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+157-2,157,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+157-3,157,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+157-4,157,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+158-1,158,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+158-2,158,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+158-3,158,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+158-4,158,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+159-1,159,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+159-2,159,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+159-3,159,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+159-4,159,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+160-1,160,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+160-2,160,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+160-3,160,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+160-4,160,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+161-1,161,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+161-2,161,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+161-3,161,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+161-4,161,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+162-1,162,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+162-2,162,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+162-3,162,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+162-4,162,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+163-1,163,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+163-2,163,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+163-3,163,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+163-4,163,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+164-1,164,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+164-2,164,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+164-3,164,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+164-4,164,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+165-1,165,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+165-2,165,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+165-3,165,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+165-4,165,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+166-1,166,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+166-2,166,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+166-3,166,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+166-4,166,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+167-1,167,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+167-2,167,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+167-3,167,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+167-4,167,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+168-1,168,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+168-2,168,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+168-3,168,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+168-4,168,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+169-1,169,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+169-2,169,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+169-3,169,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+169-4,169,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+170-1,170,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+170-2,170,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+170-3,170,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+170-4,170,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+171-1,171,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+171-2,171,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+171-3,171,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+171-4,171,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+172-1,172,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+172-2,172,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+172-3,172,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+172-4,172,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+173-1,173,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+173-2,173,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+173-3,173,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+173-4,173,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+174-1,174,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+174-2,174,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+174-3,174,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+174-4,174,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+175-1,175,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+175-2,175,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+175-3,175,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+175-4,175,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+176-1,176,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+176-2,176,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+176-3,176,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+176-4,176,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+177-1,177,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+177-2,177,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+177-3,177,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+177-4,177,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+178-1,178,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+178-2,178,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+178-3,178,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+178-4,178,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+179-1,179,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+179-2,179,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+179-3,179,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+179-4,179,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+180-1,180,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+180-2,180,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+180-3,180,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+180-4,180,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+181-1,181,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+181-2,181,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+181-3,181,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+181-4,181,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+182-1,182,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+182-2,182,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+182-3,182,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+182-4,182,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+183-1,183,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+183-2,183,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+183-3,183,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+183-4,183,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+184-1,184,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+184-2,184,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+184-3,184,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+184-4,184,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+185-1,185,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+185-2,185,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+185-3,185,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+185-4,185,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+186-1,186,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+186-2,186,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+186-3,186,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+186-4,186,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+187-1,187,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+187-2,187,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+187-3,187,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+187-4,187,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+188-1,188,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+188-2,188,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+188-3,188,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+188-4,188,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+189-1,189,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+189-2,189,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+189-3,189,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+189-4,189,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+190-1,190,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+190-2,190,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+190-3,190,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+190-4,190,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+191-1,191,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+191-2,191,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+191-3,191,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+191-4,191,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+192-1,192,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+192-2,192,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+192-3,192,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+192-4,192,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+193-1,193,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+193-2,193,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+193-3,193,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+193-4,193,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+194-1,194,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+194-2,194,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+194-3,194,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+194-4,194,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+195-1,195,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+195-2,195,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+195-3,195,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+195-4,195,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+196-1,196,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+196-2,196,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+196-3,196,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+196-4,196,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+197-1,197,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+197-2,197,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+197-3,197,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+197-4,197,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+198-1,198,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+198-2,198,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+198-3,198,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+198-4,198,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+199-1,199,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+199-2,199,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+199-3,199,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+199-4,199,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+200-1,200,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+200-2,200,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+200-3,200,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+200-4,200,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+201-1,201,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+201-2,201,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+201-3,201,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+201-4,201,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+202-1,202,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+202-2,202,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+202-3,202,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+202-4,202,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+203-1,203,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+203-2,203,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+203-3,203,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+203-4,203,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+204-1,204,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+204-2,204,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+204-3,204,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+204-4,204,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+205-1,205,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+205-2,205,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+205-3,205,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+205-4,205,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+206-1,206,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+206-2,206,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+206-3,206,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+206-4,206,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+207-1,207,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+207-2,207,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+207-3,207,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+207-4,207,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+208-1,208,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+208-2,208,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+208-3,208,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+208-4,208,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+209-1,209,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+209-2,209,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+209-3,209,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+209-4,209,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+210-1,210,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+210-2,210,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+210-3,210,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+210-4,210,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+211-1,211,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+211-2,211,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+211-3,211,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+211-4,211,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+212-1,212,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+212-2,212,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+212-3,212,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+212-4,212,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+213-1,213,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+213-2,213,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+213-3,213,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+213-4,213,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+214-1,214,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+214-2,214,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+214-3,214,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+214-4,214,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+215-1,215,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+215-2,215,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+215-3,215,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+215-4,215,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+216-1,216,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+216-2,216,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+216-3,216,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+216-4,216,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+217-1,217,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+217-2,217,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+217-3,217,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+217-4,217,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+218-1,218,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+218-2,218,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+218-3,218,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+218-4,218,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+219-1,219,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+219-2,219,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+219-3,219,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+219-4,219,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+220-1,220,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+220-2,220,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+220-3,220,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+220-4,220,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+221-1,221,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+221-2,221,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+221-3,221,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+221-4,221,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+222-1,222,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+222-2,222,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+222-3,222,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+222-4,222,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+223-1,223,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+223-2,223,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+223-3,223,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+223-4,223,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+224-1,224,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+224-2,224,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+224-3,224,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+224-4,224,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+225-1,225,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+225-2,225,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+225-3,225,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+225-4,225,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+226-1,226,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+226-2,226,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+226-3,226,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+226-4,226,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+227-1,227,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+227-2,227,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+227-3,227,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+227-4,227,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+228-1,228,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+228-2,228,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+228-3,228,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+228-4,228,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+229-1,229,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+229-2,229,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+229-3,229,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+229-4,229,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+230-1,230,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+230-2,230,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+230-3,230,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+230-4,230,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+231-1,231,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+231-2,231,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+231-3,231,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+231-4,231,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+232-1,232,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+232-2,232,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+232-3,232,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+232-4,232,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+233-1,233,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+233-2,233,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+233-3,233,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+233-4,233,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+234-1,234,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+234-2,234,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+234-3,234,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+234-4,234,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+235-1,235,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+235-2,235,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+235-3,235,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+235-4,235,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+236-1,236,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+236-2,236,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+236-3,236,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+236-4,236,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+237-1,237,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+237-2,237,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+237-3,237,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+237-4,237,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+238-1,238,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+238-2,238,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+238-3,238,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+238-4,238,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+239-1,239,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+239-2,239,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+239-3,239,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+239-4,239,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+240-1,240,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+240-2,240,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+240-3,240,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+240-4,240,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+241-1,241,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+241-2,241,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+241-3,241,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+241-4,241,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+242-1,242,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+242-2,242,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+242-3,242,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+242-4,242,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+243-1,243,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+243-2,243,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+243-3,243,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+243-4,243,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+244-1,244,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+244-2,244,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+244-3,244,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+244-4,244,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+245-1,245,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+245-2,245,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+245-3,245,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+245-4,245,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+246-1,246,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+246-2,246,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+246-3,246,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+246-4,246,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+247-1,247,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+247-2,247,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+247-3,247,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+247-4,247,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+248-1,248,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+248-2,248,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+248-3,248,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+248-4,248,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+249-1,249,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+249-2,249,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+249-3,249,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+249-4,249,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+250-1,250,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+250-2,250,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+250-3,250,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+250-4,250,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+251-1,251,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+251-2,251,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+251-3,251,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+251-4,251,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+252-1,252,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+252-2,252,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+252-3,252,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+252-4,252,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+253-1,253,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+253-2,253,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+253-3,253,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+253-4,253,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+254-1,254,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+254-2,254,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+254-3,254,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+254-4,254,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+255-1,255,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+255-2,255,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+255-3,255,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+255-4,255,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+256-1,256,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+256-2,256,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+256-3,256,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+256-4,256,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+257-1,257,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+257-2,257,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+257-3,257,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+257-4,257,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+258-1,258,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+258-2,258,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+258-3,258,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+258-4,258,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+259-1,259,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+259-2,259,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+259-3,259,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+259-4,259,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+260-1,260,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+260-2,260,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+260-3,260,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+260-4,260,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+261-1,261,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+261-2,261,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+261-3,261,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+261-4,261,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+262-1,262,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+262-2,262,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+262-3,262,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+262-4,262,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+263-1,263,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+263-2,263,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+263-3,263,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+263-4,263,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+264-1,264,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+264-2,264,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+264-3,264,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+264-4,264,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+265-1,265,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+265-2,265,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+265-3,265,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+265-4,265,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+266-1,266,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+266-2,266,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+266-3,266,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+266-4,266,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+267-1,267,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+267-2,267,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+267-3,267,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+267-4,267,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+268-1,268,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+268-2,268,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+268-3,268,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+268-4,268,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+269-1,269,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+269-2,269,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+269-3,269,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+269-4,269,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+270-1,270,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+270-2,270,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+270-3,270,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+270-4,270,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+271-1,271,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+271-2,271,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+271-3,271,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+271-4,271,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+272-1,272,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+272-2,272,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+272-3,272,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+272-4,272,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+273-1,273,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+273-2,273,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+273-3,273,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+273-4,273,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+274-1,274,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+274-2,274,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+274-3,274,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+274-4,274,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+275-1,275,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+275-2,275,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+275-3,275,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+275-4,275,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+276-1,276,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+276-2,276,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+276-3,276,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+276-4,276,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+277-1,277,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+277-2,277,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+277-3,277,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+277-4,277,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+278-1,278,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+278-2,278,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+278-3,278,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+278-4,278,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+279-1,279,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+279-2,279,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+279-3,279,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+279-4,279,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+280-1,280,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+280-2,280,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+280-3,280,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+280-4,280,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+281-1,281,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+281-2,281,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+281-3,281,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+281-4,281,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+282-1,282,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+282-2,282,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+282-3,282,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+282-4,282,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+283-1,283,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+283-2,283,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+283-3,283,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+283-4,283,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+284-1,284,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+284-2,284,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+284-3,284,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+284-4,284,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+285-1,285,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+285-2,285,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+285-3,285,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+285-4,285,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+286-1,286,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+286-2,286,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+286-3,286,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+286-4,286,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+287-1,287,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+287-2,287,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+287-3,287,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+287-4,287,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+288-1,288,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+288-2,288,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+288-3,288,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+288-4,288,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+289-1,289,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+289-2,289,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+289-3,289,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+289-4,289,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+290-1,290,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+290-2,290,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+290-3,290,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+290-4,290,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+291-1,291,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+291-2,291,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+291-3,291,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+291-4,291,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+292-1,292,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+292-2,292,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+292-3,292,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+292-4,292,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+293-1,293,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+293-2,293,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+293-3,293,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+293-4,293,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+294-1,294,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+294-2,294,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+294-3,294,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+294-4,294,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+295-1,295,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+295-2,295,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+295-3,295,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+295-4,295,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+296-1,296,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+296-2,296,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+296-3,296,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+296-4,296,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+297-1,297,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+297-2,297,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+297-3,297,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+297-4,297,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+298-1,298,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+298-2,298,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+298-3,298,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+298-4,298,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+299-1,299,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+299-2,299,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+299-3,299,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+299-4,299,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+300-1,300,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+300-2,300,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+300-3,300,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+300-4,300,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+301-1,301,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+301-2,301,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+301-3,301,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+301-4,301,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+302-1,302,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+302-2,302,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+302-3,302,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+302-4,302,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+303-1,303,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+303-2,303,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+303-3,303,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+303-4,303,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+304-1,304,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+304-2,304,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+304-3,304,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+304-4,304,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+305-1,305,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+305-2,305,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+305-3,305,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+305-4,305,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+306-1,306,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+306-2,306,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+306-3,306,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+306-4,306,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+307-1,307,Exists (as a major allophone),,1,pie-100-FC3535.png,FC3535
+307-2,307,Exists only as a minor allophone,,2,pie-100-FFB6C1.png,FFB6C1
+307-3,307,Exists only in loanwords,,3,pie-100-F7F713.png,F7F713
+307-4,307,Does not exist,,4,pie-100-FFFFFF.png,FFFFFF
+308-1,308,English,,1,pie-100-0000FF.png,0000FF
+308-2,308,French,,2,pie-100-FF0000.png,FF0000
+308-3,308,Portuguese,,3,pie-100-FFFF00.png,FFFF00
+308-4,308,Spanish,,4,pie-100-FF7F00.png,FF7F00
+308-5,308,Arabic,,5,pie-100-800080.png,800080
+308-6,308,Other,,6,pie-100-808080.png,808080
+308-7,308,Dutch,,7,pie-100-ADD8E6.png,ADD8E6
+308-8,308,Malay,,8,pie-100-FFB6C1.png,FFB6C1
+308-9,308,Bantu,,9,pie-100-000000.png,000000
+309-1,309,Virtually all,,1,pie-100-000000.png,000000
+309-2,309,Most,,2,pie-100-FF0000.png,FF0000
+309-3,309,Many,,3,pie-100-FF7F00.png,FF7F00
+309-4,309,Some,,4,pie-100-FFFF00.png,FFFF00
+309-5,309,Virtually none,,5,pie-100-FFFFFF.png,FFFFFF
+310-1,310,Widespread,,1,pie-100-FF0000.png,FF0000
+310-2,310,Limited,,2,pie-100-FFFF00.png,FFFF00
+310-3,310,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+310-4,310,Not applicable (because the language is not a pidgin),,4,pie-100-808080.png,808080
+311-1,311,Quickly,,1,pie-100-FF0000.png,FF0000
+311-2,311,Slowly,,2,pie-100-FFFF00.png,FFFF00
+311-3,311,Not at all,,3,pie-100-FFFFFF.png,FFFFFF
+312-1,312,Widespread,,1,pie-100-FF0000.png,FF0000
+312-2,312,Limited,,2,pie-100-FFFF00.png,FFFF00
+312-3,312,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+312-4,312,Not applicable (because the language is not currently spoken),,4,pie-100-808080.png,808080
+313-1,313,Less than 100 speakers or extinct,,1,pie-100-FFFFFF.png,FFFFFF
+313-2,313,"Less than 1,000 speakers",,2,pie-100-FFFF00.png,FFFF00
+313-3,313,"Less than 10,000 speakers",,3,pie-100-FF7F00.png,FF7F00
+313-4,313,"Less than 100,000 speakers",,4,pie-100-FF0000.png,FF0000
+313-5,313,"Less than 1,000,000 speakers",,5,pie-100-964B00.png,964B00
+313-6,313,"More than 1,000,000 speakers",,6,pie-100-000000.png,000000
+314-1,314,(Near-) exclusively,,1,pie-100-0000FF.png,0000FF
+314-2,314,Predominantly,,2,pie-100-ADD8E6.png,ADD8E6
+314-3,314,Used to the same extent by both genders,,3,pie-100-FFFFFF.png,FFFFFF
+315-1,315,Widespread,,1,pie-100-FF0000.png,FF0000
+315-2,315,Limited,,2,pie-100-FFFF00.png,FFFF00
+315-3,315,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+315-4,315,Not applicable (because no radio/TV station exists),,4,pie-100-808080.png,808080
+316-1,316,Widespread,,1,pie-100-FF0000.png,FF0000
+316-2,316,Limited,,2,pie-100-FFFF00.png,FFFF00
+316-3,316,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+316-4,316,Not applicable (because no radio/TV station exists),,4,pie-100-808080.png,808080
+317-1,317,Widespread,,1,pie-100-FF0000.png,FF0000
+317-2,317,Limited,,2,pie-100-FFFF00.png,FFFF00
+317-3,317,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+318-1,318,Widespread,,1,pie-100-FF0000.png,FF0000
+318-2,318,Limited,,2,pie-100-FFFF00.png,FFFF00
+318-3,318,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+318-4,318,Not applicable (because there are virtually no printed works),,4,pie-100-808080.png,808080
+319-1,319,Widespread,,1,pie-100-FF0000.png,FF0000
+319-2,319,Limited,,2,pie-100-FFFF00.png,FFFF00
+319-3,319,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+319-4,319,Not applicable (because no newspapers exist),,4,pie-100-808080.png,808080
+320-1,320,Widespread,,1,pie-100-FF0000.png,FF0000
+320-2,320,Limited,,2,pie-100-FFFF00.png,FFFF00
+320-3,320,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+320-4,320,Not applicable (because no newspapers exist),,4,pie-100-808080.png,808080
+321-1,321,Widespread,,1,pie-100-FF0000.png,FF0000
+321-2,321,Limited,,2,pie-100-FFFF00.png,FFFF00
+321-3,321,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+321-4,321,Not applicable (because there are no such offices in the relevant area),,4,pie-100-808080.png,808080
+322-1,322,Widespread,,1,pie-100-FF0000.png,FF0000
+322-2,322,Limited,,2,pie-100-FFFF00.png,FFFF00
+322-3,322,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+322-4,322,Not applicable (because there is no court in the relevant area),,4,pie-100-808080.png,808080
+323-1,323,Widespread,,1,pie-100-FF0000.png,FF0000
+323-2,323,Limited,,2,pie-100-FFFF00.png,FFFF00
+323-3,323,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+323-4,323,Not applicable (because no parliament or similar legislative body exists),,4,pie-100-808080.png,808080
+324-1,324,Widespread,,1,pie-100-FF0000.png,FF0000
+324-2,324,Limited,,2,pie-100-FFFF00.png,FFFF00
+324-3,324,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+324-4,324,Not applicable (because there are no schools in the area),,4,pie-100-808080.png,808080
+325-1,325,Widespread,,1,pie-100-FF0000.png,FF0000
+325-2,325,Limited,,2,pie-100-FFFF00.png,FFFF00
+325-3,325,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+325-4,325,Not applicable (because there is no access to electronic media in the area),,4,pie-100-808080.png,808080
+326-1,326,The main lexifier language,,1,pie-100-FF0000.png,FF0000
+326-2,326,A major world language that is not the main lexifier,,2,pie-100-0000FF.png,0000FF
+326-3,326,A neighbouring language that is neither the main lexifier nor a major world language,,3,pie-100-808080.png,808080
+326-4,326,Several different kinds of languages are equally important in terms of contact influence,,4,pie-100-FFFF00.png,FFFF00
+327-1,327,Widespread,,1,pie-100-FF0000.png,FF0000
+327-2,327,Limited,,2,pie-100-FFFF00.png,FFFF00
+327-3,327,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+327-4,327,Not applicable (because the language is spoken in a very small area),,4,pie-100-808080.png,808080
+328-1,328,Widespread,,1,pie-100-FF0000.png,FF0000
+328-2,328,Limited,,2,pie-100-FFFF00.png,FFFF00
+328-3,328,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+328-4,328,Not applicable (because the language is spoken in a very small area),,4,pie-100-808080.png,808080
+329-1,329,Widespread,,1,pie-100-FF0000.png,FF0000
+329-2,329,Limited,,2,pie-100-FFFF00.png,FFFF00
+329-3,329,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+329-4,329,Not applicable (because the language is spoken in a very small area),,4,pie-100-808080.png,808080
+330-1,330,Widespread,,1,pie-100-FF0000.png,FF0000
+330-2,330,Limited,,2,pie-100-FFFF00.png,FFFF00
+330-3,330,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+330-4,330,Not applicable (because the language is only spoken in urban or only in rural areas),,4,pie-100-808080.png,808080
+331-1,331,Widespread,,1,pie-100-FF0000.png,FF0000
+331-2,331,Limited,,2,pie-100-FFFF00.png,FFFF00
+331-3,331,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+331-4,331,Not applicable (because the language is only spoken in urban or only in rural areas),,4,pie-100-808080.png,808080
+332-1,332,Widespread,,1,pie-100-FF0000.png,FF0000
+332-2,332,Limited,,2,pie-100-FFFF00.png,FFFF00
+332-3,332,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+332-4,332,Not applicable (because the language is only spoken in urban or only in rural areas),,4,pie-100-808080.png,808080
+333-1,333,Widespread,,1,pie-100-FF0000.png,FF0000
+333-2,333,Limited,,2,pie-100-FFFF00.png,FFFF00
+333-3,333,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+333-4,333,Not applicable (because there is little social stratification),,4,pie-100-808080.png,808080
+334-1,334,Widespread,,1,pie-100-FF0000.png,FF0000
+334-2,334,Limited,,2,pie-100-FFFF00.png,FFFF00
+334-3,334,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+334-4,334,Not applicable (because there is little social stratification),,4,pie-100-808080.png,808080
+335-1,335,Widespread,,1,pie-100-FF0000.png,FF0000
+335-2,335,Limited,,2,pie-100-FFFF00.png,FFFF00
+335-3,335,Absent,,3,pie-100-FFFFFF.png,FFFFFF
+335-4,335,Not applicable (because there is little social stratification),,4,pie-100-808080.png,808080

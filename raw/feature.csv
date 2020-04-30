@@ -1,0 +1,337 @@
+pk,feature_type,multivalued,wals_id,wals_representation,representation,area
+1,primary,t,,,76,
+2,primary,t,81,1377,78,Word order
+3,primary,t,86,1248,77,Word order
+4,primary,t,87,1366,76,Word order
+5,primary,t,85,1185,77,Word order
+6,primary,t,88,1223,79,Word order
+7,primary,t,89,1154,76,Word order
+8,primary,t,90,825,76,Word order
+9,primary,t,91,481,77,Word order
+10,primary,t,,,78,Word order
+11,primary,t,,,76,Word order
+12,primary,t,,,70,Word order
+13,primary,t,93,901,76,Word order
+14,primary,f,44,378,80,Nominal categories
+15,primary,f,,,76,Nominal categories
+16,primary,f,39,200,76,Nominal categories
+17,primary,f,,,76,Nominal categories
+18,primary,f,,,77,Nominal categories
+19,primary,f,45,207,75,Nominal categories
+20,primary,f,,,76,Nominal categories
+21,primary,t,,,71,Nominal categories
+22,primary,t,46,326,75,Nominal categories
+23,primary,f,34,291,79,Nominal categories
+24,primary,t,33,1066,78,Nominal categories
+25,primary,t,,,72,Nominal categories
+26,primary,f,,,76,Nominal categories
+27,primary,f,,,77,Nominal categories
+28,primary,t,,,74,Nominal categories
+29,primary,f,37,620,79,Nominal categories
+30,primary,f,38,534,76,Nominal categories
+31,primary,t,,,78,Nominal categories
+32,primary,t,,,79,Nominal categories
+33,primary,f,42,201,78,Nominal categories
+34,primary,f,41,234,75,Nominal categories
+35,primary,t,54,251,72,Nominal categories
+36,primary,t,53,321,70,Nominal categories
+37,primary,f,55,400,76,Nominal categories
+38,primary,t,,,77,Nominal syntax
+39,primary,t,24,236,79,Nominal syntax
+40,primary,t,,,73,Nominal syntax
+41,primary,f,,,80,Nominal syntax
+42,primary,t,,,79,Nominal syntax
+43,primary,t,121,167,78,Nominal syntax
+44,primary,t,,,76,Verbal categories
+45,primary,t,,,73,Verbal categories
+46,primary,f,,,76,Verbal categories
+47,primary,f,,,75,Verbal categories
+48,primary,t,,,77,Verbal categories
+49,primary,t,,,77,Verbal categories
+50,primary,f,,,76,Verbal categories
+51,primary,f,,,72,Verbal categories
+52,primary,f,,,74,Verbal categories
+53,primary,f,,,74,Verbal categories
+54,primary,f,,,66,Verbal categories
+55,primary,f,79,193,76,Verbal categories
+56,primary,f,,,76,Verbal categories
+57,primary,t,71,495,77,Verbal categories
+58,primary,f,,,76,Argument marking
+59,primary,f,98,190,76,Argument marking
+60,primary,f,99,172,76,Argument marking
+61,primary,t,105,378,78,Argument marking
+62,primary,t,,,75,Argument marking
+63,primary,f,101,711,76,Argument marking
+64,primary,t,,,69,Argument marking
+65,primary,t,,,77,Argument marking
+66,primary,t,,,74,Argument marking
+67,primary,t,,,72,Argument marking
+68,primary,t,,,73,Argument marking
+69,primary,t,,,72,Argument marking
+70,primary,t,,,76,Argument marking
+71,primary,f,52,322,75,Argument marking
+72,primary,f,63,234,77,Argument marking
+73,primary,f,64,301,75,Argument marking
+74,primary,f,120,386,79,Clausal syntax
+75,primary,f,,,78,Clausal syntax
+76,primary,f,,,78,Clausal syntax
+77,primary,f,119,386,77,Clausal syntax
+78,primary,t,117,240,76,Clausal syntax
+79,primary,f,,,76,Clausal syntax
+80,primary,t,,,81,Clausal syntax
+81,primary,t,,,75,Clausal syntax
+82,primary,f,,,76,Clausal syntax
+83,primary,t,,,65,Clausal syntax
+84,primary,t,,,66,Clausal syntax
+85,primary,f,,,75,Clausal syntax
+86,primary,t,,,76,Clausal syntax
+87,primary,f,,,75,Clausal syntax
+88,primary,t,,,73,Clausal syntax
+89,primary,f,47,168,72,Clausal syntax
+90,primary,f,106,175,70,Clausal syntax
+91,primary,t,,,79,Clausal syntax
+92,primary,f,109,183,75,Clausal syntax
+93,primary,t,122,166,79,Complex sentences
+94,primary,t,,,74,Complex sentences
+95,primary,t,,,64,Complex sentences
+96,primary,t,,,77,Complex sentences
+97,primary,t,,,75,Complex sentences
+98,primary,t,124,283,74,Complex sentences
+99,primary,f,,,75,Complex sentences
+100,primary,f,,,74,Complex sentences
+101,primary,t,112,1159,76,"Negation, questions, and focusing"
+102,primary,t,,,77,"Negation, questions, and focusing"
+103,primary,f,115,206,73,"Negation, questions, and focusing"
+104,primary,t,116,954,77,"Negation, questions, and focusing"
+105,primary,t,,,69,"Negation, questions, and focusing"
+106,primary,t,,,72,"Negation, questions, and focusing"
+107,primary,t,,,74,"Negation, questions, and focusing"
+108,primary,f,,,70,Lexicon
+109,primary,f,142,143,64,Lexicon
+110,primary,f,,,77,Lexicon
+111,primary,f,,,77,Lexicon
+112,primary,t,,,67,Lexicon
+113,primary,f,129,617,75,Lexicon
+114,primary,f,,,67,Lexicon
+115,primary,f,,,71,Lexicon
+116,primary,f,,,76,Lexicon
+117,primary,f,,,72,Lexicon
+118,primary,t,,,72,Lexicon
+119,primary,f,,,76,Phonology
+120,primary,f,,,76,Phonology
+121,primary,f,13,527,74,Phonology
+122,primary,f,,,76,Phonology
+123,primary,f,10,244,76,Phonology
+124,primary,f,,,76,Phonology
+125,primary,f,,,76,Phonology
+126,primary,f,,,76,Phonology
+127,primary,f,,,76,Phonology
+128,primary,f,,,76,Phonology
+129,primary,f,,,76,Phonology
+130,primary,f,,,76,Phonology
+131,primary,f,,,76,Phonology
+132,segment,f,,,76,Obstruent consonants
+133,segment,f,,,76,Obstruent consonants
+134,segment,f,,,76,Obstruent consonants
+135,segment,f,,,76,Obstruent consonants
+136,segment,f,,,1,Obstruent consonants
+137,segment,f,,,1,Obstruent consonants
+138,segment,f,,,76,Obstruent consonants
+139,segment,f,,,76,Obstruent consonants
+140,segment,f,,,76,Obstruent consonants
+141,segment,f,,,76,Obstruent consonants
+142,segment,f,,,1,Obstruent consonants
+143,segment,f,,,1,Obstruent consonants
+144,segment,f,,,76,Obstruent consonants
+145,segment,f,,,76,Obstruent consonants
+146,segment,f,,,76,Obstruent consonants
+147,segment,f,,,76,Obstruent consonants
+148,segment,f,,,76,Obstruent consonants
+149,segment,f,,,76,Obstruent consonants
+150,segment,f,,,76,Obstruent consonants
+151,segment,f,,,1,Obstruent consonants
+152,segment,f,,,76,Obstruent consonants
+153,segment,f,,,76,Obstruent consonants
+154,segment,f,,,76,Obstruent consonants
+155,segment,f,,,1,Obstruent consonants
+156,segment,f,,,76,Obstruent consonants
+157,segment,f,,,76,Obstruent consonants
+158,segment,f,,,1,Obstruent consonants
+159,segment,f,,,76,Obstruent consonants
+160,segment,f,,,76,Obstruent consonants
+161,segment,f,,,76,Obstruent consonants
+162,segment,f,,,76,Obstruent consonants
+163,segment,f,,,1,Obstruent consonants
+164,segment,f,,,76,Obstruent consonants
+165,segment,f,,,1,Obstruent consonants
+166,segment,f,,,1,Obstruent consonants
+167,segment,f,,,1,Obstruent consonants
+168,segment,f,,,1,Obstruent consonants
+169,segment,f,,,76,Obstruent consonants
+170,segment,f,,,76,Obstruent consonants
+171,segment,f,,,76,Obstruent consonants
+172,segment,f,,,76,Obstruent consonants
+173,segment,f,,,76,Obstruent consonants
+174,segment,f,,,76,Obstruent consonants
+175,segment,f,,,76,Obstruent consonants
+176,segment,f,,,1,Obstruent consonants
+177,segment,f,,,76,Obstruent consonants
+178,segment,f,,,3,Obstruent consonants
+179,segment,f,,,76,Sonorant consonants
+180,segment,f,,,76,Sonorant consonants
+181,segment,f,,,76,Sonorant consonants
+182,segment,f,,,76,Sonorant consonants
+183,segment,f,,,76,Sonorant consonants
+184,segment,f,,,76,Sonorant consonants
+185,segment,f,,,76,Sonorant consonants
+186,segment,f,,,6,Sonorant consonants
+187,segment,f,,,1,Sonorant consonants
+188,segment,f,,,76,Obstruent consonants
+189,segment,f,,,76,Obstruent consonants
+190,segment,f,,,76,Obstruent consonants
+191,segment,f,,,76,Obstruent consonants
+192,segment,f,,,76,Obstruent consonants
+193,segment,f,,,76,Obstruent consonants
+194,segment,f,,,76,Obstruent consonants
+195,segment,f,,,76,Obstruent consonants
+196,segment,f,,,76,Obstruent consonants
+197,segment,f,,,76,Obstruent consonants
+198,segment,f,,,1,Obstruent consonants
+199,segment,f,,,1,Obstruent consonants
+200,segment,f,,,76,Obstruent consonants
+201,segment,f,,,76,Obstruent consonants
+202,segment,f,,,76,Obstruent consonants
+203,segment,f,,,76,Obstruent consonants
+204,segment,f,,,1,Obstruent consonants
+205,segment,f,,,3,Obstruent consonants
+206,segment,f,,,76,Obstruent consonants
+207,segment,f,,,1,Obstruent consonants
+208,segment,f,,,1,Obstruent consonants
+209,segment,f,,,1,Obstruent consonants
+210,segment,f,,,76,Sonorant consonants
+211,segment,f,,,1,Sonorant consonants
+212,segment,f,,,1,Sonorant consonants
+213,segment,f,,,76,Obstruent consonants
+214,segment,f,,,1,Obstruent consonants
+215,segment,f,,,1,Obstruent consonants
+216,segment,f,,,8,Sonorant consonants
+217,segment,f,,,1,Obstruent consonants
+218,segment,f,,,76,Sonorant consonants
+219,segment,f,,,76,Sonorant consonants
+220,segment,f,,,5,Sonorant consonants
+221,segment,f,,,4,Sonorant consonants
+222,segment,f,,,76,Sonorant consonants
+223,segment,f,,,4,Sonorant consonants
+224,segment,f,,,1,Obstruent consonants
+225,segment,f,,,1,Obstruent consonants
+226,segment,f,,,1,Obstruent consonants
+227,segment,f,,,1,Obstruent consonants
+228,segment,f,,,1,Obstruent consonants
+229,segment,f,,,1,Obstruent consonants
+230,segment,f,,,1,Sonorant consonants
+231,segment,f,,,1,Sonorant consonants
+232,segment,f,,,76,Obstruent consonants
+233,segment,f,,,8,Obstruent consonants
+234,segment,f,,,2,Obstruent consonants
+235,segment,f,,,1,Obstruent consonants
+236,segment,f,,,9,Obstruent consonants
+237,segment,f,,,4,Obstruent consonants
+238,segment,f,,,4,Obstruent consonants
+239,segment,f,,,1,Obstruent consonants
+240,segment,f,,,4,Obstruent consonants
+241,segment,f,,,2,Obstruent consonants
+242,segment,f,,,1,Obstruent consonants
+243,segment,f,,,1,Sonorant consonants
+244,segment,f,,,2,Obstruent consonants
+245,segment,f,,,1,Obstruent consonants
+246,segment,f,,,1,Obstruent consonants
+247,segment,f,,,1,Sonorant consonants
+248,segment,f,,,1,Obstruent consonants
+249,segment,f,,,1,Obstruent consonants
+250,segment,f,,,1,Obstruent consonants
+251,segment,f,,,1,Obstruent consonants
+252,segment,f,,,1,Sonorant consonants
+253,segment,f,,,76,Vowels
+254,segment,f,,,76,Vowels
+255,segment,f,,,76,Vowels
+256,segment,f,,,76,Vowels
+257,segment,f,,,76,Vowels
+258,segment,f,,,76,Vowels
+259,segment,f,,,76,Vowels
+260,segment,f,,,76,Vowels
+261,segment,f,,,76,Vowels
+262,segment,f,,,76,Vowels
+263,segment,f,,,1,Vowels
+264,segment,f,,,76,Vowels
+265,segment,f,,,1,Vowels
+266,segment,f,,,5,Vowels
+267,segment,f,,,5,Vowels
+268,segment,f,,,76,Vowels
+269,segment,f,,,76,Vowels
+270,segment,f,,,1,Vowels
+271,segment,f,,,1,Vowels
+272,segment,f,,,2,Vowels
+273,segment,f,,,76,Vowels
+274,segment,f,,,76,Vowels
+275,segment,f,,,76,Vowels
+276,segment,f,,,76,Vowels
+277,segment,f,,,76,Vowels
+278,segment,f,,,76,Vowels
+279,segment,f,,,76,Vowels
+280,segment,f,,,76,Vowels
+281,segment,f,,,76,Vowels
+282,segment,f,,,76,Vowels
+283,segment,f,,,76,Vowels
+284,segment,f,,,1,Vowels
+285,segment,f,,,76,Vowels
+286,segment,f,,,76,Vowels
+287,segment,f,,,76,Vowels
+288,segment,f,,,75,Vowels
+289,segment,f,,,76,Vowels
+290,segment,f,,,76,Vowels
+291,segment,f,,,76,Vowels
+292,segment,f,,,76,Vowels
+293,segment,f,,,1,Vowels
+294,segment,f,,,1,Vowels
+295,segment,f,,,3,Vowels
+296,segment,f,,,2,Vowels
+297,segment,f,,,1,Vowels
+298,segment,f,,,1,Vowels
+299,segment,f,,,1,Vowels
+300,segment,f,,,1,Vowels
+301,segment,f,,,1,Vowels
+302,segment,f,,,2,Vowels
+303,segment,f,,,1,Vowels
+304,segment,f,,,2,Vowels
+305,segment,f,,,1,Vowels
+306,segment,f,,,1,Vowels
+307,segment,f,,,1,Vowels
+308,segment,f,,,1,Vowels
+309,sociolinguistic,f,,,76,Sociolinguistic
+310,sociolinguistic,f,,,74,Sociolinguistic
+311,sociolinguistic,f,,,75,Sociolinguistic
+312,sociolinguistic,f,,,71,Sociolinguistic
+313,sociolinguistic,f,,,75,Sociolinguistic
+314,sociolinguistic,f,,,76,Sociolinguistic
+315,sociolinguistic,f,,,75,Sociolinguistic
+316,sociolinguistic,f,,,75,Sociolinguistic
+317,sociolinguistic,f,,,74,Sociolinguistic
+318,sociolinguistic,f,,,75,Sociolinguistic
+319,sociolinguistic,f,,,75,Sociolinguistic
+320,sociolinguistic,f,,,75,Sociolinguistic
+321,sociolinguistic,f,,,75,Sociolinguistic
+322,sociolinguistic,f,,,74,Sociolinguistic
+323,sociolinguistic,f,,,71,Sociolinguistic
+324,sociolinguistic,f,,,73,Sociolinguistic
+325,sociolinguistic,f,,,74,Sociolinguistic
+326,sociolinguistic,f,,,72,Sociolinguistic
+327,sociolinguistic,f,,,74,Sociolinguistic
+328,sociolinguistic,f,,,71,Sociolinguistic
+329,sociolinguistic,f,,,70,Sociolinguistic
+330,sociolinguistic,f,,,69,Sociolinguistic
+331,sociolinguistic,f,,,70,Sociolinguistic
+332,sociolinguistic,f,,,67,Sociolinguistic
+333,sociolinguistic,f,,,66,Sociolinguistic
+334,sociolinguistic,f,,,67,Sociolinguistic
+335,sociolinguistic,f,,,67,Sociolinguistic
+336,sociolinguistic,f,,,66,Sociolinguistic
