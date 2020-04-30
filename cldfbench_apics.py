@@ -219,18 +219,13 @@ class Dataset(BaseDataset):
 
         for row in self.read('value').values():
             vs = vsdict[row['valueset_pk']]
-            comment = None
-            ex = [examples[spk] for spk in example_by_value.get(row['pk'], [])]
-            if len(ex) == 1 and not any(ex[0][k] for k in ['description', 'analyzed', 'gloss']):
-                comment = ex[0]['name']
-                del example_by_value[row['pk']]
             args.writer.objects['ValueTable'].append({
                 'ID': row['id'],
                 'Language_ID': pk2id['language'][vs['language_pk']],
                 'Parameter_ID': pk2id['parameter'][vs['parameter_pk']],
                 'Value': pk2id['domainelement'][row['domainelement_pk']].split('-')[1],
                 'Code_ID': pk2id['domainelement'][row['domainelement_pk']],
-                'Comment': comment,
+                'Comment': vs['description'],
                 'Source': refs.get(vs['pk'], []),
                 'Example_ID': sorted(igts[epk] for epk in example_by_value.get(row['pk'], []) if epk in igts),
                 'Frequency': float(row['frequency']) if row['frequency'] else None,
