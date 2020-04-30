@@ -240,7 +240,21 @@ class Dataset(BaseDataset):
         args.writer.objects['ValueTable'].sort(
             key=lambda d: (d['Language_ID'], d['Parameter_ID']))
 
+        for row in self.read('glossabbreviation').values():
+            args.writer.objects['glossabbreviations.csv'].append(
+                dict(ID=row['id'], Name=row['name']))
+
     def create_schema(self, cldf):
+        cldf.add_table(
+            'glossabbreviations.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            })
         cldf.add_table(
             'media.csv',
             {

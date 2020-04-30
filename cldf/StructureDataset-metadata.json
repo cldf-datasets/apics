@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/apics",
-            "dc:created": "7ba542d"
+            "dc:created": "41b3139"
         },
         {
             "rdf:type": "prov:Entity",
@@ -162,6 +162,25 @@
                 ]
             },
             "url": "values.csv"
+        },
+        {
+            "dc:extent": 267,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "glossabbreviations.csv"
         },
         {
             "dc:extent": 451,

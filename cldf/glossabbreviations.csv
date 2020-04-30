@@ -1,0 +1,268 @@
+ID,Name
+ACC,accusative
+ADV,adverb(ial)
+FUT,future
+BEN,benefactive
+REL,relative
+COP,copula
+NEG,"negation, negative"
+TOP,topic
+FOC,focus
+DET,determiner
+QUOT,quotative
+VOC,vocative
+ERG,ergative
+COND,conditional
+DEM,demonstrative
+INTR,intransitive
+PTCP,participle
+DIST,distal
+PASS,passive
+DU,dual
+COM,comitative
+AGR,agreement
+DEF,definite
+EXCL,exclusive
+DAT,dative
+PRF,perfect
+IRR,irrealis
+ANTIP,antipassive
+IPFV,imperfective
+CVB,converb
+SBJV,subjunctive
+TR,transitive
+PROG,progressive
+CAUS,causative
+RECP,reciprocal
+APPL,applicative
+Q,question particle/marker
+PRS,present
+RES,resultative
+INCL,inclusive
+GEN,genitive
+PL,plural
+A,agent-like argument of canonical transitive verb
+OBL,oblique
+OBJ,object
+N-,"non- (e.g. NSG nonsingular, NPST nonpast)"
+F,feminine
+COMP,complementizer
+CLF,classifier
+PROH,prohibitive
+ABL,ablative
+N,neuter
+LOC,locative
+IMP,imperative
+DECL,declarative
+ABS,absolutive
+REFL,reflexive
+DISTR,distributive
+SBJ,subject
+AUX,auxiliary
+DUR,durative
+ADJ,adjective
+POSS,possessive
+NOM,nominative
+ALL,allative
+PURP,purposive
+ART,article
+P,patient-like argument of canonical transitive verb
+PRED,predicative
+PROX,proximal/proximate
+S,single argument of canonical intransitive verb
+COMPL,completive
+INS,instrumental
+INDF,indefinite
+M,masculine
+NMLZ,nominalizer/nominalization
+PFV,perfective
+IND,indicative
+INF,infinitive
+SG,singular
+PST,past
+INTERM,intermediate
+CLIT,clitic
+NCOMPL,noncompletive
+IMPF,imperfect
+TMA,tense-mood-aspect
+NPROX,nonproximal
+PROP,proprietive
+NONFUT,nonfuture
+PP,past participle
+NSG,nonsingular
+CS,Bedeutung
+OR,reduplication
+RED,reduplication
+ABIL,"ability (verb), abilitive mood"
+ACCID,accidental
+ACT,action marker
+ADD,additive
+ADJZ,adjectivalizer
+ADMON,admonitive
+ADNOM,adnominal
+ADR,addressive
+ADVERS,adversative
+ADVZ,adverbializer
+AFF,affirmative
+AG,"agent, agentive"
+ANAPH,anaphoric
+ANIM,animate
+ANT,anterior
+ASP,aspect [marker|particle]
+ASS,associative (plural)
+ASSOBL,associative (obligation)
+ASSOC,associative [preposition]
+ATT,attenuative
+ATTR,attributive marker
+BE,"identity-copula, locative-existential copula"
+BGND,background
+BIND,binding element
+CIS,"cislocative, movement towards speaker"
+CL,class
+CNS,consuetudinal
+CNTRFAC,counterfactual
+COLL,associative plural
+COMPAR,comparative affix/marker
+CONC,concessive
+CONF,confirmation particle
+CONJ,conjunction
+CONN,connective
+CONSEC,consecutive
+CONT,"continuative, continuous, ongoing action"
+CONTR,contrastive
+CPD,compound component derived by tone deletion
+CPLT,contemplated aspect
+CSEC,consecutive
+CTPL,contemplated aspect
+DEFRCLT,deferential clitic
+DEG,degree [particle|word]
+DEIC,deictic
+DELIM,delimitative
+DEP,dependent (pronoun)
+DEPV,dependent verb
+DESID,desiderative
+DETRANS,detransitivizing
+DIM,diminutive
+DIR,"direction, directional"
+DISASS,disassociative
+DISC,discourse marker
+PCL,discourse particle
+DO,direct object
+DOUBT,doubt
+DS,different subject
+DUB,"dubitative, uncertain knowledge"
+DUMMY,dummy pronoun
+EMPH,"emphatic, emphasis"
+ENCL,enclitic
+EPIST,epistemic
+EQ,equational copula
+EVID,evidential
+EXCLAM,exclamation
+EXIST,existential
+EXPL,expletive
+FAM,familiar
+FILL,filler (item)
+FIN,finite
+FPST,far past
+FORMAL,formal
+FV,final vowel (default final vowel of verb form)
+GENER,generic
+GER,gerund
+H,high toneme
+HAB,habitual
+HABIL,habilitative
+HL,highlighter
+HON,honorific
+HORT,hortative
+HUM,human
+IDENTITY,identity copula
+IDEO,ideophone
+IGN,ignorative
+IMM,immediate past
+IMPRS,impersonal pronoun
+INAB,inability
+INACC,inaccompli
+INAN,inanimate
+INC,inchoative
+INCEP,inceptive [future]
+INCOMPL,incompletive
+INCORP,incorporated (noun)
+INDP,independent
+INFL,inflectional marker
+INGR,ingressive
+INSIST,insistence
+INT,"intentional, intentionalis"
+INTENS,"intensifier, intensitive, intensive, intensity"
+INTERJ,interjection
+INTFR,intensifier
+INTIM,intimate
+INV,inverse marker
+IO,indirect object
+ITER,iterative
+JUDG,judgment
+LINK,"link vowel, link consonant"
+LK,linker
+LOCV,locative verb
+LOG,logophoric personal pronoun
+MIR,mirative
+MKD,marked
+MOD,"modal auxiliary/verb/particle, modality"
+MODIF,modifier
+MOOD,mood particle
+NACCOMPL,non accomplished
+NARR,narrative
+NECESS,necessity
+NFIN,non-finite
+NFUT,non-future
+NHON,non-honorific
+NP,noun phrase
+NPST,nonpast
+NSBJ,non-subject
+NUM,"number, numeral"
+OBLIG,"obligative [mood marker], obligatory"
+OBV,obviative
+OPT,optative
+ORD,ordinal
+PAUC,paucal
+PERM,"permission, permissive"
+PERMANENT,permanent state
+PM,predicate marker
+POL,polite
+POSTP,postposition
+POT,potential
+PREP,preposition
+PRESV,"presentational, presentative"
+PRET,preterite
+PRO,"pronoun, resumptive pronoun"
+PSREFL,pseudo-reflexive pronoun
+TAG,question tag
+QUANT,"quantifier, quantitative"
+REM,remote
+REP,"repetition, repetitive"
+REPORT,reportative
+REQ,requestative
+SENT,sentence particle
+SEQ,sequence marker
+SI,subject index
+SIML,similative
+SM,subject marker
+SP,post-verbal demonstrative-like marker
+SPECUL,speculative
+SS,same subject
+STANDARD,comparative standard
+MARKER,comparative standard
+STAT,stative
+SUBORD,subordinator
+SUPERL,superlative
+SUPPL,suppletive
+SVC,serial verb construction
+TA,transitive animate
+TAM,"tense aspect mood, tense-mood-aspect"
+TEMP,temporal
+TNS,tense particle
+V,verb
+PREF,verbal prefix
+VAL,validator
+VBLZ,verbalizer
+VOL,volitive
+VPCL,verb particle
