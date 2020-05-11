@@ -419,10 +419,12 @@ class Dataset(BaseDataset):
 
     def itersources(self, pkmap):
         for row in self.raw_dir.read_csv('source.csv', dicts=True):
-            del row['jsondata']
+            jsondata = json.loads(row.pop('jsondata', '{}') or '{}')
             pkmap['source'][row.pop('pk')] = row['id']
             row['title'] = row.pop('description')
             row['key'] = row.pop('name')
+            if (not row['url']) and jsondata.get('gbs', {}).get('id'):
+                row['url'] = 'https://books.google.de/books?id=' + jsondata['gbs']['id']
             yield Source(row.pop('bibtex_type'), row.pop('id'), **row)
 
     @lazyproperty
