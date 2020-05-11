@@ -55,12 +55,21 @@ class Dataset(BaseDataset):
             if row['source_pk']:
                 refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
 
+        editors = {
+            name: ord for ord, name in enumerate([
+                'Susanne Maria Michaelis',
+                'Philippe Maurer',
+                'Martin Haspelmath',
+                'Magnus Huber',
+            ], start=1)}
+
         for row in self.read('contributor', pkmap=pk2id, key=lambda r: r['id']).values():
             args.writer.objects['contributors.csv'].append({
                 'ID': row['id'],
                 'Name': row['name'],
                 'Address': row['address'],
                 'URL': row['url'],
+                'editor_ord': editors.get(row['name']),
             })
 
         cc = self.contributor_ids('contributioncontributor', pk2id, 'contribution_pk')
@@ -187,14 +196,12 @@ class Dataset(BaseDataset):
         igts = {}
 
         for ex in examples.values():
-            audio = None
+            audio, a, g = None, [], []
             for f in ex.get('files', []):
                 if f['id'].endswith('mp3'):
                     audio = mp3[(f['jsondata']['objid'], f['jsondata']['original'])]
-            a = []
             if ex['analyzed']:
                 a = ex['analyzed'].split()
-            g = []
             if ex['gloss']:
                 g = ex['gloss'].split()
             if len(a) != len(g):
@@ -213,9 +220,7 @@ class Dataset(BaseDataset):
             vpk: [r['sentence_pk'] for r in rows]
             for vpk, rows in itertools.groupby(
                 self.read('valuesentence', key=lambda d: d['value_pk']).values(),
-                lambda d: d['value_pk']
-            )
-        }
+                lambda d: d['value_pk'])}
 
         for row in self.read('value').values():
             vs = vsdict[row['valueset_pk']]
@@ -344,6 +349,10 @@ class Dataset(BaseDataset):
             },
             'Address',
             'URL',
+            {
+                'name': 'editor_ord',
+                'datatype': 'integer',
+            }
         )
         t.common_props['dc:conformsTo'] = None
         cldf.add_columns(
