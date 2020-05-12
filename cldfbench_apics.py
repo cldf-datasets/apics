@@ -101,8 +101,14 @@ class Dataset(BaseDataset):
         ):
             ldata[lpk] = collections.OrderedDict([(d['key'], d['value']) for d in rows])
 
-        for row in self.read('language', extended='lect', pkmap=pk2id).values():
-            id = row['id']
+        lmap = {}
+        for row in self.read(
+            'language',
+            extended='lect',
+            pkmap=pk2id,
+            key=lambda l: (bool(l['language_pk']), int(l['id'])),
+        ).values():
+            lmap[row['pk']] = id = row['id']
             contrib = contribs.get(id)
             survey = surveys.get(row['id'])
             assert survey or (int(id) == 21 or int(id) > 100)
@@ -136,6 +142,7 @@ class Dataset(BaseDataset):
                 'Glossed_Text_Audio': gt_audio,
                 'Metadata': json.dumps(ldata.get(row['pk'], {})),
                 'Region': row['region'],
+                'Default_Lect_ID': lmap.get(row['language_pk']),
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -215,6 +222,7 @@ class Dataset(BaseDataset):
                 'Analyzed_Word': a,
                 'Gloss': g,
                 'Audio': audio,
+                'Type': ex['type'],
             })
         example_by_value = {
             vpk: [r['sentence_pk'] for r in rows]
@@ -333,10 +341,11 @@ class Dataset(BaseDataset):
                 'dc:format': 'text/json',
             },
             'Region',
+            'Default_Lect_ID',
         )
         cldf['LanguageTable', 'id'].valueUrl = URITemplate(
             'https://apics-online.info/contributions/{id}')
-        cldf.add_component('ExampleTable', 'Audio')
+        cldf.add_component('ExampleTable', 'Audio', {'name': 'Type', 'propertyUrl': 'dc:type'})
         t = cldf.add_table(
             'contributors.csv',
             {
@@ -372,13 +381,14 @@ class Dataset(BaseDataset):
         cldf.add_foreign_key('ParameterTable', 'Map_Gall_Peters', 'media.csv', 'ID')
         cldf.add_foreign_key('LanguageTable', 'Glossed_Text_PDF', 'media.csv', 'ID')
         cldf.add_foreign_key('LanguageTable', 'Glossed_Text_Audio', 'media.csv', 'ID')
+        cldf.add_foreign_key('LanguageTable', 'Default_Lect_ID', 'LanguageTable', 'ID')
         cldf.add_foreign_key('ExampleTable', 'Audio', 'media.csv', 'ID')
 
     def read(self, core, extended=False, pkmap=None, key=None):
         if not key:
             key = lambda d: int(d['pk'])
         res = collections.OrderedDict()
-        for row in sorted(self.raw_dir.read_csv('{0}.csv'.format(core), dicts=True), key=key):
+        for row in self.raw_dir.read_csv('{0}.csv'.format(core), dicts=True):
             row['jsondata'] = json.loads(row.get('jsondata') or '{}')
             res[row['pk']] = row
             if pkmap is not None:
@@ -386,6 +396,7 @@ class Dataset(BaseDataset):
         if extended:
             for row in self.raw_dir.read_csv('{0}.csv'.format(extended), dicts=True):
                 res[row['pk']].update(row)
+        res = collections.OrderedDict(sorted(res.items(), key=lambda item: key(item[1])))
         files = self.raw_dir / '{}_files.csv'.format(core)
         if files.exists():
             for opk, rows in itertools.groupby(

@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/apics",
-            "dc:created": "9768c08"
+            "dc:created": "ed43969"
         },
         {
             "rdf:type": "prov:Entity",
@@ -483,6 +483,10 @@
                     {
                         "datatype": "string",
                         "name": "Region"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Default_Lect_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -503,6 +507,17 @@
                         ],
                         "reference": {
                             "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Default_Lect_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -576,6 +591,10 @@
                     {
                         "datatype": "string",
                         "name": "Audio"
+                    },
+                    {
+                        "propertyUrl": "dc:type",
+                        "name": "Type"
                     }
                 ],
                 "foreignKeys": [
