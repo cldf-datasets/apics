@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/apics",
-            "dc:created": "ed43969"
+            "dc:created": "c93c54d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -109,6 +109,14 @@
                     {
                         "datatype": "string",
                         "name": "Confidence"
+                    },
+                    {
+                        "dc:format": "text/json",
+                        "name": "Metadata"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "source_comment"
                     }
                 ],
                 "foreignKeys": [
@@ -242,6 +250,7 @@
                         "name": "Description"
                     },
                     {
+                        "dc:description": "Authors of the Atlas chapter describing the feature",
                         "separator": " ",
                         "name": "Contributor_ID"
                     },
@@ -266,7 +275,7 @@
                         "name": "Multivalued"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "ID of the corresponding WALS feature",
                         "name": "WALS_ID"
                     },
                     {
@@ -280,6 +289,10 @@
                     {
                         "datatype": "string",
                         "name": "Map_Gall_Peters"
+                    },
+                    {
+                        "dc:format": "application/json",
+                        "name": "metadata"
                     }
                 ],
                 "foreignKeys": [
@@ -355,6 +368,10 @@
                     {
                         "datatype": "string",
                         "name": "color"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "abbr"
                     }
                 ],
                 "foreignKeys": [
@@ -448,10 +465,12 @@
                         "name": "Description"
                     },
                     {
+                        "dc:description": "Authors contributing the language structure dataset",
                         "separator": " ",
                         "name": "Data_Contributor_ID"
                     },
                     {
+                        "dc:description": "Authors of the language survey",
                         "separator": " ",
                         "name": "Survey_Contributor_ID"
                     },
@@ -485,8 +504,12 @@
                         "name": "Region"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Sometimes the languages or varieties that the APiCS language experts described were not internally \nhomogeneous, but different subvarieties (or lects) had different value choices for some feature. \nSuch non-default lects are marked with a non-empty \"Default_Lect_ID\" column, relating the (sub)lect\nwith a default lect. Thus the default lect that was primarily described by the contributors need \nnot be representative for the entire language.",
                         "name": "Default_Lect_ID"
+                    },
+                    {
+                        "dc:description": "To help the reader\u2019s orientation, we have classified our languages into English-based, Dutch-based, \nPortuguese-based, and so on. This classification is not entirely uncontroversial. On the one hand, \ncontact languages are characterized by strong influence from multiple languages, so saying, for \ninstance, that Haitian Creole is French-based is problematic, as it glosses over the very important \ncontribution of the African languages, especially to the grammar of the language. For this reason, \nmany authors have used expressions like \u201cFrench-lexified\u201d, \u201cDutch-lexified\u201d for such languages, \nwhich only refer to the role of the European languages as primary lexicon-providers. We agree that \nsuch terms are more precise, but they are also more cumbersome, so we have mostly used the older \n(and still much more widespread) manner of talking about groups of creoles and pidgins. We think \nthat it is sufficiently well-known that \u201cEnglish-based\u201d (etc.) is not meant to imply anything other \nthan that the bulk of the language\u2019s lexicon is derived from English.\n\nOn the other hand, the notion of being based on a language is problematic in the case of languages \nwith several lexifiers, especially Gurindji Kriol and Michif. These are shown as having two \nlexifiers (or lexifier \"other\"). There are also a few other cases where it is not fully clear what\nthe primary lexifier is. Saramaccan\u2019s vocabulary has a very large Portuguese component, but for \nsimplicity we classify it as English-based here. Papiamentu is often thought to be originally \n(Afro-)Portuguese-based, but as it has long been influenced much more by Spanish, we classify it \nas Spanish-based.",
+                        "name": "Lexifier"
                     }
                 ],
                 "foreignKeys": [
@@ -589,12 +612,49 @@
                         "name": "Comment"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Audio"
                     },
                     {
                         "propertyUrl": "dc:type",
                         "name": "Type"
+                    },
+                    {
+                        "dc:format": "text/html",
+                        "name": "markup_text"
+                    },
+                    {
+                        "dc:format": "text/html",
+                        "name": "markup_analyzed"
+                    },
+                    {
+                        "dc:format": "text/html",
+                        "name": "markup_gloss"
+                    },
+                    {
+                        "dc:format": "text/html",
+                        "name": "markup_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "source_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "original_script"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "sort"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "alt_translation"
                     }
                 ],
                 "foreignKeys": [

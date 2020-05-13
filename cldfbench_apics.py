@@ -23,10 +23,17 @@ than that the bulk of the language’s lexicon is derived from English.
 
 On the other hand, the notion of being based on a language is problematic in the case of languages 
 with several lexifiers, especially Gurindji Kriol and Michif. These are shown as having two 
-lexifiers. There are also a few other cases where it is not fully clear what the primary lexifier 
-is. Saramaccan’s vocabulary has a very large Portuguese component, but for simplicity we classify 
-it as English-based here. Papiamentu is often thought to be originally (Afro-)Portuguese-based, 
-but as it has long been influenced much more by Spanish, we classify it as Spanish-based. """
+lexifiers (or lexifier "other"). There are also a few other cases where it is not fully clear what
+the primary lexifier is. Saramaccan’s vocabulary has a very large Portuguese component, but for 
+simplicity we classify it as English-based here. Papiamentu is often thought to be originally 
+(Afro-)Portuguese-based, but as it has long been influenced much more by Spanish, we classify it 
+as Spanish-based."""
+NON_DEFAULT_LECT = """\
+Sometimes the languages or varieties that the APiCS language experts described were not internally 
+homogeneous, but different subvarieties (or lects) had different value choices for some feature. 
+Such non-default lects are marked with a non-empty "Default_Lect_ID" column, relating the (sub)lect
+with a default lect. Thus the default lect that was primarily described by the contributors need 
+not be representative for the entire language."""
 CONFIDENCE_FIX = {
     'very certain': 'Very certain',
     'unspecified': 'Unspecified',
@@ -54,6 +61,10 @@ class Dataset(BaseDataset):
         for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
             if row['source_pk']:
                 refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
+        exrefs = []
+        for row in self.raw_dir.read_csv('sentencereference.csv', dicts=True):
+            if row['source_pk']:
+                exrefs.append((row['sentence_pk'], pk2id['source'][row['source_pk']], row['description']))
 
         editors = {
             name: ord for ord, name in enumerate([
@@ -143,6 +154,7 @@ class Dataset(BaseDataset):
                 'Metadata': json.dumps(ldata.get(row['pk'], {})),
                 'Region': row['region'],
                 'Default_Lect_ID': lmap.get(row['language_pk']),
+                'Lexifier': row['lexifier'],
             })
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
@@ -171,6 +183,7 @@ class Dataset(BaseDataset):
                 'Area': row['area'],
                 'Contributor_ID': fcc.get(row['pk'], []),
                 'Map_Gall_Peters': mgp,
+                'metadata': json.dumps(row['jsondata']),
             })
 
         for row in self.read(
@@ -185,6 +198,7 @@ class Dataset(BaseDataset):
                 'Number': int(row['number']),
                 'icon': row['jsondata']['icon'],
                 'color': row['jsondata']['color'],
+                'abbr': row['abbr'],
             })
 
         refs = {
@@ -201,6 +215,15 @@ class Dataset(BaseDataset):
         examples = self.read('sentence', pkmap=pk2id)
         mp3 = self.add_files(args.writer, examples.values(), checksums)
         igts = {}
+        exrefs = {
+            dpid: [
+                str(Reference(
+                    source=str(r[1]),
+                    desc=r[2].replace('[', ')').replace(']', ')').replace(';', '.').strip()
+                    if r[2] else None))
+                for r in refs_
+            ]
+            for dpid, refs_ in itertools.groupby(exrefs, lambda r: r[0])}
 
         for ex in examples.values():
             audio, a, g = None, [], []
@@ -221,8 +244,18 @@ class Dataset(BaseDataset):
                 'Translated_Text': ex['description'],
                 'Analyzed_Word': a,
                 'Gloss': g,
+                'Source': exrefs.get(ex['pk'], []),
                 'Audio': audio,
                 'Type': ex['type'],
+                'Comment': ex['comment'],
+                'source_comment': ex['source'],
+                'original_script': ex['original_script'],
+                'markup_comment': ex['markup_comment'],
+                'markup_text': ex['markup_text'],
+                'markup_analyzed': ex['markup_analyzed'],
+                'markup_gloss': ex['markup_gloss'],
+                'sort': ex['jsondata'].get('sort'),
+                'alt_translation': ex['jsondata'].get('alt_translation'),
             })
         example_by_value = {
             vpk: [r['sentence_pk'] for r in rows]
@@ -243,6 +276,8 @@ class Dataset(BaseDataset):
                 'Example_ID': sorted(igts[epk] for epk in example_by_value.get(row['pk'], []) if epk in igts),
                 'Frequency': float(row['frequency']) if row['frequency'] else None,
                 'Confidence': CONFIDENCE_FIX.get(row['confidence'], row['confidence']),
+                'Metadata': json.dumps(vs['jsondata']),
+                'source_comment': vs['source'],
             })
 
         args.writer.objects['ValueTable'].sort(
@@ -287,6 +322,7 @@ class Dataset(BaseDataset):
             {
                 'name': 'Contributor_ID',
                 'separator': ' ',
+                'dc:description': 'Authors of the Atlas chapter describing the feature',
             },
             'Chapter',  # valueUrl: https://apics-online.info/parameters/1.chapter.html
             {
@@ -299,10 +335,14 @@ class Dataset(BaseDataset):
             },
             'PHOIBLE_Segment_Name',
             {'name': 'Multivalued', 'datatype': 'boolean'},
-            'WALS_ID',
+            {
+                'name': 'WALS_ID',
+                'dc:description': 'ID of the corresponding WALS feature',
+            },
             {'name': 'WALS_Representation', 'datatype': 'integer'},
             'Area',
             'Map_Gall_Peters',
+            {'name': 'metadata', 'dc:format': 'application/json'},
         )
         cldf['ParameterTable', 'id'].valueUrl = URITemplate(
             'https://apics-online.info/parameters/{id}')
@@ -311,6 +351,7 @@ class Dataset(BaseDataset):
             {'name': 'Number', 'datatype': 'integer'},
             'icon',
             'color',
+            'abbr',
         )
         cldf.add_component(
             'LanguageTable',
@@ -322,10 +363,12 @@ class Dataset(BaseDataset):
             {
                 'name': 'Data_Contributor_ID',
                 'separator': ' ',
+                'dc:description': 'Authors contributing the language structure dataset',
             },
             {
                 'name': 'Survey_Contributor_ID',
                 'separator': ' ',
+                'dc:description': 'Authors of the language survey',
             },
             'Survey_Title',
             {
@@ -341,11 +384,47 @@ class Dataset(BaseDataset):
                 'dc:format': 'text/json',
             },
             'Region',
-            'Default_Lect_ID',
+            {
+                'name': 'Default_Lect_ID',
+                'dc:description': NON_DEFAULT_LECT,
+            },
+            {
+                'name': 'Lexifier',
+                'dc:description': LEXIFIER_DESC,
+            },
         )
         cldf['LanguageTable', 'id'].valueUrl = URITemplate(
             'https://apics-online.info/contributions/{id}')
-        cldf.add_component('ExampleTable', 'Audio', {'name': 'Type', 'propertyUrl': 'dc:type'})
+        cldf.add_component(
+            'ExampleTable',
+            {
+                'name': 'Source',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+                'separator': ';',
+            },
+            'Audio',
+            {'name': 'Type', 'propertyUrl': 'dc:type'},
+            {
+                'name': 'markup_text',
+                'dc:format': 'text/html',
+            },
+            {
+                'name': 'markup_analyzed',
+                'dc:format': 'text/html',
+            },
+            {
+                'name': 'markup_gloss',
+                'dc:format': 'text/html',
+            },
+            {
+                'name': 'markup_comment',
+                'dc:format': 'text/html',
+            },
+            'source_comment',
+            'original_script',
+            'sort',
+            'alt_translation',
+        )
         t = cldf.add_table(
             'contributors.csv',
             {
@@ -376,6 +455,11 @@ class Dataset(BaseDataset):
                 "datatype": 'number',
             },
             'Confidence',
+            {
+                'name': 'Metadata',
+                'dc:format': 'text/json',
+            },
+            'source_comment',
         )
         cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
         cldf.add_foreign_key('ParameterTable', 'Map_Gall_Peters', 'media.csv', 'ID')
