@@ -183,7 +183,8 @@ class Dataset(BaseDataset):
                 'Area': row['area'],
                 'Contributor_ID': fcc.get(row['pk'], []),
                 'Map_Gall_Peters': mgp,
-                'metadata': json.dumps(row['jsondata']),
+                'metadata': json.dumps(collections.OrderedDict(
+                    sorted(row['jsondata'].items(), key=lambda i: i[0]))),
             })
 
         for row in self.read(
@@ -276,7 +277,8 @@ class Dataset(BaseDataset):
                 'Example_ID': sorted(igts[epk] for epk in example_by_value.get(row['pk'], []) if epk in igts),
                 'Frequency': float(row['frequency']) if row['frequency'] else None,
                 'Confidence': CONFIDENCE_FIX.get(row['confidence'], row['confidence']),
-                'Metadata': json.dumps(vs['jsondata']),
+                'Metadata': json.dumps(collections.OrderedDict(
+                    sorted(vs['jsondata'].items(), key=lambda i: i[0]))),
                 'source_comment': vs['source'],
             })
 
