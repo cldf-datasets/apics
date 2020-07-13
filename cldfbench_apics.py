@@ -465,7 +465,6 @@ class Dataset(BaseDataset):
         cldf.add_foreign_key('ParameterTable', 'Map_Gall_Peters', 'media.csv', 'ID')
         cldf.add_foreign_key('LanguageTable', 'Glossed_Text_PDF', 'media.csv', 'ID')
         cldf.add_foreign_key('LanguageTable', 'Glossed_Text_Audio', 'media.csv', 'ID')
-        cldf.add_foreign_key('LanguageTable', 'Default_Lect_ID', 'LanguageTable', 'ID')
         cldf.add_foreign_key('ExampleTable', 'Audio', 'media.csv', 'ID')
 
     def read(self, core, extended=False, pkmap=None, key=None):

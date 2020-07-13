@@ -534,17 +534,6 @@
                                 "ID"
                             ]
                         }
-                    },
-                    {
-                        "columnReference": [
-                            "Default_Lect_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
                     }
                 ],
                 "primaryKey": [
