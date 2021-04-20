@@ -28,7 +28,7 @@ packaging==20.1
 pathlib2==2.3.5
 pluggy==0.12.0
 purl==1.5
-py==1.5.3
+py==1.10.0
 pybtex==0.22.2
 -e git+https://github.com/cldf/pycldf.git@dcd5acd68a3ace91e9d8cb121b2eaf7132c1f78c#egg=pycldf
 pyclts==2.1.2
