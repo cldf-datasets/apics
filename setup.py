@@ -12,6 +12,7 @@ setup(
         ]
     },
     install_requires=[
+        'BeautifulSoup4',
         'cldfbench',
     ],
     extras_require={

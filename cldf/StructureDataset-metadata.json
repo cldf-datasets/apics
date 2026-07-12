@@ -14,22 +14,22 @@
     "dcat:accessURL": "https://github.com/cldf-datasets/apics",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/apics",
-            "dc:created": "v2013-21-gdd7ca41"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2013-24-gf687a83",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v5.3",
+            "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -38,9 +38,6 @@
     ],
     "rdf:ID": "apics",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -57,18 +54,21 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
                         "name": "Parameter_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "null": [
                             "?",
@@ -79,6 +79,7 @@
                         "name": "Value"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "required": false,
@@ -122,6 +123,17 @@
                 "foreignKeys": [
                     {
                         "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
                             "Parameter_ID"
                         ],
                         "reference": {
@@ -137,17 +149,6 @@
                         ],
                         "reference": {
                             "resource": "codes.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Language_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -172,55 +173,107 @@
             "url": "values.csv"
         },
         {
-            "dc:extent": 267,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 104,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "valueUrl": "https://apics-online.info/contributions/{ID}",
                         "name": "ID"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "glossabbreviations.csv"
-        },
-        {
-            "dc:extent": 451,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "valueUrl": "https://cdstar.shh.mpg.de/bitstreams/{Name}",
-                        "name": "ID"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
                         "name": "Name"
                     },
                     {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:format": "text/html",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "name": "Description"
                     },
                     {
-                        "datatype": "string",
-                        "name": "mimetype"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     },
                     {
-                        "datatype": "integer",
-                        "name": "size"
+                        "datatype": "string",
+                        "name": "Ethnologue_Name"
+                    },
+                    {
+                        "dc:format": "text/json",
+                        "name": "Metadata"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Region"
+                    },
+                    {
+                        "dc:description": "Sometimes the languages or varieties that the APiCS language experts described were not internally \nhomogeneous, but different subvarieties (or lects) had different value choices for some feature. \nSuch non-default lects are marked with a non-empty \"Default_Lect_ID\" column, relating the (sub)lect\nwith a default lect. Thus the default lect that was primarily described by the contributors need \nnot be representative for the entire language.",
+                        "name": "Default_Lect_ID"
+                    },
+                    {
+                        "dc:description": "To help the reader\u2019s orientation, we have classified our languages into English-based, Dutch-based, \nPortuguese-based, and so on. This classification is not entirely uncontroversial. On the one hand, \ncontact languages are characterized by strong influence from multiple languages, so saying, for \ninstance, that Haitian Creole is French-based is problematic, as it glosses over the very important \ncontribution of the African languages, especially to the grammar of the language. For this reason, \nmany authors have used expressions like \u201cFrench-lexified\u201d, \u201cDutch-lexified\u201d for such languages, \nwhich only refer to the role of the European languages as primary lexicon-providers. We agree that \nsuch terms are more precise, but they are also more cumbersome, so we have mostly used the older \n(and still much more widespread) manner of talking about groups of creoles and pidgins. We think \nthat it is sufficiently well-known that \u201cEnglish-based\u201d (etc.) is not meant to imply anything other \nthan that the bulk of the language\u2019s lexicon is derived from English.\n\nOn the other hand, the notion of being based on a language is problematic in the case of languages \nwith several lexifiers, especially Gurindji Kriol and Michif. These are shown as having two \nlexifiers (or lexifier \"other\"). There are also a few other cases where it is not fully clear what\nthe primary lexifier is. Saramaccan\u2019s vocabulary has a very large Portuguese component, but for \nsimplicity we classify it as English-based here. Papiamentu is often thought to be originally \n(Afro-)Portuguese-based, but as it has long been influenced much more by Spanish, we classify it \nas Spanish-based.",
+                        "name": "Lexifier"
                     }
                 ],
                 "primaryKey": [
                     "ID"
                 ]
             },
-            "url": "media.csv"
+            "url": "languages.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
@@ -234,7 +287,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://apics-online.info/parameters/{id}",
+                        "valueUrl": "https://apics-online.info/parameters/{ID}",
                         "name": "ID"
                     },
                     {
@@ -250,13 +303,10 @@
                         "name": "Description"
                     },
                     {
-                        "dc:description": "Authors of the Atlas chapter describing the feature",
-                        "separator": " ",
-                        "name": "Contributor_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Chapter"
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     },
                     {
                         "dc:description": "Primary or structural feature, segment or sociolinguistic feature",
@@ -287,21 +337,113 @@
                         "name": "Area"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Map_Gall_Peters"
-                    },
-                    {
                         "dc:format": "application/json",
                         "name": "metadata"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": null,
+            "dc:extent": 90,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Address"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "URL"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "editor_ord"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributors.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 486,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "type"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Contributor_IDs"
+                    },
+                    {
+                        "dc:description": "APiCS Atlas chapters describe features. Thus, for contributions of type AtlasChapter, this column links to the relevant parameter.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "dc:description": "APiCS structure datasets and survey chapters describe languages. Thus, for contributions of type StructureDataset or SurveyChapter, this column links to the relevant language(s).",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "separator": " ",
+                        "name": "Language_IDs"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Contributor_ID"
+                            "Language_IDs"
                         ],
                         "reference": {
-                            "resource": "contributors.csv",
+                            "resource": "languages.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -309,10 +451,21 @@
                     },
                     {
                         "columnReference": [
-                            "Map_Gall_Peters"
+                            "Parameter_ID"
                         ],
                         "reference": {
-                            "resource": "media.csv",
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Contributor_IDs"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -323,7 +476,26 @@
                     "ID"
                 ]
             },
-            "url": "parameters.csv"
+            "url": "contributions.csv"
+        },
+        {
+            "dc:extent": 267,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "glossabbreviations.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
@@ -340,6 +512,8 @@
                         "name": "ID"
                     },
                     {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
@@ -394,8 +568,8 @@
             "url": "codes.csv"
         },
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 104,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:extent": 750,
             "tableSchema": {
                 "columns": [
                     {
@@ -405,120 +579,56 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://apics-online.info/contributions/{id}",
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "required": false,
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "required": false,
-                        "name": "Macroarea"
-                    },
-                    {
-                        "datatype": {
-                            "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
-                        "required": false,
-                        "name": "Latitude"
-                    },
-                    {
-                        "datatype": {
-                            "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
-                        "required": false,
-                        "name": "Longitude"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
-                        "name": "Glottocode"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-z]{3}"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "required": false,
-                        "name": "ISO639P3code"
-                    },
-                    {
-                        "dc:format": "text/html",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
                         "name": "Description"
                     },
                     {
-                        "dc:description": "Authors contributing the language structure dataset",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
+                        "dc:description": "Links to the contribution which contributed the media object.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
+                    },
+                    {
+                        "dc:description": "Links to languages described by the media object.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "separator": " ",
-                        "name": "Data_Contributor_ID"
+                        "name": "Language_IDs"
                     },
                     {
-                        "dc:description": "Authors of the language survey",
-                        "separator": " ",
-                        "name": "Survey_Contributor_ID"
+                        "datatype": "integer",
+                        "name": "size"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Survey_Title"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Ethnologue_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glossed_Text_PDF"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glossed_Text_Audio"
-                    },
-                    {
-                        "dc:format": "text/json",
-                        "name": "Metadata"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Region"
-                    },
-                    {
-                        "dc:description": "Sometimes the languages or varieties that the APiCS language experts described were not internally \nhomogeneous, but different subvarieties (or lects) had different value choices for some feature. \nSuch non-default lects are marked with a non-empty \"Default_Lect_ID\" column, relating the (sub)lect\nwith a default lect. Thus the default lect that was primarily described by the contributors need \nnot be representative for the entire language.",
-                        "name": "Default_Lect_ID"
-                    },
-                    {
-                        "dc:description": "To help the reader\u2019s orientation, we have classified our languages into English-based, Dutch-based, \nPortuguese-based, and so on. This classification is not entirely uncontroversial. On the one hand, \ncontact languages are characterized by strong influence from multiple languages, so saying, for \ninstance, that Haitian Creole is French-based is problematic, as it glosses over the very important \ncontribution of the African languages, especially to the grammar of the language. For this reason, \nmany authors have used expressions like \u201cFrench-lexified\u201d, \u201cDutch-lexified\u201d for such languages, \nwhich only refer to the role of the European languages as primary lexicon-providers. We agree that \nsuch terms are more precise, but they are also more cumbersome, so we have mostly used the older \n(and still much more widespread) manner of talking about groups of creoles and pidgins. We think \nthat it is sufficiently well-known that \u201cEnglish-based\u201d (etc.) is not meant to imply anything other \nthan that the bulk of the language\u2019s lexicon is derived from English.\n\nOn the other hand, the notion of being based on a language is problematic in the case of languages \nwith several lexifiers, especially Gurindji Kriol and Michif. These are shown as having two \nlexifiers (or lexifier \"other\"). There are also a few other cases where it is not fully clear what\nthe primary lexifier is. Saramaccan\u2019s vocabulary has a very large Portuguese component, but for \nsimplicity we classify it as English-based here. Papiamentu is often thought to be originally \n(Afro-)Portuguese-based, but as it has long been influenced much more by Spanish, we classify it \nas Spanish-based.",
-                        "name": "Lexifier"
+                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de/eva-dlce-apics/{File_Key}",
+                        "name": "File_Key"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Glossed_Text_PDF"
+                            "Language_IDs"
                         ],
                         "reference": {
-                            "resource": "media.csv",
+                            "resource": "languages.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -526,10 +636,10 @@
                     },
                     {
                         "columnReference": [
-                            "Glossed_Text_Audio"
+                            "Contribution_ID"
                         ],
                         "reference": {
-                            "resource": "media.csv",
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -540,7 +650,7 @@
                     "ID"
                 ]
             },
-            "url": "languages.csv"
+            "url": "media.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
@@ -557,42 +667,64 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:description": "The example text in the source language.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
                         "required": true,
                         "name": "Primary_Text"
                     },
                     {
+                        "dc:description": "The sequence of words of the primary text to be aligned with glosses",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Analyzed_Word"
                     },
                     {
+                        "dc:description": "The sequence of glosses aligned with the words of the primary text",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Gloss"
                     },
                     {
+                        "dc:description": "The translation of the example text in a meta language",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
                         "required": false,
                         "name": "Translated_Text"
                     },
                     {
+                        "dc:description": "References the language of the translated text",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
                         "required": false,
                         "name": "Meta_Language_ID"
+                    },
+                    {
+                        "dc:description": "The level of conformance of the example with the Leipzig Glossing Rules",
+                        "dc:extent": "singlevalued",
+                        "datatype": {
+                            "base": "string",
+                            "format": "WORD_ALIGNED|MORPHEME_ALIGNED"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#lgrConformance",
+                        "required": false,
+                        "name": "LGR_Conformance"
                     },
                     {
                         "datatype": "string",
@@ -606,7 +738,7 @@
                         "name": "Source"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "name": "Audio"
                     },
                     {
@@ -686,38 +818,6 @@
                 ]
             },
             "url": "examples.csv"
-        },
-        {
-            "dc:conformsTo": null,
-            "dc:extent": 90,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Address"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "URL"
-                    },
-                    {
-                        "datatype": "integer",
-                        "name": "editor_ord"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "contributors.csv"
         }
     ]
 }

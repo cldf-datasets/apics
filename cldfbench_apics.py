@@ -1,13 +1,23 @@
 import json
+import typing
 import pathlib
+import operator
+import functools
 import itertools
 import collections
+import urllib.request
 
-from clldutils.misc import lazyproperty
+from clldutils.path import md5
+from clldutils.html import HTML
+from clldutils.jsonlib import load
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from pycldf.sources import Source, Reference
 from csvw.metadata import URITemplate
 
+from mediautil import contribution_media, MediaTable, Contributors, LanguageMetadata, TableOfContents, LanguageContributions
+
+ObjectsType = dict[str, list[dict[str, typing.Any]]]
+PkMapType = dict[str, dict[str, str]]
 LEXIFIER_DESC = """\
 To help the reader’s orientation, we have classified our languages into English-based, Dutch-based, 
 Portuguese-based, and so on. This classification is not entirely uncontroversial. On the one hand, 
@@ -50,148 +60,107 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         pass
 
+    @functools.cached_property
+    def cdstar(self):
+        res = {}
+        for oid, md in load(self.raw_dir / 'cdstar.json').items():
+            for bs in md['bitstreams']:
+                assert bs['bitstreamid'] not in res
+                #
+                # FIXME: make sure we have this in s3!
+                #
+                res[bs['bitstreamid']] = (
+                    'https://cdstar.eva.mpg.de/bitstreams/{}/{}'.format(oid, bs['bitstreamid']),
+                    bs['checksum'])
+        return res
+
+    def get_file(self, obj, suffix=None):
+        bsid = obj['jsondata']['original']
+        url, checksum = self.cdstar[bsid]
+        p = self.raw_dir / 'media' / bsid
+        if suffix:
+            assert p.suffix == suffix
+        if not p.exists():
+            urllib.request.urlretrieve(url, str(p))
+        assert md5(p) == checksum
+        return p, checksum
+
+    def write_file(self, d, fname, content):
+        dest = self.cldf_dir.joinpath(d, fname)
+        dest.write_text(content, encoding='utf8')
+        return dest
+
+    def cmd_readme(self, args):
+        res = super().cmd_readme(args)
+        return res + """
+
+### Overview
+
+This dataset bundles the data of the *Atlas of Pidgin and Creole Language Structures* (APiCS),
+originally published as a set of four books by Oxford University Press. It contains 
+- the expert-coded grammatical and lexical features described in the printed Atlas [as CLDF StructureDataset](cldf/)
+- the feature descriptions [as HTML pages and feature maps in Gall-Peters projection as PDF](cldf/Atlas)
+- the surveys [as HTML pages](cldf/Survey)
+- accompanying media such as the glossed texts provided with each survey or [audio files of spoken examples](cldf/Examples)
+
+To browse the HTML pages contained herein, download the dataset and open `cldf/index.html` in
+your browser.
+
+
+### Coverage
+
+APiCS covers 76 pidgin and creole languages from around the world.
+
+![map](map.svg)
+
+"""
+
     def cmd_makecldf(self, args):
-        self.create_schema(args.writer.cldf)
-        pk2id = collections.defaultdict(dict)
-        checksums = set()
+        media = MediaTable.from_cdstar(
+            args.writer.objects, self.cldf_dir, load(self.raw_dir / 'cdstar.json'))
+        self.create_schema(args.writer.cldf, media)
+        for subdirs in ['Atlas', 'Survey', 'Examples']:
+            d = self.cldf_dir / subdirs
+            d.mkdir(exist_ok=True)
+
+        pk2id: PkMapType = collections.defaultdict(dict)
         args.writer.cldf.add_sources(*list(self.itersources(pk2id)))
         self.read('source', pkmap=pk2id)
 
-        refs = []
-        for row in self.raw_dir.read_csv('valuesetreference.csv', dicts=True):
-            if row['source_pk']:
-                refs.append((row['valueset_pk'], pk2id['source'][row['source_pk']], row['description']))
-        exrefs = []
-        for row in self.raw_dir.read_csv('sentencereference.csv', dicts=True):
-            if row['source_pk']:
-                exrefs.append((row['sentence_pk'], pk2id['source'][row['source_pk']], row['description']))
+        contributors = Contributors.from_contrib_rows(
+            self.read('contributor', pkmap=pk2id, key=lambda r: r['id']).values(),
+            self.contributor_ids('contributioncontributor', pk2id, 'contribution_pk'),
+            self.contributor_ids('surveycontributor', pk2id, 'survey_pk'),
+            self.contributor_ids('featureauthor', pk2id, 'feature_pk'),
+        )
+        args.writer.objects['contributors.csv'] = contributors.contributors
 
-        editors = {
-            name: ord for ord, name in enumerate([
-                'Susanne Maria Michaelis',
-                'Philippe Maurer',
-                'Martin Haspelmath',
-                'Magnus Huber',
-            ], start=1)}
-
-        for row in self.read('contributor', pkmap=pk2id, key=lambda r: r['id']).values():
-            args.writer.objects['contributors.csv'].append({
-                'ID': row['id'],
-                'Name': row['name'],
-                'Address': row['address'],
-                'URL': row['url'],
-                'editor_ord': editors.get(row['name']),
-            })
-
-        cc = self.contributor_ids('contributioncontributor', pk2id, 'contribution_pk')
-        scc = self.contributor_ids('surveycontributor', pk2id, 'survey_pk')
-
-        # We put contribution data into the language table!
-        contribs = self.read('contribution', extended='apicscontribution')
-        gts = self.add_files(args.writer, contribs.values(), checksums)
-        contribs = {c['id']: c for c in contribs.values()}
-        surveys = {c['id']: c for c in self.read('survey').values()}
-        surveys['51'] = surveys['50']
-        identifier = self.read('identifier')
-        lang2id = collections.defaultdict(lambda: collections.defaultdict(list))
-        for row in self.read('languageidentifier').values():
-            id_ = identifier[row['identifier_pk']]
-            lang2id[row['language_pk']][id_['type']].append((id_['name'], id_['description']))
-        lrefs = {
-            lpk: set(pk2id['source'][r['source_pk']] for r in rows)
-            for lpk, rows in itertools.groupby(
-                self.read('languagesource', key=lambda d: d['language_pk']).values(),
-                lambda d: d['language_pk'])}
-        for row in self.read('contributionreference').values():
-            lrefs[row['contribution_pk']].add(pk2id['source'][row['source_pk']])
-
-        ldata = {}
-        for lpk, rows in itertools.groupby(
-            self.read('language_data', key=lambda d: (d['object_pk'], int(d['ord']))).values(),
-            lambda d: d['object_pk'],
-        ):
-            ldata[lpk] = collections.OrderedDict([(d['key'], d['value']) for d in rows])
-
-        lmap = {}
-        for row in self.read(
-            'language',
-            extended='lect',
-            pkmap=pk2id,
-            key=lambda l: (bool(l['language_pk']), int(l['id'])),
-        ).values():
-            lmap[row['pk']] = id = row['id']
-            contrib = contribs.get(id)
-            survey = surveys.get(row['id'])
-            assert survey or (int(id) == 21 or int(id) > 100)
-            iso_codes = set(i[0] for i in lang2id[row['pk']].get('iso639-3', []))
-            glottocodes = [i[0] for i in lang2id[row['pk']].get('glottolog', [])]
-            ethnologue_names = [i[0] for i in lang2id[row['pk']].get('ethnologue', [])]
-            lrefs_ = [Reference(r, None) for r in sorted(lrefs.get(row['pk'], []))]
-            gt_pdf, gt_audio = None, None
-            if contrib:
-                lrefs_.append(Reference(pk2id['source'][contrib['survey_reference_pk']], desc='survey'))
-                for f in contrib.get('files', []):
-                    if f['id'].endswith('pdf'):
-                        gt_pdf = gts[(f['jsondata']['objid'], f['jsondata']['original'])]
-                    if f['id'].endswith('mp3'):
-                        gt_audio = gts[(f['jsondata']['objid'], f['jsondata']['original'])]
-            args.writer.objects['LanguageTable'].append({
-                'ID': id,
-                'Name': row['name'],
-                'Description': contrib['markup_description'] if contrib else '',
-                'ISO639P3code': list(iso_codes)[0] if len(iso_codes) == 1 else None,
-                'Glottocode': glottocodes[0] if len(glottocodes) == 1 else None,
-                'Ethnologue_Name': ', '.join(ethnologue_names),
-                'Latitude': row['latitude'],
-                'Longitude': row['longitude'],
-                'Data_Contributor_ID': cc[contrib['pk']] if contrib else [],
-                'Survey_Contributor_ID': scc[survey['pk']] if survey else [],
-                'Survey_Title': '{}. In "The survey of pidgin and creole languages". {}'.format(
-                    survey['name'], survey['description']) if survey else '',
-                'Source': [str(r) for r in lrefs_],
-                'Glossed_Text_PDF': gt_pdf,
-                'Glossed_Text_Audio': gt_audio,
-                'Metadata': json.dumps(ldata.get(row['pk'], {})),
-                'Region': row['region'],
-                'Default_Lect_ID': lmap.get(row['language_pk']),
-                'Lexifier': row['lexifier'],
-            })
+        index = TableOfContents()
+        self._add_languages(args.writer.objects, pk2id, media, contributors, index)
         args.writer.objects['LanguageTable'].sort(key=lambda d: d['ID'])
 
-        fcc = self.contributor_ids('featureauthor', pk2id, 'feature_pk')
         for row in self.read(
                 'parameter',
                 extended='feature',
                 pkmap=pk2id,
-                key=lambda d: d['id']).values():
-            mgp = None
-            maps = self.add_files(args.writer, [row], checksums)
-            for f in row.get('files', []):
-                if f['id'].endswith('pdf'):
-                    mgp = maps[(f['jsondata']['objid'], f['jsondata']['original'])]
-            args.writer.objects['ParameterTable'].append({
-                'ID': row['id'],
-                'Name': row['name'],
-                'Description': row['markup_description'] if row['id'] != '0' else LEXIFIER_DESC,
-                'Type': row['feature_type'],
-                'PHOIBLE_Segment_ID': row['jsondata'].get('phoible', {}).get('id'),
-                'PHOIBLE_Segment_Name': row['jsondata'].get('phoible', {}).get('segment'),
-                #multivalued,wals_id,wals_representation,representation,area
-                'Multivalued': row['multivalued'] == 't',
-                'WALS_ID': (row['wals_id'] + 'A') if row['wals_id'] else '',
-                'WALS_Representation': int(row['wals_representation']) if row['wals_representation'] else None,
-                'Area': row['area'],
-                'Contributor_ID': fcc.get(row['pk'], []),
-                'Map_Gall_Peters': mgp,
-                'metadata': json.dumps(collections.OrderedDict(
-                    sorted(row['jsondata'].items(), key=lambda i: i[0]))),
-            })
+                key=lambda d: int(d['id'])).values():
+            self._add_feature(row, args.writer.objects, media, contributors, index)
 
+        index.write(self.cldf_dir / 'index.html')
+        example_by_value = self._add_examples(args.writer.objects, pk2id, media)
+        self._add_values(args.writer.objects, pk2id, example_by_value)
+
+    def _add_values(
+            self,
+            objects: ObjectsType,
+            pk2id: PkMapType,
+            example_by_value,
+    ):
         for row in self.read(
                 'domainelement',
                 pkmap=pk2id,
                 key=lambda d: (int(d['id'].split('-')[0]), int(d['number']))).values():
-            args.writer.objects['CodeTable'].append({
+            objects['CodeTable'].append({
                 'ID': row['id'],
                 'Parameter_ID': pk2id['parameter'][row['parameter_pk']],
                 'Name': row['name'],
@@ -202,35 +171,45 @@ class Dataset(BaseDataset):
                 'abbr': row['abbr'],
             })
 
-        refs = {
-            dpid: [
-                str(Reference(
-                    source=str(r[1]),
-                    desc=r[2].replace('[', ')').replace(']', ')').replace(';', '.').strip()
-                    if r[2] else None))
-                for r in refs_
-            ]
-            for dpid, refs_ in itertools.groupby(refs, lambda r: r[0])}
-
+        refs = dict(self._get_refs('valueset', pk2id))
         vsdict = self.read('valueset', pkmap=pk2id)
-        examples = self.read('sentence', pkmap=pk2id)
-        mp3 = self.add_files(args.writer, examples.values(), checksums)
-        igts = {}
-        exrefs = {
-            dpid: [
-                str(Reference(
-                    source=str(r[1]),
-                    desc=r[2].replace('[', ')').replace(']', ')').replace(';', '.').strip()
-                    if r[2] else None))
-                for r in refs_
-            ]
-            for dpid, refs_ in itertools.groupby(exrefs, lambda r: r[0])}
 
-        for ex in examples.values():
+        for row in self.read('value').values():
+            vs = vsdict[row['valueset_pk']]
+            objects['ValueTable'].append({
+                'ID': row['id'],
+                'Language_ID': pk2id['language'][vs['language_pk']],
+                'Parameter_ID': pk2id['parameter'][vs['parameter_pk']],
+                'Value': pk2id['domainelement'][row['domainelement_pk']].split('-')[1],
+                'Code_ID': pk2id['domainelement'][row['domainelement_pk']],
+                'Comment': vs['description'],
+                'Source': refs.get(vs['pk'], []),
+                'Example_ID': example_by_value.get(row['pk'], []),
+                'Frequency': float(row['frequency']) if row['frequency'] else None,
+                'Confidence': CONFIDENCE_FIX.get(row['confidence'], row['confidence']),
+                'Metadata': json.dumps(collections.OrderedDict(
+                    sorted(vs['jsondata'].items(), key=lambda i: i[0]))),
+                'source_comment': vs['source'],
+            })
+
+        objects['ValueTable'].sort(key=lambda d: (d['Language_ID'], d['Parameter_ID']))
+
+    def _add_examples(self, objects: ObjectsType, pk2id: PkMapType, media: MediaTable):
+        exrefs = dict(self._get_refs('sentence', pk2id))
+        igts = {}
+        for ex in self.read('sentence', pkmap=pk2id).values():
             audio, a, g = None, [], []
-            for f in ex.get('files', []):
-                if f['id'].endswith('mp3'):
-                    audio = mp3[(f['jsondata']['objid'], f['jsondata']['original'])]
+            files = ex.get('files', [])
+            if files:
+                assert len(files) == 1, ex
+                src, audio = self.get_file(files[0], suffix='.mp3')
+                media.add(
+                    src,
+                    'Audio of the spoken object language text of examples',
+                    dest='Examples',
+                    lids=[pk2id['language'][ex['language_pk']]],
+                    md5sum=audio)
+
             if ex['analyzed']:
                 a = ex['analyzed'].split()
             if ex['gloss']:
@@ -238,7 +217,7 @@ class Dataset(BaseDataset):
             if len(a) != len(g):
                 a, g = [ex['analyzed']], [ex['gloss']]
             igts[ex['pk']] = ex['id']
-            args.writer.objects['ExampleTable'].append({
+            objects['ExampleTable'].append({
                 'ID': ex['id'],
                 'Language_ID': pk2id['language'][ex['language_pk']],
                 'Primary_Text': ex['name'],
@@ -246,8 +225,8 @@ class Dataset(BaseDataset):
                 'Analyzed_Word': a,
                 'Gloss': g,
                 'Source': exrefs.get(ex['pk'], []),
-                'Audio': audio,
                 'Type': ex['type'],
+                'Audio': audio,
                 'Comment': ex['comment'],
                 'source_comment': ex['source'],
                 'original_script': ex['original_script'],
@@ -258,75 +237,217 @@ class Dataset(BaseDataset):
                 'sort': ex['jsondata'].get('sort'),
                 'alt_translation': ex['jsondata'].get('alt_translation'),
             })
+
+        for row in self.read('glossabbreviation').values():
+            objects['glossabbreviations.csv'].append(
+                dict(ID=row['id'], Name=row['name']))
         example_by_value = {
             vpk: [r['sentence_pk'] for r in rows]
             for vpk, rows in itertools.groupby(
                 self.read('valuesentence', key=lambda d: d['value_pk']).values(),
                 lambda d: d['value_pk'])}
+        return {
+            vpk: sorted(igts[epk] for epk in epks)
+            for vpk, epks in example_by_value.items()}
 
-        for row in self.read('value').values():
-            vs = vsdict[row['valueset_pk']]
-            args.writer.objects['ValueTable'].append({
+    def _add_languages(
+            self,
+            objects: ObjectsType,
+            pk2id: PkMapType,
+            media: MediaTable,
+            contributors: Contributors,
+            index: TableOfContents,
+    ):
+        lmeta = LanguageMetadata.from_csv(self.read, pk2id)
+        contribs = LanguageContributions.from_surveys_and_contribs(
+            self.read('survey'),
+            self.read('contribution', extended='apicscontribution'))
+
+        # Loop over languages ordered such that "proper" languages are hit first and ordered by id.
+        for row in self.read(
+                'language',
+                extended='lect',
+                pkmap=pk2id,
+                key=lambda l: (bool(l['language_pk']), int(l['id'])),
+        ).values():
+            self._add_language(
+                row,
+                lmeta,
+                contribs.contributions(row['id']),
+                objects,
+                contributors,
+                media,
+                index,
+            )
+
+    def _add_language(
+            self,
+            row,
+            meta: LanguageMetadata,
+            contribs,
+            objects,
+            contributors,
+            media: MediaTable,
+            index: TableOfContents,
+    ):
+        meta.pk2id[row['pk']] = row['id']
+        assert contribs.survey or (int(row['id']) == 21 or int(row['id']) > 100)
+        objects['LanguageTable'].append(meta.update(
+            {
                 'ID': row['id'],
-                'Language_ID': pk2id['language'][vs['language_pk']],
-                'Parameter_ID': pk2id['parameter'][vs['parameter_pk']],
-                'Value': pk2id['domainelement'][row['domainelement_pk']].split('-')[1],
-                'Code_ID': pk2id['domainelement'][row['domainelement_pk']],
-                'Comment': vs['description'],
-                'Source': refs.get(vs['pk'], []),
-                'Example_ID': sorted(igts[epk] for epk in example_by_value.get(row['pk'], []) if epk in igts),
-                'Frequency': float(row['frequency']) if row['frequency'] else None,
-                'Confidence': CONFIDENCE_FIX.get(row['confidence'], row['confidence']),
-                'Metadata': json.dumps(collections.OrderedDict(
-                    sorted(vs['jsondata'].items(), key=lambda i: i[0]))),
-                'source_comment': vs['source'],
-            })
-
-        args.writer.objects['ValueTable'].sort(
-            key=lambda d: (d['Language_ID'], d['Parameter_ID']))
-
-        for row in self.read('glossabbreviation').values():
-            args.writer.objects['glossabbreviations.csv'].append(
-                dict(ID=row['id'], Name=row['name']))
-
-    def create_schema(self, cldf):
-        cldf.add_table(
-            'glossabbreviations.csv',
-            {
-                'name': 'ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'Name': row['name'],
+                'Description': contribs.structdataset[
+                    'markup_description'] if contribs.structdataset else '',
+                'Latitude': row['latitude'],
+                'Longitude': row['longitude'],
+                'Region': row['region'],
+                'Default_Lect_ID': meta.pk2id.get(row['language_pk']),
+                'Lexifier': row['lexifier'],
             },
-            {
-                'name': 'Name',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
-            })
-        cldf.add_table(
-            'media.csv',
-            {
-                'name': 'ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-                'valueUrl': 'https://cdstar.shh.mpg.de/bitstreams/{Name}',
-            },
-            {
-                'name': 'Name',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
-            },
+            row['pk']))
+        if meta.pk2id.get(row['language_pk']):
+            return
+        # Create the two related contributions: StructureDataset and SurveyChapter
+        objects['ContributionTable'].append(contribs.structuredataset_as_contribution(
+            contributors.contrib_spec(contributors.cc_ids[contribs.structdataset['pk']]),
+            contributors.editor_names,
+            row['name']))
+        survey_html = self.raw_dir.joinpath('Surveys', f"{row['id']}.html")
+        if survey_html.exists():
+            assert contribs.survey
+            index.add_survey(contribs.survey, survey_html.name)
+
+            objects['ContributionTable'].append(contribs.survey_as_contribution(
+                contributors.contrib_spec(contributors.sc_ids[row['pk']]),
+                contributors.editor_names))
+            gt_audio, gt_pdf = contribs.add_glossed_text(media, self.get_file, row['name'])
+            extra = None
+            if gt_audio or gt_pdf:
+                extra = [HTML.h2('Glossed text')]
+                if gt_audio:
+                    extra.append(HTML.p(HTML.audio(controls='controls', src=gt_audio)))
+                if gt_pdf:
+                    extra.append(HTML.p(HTML.a('[PDF]', href=gt_pdf)))
+                extra = HTML.div(*extra)
+
+            html, maps = contribution_media(self.etc_dir, self.raw_dir / 'Surveys', row['id'], extra_section=extra)
+            sid = f"s-{row['id']}"
+            media.add(
+                self.write_file('Survey', survey_html.name, html),
+                contribs.survey['name'],
+                cid=sid, lids=contribs.survey_lids())
+            for src in maps:
+                media.add(
+                    src,
+                    f"Map or figure accompanying language survey {contribs.survey['name']}",
+                    dest='Survey', cid=sid, lids=contribs.survey_lids())
+
+    def _add_feature(
+            self,
+            row: dict[str, str],
+            objects: ObjectsType,
+            media: MediaTable,
+            contributors,
+            index: TableOfContents):
+        """
+        A feature in APiCS is considered a citeable contribution. Thus, adding a feature means
+        adding
+        - a Parameter
+        - a Contributio
+        - possibly media files: a map in Gall-Peters projection and/or the chapter text.
+        """
+        objects['ParameterTable'].append({
+            'ID': row['id'],
+            'Name': row['name'],
+            'Description': row['markup_description'] if row['id'] != '0' else LEXIFIER_DESC,
+            'Type': row['feature_type'],
+            'PHOIBLE_Segment_ID': row['jsondata'].get('phoible', {}).get('id'),
+            'PHOIBLE_Segment_Name': row['jsondata'].get('phoible', {}).get('segment'),
+            #multivalued,wals_id,wals_representation,representation,area
+            'Multivalued': row['multivalued'] == 't',
+            'WALS_ID': (row['wals_id'] + 'A') if row['wals_id'] else '',
+            'WALS_Representation': int(row['wals_representation']) if row['wals_representation'] else None,
+            'Area': row['area'],
+            'metadata': json.dumps(collections.OrderedDict(
+                sorted(row['jsondata'].items(), key=lambda i: i[0]))),
+        })
+        obj = contributors.contrib_spec(contributors.fc_ids.get(row['pk'], []))
+        obj.update({
+            'ID': f"a-{row['id']}",
+            'type': 'AtlasChapter',
+            'Name': row['name'],
+            'Parameter_ID': row['id'],
+        })
+        obj['Citation'] = \
+            "{Contributor} and the APiCS Consortium. 2013. {Name}. In: {eds} " \
+            "(eds.) The Atlas of Pidgin and Creole Language Structures. " \
+            "Oxford: Oxford University Press.".format(eds=contributors.editor_names, **obj)
+        objects['ContributionTable'].append(obj)
+        files = row.get('files', [])
+        if files:
+            assert len(files) == 1, row
+            media.add(
+                self.get_file(files[0], suffix='.pdf')[0],
+                'Map of the values for feature {} in Gall-Peters projection'.format(row['id']),
+                dest='Atlas',
+                cid=obj['ID'])
+
+        chapter_name = f"{row['id']}.html"
+        if self.raw_dir.joinpath('Atlas', chapter_name).exists():
+            index.add_atlas_chapter(row, chapter_name)
+            html, maps = contribution_media(
+                self.etc_dir, self.raw_dir / 'Atlas', row['id'],
+                title=row['name'], author=obj['Contributor'])
+            assert not maps
+            media.add(self.write_file('Atlas', chapter_name, html), row['name'], cid=obj['ID'])
+
+    def _get_refs(self, referent: typing.Literal['valueset', 'sentence'], pk2id: PkMapType):
+        def _reference_from_row(row: dict[str, typing.Any]) -> Reference:
+            return Reference(
+                source=pk2id['source'][row['source_pk']],
+                desc=row['description'].replace('[', '(').replace(']', ')').replace(';', '.').strip()
+                if row['description'] else None)
+
+        for rpk, rows in itertools.groupby(
+            sorted(
+                self.raw_dir.read_csv(f'{referent}reference.csv', dicts=True),
+                key=operator.itemgetter(f'{referent}_pk')),
+            operator.itemgetter(f'{referent}_pk')
+        ):
+            yield rpk, [str(_reference_from_row(row)) for row in rows if row['source_pk']]
+
+    def create_schema(self, cldf, media: MediaTable):
+        cldf.add_component(
+            'LanguageTable',
             {
                 'name': 'Description',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
+                'dc:format': 'text/html',
             },
-            'mimetype',
-            {'name': 'size', 'datatype': 'integer'},
+            {
+                'name': 'Source',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+                'separator': ';',
+            },
+            'Ethnologue_Name',
+            {
+                'name': 'Metadata',
+                'dc:format': 'text/json',
+            },
+            'Region',
+            {
+                'name': 'Default_Lect_ID',
+                'dc:description': NON_DEFAULT_LECT,
+            },
+            {
+                'name': 'Lexifier',
+                'dc:description': LEXIFIER_DESC,
+            },
         )
-
+        cldf['LanguageTable', 'id'].valueUrl = URITemplate(
+            'https://apics-online.info/contributions/{ID}')
         cldf.add_component(
             'ParameterTable',
-            {
-                'name': 'Contributor_ID',
-                'separator': ' ',
-                'dc:description': 'Authors of the Atlas chapter describing the feature',
-            },
-            'Chapter',  # valueUrl: https://apics-online.info/parameters/1.chapter.html
             {
                 'name': 'Type',
                 'dc:description': "Primary or structural feature, segment or sociolinguistic feature",
@@ -343,11 +464,63 @@ class Dataset(BaseDataset):
             },
             {'name': 'WALS_Representation', 'datatype': 'integer'},
             'Area',
-            'Map_Gall_Peters',
             {'name': 'metadata', 'dc:format': 'application/json'},
         )
         cldf['ParameterTable', 'id'].valueUrl = URITemplate(
-            'https://apics-online.info/parameters/{id}')
+            'https://apics-online.info/parameters/{ID}')
+        t = cldf.add_table(
+            'contributors.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            'Address',
+            'URL',
+            {
+                'name': 'editor_ord',
+                'datatype': 'integer',
+            }
+        )
+        t.common_props['dc:conformsTo'] = None
+        cldf.add_component(
+            'ContributionTable',
+            'type',  # survey, structure-dataset, feature, other
+            {
+                'name': 'Contributor_IDs',
+                'separator': ' ',
+            },
+            {
+                'name': 'Parameter_ID',
+                'propertyUrl': "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                'dc:description':
+                    "APiCS Atlas chapters describe features. Thus, for contributions of type "
+                    "AtlasChapter, this column links to the relevant parameter."
+            },
+            {
+                'name': 'Language_IDs',
+                'propertyUrl': "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                'separator': ' ',
+                'dc:description':
+                    "APiCS structure datasets and survey chapters describe languages. Thus, "
+                    "for contributions of type StructureDataset or SurveyChapter, this column "
+                    "links to the relevant language(s).",
+            }
+        )
+        cldf.add_foreign_key('ContributionTable', 'Contributor_IDs', 'contributors.csv', 'ID')
+        cldf.add_table(
+            'glossabbreviations.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            })
         cldf.add_component(
             'CodeTable',
             {'name': 'Number', 'datatype': 'integer'},
@@ -355,48 +528,7 @@ class Dataset(BaseDataset):
             'color',
             'abbr',
         )
-        cldf.add_component(
-            'LanguageTable',
-            {
-                'name': 'Description',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
-                'dc:format': 'text/html',
-            },
-            {
-                'name': 'Data_Contributor_ID',
-                'separator': ' ',
-                'dc:description': 'Authors contributing the language structure dataset',
-            },
-            {
-                'name': 'Survey_Contributor_ID',
-                'separator': ' ',
-                'dc:description': 'Authors of the language survey',
-            },
-            'Survey_Title',
-            {
-                'name': 'Source',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
-                'separator': ';',
-            },
-            'Ethnologue_Name',
-            'Glossed_Text_PDF',
-            'Glossed_Text_Audio',
-            {
-                'name': 'Metadata',
-                'dc:format': 'text/json',
-            },
-            'Region',
-            {
-                'name': 'Default_Lect_ID',
-                'dc:description': NON_DEFAULT_LECT,
-            },
-            {
-                'name': 'Lexifier',
-                'dc:description': LEXIFIER_DESC,
-            },
-        )
-        cldf['LanguageTable', 'id'].valueUrl = URITemplate(
-            'https://apics-online.info/contributions/{id}')
+        media.schema(cldf)
         cldf.add_component(
             'ExampleTable',
             {
@@ -404,7 +536,10 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
                 'separator': ';',
             },
-            'Audio',
+            {
+                'name': 'Audio',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
+            },
             {'name': 'Type', 'propertyUrl': 'dc:type'},
             {
                 'name': 'markup_text',
@@ -427,24 +562,6 @@ class Dataset(BaseDataset):
             'sort',
             'alt_translation',
         )
-        t = cldf.add_table(
-            'contributors.csv',
-            {
-                'name': 'ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-            },
-            {
-                'name': 'Name',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
-            },
-            'Address',
-            'URL',
-            {
-                'name': 'editor_ord',
-                'datatype': 'integer',
-            }
-        )
-        t.common_props['dc:conformsTo'] = None
         cldf.add_columns(
             'ValueTable',
             {
@@ -463,11 +580,6 @@ class Dataset(BaseDataset):
             },
             'source_comment',
         )
-        cldf.add_foreign_key('ParameterTable', 'Contributor_ID', 'contributors.csv', 'ID')
-        cldf.add_foreign_key('ParameterTable', 'Map_Gall_Peters', 'media.csv', 'ID')
-        cldf.add_foreign_key('LanguageTable', 'Glossed_Text_PDF', 'media.csv', 'ID')
-        cldf.add_foreign_key('LanguageTable', 'Glossed_Text_Audio', 'media.csv', 'ID')
-        cldf.add_foreign_key('ExampleTable', 'Audio', 'media.csv', 'ID')
 
     def read(self, core, extended=False, pkmap=None, key=None):
         if not key:
@@ -494,25 +606,6 @@ class Dataset(BaseDataset):
                     res[opk]['files'].append(row)
         return res
 
-    def add_files(self, writer, objs, checksums):
-        res = {}
-        for c in objs:
-            for f in c.get('files', []):
-                md = f['jsondata']
-                id_ = self.cdstar[md['objid'], md['original']][0]
-                if id_ not in checksums:
-                    checksums.add(id_)
-                    writer.objects['media.csv'].append({
-                        # maybe base64 encode? or use md5 hash from catalog?
-                        'ID': id_,
-                        'Name': '{}/{}'.format(md['objid'], md['original']),
-                        'Description': self.cdstar[md['objid'], md['original']][1],
-                        'mimetype': md['mimetype'],
-                        'size': md['size'],
-                })
-                res[(md['objid'], md['original'])] = id_
-        return res
-
     def itersources(self, pkmap):
         for row in self.raw_dir.read_csv('source.csv', dicts=True):
             jsondata = json.loads(row.pop('jsondata', '{}') or '{}')
@@ -522,14 +615,6 @@ class Dataset(BaseDataset):
             if (not row['url']) and jsondata.get('gbs', {}).get('id'):
                 row['url'] = 'https://books.google.de/books?id=' + jsondata['gbs']['id']
             yield Source(row.pop('bibtex_type'), row.pop('id'), **row)
-
-    @lazyproperty
-    def cdstar(self):
-        cdstar = {}
-        for eid, md in self.raw_dir.read_json('cdstar.json').items():
-            for bs in md['bitstreams']:
-                cdstar[eid, bs['bitstreamid']] = (bs['checksum'], md['metadata'].get('description'))
-        return cdstar
 
     def contributor_ids(self, name, pk2id, fkcol):
         return {

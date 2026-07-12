@@ -1,0 +1,27 @@
+{
+    "title": "Atlas of Pidgin and Creole Language Structures Online",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Michaelis, Susanne Maria &amp; Maurer, Philippe &amp; Haspelmath, Martin &amp; Huber, Magnus (eds.) 2013. Atlas of Pidgin and Creole Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "creators": [
+        {
+            "name": "Michaelis, Susanne Maria"
+        },
+        {
+            "name": "Maurer, Philippe"
+        },
+        {
+            "name": "Haspelmath, Martin"
+        },
+        {
+            "name": "Huber, Magnus (eds.)"
+        }
+    ]
+}

@@ -1,452 +1,751 @@
-ID,Name,Description,mimetype,size
-a9e3060ff8c20a905525e265c7c565b2,EAEA0-F3F6-F66F-9B1E-0/1_gt.pdf,Glossed text of APiCS contribution 1,application/pdf,50302
-9d04a82a1f7c09921234ae768910c667,EAEA0-A03D-7E7F-35AA-0/2_gt.pdf,Glossed text of APiCS contribution 2,application/pdf,71503
-f1608d81249d2cba288d0f13e3923504,EAEA0-A03D-7E7F-35AA-0/2_gt.mp3,Glossed text of APiCS contribution 2,audio/mpeg,1795970
-9c929b079bdfd20c8c52cdba7b6c21cf,EAEA0-FABF-475D-5CFF-0/3_gt.pdf,Glossed text of APiCS contribution 3,application/pdf,56359
-167f9a571dc08df068e8bdf928535ba0,EAEA0-43D4-4263-1F01-0/4_gt.pdf,Glossed text of APiCS contribution 4,application/pdf,52792
-abc88c3fae81677865ee1af01243936e,EAEA0-43D4-4263-1F01-0/4_gt.mp3,Glossed text of APiCS contribution 4,audio/mpeg,1336457
-4ee37676e2635e6d008876b4e9b83cd5,EAEA0-B62A-6C0F-AAD1-0/5_gt.pdf,Glossed text of APiCS contribution 5,application/pdf,81859
-1a2841d3a077dc778fbdb74cef240483,EAEA0-1DC6-28E5-C84A-0/6_gt.pdf,Glossed text of APiCS contribution 6,application/pdf,47658
-415f142437fdcb2a7acd95079f5d7645,EAEA0-1DC6-28E5-C84A-0/6_gt.mp3,Glossed text of APiCS contribution 6,audio/mpeg,90112
-ecedc2df4c81b72e09046b75daac6a87,EAEA0-7756-600B-3E45-0/7_gt.pdf,Glossed text of APiCS contribution 7,application/pdf,89855
-61b30feaa466f348f3c76e94332a993b,EAEA0-7756-600B-3E45-0/7_gt.mp3,Glossed text of APiCS contribution 7,audio/mpeg,4053158
-a95b0e4acb31f5bfb529e11d1eb5100c,EAEA0-3A35-3650-07D6-0/8_gt.pdf,Glossed text of APiCS contribution 8,application/pdf,75333
-9e2a9fd252b993e1d7f04841bab834a5,EAEA0-3A35-3650-07D6-0/8_gt.mp3,Glossed text of APiCS contribution 8,audio/mpeg,5363494
-f2088aebbd63074fcd402c600215cb66,EAEA0-592B-5B36-0AD5-0/9_gt.pdf,Glossed text of APiCS contribution 9,application/pdf,60430
-3081dc1f5d3643cc21913e3d96342fcb,EAEA0-DD53-3548-FE55-0/10_gt.pdf,Glossed text of APiCS contribution 10,application/pdf,65351
-4a8d010ca97f673e3e448a8e380f12b4,EAEA0-6069-7C12-765E-0/11_gt.pdf,Glossed text of APiCS contribution 11,application/pdf,52165
-09609ad2f0e0b6a36c5b33bfb571eba3,EAEA0-6069-7C12-765E-0/11_gt.mp3,Glossed text of APiCS contribution 11,audio/mpeg,560516
-1ef51a42c91d0ec24f22a82c78f9b032,EAEA0-CA7F-4AD9-4D30-0/12_gt.pdf,Glossed text of APiCS contribution 12,application/pdf,84895
-d863a469ceb3a64051ef8df649033f36,EAEA0-CA7F-4AD9-4D30-0/12_gt.mp3,Glossed text of APiCS contribution 12,audio/mpeg,1678766
-287b403d219a8018158d142b4ca15f82,EAEA0-FE27-4ED1-3332-0/13_gt.pdf,Glossed text of APiCS contribution 13,application/pdf,68430
-8578b06e6b040ebca1ce16ef3d6fa5b7,EAEA0-FE27-4ED1-3332-0/13_gt.mp3,Glossed text of APiCS contribution 13,audio/mpeg,505330
-8adb7e052e5eb48b085aa34e369eed31,EAEA0-2BEF-BCCD-AEF5-0/14_gt.pdf,Glossed text of APiCS contribution 14,application/pdf,53700
-701de2bdf1dd5172dec9200325ad7432,EAEA0-2BEF-BCCD-AEF5-0/14_gt.mp3,Glossed text of APiCS contribution 14,audio/mpeg,1893733
-bde0751ab1b19d0a491362c1f01222bc,EAEA0-0D65-917F-6395-0/15_gt.pdf,Glossed text of APiCS contribution 15,application/pdf,73915
-b1df1e6f245e7dfc8f8f5611c3d4bdd4,EAEA0-0D65-917F-6395-0/15_gt.mp3,Glossed text of APiCS contribution 15,audio/mpeg,2269962
-865abf00f94869a7fb5c182b5671df73,EAEA0-CA39-12B4-3C15-0/16_gt.pdf,Glossed text of APiCS contribution 16,application/pdf,65563
-c195595f41d92ce7263f0b00ab2f875c,EAEA0-CA39-12B4-3C15-0/16_gt.mp3,Glossed text of APiCS contribution 16,audio/mpeg,955502
-64f6c14f326ed250e874b652d9d90120,EAEA0-2E17-9925-8EC9-0/17_gt.pdf,Glossed text of APiCS contribution 17,application/pdf,47286
-26d95798abc97cb346c3022122f7850b,EAEA0-2E17-9925-8EC9-0/17_gt.mp3,Glossed text of APiCS contribution 17,audio/mpeg,728326
-d01c68a56941c1e26851399da2944f9d,EAEA0-FA0D-34A4-432A-0/18_gt.pdf,Glossed text of APiCS contribution 18,application/pdf,54715
-f287a7dac36861dc0ecbb44954d8045b,EAEA0-FA0D-34A4-432A-0/18_gt.mp3,Glossed text of APiCS contribution 18,audio/mpeg,2455543
-60003bffaaab4d7cdddfd075a1698c10,EAEA0-41D7-B3F4-A080-0/19_gt.pdf,Glossed text of APiCS contribution 19,application/pdf,71051
-8818c8f5d038c5e5e79ab7ae78cd0762,EAEA0-41D7-B3F4-A080-0/19_gt.mp3,Glossed text of APiCS contribution 19,audio/mpeg,806454
-ebd89b3fd1ad12b9e1b9a9797cc7819f,EAEA0-6100-139B-1AAD-0/20_gt.pdf,Glossed text of APiCS contribution 20,application/pdf,62792
-c55c6a9fc8a287c8cbb0e008961d0181,EAEA0-4CA6-8542-A148-0/22_gt.pdf,Glossed text of APiCS contribution 22,application/pdf,53957
-31c1d42e6fa2bf668f11220cfc127535,EAEA0-4CA6-8542-A148-0/22_gt.mp3,Glossed text of APiCS contribution 22,audio/mpeg,1347648
-5cc95b4c0f71f93797dcd8da13991859,EAEA0-82AD-E503-DB1A-0/23_gt.pdf,Glossed text of APiCS contribution 23,application/pdf,57073
-aba41214d59e1aa7caa5412d79cac42c,EAEA0-82AD-E503-DB1A-0/23_gt.mp3,Glossed text of APiCS contribution 23,audio/mpeg,262
-5696803bb620dc8feed5883921105317,EAEA0-B214-2D4B-7ABF-0/24_gt.pdf,Glossed text of APiCS contribution 24,application/pdf,46303
-46fc7fe4694b9901259a4a521f05de6b,EAEA0-2D91-916D-CC5D-0/25_gt.pdf,Glossed text of APiCS contribution 25,application/pdf,73233
-916f82cdddfaf0abebd82ce0992d5d03,EAEA0-2D91-916D-CC5D-0/25_gt.mp3,Glossed text of APiCS contribution 25,audio/mpeg,495314
-2cf95567615e06407aef4673c70082eb,EAEA0-7B89-0EA2-EB8A-0/26_gt.pdf,Glossed text of APiCS contribution 26,application/pdf,91822
-ddd30b07c53f3cbee093a1076b2946ba,EAEA0-7B89-0EA2-EB8A-0/26_gt.mp3,Glossed text of APiCS contribution 26,audio/mpeg,1782594
-7bd8a8832eb551fdda01866331f1ecb7,EAEA0-B6DD-0D82-8C5F-0/27_gt.pdf,Glossed text of APiCS contribution 27,application/pdf,91012
-6019898f53deb5306df8e2edd2133161,EAEA0-3220-83D9-1D4C-0/28_gt.pdf,Glossed text of APiCS contribution 28,application/pdf,76676
-2e1371cdcbfdb061f1cdd992d02c2320,EAEA0-5904-B53C-DD7D-0/29_gt.pdf,Glossed text of APiCS contribution 29,application/pdf,88514
-a9cddf80c59f8c8fce17af20d19a4d64,EAEA0-A634-85C0-2D7B-0/30_gt.pdf,Glossed text of APiCS contribution 30,application/pdf,51308
-1042467d532489dad95fd0ddcce6132a,EAEA0-A634-85C0-2D7B-0/30_gt.mp3,Glossed text of APiCS contribution 30,audio/mpeg,2754384
-193eb7530ec2c512b65b08a8ac185505,EAEA0-B86B-35E9-90AF-0/31_gt.pdf,Glossed text of APiCS contribution 31,application/pdf,56029
-b735950253d8a9122f9c179e1d99ba28,EAEA0-CF1D-BC9D-57F5-0/32_gt.pdf,Glossed text of APiCS contribution 32,application/pdf,85220
-6b217e243404ea5d3413f81ec7fddf12,EAEA0-CF1D-BC9D-57F5-0/32_gt.mp3,Glossed text of APiCS contribution 32,audio/mpeg,3469152
-164fab2711665b1945ab30d6d6c42154,EAEA0-65AB-ED2B-0A34-0/33_gt.pdf,Glossed text of APiCS contribution 33,application/pdf,67964
-04635ae44a6cc741a98f48e203c29bf1,EAEA0-65AB-ED2B-0A34-0/33_gt.mp3,Glossed text of APiCS contribution 33,audio/mpeg,4655053
-b643f4098406d134275e1db756ef539c,EAEA0-43FC-F459-7F28-0/34_gt.pdf,Glossed text of APiCS contribution 34,application/pdf,73394
-0b9cec0ad8b740f465311e7bbef1110b,EAEA0-43FC-F459-7F28-0/34_gt.mp3,Glossed text of APiCS contribution 34,audio/mpeg,3881829
-683604df20a712336edcc2b4758a5813,EAEA0-7D6D-0953-8485-0/35_gt.pdf,Glossed text of APiCS contribution 35,application/pdf,57313
-2cd43e48e024fe75f2d25df7c5cc2a23,EAEA0-7D6D-0953-8485-0/35_gt.mp3,Glossed text of APiCS contribution 35,audio/mpeg,1602906
-bbd6d16d760a998eeac2f22e0f587d0d,EAEA0-657C-15B3-C77E-0/36_gt.pdf,Glossed text of APiCS contribution 36,application/pdf,60434
-ba4205d223798d4318f7a34d2ca98ed3,EAEA0-657C-15B3-C77E-0/36_gt.mp3,Glossed text of APiCS contribution 36,audio/mpeg,358015
-ee7c49e7b559639f9490886ff058d962,EAEA0-7128-6A3F-3A49-0/37_gt.pdf,Glossed text of APiCS contribution 37,application/pdf,59378
-7ed448b285031ba8ba1e3fe0b661ec56,EAEA0-7128-6A3F-3A49-0/37_gt.mp3,Glossed text of APiCS contribution 37,audio/mpeg,337535
-728941b9dee7fc42f25f9546d8767f70,EAEA0-B0B9-790D-6A4D-0/38_gt.pdf,Glossed text of APiCS contribution 38,application/pdf,52540
-5732188f6293b5f5eef61920eb6fdda6,EAEA0-84F8-5EAE-67DE-0/39_gt.pdf,Glossed text of APiCS contribution 39,application/pdf,76600
-828083096837058619beb973b49a8ef2,EAEA0-4559-E978-D103-0/40_gt.pdf,Glossed text of APiCS contribution 40,application/pdf,60467
-dcb7444bd02560ea9b01a1a4836c747a,EAEA0-4559-E978-D103-0/40_gt.mp3,Glossed text of APiCS contribution 40,audio/mpeg,990244
-ad09302c08515aaeec42d255d2b130f7,EAEA0-1CB0-06AF-55DD-0/41_gt.pdf,Glossed text of APiCS contribution 41,application/pdf,114600
-dd61b6f21dbad65583ca0f529e77af2f,EAEA0-1CB0-06AF-55DD-0/41_gt.mp3,Glossed text of APiCS contribution 41,audio/mpeg,876544
-1d936ce2bdbf0d85208db0b70c81cbc1,EAEA0-9B85-6443-C682-0/42_gt.pdf,Glossed text of APiCS contribution 42,application/pdf,81880
-98956cd8c1ea182129069617f6cad263,EAEA0-9B85-6443-C682-0/42_gt.mp3,Glossed text of APiCS contribution 42,audio/mpeg,7322677
-b1215a2cfaa4b706bc90f1cbc0559fda,EAEA0-2564-62A6-E107-0/43_gt.pdf,Glossed text of APiCS contribution 43,application/pdf,65461
-55251c2cdda72185e1c038e2d003885f,EAEA0-5011-D4D4-6699-0/44_gt.pdf,Glossed text of APiCS contribution 44,application/pdf,59198
-aee968fa316055e3d028b2cb8bd66b03,EAEA0-5011-D4D4-6699-0/44_gt.mp3,Glossed text of APiCS contribution 44,audio/mpeg,866873
-6a6fc5cc098d974239d1970c2f95dc1c,EAEA0-2476-7C34-DC94-0/45_gt.pdf,Glossed text of APiCS contribution 45,application/pdf,65282
-00347852fef07d57f000d9a358be8a91,EAEA0-2476-7C34-DC94-0/45_gt.mp3,Glossed text of APiCS contribution 45,audio/mpeg,1439477
-5791e2fcba4e61d82133fd415b0d7a4a,EAEA0-B284-E744-3BCE-0/46_gt.pdf,Glossed text of APiCS contribution 46,application/pdf,68303
-31f015b04b24eb50b8193df15891ee31,EAEA0-B284-E744-3BCE-0/46_gt.mp3,Glossed text of APiCS contribution 46,audio/mpeg,673815
-1bf256dfa35398dea3287cb729cd191a,EAEA0-C405-C636-A55E-0/47_gt.pdf,Glossed text of APiCS contribution 47,application/pdf,89990
-d3ad47985c7212be291a8c846951de44,EAEA0-C405-C636-A55E-0/47_gt.mp3,Glossed text of APiCS contribution 47,audio/mpeg,2987541
-522e827d60c8e54e5eb638b1631d2a42,EAEA0-5738-22E4-18BC-0/48_gt.mp3,Glossed text of APiCS contribution 48,audio/mpeg,607712
-35645cf136ea3143cdf1a3407fddbb7d,EAEA0-5738-22E4-18BC-0/48_gt.pdf,Glossed text of APiCS contribution 48,application/pdf,73699
-d987f3adb5d9dace57795fbeec753d39,EAEA0-0922-9845-D14C-0/49_gt.pdf,Glossed text of APiCS contribution 49,application/pdf,61499
-efbfc64fd4bb921b60f8376050911925,EAEA0-0922-9845-D14C-0/49_gt.mp3,Glossed text of APiCS contribution 49,audio/mpeg,688829
-43229cc962ce15a302a3583103c7c9c8,EAEA0-AC40-B4D9-633B-0/50_gt.pdf,Glossed text of APiCS contribution 50,application/pdf,88990
-dcf729c5d86266bcd47cce22638ece68,EAEA0-AC40-B4D9-633B-0/50_gt.mp3,Glossed text of APiCS contribution 50,audio/mpeg,3139951
-ef47f1c02b1b1a2d46857109b27dec5f,EAEA0-182A-829B-1381-0/52_gt.pdf,Glossed text of APiCS contribution 52,application/pdf,58753
-aad1d5015188363d1bd7b12bc4638c7f,EAEA0-182A-829B-1381-0/52_gt.mp3,Glossed text of APiCS contribution 52,audio/mpeg,1900669
-e852cf302096bc50f7e557cac1ac3ae5,EAEA0-9940-68D9-20C5-0/53_gt.pdf,Glossed text of APiCS contribution 53,application/pdf,86450
-57f3f07c83fe193ac048c83bbc1e28dc,EAEA0-9940-68D9-20C5-0/53_gt.mp3,Glossed text of APiCS contribution 53,audio/mpeg,2166531
-b4a951fe3e99591241051442bd1874b9,EAEA0-77CF-4F39-D254-0/54_gt.pdf,Glossed text of APiCS contribution 54,application/pdf,60138
-191493f3507ebda9a9631cb88e7681ef,EAEA0-7BA9-1923-57AC-0/55_gt.pdf,Glossed text of APiCS contribution 55,application/pdf,62892
-6cba12ed271bad4311fb14ad04ba3efe,EAEA0-7BA9-1923-57AC-0/55_gt.mp3,Glossed text of APiCS contribution 55,audio/mpeg,2023424
-2cfd7f12d5d612ad7846ae0152b3c179,EAEA0-20F6-BE49-D7F7-0/56_gt.pdf,Glossed text of APiCS contribution 56,application/pdf,73673
-f4ec9878172eca0c078dc700c999d4be,EAEA0-20F6-BE49-D7F7-0/56_gt.mp3,Glossed text of APiCS contribution 56,audio/mpeg,532480
-1519d5c7b29fe398a6076ad9b8b975dc,EAEA0-6FF4-72F0-207E-0/57_gt.pdf,Glossed text of APiCS contribution 57,application/pdf,65621
-98af58cde616fc1609c5823e9cc7382a,EAEA0-6442-67EF-C9AD-0/58_gt.pdf,Glossed text of APiCS contribution 58,application/pdf,76900
-e99e268b9668829a8cbe6ce80347bfb1,EAEA0-7E04-F1F2-A42D-0/59_gt.pdf,Glossed text of APiCS contribution 59,application/pdf,110697
-312248210d365402f85144414e1ea089,EAEA0-7E04-F1F2-A42D-0/59_gt.mp3,Glossed text of APiCS contribution 59,audio/mpeg,2506752
-becc65d1e62a96a946987397459ab92c,EAEA0-5916-5CA3-28EB-0/60_gt.pdf,Glossed text of APiCS contribution 60,application/pdf,64477
-b1127d0da1b0f48feb86005b3e97a440,EAEA0-5916-5CA3-28EB-0/60_gt.mp3,Glossed text of APiCS contribution 60,audio/mpeg,290305
-30966766d294dea5385821cb96225509,EAEA0-FDC4-0F6B-1CAC-0/61_gt.pdf,Glossed text of APiCS contribution 61,application/pdf,65673
-c0e9c0e76948a383f427b1ef20bb9aac,EAEA0-FDC4-0F6B-1CAC-0/61_gt.mp3,Glossed text of APiCS contribution 61,audio/mpeg,1622016
-2a536d1703b7418e0efde52240982c40,EAEA0-8D7B-BDCF-3D0D-0/62_gt.mp3,Glossed text of APiCS contribution 62,audio/mpeg,5270498
-1ec6a861ff5d8e1a2f789fd2f21f36f4,EAEA0-8D7B-BDCF-3D0D-0/62_gt.pdf,Glossed text of APiCS contribution 62,application/pdf,72985
-f2aa343217d31445fd9f46402c031b7f,EAEA0-3311-EE23-CF86-0/63_gt.pdf,Glossed text of APiCS contribution 63,application/pdf,60698
-184443fbe6d10c2d9c04e41ed4f19e43,EAEA0-D8F6-D4CC-2801-0/64_gt.pdf,Glossed text of APiCS contribution 64,application/pdf,51581
-232d470795f99cf4a695fdcd7f6b9d47,EAEA0-D8F6-D4CC-2801-0/64_gt.mp3,Glossed text of APiCS contribution 64,audio/mpeg,568503
-3d62f1251e9be998e50316a0787d314d,EAEA0-4A02-6FED-6382-0/65_gt.pdf,Glossed text of APiCS contribution 65,application/pdf,51883
-2e0da7e19e90f8c7bbccf805ede303f5,EAEA0-4011-EE5E-B117-0/66_gt.pdf,Glossed text of APiCS contribution 66,application/pdf,66891
-7fcce31fa082e63f55f2fe2c74e137ab,EAEA0-4011-EE5E-B117-0/66_gt.mp3,Glossed text of APiCS contribution 66,audio/mpeg,1079520
-c401292ba9441f90556437f937d7787e,EAEA0-889F-F835-01FD-0/67_gt.pdf,Glossed text of APiCS contribution 67,application/pdf,63398
-f7d4227b47357c64ddefc18232e4d2fe,EAEA0-889F-F835-01FD-0/67_gt.mp3,Glossed text of APiCS contribution 67,audio/mpeg,4182938
-b5b5a41dca0b5021341cc3bcfa474f34,EAEA0-C3AE-FDFE-AAC6-0/68_gt.pdf,Glossed text of APiCS contribution 68,application/pdf,96667
-7005354ea199bea9818880be79fd1e62,EAEA0-FCF3-869A-7E01-0/69_gt.pdf,Glossed text of APiCS contribution 69,application/pdf,71956
-477fd5ed8da57be9590da6ab1fbbede1,EAEA0-FCF3-869A-7E01-0/69_gt.mp3,Glossed text of APiCS contribution 69,audio/mpeg,3507804
-b620290d51eb654bb345516b1bee1d29,EAEA0-3485-19DA-53C7-0/70_gt.pdf,Glossed text of APiCS contribution 70,application/pdf,57141
-56e379fd7bf8304798310c069d9f3922,EAEA0-3485-19DA-53C7-0/70_gt.mp3,Glossed text of APiCS contribution 70,audio/mpeg,2529731
-ccbcfe99c80ccaaf648e06b15d031685,EAEA0-F355-EBC4-708C-0/71_gt.pdf,Glossed text of APiCS contribution 71,application/pdf,57903
-6cdd6dcb408b34f60695a37829e67a01,EAEA0-5321-76EF-C623-0/72_gt.pdf,Glossed text of APiCS contribution 72,application/pdf,76643
-d3ad82b8226870699cd072d6d518135c,EAEA0-5321-76EF-C623-0/72_gt.mp3,Glossed text of APiCS contribution 72,audio/mpeg,1012539
-712865f7bfd9d18d7fdbcf1096a049c5,EAEA0-E90B-E0A5-D843-0/73_gt.pdf,Glossed text of APiCS contribution 73,application/pdf,58316
-2f50f4f058dce266bad87220c22fdb7c,EAEA0-8008-C65A-ED25-0/74_gt.pdf,Glossed text of APiCS contribution 74,application/pdf,66921
-873a4e148444b5c3e0aa9ec0f5cc59ff,EAEA0-8008-C65A-ED25-0/74_gt.mp3,Glossed text of APiCS contribution 74,audio/mpeg,3359380
-3543cb7abf629c23b5441ce1064f2f1e,EAEA0-F017-65B4-5BF1-0/75_gt.pdf,Glossed text of APiCS contribution 75,application/pdf,66334
-d2d0e9af27c9606115ff0f23eef0e40a,EAEA0-F017-65B4-5BF1-0/75_gt.mp3,Glossed text of APiCS contribution 75,audio/mpeg,2740093
-1eb1ffda043dd1f60ab8d56d9d0e6d95,EAEA0-16B0-33CB-9534-0/76_gt.pdf,Glossed text of APiCS contribution 76,application/pdf,55660
-100d93e3979d1c185744133c5e5cbd03,EAEA0-A141-45A0-BA9C-0/APiCS_f_0.pdf,feature map in Gall-Peters projection,application/pdf,687741
-1cbe1c9000e6c4f88dea85d24621072c,EAEA0-32D0-3180-74A3-0/APiCS_f_1.pdf,feature map in Gall-Peters projection,application/pdf,1021149
-b3b366e85c7cfa6e505423a580d4db8d,EAEA0-2900-918B-5020-0/APiCS_f_s_10.pdf,feature map in Gall-Peters projection,application/pdf,563580
-07a3c78e1626b0f4104eeafd4062a6c0,EAEA0-6C98-9723-73A9-0/APiCS_f_100.pdf,feature map in Gall-Peters projection,application/pdf,1015834
-d2588b959d2e31dd38ca1994e5af2576,EAEA0-A264-A054-FB7C-0/APiCS_f_101.pdf,feature map in Gall-Peters projection,application/pdf,692491
-f3656c67a695350d60189b2c78eb2b43,EAEA0-7408-B0E4-0FA8-0/APiCS_f_102.pdf,feature map in Gall-Peters projection,application/pdf,966592
-dac7c040cc13dbc6faff1f776cbe0a39,EAEA0-0A09-DAE4-0D83-0/APiCS_f_103.pdf,feature map in Gall-Peters projection,application/pdf,1386716
-1146d83f3880ad475a28fe35ddbff0ac,EAEA0-4744-B146-76F0-0/APiCS_f_104.pdf,feature map in Gall-Peters projection,application/pdf,713202
-d560e12726a706c38d5f011937650c59,EAEA0-6249-7880-F3C7-0/APiCS_f_105.pdf,feature map in Gall-Peters projection,application/pdf,685426
-f29e2a08428e8830be0452c04b10d7c8,EAEA0-0847-DA76-B7BF-0/APiCS_f_106.pdf,feature map in Gall-Peters projection,application/pdf,714517
-e64f884d1b6b21578ad30b3425249aaf,EAEA0-4AC3-E3B7-3FDA-0/APiCS_f_107.pdf,feature map in Gall-Peters projection,application/pdf,685505
-fe0d4f8e7660348e221f572b98561885,EAEA0-BA04-EFBC-9D57-0/APiCS_f_108.pdf,feature map in Gall-Peters projection,application/pdf,985590
-7f368e40f23dfa0d81274c4dac94fb7d,EAEA0-C6C6-987B-8B1F-0/APiCS_f_109.pdf,feature map in Gall-Peters projection,application/pdf,685623
-a75dd4a836cbfdf5697781e37760aba9,EAEA0-C308-2F74-83E9-0/APiCS_f_11.pdf,feature map in Gall-Peters projection,application/pdf,735048
-82ef39609fe0dc9a3c62a24c84d0f0af,EAEA0-FDA5-24FB-1732-0/APiCS_f_110.pdf,feature map in Gall-Peters projection,application/pdf,685622
-57c23eed27ab1da2bc1fd93af418ff6c,EAEA0-B693-A37F-8922-0/APiCS_f_111.pdf,feature map in Gall-Peters projection,application/pdf,697747
-188cdfae07b5a02bc43712a6bceeaa10,EAEA0-DE7F-E0B6-39DB-0/APiCS_f_112.pdf,feature map in Gall-Peters projection,application/pdf,1247773
-d05dd955055bcfa95f351bcf6ff31ca2,EAEA0-1CCE-58CF-8C32-0/APiCS_f_113.pdf,feature map in Gall-Peters projection,application/pdf,685239
-c466d445f737398580749da253d5afcc,EAEA0-EFB0-431D-046D-0/APiCS_f_114.pdf,feature map in Gall-Peters projection,application/pdf,685378
-855edaaca34d467438b69deda87df67b,EAEA0-EBE8-32FA-4F43-0/APiCS_f_115.pdf,feature map in Gall-Peters projection,application/pdf,685638
-5fad2749421805ca88bc7cc5884359ed,EAEA0-49B0-AE38-E311-0/APiCS_f_116.pdf,feature map in Gall-Peters projection,application/pdf,685532
-5134d26a3915eb21b7fa55f8017a90ca,EAEA0-1E1D-563C-4739-0/APiCS_f_117.pdf,feature map in Gall-Peters projection,application/pdf,692432
-9fd33bed1195aca6d41ba11e5d796bf4,EAEA0-B00B-277A-F880-0/APiCS_f_118.pdf,feature map in Gall-Peters projection,application/pdf,685766
-8e6248abedd2f7ef9ef796a2ced12204,EAEA0-E737-9FDD-E010-0/APiCS_f_119.pdf,feature map in Gall-Peters projection,application/pdf,685738
-69ebac115639708d56f6eaa87b2dc297,EAEA0-95BF-9C34-671B-0/APiCS_f_12.pdf,feature map in Gall-Peters projection,application/pdf,1025176
-adaee18aad8a6d97f33d7c4bb439fd59,EAEA0-DB5D-727F-E16E-0/APiCS_f_120.pdf,feature map in Gall-Peters projection,application/pdf,1118782
-82fb496c32100107134ed0c8d41b8ee2,EAEA0-08E7-17C1-BE8A-0/APiCS_f_s_121.pdf,feature map in Gall-Peters projection,application/pdf,579650
-213629e9898c6ef920761b2aa79ab3e6,EAEA0-9FEC-8676-D306-0/APiCS_f_s_122.pdf,feature map in Gall-Peters projection,application/pdf,579793
-bb5cfe2131e2e25503c13034786c8d8e,EAEA0-1B9F-4E92-AB8A-0/APiCS_f_s_123.pdf,feature map in Gall-Peters projection,application/pdf,570336
-fef33f164952cba747f508c50339402e,EAEA0-337A-7873-9712-0/APiCS_f_s_124.pdf,feature map in Gall-Peters projection,application/pdf,579808
-c3fc299b9441eee521a1b7ed3531d051,EAEA0-BBA0-C889-5B91-0/APiCS_f_s_125.pdf,feature map in Gall-Peters projection,application/pdf,579751
-e1cbf6e7c6569e3ee8ad490f03b19a91,EAEA0-5BF0-F6F4-3392-0/APiCS_f_s_126.pdf,feature map in Gall-Peters projection,application/pdf,579702
-5501f849d4a4ef7195d4abce2bf4622d,EAEA0-E48B-3F0F-D81C-0/APiCS_f_s_127.pdf,feature map in Gall-Peters projection,application/pdf,563187
-22636d861622a5f8ee096441d12a5b57,EAEA0-858C-56B8-D5C0-0/APiCS_f_s_128.pdf,feature map in Gall-Peters projection,application/pdf,579705
-3347ea887c140c90c1ca71f1f44ecc30,EAEA0-2FE5-1075-DE62-0/APiCS_f_s_129.pdf,feature map in Gall-Peters projection,application/pdf,579507
-e379e2992864ea555445d415c1c7e4a6,EAEA0-13A3-1500-0F55-0/APiCS_f_13.pdf,feature map in Gall-Peters projection,application/pdf,967255
-91c89fcfa1d70821c4ebfd93faa95b3c,EAEA0-F1C2-3791-0928-0/APiCS_f_s_130.pdf,feature map in Gall-Peters projection,application/pdf,579712
-4086c35c40b322e8a2db1895ce7d2351,EAEA0-6059-D054-F89D-0/APiCS_f_14.pdf,feature map in Gall-Peters projection,application/pdf,685606
-8fb0e5c31578f3761b851219eb92bc93,EAEA0-80C6-85FE-52AF-0/APiCS_f_s_15.pdf,feature map in Gall-Peters projection,application/pdf,570113
-083acbccc5b7d8428d01db42617c455b,EAEA0-369B-89F9-EE63-0/APiCS_f_16.pdf,feature map in Gall-Peters projection,application/pdf,685658
-6935a6d8552b43e156a598521565851f,EAEA0-40B0-3B75-9FCA-0/APiCS_f_17.pdf,feature map in Gall-Peters projection,application/pdf,685750
-fd6821c435b0c8a6d8829c9a882e91f2,EAEA0-F5B1-37AB-B895-0/APiCS_f_18.pdf,feature map in Gall-Peters projection,application/pdf,957774
-3f5c8bc35eb55266cd6aef97d2a468f4,EAEA0-403F-2F9B-361A-0/APiCS_f_19.pdf,feature map in Gall-Peters projection,application/pdf,685805
-b3dc0ab56d33ff4c6a47b8ec6e2a17fa,EAEA0-9C8F-6F59-79F3-0/APiCS_f_2.pdf,feature map in Gall-Peters projection,application/pdf,1031465
-33077f3f771a249545a5afbafc7e3c04,EAEA0-1F40-5763-17BB-0/APiCS_f_20.pdf,feature map in Gall-Peters projection,application/pdf,695250
-89b05d96031d04272b4b79d5e93933f7,EAEA0-C6BB-94E8-C504-0/APiCS_f_21.pdf,feature map in Gall-Peters projection,application/pdf,973687
-02fc22369a7c5abb6aa1fdc2eb2127aa,EAEA0-C411-0953-2630-0/APiCS_f_22.pdf,feature map in Gall-Peters projection,application/pdf,960142
-282bb4427b20c062569c6b18d5ef0cd3,EAEA0-7047-A277-ADB2-0/APiCS_f_23.pdf,feature map in Gall-Peters projection,application/pdf,1138149
-bd138d61a230d78b0741cbddf5fb4132,EAEA0-0B1B-5EA8-0F1F-0/APiCS_f_24.pdf,feature map in Gall-Peters projection,application/pdf,685555
-2f04a2df2d5ee1d8a5d6c279966b64c8,EAEA0-836D-CD48-5440-0/APiCS_f_25.pdf,feature map in Gall-Peters projection,application/pdf,685877
-40906b8cc22cefe0313552d483ca9eae,EAEA0-C0DD-A765-1C89-0/APiCS_f_26.pdf,feature map in Gall-Peters projection,application/pdf,685928
-02b186885f789b2d2b499902dcf92dd1,EAEA0-D5BE-63EC-8F75-0/APiCS_f_s_27.pdf,feature map in Gall-Peters projection,application/pdf,575320
-6425040c8d28677ebade63c229314ef5,EAEA0-DADB-46FC-BE46-0/APiCS_f_28.pdf,feature map in Gall-Peters projection,application/pdf,974529
-20b38ffc8b2d0b87246e40f338a0d412,EAEA0-CA48-012F-51F7-0/APiCS_f_29.pdf,feature map in Gall-Peters projection,application/pdf,972683
-da1138fb05027015c5176b6967617b8d,EAEA0-41EC-7A1A-3FCF-0/APiCS_f_3.pdf,feature map in Gall-Peters projection,application/pdf,1041492
-35c5e80e958d443f8034074609bb607b,EAEA0-2C60-BB08-C1E4-0/APiCS_f_30.pdf,feature map in Gall-Peters projection,application/pdf,712345
-8b1d185fa131b9a1d057b0dd2096dc19,EAEA0-612F-8FFA-6DB7-0/APiCS_f_31.pdf,feature map in Gall-Peters projection,application/pdf,693071
-958735f2eb05de34cb80d856f57e65b1,EAEA0-A50C-2796-FDD9-0/APiCS_f_32.pdf,feature map in Gall-Peters projection,application/pdf,957754
-20e94d4032311652628c3d497dc22e3f,EAEA0-64DC-CE52-A5C1-0/APiCS_f_33.pdf,feature map in Gall-Peters projection,application/pdf,959619
-7d316d1533c8bd3d5251ac31fb52ad9f,EAEA0-4909-7947-7EBF-0/APiCS_f_34.pdf,feature map in Gall-Peters projection,application/pdf,954132
-ac6b6249125808b5e6ed73d58a8f035a,EAEA0-B3E7-243E-90AC-0/APiCS_f_35.pdf,feature map in Gall-Peters projection,application/pdf,974229
-4e4758585a4cb5a54df2cf6f50641603,EAEA0-2743-79AA-7095-0/APiCS_f_s_36.pdf,feature map in Gall-Peters projection,application/pdf,553216
-9355df16eaf2d7af41c26c638192843e,EAEA0-2CCE-A67A-98C4-0/APiCS_f_37.pdf,feature map in Gall-Peters projection,application/pdf,723273
-f58f8eae88d7bd8e5e32f698f7640414,EAEA0-2F99-3D2C-2AE1-0/APiCS_f_38.pdf,feature map in Gall-Peters projection,application/pdf,992066
-b09089e4b181414f03e6b3d2beff23e2,EAEA0-176F-FB7B-D8D6-0/APiCS_f_39.pdf,feature map in Gall-Peters projection,application/pdf,696210
-52fa7df9a643b33cd387985bea631a19,EAEA0-5F98-BF94-18FB-0/APiCS_f_4.pdf,feature map in Gall-Peters projection,application/pdf,1012041
-4d6c246284bf695f89b2f69e41c77a5a,EAEA0-7835-2964-0F3E-0/APiCS_f_40.pdf,feature map in Gall-Peters projection,application/pdf,685707
-dfafe84fc33e5b16c6739a0b599cf3b3,EAEA0-40F3-254E-C5FF-0/APiCS_f_41.pdf,feature map in Gall-Peters projection,application/pdf,710669
-926ee5bb77bfd9eba1225c7e23dd4382,EAEA0-1EC9-D11E-C515-0/APiCS_f_42.pdf,feature map in Gall-Peters projection,application/pdf,1067327
-88279b155c7e6fcf91493aa2c536ba8b,EAEA0-4752-A371-5CE2-0/APiCS_f_43.pdf,feature map in Gall-Peters projection,application/pdf,726974
-1fe25932599eb7f4aeda67b1e7fa57f2,EAEA0-57CA-69D4-694C-0/APiCS_f_44.pdf,feature map in Gall-Peters projection,application/pdf,687029
-94afb3b82c32abd09f4a3baa1ff3c6fc,EAEA0-43E2-A11E-B5EA-0/APiCS_f_45.pdf,feature map in Gall-Peters projection,application/pdf,686106
-2f188e99edb0c83ac6d67cf7fa4a8ab8,EAEA0-FC86-13FF-D850-0/APiCS_f_46.pdf,feature map in Gall-Peters projection,application/pdf,685933
-4693e3cc37e576ae08f33e2a1c3be720,EAEA0-3D4A-1FB3-4485-0/APiCS_f_47.pdf,feature map in Gall-Peters projection,application/pdf,686997
-1f81031864cd925b98a79238bf0b77bb,EAEA0-5266-C2D4-A945-0/APiCS_f_48.pdf,feature map in Gall-Peters projection,application/pdf,700211
-b04a821d17d906cff14833eafc71d550,EAEA0-2977-F4E7-654F-0/APiCS_f_49.pdf,feature map in Gall-Peters projection,application/pdf,685721
-296c72149854a9fc180b78bb6d7ba815,EAEA0-A37F-EC51-3817-0/APiCS_f_5.pdf,feature map in Gall-Peters projection,application/pdf,1021568
-2802f4b575bef4dd4f5955e4acb8e9d6,EAEA0-19E5-447B-4845-0/APiCS_f_50.pdf,feature map in Gall-Peters projection,application/pdf,685551
-20dcb2f6bd7eeed6ef91924883bc413a,EAEA0-B82E-071B-1451-0/APiCS_f_51.pdf,feature map in Gall-Peters projection,application/pdf,685681
-dd0e870e0f9887d54dd18f41683c139a,EAEA0-5C04-48CD-124B-0/APiCS_f_52.pdf,feature map in Gall-Peters projection,application/pdf,685807
-40becf880279bd646a2beda99bf0cf88,EAEA0-BE97-14C5-4368-0/APiCS_f_53.pdf,feature map in Gall-Peters projection,application/pdf,684952
-92a7c10bb95dc26878e27af506d8df8f,EAEA0-EC76-DC91-7F12-0/APiCS_f_54.pdf,feature map in Gall-Peters projection,application/pdf,989794
-5eaebdceca50b82a0f31578a318f5a70,EAEA0-4C39-A471-3180-0/APiCS_f_55.pdf,feature map in Gall-Peters projection,application/pdf,685677
-806225816eea97779f9f496227d22946,EAEA0-E3A4-55BF-B5B3-0/APiCS_f_56.pdf,feature map in Gall-Peters projection,application/pdf,980745
-eb24ca24436a3300b40b828e04bb3cf3,EAEA0-0FA2-584A-6C0C-0/APiCS_f_57.pdf,feature map in Gall-Peters projection,application/pdf,685815
-4d4c4797d1a3e2e666f876d1d4d915f3,EAEA0-234F-C3E8-8A59-0/APiCS_f_s_58.pdf,feature map in Gall-Peters projection,application/pdf,553297
-9937432f147b91a4388456d9cd6e59fb,EAEA0-8BC6-6C8E-8826-0/APiCS_f_59.pdf,feature map in Gall-Peters projection,application/pdf,954170
-4da39e5f2f51e8d2388ca875baccb655,EAEA0-F8A1-9173-A91A-0/APiCS_f_6.pdf,feature map in Gall-Peters projection,application/pdf,1008126
-671b9b0d3ac8f5420003773520d7ca70,EAEA0-0ACB-37AC-7DC5-0/APiCS_f_60.pdf,feature map in Gall-Peters projection,application/pdf,992581
-2d5f543a13e2d4270a3ca41455edbe68,EAEA0-3377-3780-2D41-0/APiCS_f_61.pdf,feature map in Gall-Peters projection,application/pdf,728634
-0906b909b2c1acb87622b5774256ad25,EAEA0-DC1B-22A1-2D3A-0/APiCS_f_62.pdf,feature map in Gall-Peters projection,application/pdf,983644
-4975c796e718202fcd449f1223c7760e,EAEA0-221C-929E-A7F8-0/APiCS_f_63.pdf,feature map in Gall-Peters projection,application/pdf,692488
-46672f3df3e3e2daa23d57711464a822,EAEA0-C906-6D1E-6F35-0/APiCS_f_64.pdf,feature map in Gall-Peters projection,application/pdf,704197
-69c4298d5f88d25fb7c9372bebb69645,EAEA0-D494-C457-5BC1-0/APiCS_f_65.pdf,feature map in Gall-Peters projection,application/pdf,703640
-fe03079435fd3f74a8696649c5f68ff4,EAEA0-9FA4-9DB3-3FA0-0/APiCS_f_66.pdf,feature map in Gall-Peters projection,application/pdf,710210
-81db2b6ce63224934a506d3a20513501,EAEA0-1DAF-313A-2712-0/APiCS_f_67.pdf,feature map in Gall-Peters projection,application/pdf,702197
-a26ef2769c3ec7d23d7e9f2131395c71,EAEA0-DDC3-0CFB-8E6E-0/APiCS_f_68.pdf,feature map in Gall-Peters projection,application/pdf,713594
-e7af287bda5ec5bdba4aa797fe1dfc0e,EAEA0-87EA-16C5-DDCA-0/APiCS_f_69.pdf,feature map in Gall-Peters projection,application/pdf,717594
-e9ad820bf5be3a4758a0e1d2b568ca6a,EAEA0-2D91-CFE5-A6AF-0/APiCS_f_7.pdf,feature map in Gall-Peters projection,application/pdf,991162
-c2f798f613bef9261d35b138497de75c,EAEA0-5701-E9F9-9D8E-0/APiCS_f_70.pdf,feature map in Gall-Peters projection,application/pdf,964755
-2c68b6b49f90a6f1eb18a82048e752e2,EAEA0-5764-266E-D9F3-0/APiCS_f_71.pdf,feature map in Gall-Peters projection,application/pdf,959567
-18713cf69a0e49c727714d83d8068be6,EAEA0-8522-2919-3E7C-0/APiCS_f_72.pdf,feature map in Gall-Peters projection,application/pdf,1074671
-52e8c3198250724678d53698d9e07ec7,EAEA0-FA0F-9340-8939-0/APiCS_f_73.pdf,feature map in Gall-Peters projection,application/pdf,1089015
-eb07237a9b7196c69d82a3c791506243,EAEA0-089A-651C-A614-0/APiCS_f_74.pdf,feature map in Gall-Peters projection,application/pdf,685726
-951b42e61b347260f51320632af727c7,EAEA0-7F8E-312D-918A-0/APiCS_f_75.pdf,feature map in Gall-Peters projection,application/pdf,685746
-6367e174f9ce9b0e4375746059efde90,EAEA0-93FB-DCA7-D35E-0/APiCS_f_76.pdf,feature map in Gall-Peters projection,application/pdf,1049707
-2de34317e7e6409b937e6316e32b8971,EAEA0-2D59-9E85-FD78-0/APiCS_f_77.pdf,feature map in Gall-Peters projection,application/pdf,984209
-22f81235eac5373276ed53a4aea36357,EAEA0-6667-CE2A-77EC-0/APiCS_f_78.pdf,feature map in Gall-Peters projection,application/pdf,685813
-e4d550d2ecb3042fe6202a6603fa7bed,EAEA0-C183-0611-9DB9-0/APiCS_f_79.pdf,feature map in Gall-Peters projection,application/pdf,728519
-0580d51febd2ea585d40d40baa73854e,EAEA0-EA7C-519D-B0E4-0/APiCS_f_8.pdf,feature map in Gall-Peters projection,application/pdf,1005507
-203103a2a7a04ae0fe3ab01c97a685fb,EAEA0-F8BD-10CA-CB6D-0/APiCS_f_80.pdf,feature map in Gall-Peters projection,application/pdf,703780
-9fe4c36bb9dedff5ca975554c8560523,EAEA0-5A53-B888-1BF6-0/APiCS_f_81.pdf,feature map in Gall-Peters projection,application/pdf,685771
-86ae895b14b0ef5d3ca26473ea5adf52,EAEA0-68F4-1139-912B-0/APiCS_f_82.pdf,feature map in Gall-Peters projection,application/pdf,705348
-4cf5f62d642ea6853a84bc5d91590f2e,EAEA0-606C-106F-C4C6-0/APiCS_f_83.pdf,feature map in Gall-Peters projection,application/pdf,698781
-e51436ff915a472d63ce8367c0ad1aaf,EAEA0-D7C6-71AE-F80D-0/APiCS_f_84.pdf,feature map in Gall-Peters projection,application/pdf,685543
-bddc4cb7d2eac52cbdda345b9173b99e,EAEA0-B7FB-DB0B-2E73-0/APiCS_f_85.pdf,feature map in Gall-Peters projection,application/pdf,722853
-99c37f71d2587624995cccc09db7937b,EAEA0-4EE3-E4E8-0828-0/APiCS_f_86.pdf,feature map in Gall-Peters projection,application/pdf,685806
-0f2e453ece8fe24947bebbba377044ad,EAEA0-7DB7-8206-B0D8-0/APiCS_f_87.pdf,feature map in Gall-Peters projection,application/pdf,724266
-de7ff990d2552f4d4e852aca34ac84b3,EAEA0-6FFA-46B7-2D8B-0/APiCS_f_88.pdf,feature map in Gall-Peters projection,application/pdf,1020429
-731b82ede19b5f34bd774e3440886c11,EAEA0-1FBE-355C-21BC-0/APiCS_f_89.pdf,feature map in Gall-Peters projection,application/pdf,1062316
-d5b8afdc4f3332350b5f61ddd7a0989b,EAEA0-14C7-07D4-10D6-0/APiCS_f_9.pdf,feature map in Gall-Peters projection,application/pdf,689529
-7942d5bafdfc5356e86f8d8e75b86cbb,EAEA0-0C67-D001-2251-0/APiCS_f_90.pdf,feature map in Gall-Peters projection,application/pdf,702149
-7ed7e19f52451c450553995624aa5feb,EAEA0-F901-17ED-E47C-0/APiCS_f_s_91.pdf,feature map in Gall-Peters projection,application/pdf,553347
-a954c5ac1a122d7d6db4cc824e742c1b,EAEA0-5896-157C-E79D-0/APiCS_f_92.pdf,feature map in Gall-Peters projection,application/pdf,1087023
-7f52d112fa61b0aeb61d34851e870ed0,EAEA0-1B1F-B55B-39F5-0/APiCS_f_93.pdf,feature map in Gall-Peters projection,application/pdf,735573
-35c4af1ca5efd968acdc7b5d0a08cf65,EAEA0-599F-BE5C-9A39-0/APiCS_f_94.pdf,feature map in Gall-Peters projection,application/pdf,712509
-9036a1019abcfa4a44501f38b3e5f29d,EAEA0-1F56-4901-DC8D-0/APiCS_f_95.pdf,feature map in Gall-Peters projection,application/pdf,740386
-bd99683ee41b9b6a8e00724b2b1b4e8c,EAEA0-9FFC-882F-6E82-0/APiCS_f_96.pdf,feature map in Gall-Peters projection,application/pdf,728516
-40e41cdb99468982292942dacf9a10ab,EAEA0-9C22-110E-DC86-0/APiCS_f_97.pdf,feature map in Gall-Peters projection,application/pdf,976796
-60b55fdfe2b0124f92f7b12169a45315,EAEA0-5A0E-A613-178B-0/APiCS_f_98.pdf,feature map in Gall-Peters projection,application/pdf,685728
-8ab0666b47c686e4ad331344d560cff6,EAEA0-334F-D77F-0257-0/APiCS_f_s_99.pdf,feature map in Gall-Peters projection,application/pdf,570006
-2c5703b34e35a1d5509c0b6805211e97,EAEA0-7F8F-F0C0-E4CC-0/72_64.mp3,Sound file of APiCS example 72-64,audio/mpeg,30695
-1c0300805dda5144492a634a4fa849ae,EAEA0-C39E-63BB-8877-0/72_12.mp3,Sound file of APiCS example 72-12,audio/mpeg,92184
-9cc0a0dac55c18ac3142664ae0800aac,EAEA0-5BF9-C320-B649-0/72_13.mp3,Sound file of APiCS example 72-13,audio/mpeg,74456
-d93db5219b7cd69878e93f4b797ff7be,EAEA0-421A-D81B-1AB9-0/72_14.mp3,Sound file of APiCS example 72-14,audio/mpeg,59949
-2e63b5db0af561878ee2752ced87ffaf,EAEA0-85FC-1568-D51E-0/72_15.mp3,Sound file of APiCS example 72-15,audio/mpeg,50245
-475b4826c93f79d64c51d371b32a350e,EAEA0-9C03-1E6A-6234-0/72_16.mp3,Sound file of APiCS example 72-16,audio/mpeg,22093
-525c6b09bd54d4a1fa046569e7301739,EAEA0-D4EA-7356-0377-0/72_20.mp3,Sound file of APiCS example 72-20,audio/mpeg,16851
-851458f6367462c2f2412e18f915b647,EAEA0-1B59-0103-25F3-0/72_22.mp3,Sound file of APiCS example 72-22,audio/mpeg,50879
-4160b6f72f2c67ba0a3f9575d6adeccb,EAEA0-84D2-7730-F42A-0/72_23.mp3,Sound file of APiCS example 72-23,audio/mpeg,50828
-dd17d2b01c5200f9387d3daab7589688,EAEA0-E453-39B3-FDC8-0/72_25.mp3,Sound file of APiCS example 72-25,audio/mpeg,18910
-b8da827acff8a57448f78da232ea1daf,EAEA0-B8D1-30F8-7D83-0/72_26.mp3,Sound file of APiCS example 72-26,audio/mpeg,18336
-be90d9ae4b09c6bbaf0d5264a07e9cf2,EAEA0-B8FF-644C-7050-0/72_27.mp3,Sound file of APiCS example 72-27,audio/mpeg,16095
-a04cf55fb9fa2734bdff44f42188262f,EAEA0-FB07-2BA6-E854-0/72_28.mp3,Sound file of APiCS example 72-28,audio/mpeg,18807
-2df1cf0ca384ca0792f0d48fff5e3429,EAEA0-BC4A-1547-7599-0/72_29.mp3,Sound file of APiCS example 72-29,audio/mpeg,33252
-369b99b36223fa68319b5f8d5d1f93e2,EAEA0-964D-5819-4FE9-0/72_147.mp3,Sound file of APiCS example 72-147,audio/mpeg,49155
-a97c06f4ec05622bf87f62f5059c6296,EAEA0-D4A7-28A1-6B52-0/72_33.mp3,Sound file of APiCS example 72-33,audio/mpeg,12627
-ad301994458ae1b387817e916f9c40d5,EAEA0-0CE7-D655-B331-0/41_38.mp3,Sound file of APiCS example 41-38,audio/mpeg,432000
-eb8ba92cbf062d5b2716bc828cc33ae3,EAEA0-2044-C8B2-7DBE-0/72_34.mp3,Sound file of APiCS example 72-34,audio/mpeg,18077
-ab3b2661e85c932a85ab0c8a42befc91,EAEA0-8103-A968-1BE3-0/72_35.mp3,Sound file of APiCS example 72-35,audio/mpeg,26367
-5b1d7d1256ff51eb78d9e85d70b00f18,EAEA0-D472-E61A-36B3-0/72_36.mp3,Sound file of APiCS example 72-36,audio/mpeg,22456
-e792acc14fe08e7a3fff09fbe54a0aaa,EAEA0-CADB-7E6C-EEA4-0/72_37.mp3,Sound file of APiCS example 72-37,audio/mpeg,25012
-081ed14244ab21a754f6c5ffedd0368d,EAEA0-9F53-34DD-455D-0/72_38.mp3,Sound file of APiCS example 72-38,audio/mpeg,19281
-eb89bb116201920a5977918f37f6b225,EAEA0-D5B5-C23F-4D43-0/72_41.mp3,Sound file of APiCS example 72-41,audio/mpeg,26886
-0d70ec3180295543153ac16d2bd9abec,EAEA0-7FF1-D1A4-9B1B-0/72_40.mp3,Sound file of APiCS example 72-40,audio/mpeg,26630
-9b433ca4d84df5243b3c46b75dd9077c,EAEA0-10A8-8D9C-BBB9-0/72_46.mp3,Sound file of APiCS example 72-46,audio/mpeg,42173
-80210fad978d4196cea2318e9e52de48,EAEA0-7B07-3251-9A05-0/72_47.mp3,Sound file of APiCS example 72-47,audio/mpeg,40766
-4d15db01b2d92ea9fd2a3dbebef64896,EAEA0-D851-0EDF-A95A-0/72_49.mp3,Sound file of APiCS example 72-49,audio/mpeg,44515
-0a947502945a406d54c7451a1d8a27f3,EAEA0-6BEC-91F4-D73F-0/72_50.mp3,Sound file of APiCS example 72-50,audio/mpeg,25219
-fd720bea6e66a6c2bf2d31f630c0a173,EAEA0-5EE1-C0F6-EAF1-0/72_51.mp3,Sound file of APiCS example 72-51,audio/mpeg,57028
-40c18821a05178b2d1048a23c724047b,EAEA0-F0D3-5F5E-BF03-0/72_52.mp3,Sound file of APiCS example 72-52,audio/mpeg,57242
-988c773e0934a4cc5383c8d646b72e58,EAEA0-DB71-C3D3-6C42-0/72_54.mp3,Sound file of APiCS example 72-54,audio/mpeg,70648
-c6b41b35819e9c93f49c88cb0eac0bcb,EAEA0-BC2B-3054-B489-0/72_55.mp3,Sound file of APiCS example 72-55,audio/mpeg,46293
-2cd5c13b61fd2957e8787dc9b30c3a0a,EAEA0-32C4-352B-4F66-0/72_56.mp3,Sound file of APiCS example 72-56,audio/mpeg,46318
-89780314b7c3985e9f699283de9667f0,EAEA0-42CC-D08E-3915-0/72_57.mp3,Sound file of APiCS example 72-57,audio/mpeg,54424
-99e89e7131c6b3cc0dbb6ba5b4c33604,EAEA0-2521-2D32-F148-0/72_59.mp3,Sound file of APiCS example 72-59,audio/mpeg,40035
-857821853f3c5238b2eb1545cbb27d1f,EAEA0-B069-A8E4-3D26-0/72_60.mp3,Sound file of APiCS example 72-60,audio/mpeg,20893
-35a225cb5425afb3e5c3639bd6a63163,EAEA0-D22A-2037-43B9-0/72_61.mp3,Sound file of APiCS example 72-61,audio/mpeg,38520
-80a1e7dbc811ea771e21c3501b6b22f9,EAEA0-8A06-FA1D-7900-0/72_63.mp3,Sound file of APiCS example 72-63,audio/mpeg,48040
-f2468f28aad6635303c35e78ab96d6fd,EAEA0-D49C-6B98-54E5-0/72_65.mp3,Sound file of APiCS example 72-65,audio/mpeg,30489
-0b38ba6cb60ff0cb1f22593e5b4e13e5,EAEA0-9175-318E-0D12-0/72_66.mp3,Sound file of APiCS example 72-66,audio/mpeg,28740
-4dd7a3a337b716dda2954ca9476cc4ea,EAEA0-6B7E-67CE-EBC0-0/72_67.mp3,Sound file of APiCS example 72-67,audio/mpeg,42901
-0f6a7ac5d354ee28d610813dd0de0866,EAEA0-2CD8-F16A-8A11-0/72_68.mp3,Sound file of APiCS example 72-68,audio/mpeg,39508
-8590141a6c943ad0528737c49cb8e8a0,EAEA0-21F5-B649-704C-0/72_69.mp3,Sound file of APiCS example 72-69,audio/mpeg,93281
-cd2f8e3fb3735d7c9b63a8780639bbb1,EAEA0-F703-C5B6-27B9-0/72_71.mp3,Sound file of APiCS example 72-71,audio/mpeg,37372
-d74b8437476a636cd4eb4e196a886201,EAEA0-2357-7D42-BDF0-0/72_73.mp3,Sound file of APiCS example 72-73,audio/mpeg,41649
-b9142df1e3cb912d383029c2a36338c9,EAEA0-2620-AC67-64E7-0/35_100.mp3,Sound file of APiCS example 35-100,audio/mpeg,145635
-b63438be2e35434c5769c3acac9234b0,EAEA0-910A-B37C-4A4C-0/72_72.mp3,Sound file of APiCS example 72-72,audio/mpeg,27617
-d048c2983a4cb421c9046412f0eb7381,EAEA0-C298-E555-C6DB-0/72_75.mp3,Sound file of APiCS example 72-75,audio/mpeg,30332
-3fd2aee1f02ddc56ef207b710b516a58,EAEA0-F587-8D57-63AA-0/72_76.mp3,Sound file of APiCS example 72-76,audio/mpeg,65479
-67d42e8969313ffa25f0074f28909ecf,EAEA0-46B5-FDB0-FDA2-0/72_78.mp3,Sound file of APiCS example 72-78,audio/mpeg,37009
-b10ff573c2191ef52c6f8dcaa61ad88f,EAEA0-4A1C-4F75-12C8-0/72_79.mp3,Sound file of APiCS example 72-79,audio/mpeg,63706
-f8fc173846a466b5f5a3080ff1679d91,EAEA0-069F-29D5-FBB8-0/72_149.mp3,Sound file of APiCS example 72-149,audio/mpeg,34869
-3531f2780afee8d6a553e391514278fe,EAEA0-1229-A05B-FDE9-0/72_171.mp3,Sound file of APiCS example 72-171,audio/mpeg,47126
-f26e74c7f919160d4ef22029d0518b38,EAEA0-1E70-0DAF-817A-0/72_84.mp3,Sound file of APiCS example 72-84,audio/mpeg,26817
-488b45af2b8ce6da302686d5f6b84fb4,EAEA0-DAB3-B74D-088D-0/72_85.mp3,Sound file of APiCS example 72-85,audio/mpeg,38568
-3b26285dcd76f9e9a98d3868cf33afa3,EAEA0-6BF9-29D4-B19D-0/72_86.mp3,Sound file of APiCS example 72-86,audio/mpeg,5472256
-26eabbba7ea23c222e2705cce2753ea1,EAEA0-CE2E-1399-D1CC-0/72_88.mp3,Sound file of APiCS example 72-88,audio/mpeg,19718
-24ed190995ce17c468a14c6744036ca3,EAEA0-0BC3-BAD2-3AD2-0/72_80.mp3,Sound file of APiCS example 72-80,audio/mpeg,27617
-a4a59eea0c3210f13363fbb03cdcd0ba,EAEA0-3A3A-5DED-897B-0/72_89.mp3,Sound file of APiCS example 72-89,audio/mpeg,50778
-3607fea4ba0aa7957bd4ca243368e362,EAEA0-9C16-E26E-95BB-0/72_94.mp3,Sound file of APiCS example 72-94,audio/mpeg,32678
-2ced8c932b8bd320e2d7cec91c3a2903,EAEA0-01BC-C33E-0726-0/72_95.mp3,Sound file of APiCS example 72-95,audio/mpeg,27255
-55bec730159f59a35c2e56d109eee733,EAEA0-9800-7D02-6B17-0/72_96.mp3,Sound file of APiCS example 72-96,audio/mpeg,21257
-62c66d296450f549b4feead12fd2a840,EAEA0-3706-63C2-8EA5-0/72_98.mp3,Sound file of APiCS example 72-98,audio/mpeg,23291
-03a7376dd2d7113759de5e4390fb7076,EAEA0-AA07-3120-F192-0/72_99.mp3,Sound file of APiCS example 72-99,audio/mpeg,40863
-fee431716523074a9cba83d6f7e7ebc1,EAEA0-F04A-1525-E202-0/72_102.mp3,Sound file of APiCS example 72-102,audio/mpeg,26000
-9300c524b216fad53a9fc320b776304f,EAEA0-B455-7D85-D7DF-0/72_103.mp3,Sound file of APiCS example 72-103,audio/mpeg,60059
-1e6eee5c25410c4670545db73c6e8bdb,EAEA0-875F-17BE-B4A5-0/72_104.mp3,Sound file of APiCS example 72-104,audio/mpeg,43706
-21f5200b840b1998d5cb76caac460e29,EAEA0-F905-3ADD-AA91-0/72_105.mp3,Sound file of APiCS example 72-105,audio/mpeg,69498
-79af8efad47e4710272f38daca059e59,EAEA0-9DBA-CA43-78F1-0/72_106.mp3,Sound file of APiCS example 72-106,audio/mpeg,32573
-f49799e265a94971118dedd7935ce61d,EAEA0-5D7E-EAB1-9B70-0/72_109.mp3,Sound file of APiCS example 72-109,audio/mpeg,123267
-4c31dc8a2bcd1e339627caf351a5f2d2,EAEA0-B3DF-91C6-BBDD-0/72_112.mp3,Sound file of APiCS example 72-112,audio/mpeg,24963
-061199cd0630bb893a8269348cce0072,EAEA0-A3BD-7194-7E18-0/72_113.mp3,Sound file of APiCS example 72-113,audio/mpeg,23502
-0500256bd722938c200f08e9bfaa3945,EAEA0-5CC0-9AB9-F22A-0/72_114.mp3,Sound file of APiCS example 72-114,audio/mpeg,27969
-b782ce6ffa1c6865a619930cd80c40de,EAEA0-A5EA-BB44-8AED-0/72_115.mp3,Sound file of APiCS example 72-115,audio/mpeg,21985
-93d7f0b12391e39f8548b4e3c4e5e3bd,EAEA0-8FCC-3888-676A-0/72_116.mp3,Sound file of APiCS example 72-116,audio/mpeg,44098
-c945d1676b3380c222f49a357ba670cc,EAEA0-7418-0007-1C09-0/72_81.mp3,Sound file of APiCS example 72-81,audio/mpeg,48636
-be9572a9a389fb4d699d645da6616412,EAEA0-8043-6EAE-7477-0/72_120.mp3,Sound file of APiCS example 72-120,audio/mpeg,36643
-5e76d0d4d9084d6e169cb49a9b6c4c34,EAEA0-7FB5-1F8B-7762-0/72_121.mp3,Sound file of APiCS example 72-121,audio/mpeg,25431
-293f5a1d2336c471dc36dae1c868a55d,EAEA0-33B8-935A-A031-0/72_125.mp3,Sound file of APiCS example 72-125,audio/mpeg,14010
-f6620754df7890fef7016c54cc468cb8,EAEA0-FC11-9C1E-D5CD-0/72_129.mp3,Sound file of APiCS example 72-129,audio/mpeg,78835
-56015816eeccfc178ff158655be10fd8,EAEA0-4A62-531D-4141-0/72_136.mp3,Sound file of APiCS example 72-136,audio/mpeg,22875
-92d51982d3e7683345f98cd406f1b756,EAEA0-6EF5-D1B7-8C4C-0/72_137.mp3,Sound file of APiCS example 72-137,audio/mpeg,60057
-1ebe622b2f3fb05cb3141fd237da2353,EAEA0-6A4D-5E19-1000-0/72_138.mp3,Sound file of APiCS example 72-138,audio/mpeg,22144
-8397fc7f2a30a7d6f83b3c757ccaf5e5,EAEA0-0EC6-7F77-7C0F-0/72_139.mp3,Sound file of APiCS example 72-139,audio/mpeg,18283
-315cdcbfa1d9e951ba0ea6e838db34ab,EAEA0-5831-BDC8-5BC1-0/72_144.mp3,Sound file of APiCS example 72-144,audio/mpeg,50878
-7e6d3ea7227b35823d4bc54e9fd535cd,EAEA0-3245-E2F6-EB02-0/72_145.mp3,Sound file of APiCS example 72-145,audio/mpeg,55734
-d933f9f530fb253f860a4a713e577a22,EAEA0-272F-180B-29EC-0/72_146.mp3,Sound file of APiCS example 72-146,audio/mpeg,27355
-ec7ef9c59ba5ff8e654f97fa70b89ce3,EAEA0-643F-29BD-6A88-0/72_148.mp3,Sound file of APiCS example 72-148,audio/mpeg,24700
-5c7c3fbcdb2342b8e917460ce033c3b3,EAEA0-2447-D626-3F47-0/72_150.mp3,Sound file of APiCS example 72-150,audio/mpeg,20970
-bd3f27b94731a6e990fc140cd54a6c3b,EAEA0-C7B8-E297-0F95-0/72_153.mp3,Sound file of APiCS example 72-153,audio/mpeg,24802
-4c54b2aa02b4534943bc6c8fded60aa2,EAEA0-E4EE-BA1B-986F-0/72_156.mp3,Sound file of APiCS example 72-156,audio/mpeg,35443
-8d4c71362d6d5071b9107b8bee642ad2,EAEA0-7C8D-14BA-B2AC-0/72_157.mp3,Sound file of APiCS example 72-157,audio/mpeg,36277
-77da7ef46bba93ab8afb10df51b2d17d,EAEA0-33C3-9410-9AB6-0/35_230.mp3,Sound file of APiCS example 35-230,audio/mpeg,134499
-03262071d51c5a2f1567dd8242a90225,EAEA0-0044-6BA6-61AF-0/35_231.mp3,Sound file of APiCS example 35-231,audio/mpeg,115107
-8d74ac476d41bc3e797d2af9677ef75f,EAEA0-0EC5-7A8B-026C-0/72_158.mp3,Sound file of APiCS example 72-158,audio/mpeg,35703
-bf920b55281fe3d74106f21d49ce2f6b,EAEA0-237C-C3F4-20B0-0/35_236.mp3,Sound file of APiCS example 35-236,audio/mpeg,44355
-7815005bec2edab0d4bcff4453586725,EAEA0-698F-E85F-B1C9-0/35_237.mp3,Sound file of APiCS example 35-237,audio/mpeg,54723
-4a984e96654f45787fb8ef74b47a3202,EAEA0-6C86-FBE4-309D-0/72_160.mp3,Sound file of APiCS example 72-160,audio/mpeg,106085
-96e426771c319556afc1877a61a68d80,EAEA0-9A06-0FA3-3115-0/72_161.mp3,Sound file of APiCS example 72-161,audio/mpeg,44776
-8a0708bee1a441741059ad965596ec3a,EAEA0-74FC-4647-963C-0/72_162.mp3,Sound file of APiCS example 72-162,audio/mpeg,30279
-7721d3f915f19d81791ea0e8d7bc62f6,EAEA0-77F2-9A04-6BA9-0/72_165.mp3,Sound file of APiCS example 72-165,audio/mpeg,20841
-af6e83741b07ba6bf2c24bf236afbe52,EAEA0-B959-1134-68BD-0/72_166.mp3,Sound file of APiCS example 72-166,audio/mpeg,28769
-bbdba44facd606e0adb2dfc40269689f,EAEA0-42F3-29C8-F0CF-0/72_167.mp3,Sound file of APiCS example 72-167,audio/mpeg,33248
-24f730f7add942d2da6456a001056d2f,EAEA0-A791-7238-74C1-0/72_168.mp3,Sound file of APiCS example 72-168,audio/mpeg,25531
-2bc687689adfb67cc92c96911c9c9ceb,EAEA0-FCCE-7085-4EF2-0/72_169.mp3,Sound file of APiCS example 72-169,audio/mpeg,48425
-7a0c45385ce029d880ec26da6cd2300d,EAEA0-F745-4383-D866-0/72_170.mp3,Sound file of APiCS example 72-170,audio/mpeg,93433
-b32cc1588c1a6f94fb7616443e82dd92,EAEA0-7CA6-2A6E-D997-0/35_258.mp3,Sound file of APiCS example 35-258,audio/mpeg,319010
-df58cc438942afc20af5c221b9f335c9,EAEA0-AC3D-0993-5C74-0/35_261.mp3,Sound file of APiCS example 35-261,audio/mpeg,113954
-54902276b26224599f8c5acf3855f633,EAEA0-066E-6B26-55E6-0/72_70.mp3,Sound file of APiCS example 72-70,audio/mpeg,43317
-f11b7864f39178fead37e4cbe19a2608,EAEA0-65E7-6B27-CE91-0/35_262.mp3,Sound file of APiCS example 35-262,audio/mpeg,120051
-ee104f951617a6f4234d4db5197d1e6b,EAEA0-09B3-8B85-1993-0/35_263.mp3,Sound file of APiCS example 35-263,audio/mpeg,121059
-bdd683831e6b6a4c9a51cb6555f226a8,EAEA0-2252-D86E-C0EB-0/35_264.mp3,Sound file of APiCS example 35-264,audio/mpeg,103203
-8b9532c3d270100c8e38dc9410873671,EAEA0-9DBC-4C82-7FB7-0/35_265.mp3,Sound file of APiCS example 35-265,audio/mpeg,161187
-2d39900f933f0328173ffffa283a6a10,EAEA0-7592-853A-301D-0/36_163.mp3,Sound file of APiCS example 36-163,audio/mpeg,26338
-4218075f4c857d91399077957d94dc81,EAEA0-2279-47F9-8802-0/36_164.mp3,Sound file of APiCS example 36-164,audio/mpeg,25449
-14c37cbb6fd26e8e6b2fc3cb43846343,EAEA0-47E4-6ED3-093B-0/36_165.mp3,Sound file of APiCS example 36-165,audio/mpeg,25922
-a944fc85037b3eda318a064344e2d502,EAEA0-8992-54C5-BF0A-0/36_166.mp3,Sound file of APiCS example 36-166,audio/mpeg,24304
-648bbb07447aabbc17b42e856e218f05,EAEA0-D649-C0AD-D139-0/37_205.mp3,Sound file of APiCS example 37-205,audio/mpeg,7497
-b235b376ae28fe1374c735718a49aa87,EAEA0-40E1-BA62-E02D-0/37_206.mp3,Sound file of APiCS example 37-206,audio/mpeg,7863
-a5d3c2c3cbddecede1238f268e438607,EAEA0-837B-2863-5A13-0/37_207.mp3,Sound file of APiCS example 37-207,audio/mpeg,13001
-331b343c57d5fc63a604fb161d8e2b2d,EAEA0-29B5-D160-EE25-0/37_208.mp3,Sound file of APiCS example 37-208,audio/mpeg,8411
-2a242024123a4295a342da833ddf3f46,EAEA0-1F90-6D8C-32D9-0/72_134.mp3,Sound file of APiCS example 72-134,audio/mpeg,46527
-9aebb334fe7ab89fd6d091e1f47c320c,EAEA0-5C2C-EC2E-3D81-0/37_248.mp3,Sound file of APiCS example 37-248,audio/mpeg,6601
-b1747b8ccaad662271985bb1a049a1e9,EAEA0-7B65-1B87-E568-0/35_270.mp3,Sound file of APiCS example 35-270,audio/mpeg,1260544
-94fb1c5846be4c68b9cf66c817301aca,EAEA0-70E3-9E18-ADBB-0/35_271.mp3,Sound file of APiCS example 35-271,audio/mpeg,103298
-534c116fad85f7cfef20b4483b1f64eb,EAEA0-BCE5-E301-C0FA-0/35_272.mp3,Sound file of APiCS example 35-272,audio/mpeg,1297408
-e588fcef07c48accc64ecfc353cbd94f,EAEA0-D273-2E30-A57F-0/35_273.mp3,Sound file of APiCS example 35-273,audio/mpeg,107042
-37e0aced3868e97462f741e3ab05ab74,EAEA0-2D77-4448-187F-0/35_274.mp3,Sound file of APiCS example 35-274,audio/mpeg,120386
-074a5078bc5fa107ba261570435cd24b,EAEA0-061D-A4C2-4443-0/35_275.mp3,Sound file of APiCS example 35-275,audio/mpeg,108386
-7450303769743782592293771625e1d1,EAEA0-1A77-9CA0-9350-0/35_276.mp3,Sound file of APiCS example 35-276,audio/mpeg,1512448
-3bcdcd78a9d1173ae4c6681af94f22e5,EAEA0-843F-87AB-CEED-0/35_277.mp3,Sound file of APiCS example 35-277,audio/mpeg,1266688
-60c1345a65c57ff896d8e13e67708cca,EAEA0-AEA3-B1A2-7A86-0/35_278.mp3,Sound file of APiCS example 35-278,audio/mpeg,103874
-85c07687b37d6123532e58384c21c230,EAEA0-A242-C970-D31B-0/35_279.mp3,Sound file of APiCS example 35-279,audio/mpeg,1254400
-f26e106517c3341378336fe7b2327848,EAEA0-7F6F-642B-9FE4-0/35_280.mp3,Sound file of APiCS example 35-280,audio/mpeg,1125376
-338b5fd0a8bb48ec1dc7f40991bfa912,EAEA0-AA01-C575-5368-0/35_281.mp3,Sound file of APiCS example 35-281,audio/mpeg,1063936
-4f513cb964fe4892c7a07217da498507,EAEA0-E160-65A5-8C94-0/35_282.mp3,Sound file of APiCS example 35-282,audio/mpeg,114338
-9736afef8e29fbce88aa1136a343d0d0,EAEA0-8C88-97A2-1DD4-0/35_283.mp3,Sound file of APiCS example 35-283,audio/mpeg,105794
-159d4d70f3b0952c6b414004acd67db3,EAEA0-7B8D-AE61-115A-0/35_284.mp3,Sound file of APiCS example 35-284,audio/mpeg,1014784
-c0747c6e5b869aa970e56c04d460ba91,EAEA0-8B72-8755-807F-0/35_285.mp3,Sound file of APiCS example 35-285,audio/mpeg,1180672
-0fb84946c90e738dd77d6588ff2bab6c,EAEA0-289F-0571-2279-0/35_286.mp3,Sound file of APiCS example 35-286,audio/mpeg,762880
-ed81ab293a6878309732bd4922ec87f9,EAEA0-1D48-AAF9-7426-0/35_287.mp3,Sound file of APiCS example 35-287,audio/mpeg,1358848
-25897e7ac2a6f258545330ffb719e8d7,EAEA0-CA08-195F-58EA-0/35_288.mp3,Sound file of APiCS example 35-288,audio/mpeg,132578
-440efadd2ae54a7fad25c9e5bd5dde70,EAEA0-982A-72C2-648A-0/35_289.mp3,Sound file of APiCS example 35-289,audio/mpeg,108578
-bbd01e96d7c8398ac60bcfa39fa7774a,EAEA0-3CBC-B629-157B-0/35_290.mp3,Sound file of APiCS example 35-290,audio/mpeg,125569
-30350a21c9c7e6c8cdf75774097b4541,EAEA0-669A-AE94-D238-0/35_291.mp3,Sound file of APiCS example 35-291,audio/mpeg,1205248
-e3296a37f02efde7ebd9b95b8a6fdb0e,EAEA0-4D42-F53B-5312-0/35_292.mp3,Sound file of APiCS example 35-292,audio/mpeg,1745920
-9f771954c75497761e94d2e9dc9a8e91,EAEA0-5C72-890E-8130-0/35_293.mp3,Sound file of APiCS example 35-293,audio/mpeg,1604608
-599334b9ede5029b3ae44c834f8b9292,EAEA0-6969-3C9C-2AC9-0/35_294.mp3,Sound file of APiCS example 35-294,audio/mpeg,85249
-73cba98f3a09e94ee5c82cd839bbf13c,EAEA0-68C6-B358-581F-0/35_295.mp3,Sound file of APiCS example 35-295,audio/mpeg,136316
-7fe81d250bfc416472993d89a81df113,EAEA0-DE8F-DE39-DBE9-0/35_296.mp3,Sound file of APiCS example 35-296,audio/mpeg,965632
-e35d8029eab6a0cd3212530482328b61,EAEA0-1ED0-FCD0-EBB0-0/35_297.mp3,Sound file of APiCS example 35-297,audio/mpeg,1684480
-c29b2423139d99dd920b1b19949a2572,EAEA0-FA85-8BBB-2538-0/35_298.mp3,Sound file of APiCS example 35-298,audio/mpeg,2176000
-43d1ad90f1bff9d47c8766d4dce374ef,EAEA0-5FA9-1AE2-0BB7-0/35_299.mp3,Sound file of APiCS example 35-299,audio/mpeg,109826
-171b46b1293aa918dd9615090dbeade9,EAEA0-72D7-1555-6287-0/35_300.mp3,Sound file of APiCS example 35-300,audio/mpeg,97922
-0eab3b3ea0746c1fbb7916963010c841,EAEA0-E98D-6BD7-8F78-0/35_301.mp3,Sound file of APiCS example 35-301,audio/mpeg,82748
-350140d75e178b9a2c3ac44b4bcb8523,EAEA0-2B98-94B7-A19D-0/35_303.mp3,Sound file of APiCS example 35-303,audio/mpeg,134114
-1b99a41f40e5fb0842fc092aee99fc11,EAEA0-9D05-735A-EB57-0/35_304.mp3,Sound file of APiCS example 35-304,audio/mpeg,98161
-ef1af1d390b28f62b402787f7db8794c,EAEA0-1916-0195-8DC7-0/35_305.mp3,Sound file of APiCS example 35-305,audio/mpeg,1211392
-d25868b0ab1eb6f5cf608ab5d021df36,EAEA0-A06C-29B8-A0F3-0/50_246.mp3,Sound file of APiCS example 50-246,audio/mpeg,695852
-3867a0e40d10c536603f418b7f3f70b5,EAEA0-5778-98F3-A45A-0/51_199.mp3,Sound file of APiCS example 51-199,audio/mpeg,86368
-1b41013f2c396988e8160d445550a891,EAEA0-373B-4AD9-E7AF-0/51_200.mp3,Sound file of APiCS example 51-200,audio/mpeg,451628
-3a1342ea7acf9cf8d0bb98b852b6c55d,EAEA0-AD4F-F4F7-D1D2-0/51_201.mp3,Sound file of APiCS example 51-201,audio/mpeg,139264
-0be185821e41f820f1cd5866b3712c62,EAEA0-A3AC-2404-E770-0/51_202.mp3,Sound file of APiCS example 51-202,audio/mpeg,423980
-f34c69012fa725236fc219cf4c9e3e05,EAEA0-5AAB-6349-E0BD-0/51_203.mp3,Sound file of APiCS example 51-203,audio/mpeg,100356
-33fa71e1cb5d770d7737db752c619b94,EAEA0-E33C-4B0C-7492-0/51_204.mp3,Sound file of APiCS example 51-204,audio/mpeg,111525
-a906eb673e52fedf68fd755e1d134fc1,EAEA0-9F51-6A5A-8F1C-0/51_205.mp3,Sound file of APiCS example 51-205,audio/mpeg,24576
-6d7a42f75f484f3f5363523513e61538,EAEA0-B38A-3988-8D99-0/51_206.mp3,Sound file of APiCS example 51-206,audio/mpeg,84173
-f355a22cb59f5260a3895f4a7ea501f6,EAEA0-6C41-B2A8-6D15-0/51_207.mp3,Sound file of APiCS example 51-207,audio/mpeg,108501
-250dc31463566dc096870e5b15232e68,EAEA0-7E8E-5EEA-1F95-0/51_208.mp3,Sound file of APiCS example 51-208,audio/mpeg,456236
-7e14fe19360a5144a6ce466768346d65,EAEA0-CB14-3BD6-42B5-0/51_209.mp3,Sound file of APiCS example 51-209,audio/mpeg,94826
-196fd7651be6830dd0ef0730d9f32313,EAEA0-14A2-9276-DD1A-0/51_210.mp3,Sound file of APiCS example 51-210,audio/mpeg,83861
-3ce4f0111f2191a19770a5c2525beef6,EAEA0-A087-34DC-4A55-0/51_211.mp3,Sound file of APiCS example 51-211,audio/mpeg,396332
-6b19402637127d9b409a240c08348180,EAEA0-3823-5313-D772-0/51_212.mp3,Sound file of APiCS example 51-212,audio/mpeg,104322
-b725f8771f4c42eb28a968ee986bd1ac,EAEA0-94D8-9919-7C8F-0/51_214.mp3,Sound file of APiCS example 51-214,audio/mpeg,100568
-e940d2ef69f46550a568975ccbb775a0,EAEA0-524E-06A4-944E-0/51_215.mp3,Sound file of APiCS example 51-215,audio/mpeg,98682
-075c1c35590879e2a417f4819788a217,EAEA0-EF6D-C764-3FE7-0/51_216.mp3,Sound file of APiCS example 51-216,audio/mpeg,95554
-5bcb27b17907add7d5942e01d39922db,EAEA0-9106-04DE-CE9F-0/51_217.mp3,Sound file of APiCS example 51-217,audio/mpeg,90024
-8d39b9a1eef65f84536b99ee781d6c98,EAEA0-9DAD-1B44-F9B2-0/51_218.mp3,Sound file of APiCS example 51-218,audio/mpeg,112051
-d7bc136f414647df8809184f5b294f66,EAEA0-FD8D-1F10-64ED-0/51_219.mp3,Sound file of APiCS example 51-219,audio/mpeg,557612
-5ab14f4481c4cb37d6a5e033083aaf71,EAEA0-3C99-A884-4D7D-0/51_220.mp3,Sound file of APiCS example 51-220,audio/mpeg,121027
-f52a6c2c4819d55cc007096426f878b5,EAEA0-2E5F-CB60-0FC0-0/51_221.mp3,Sound file of APiCS example 51-221,audio/mpeg,97020
-976845808eefeae88ace6b6f2e5a06da,EAEA0-DC74-4D84-DC5E-0/51_222.mp3,Sound file of APiCS example 51-222,audio/mpeg,97436
-bdaf8ea347665cdc215a49a382bdaf40,EAEA0-74A6-C065-9A75-0/51_223.mp3,Sound file of APiCS example 51-223,audio/mpeg,502316
-e210716ff36091886127d2e4327d3654,EAEA0-9BDD-3859-93E4-0/51_224.mp3,Sound file of APiCS example 51-224,audio/mpeg,488492
-4690a6a810d1d22c3c66d042eb35671a,EAEA0-6EF5-1C94-E596-0/51_225.mp3,Sound file of APiCS example 51-225,audio/mpeg,511532
-cd30591d22e03c65498bc22bf0561396,EAEA0-1B18-AD89-7D6E-0/51_226.mp3,Sound file of APiCS example 51-226,audio/mpeg,571436
-6bac98226f74282ba135a076cd67c701,EAEA0-D51D-F22B-6B7E-0/51_227.mp3,Sound file of APiCS example 51-227,audio/mpeg,400940
-5cb000cc8720b69bad9c77587439090b,EAEA0-9F5A-DB25-7293-0/51_228.mp3,Sound file of APiCS example 51-228,audio/mpeg,502316
-f71a39185e2a3577860232ac5a43e30c,EAEA0-E54E-F32F-8612-0/51_229.mp3,Sound file of APiCS example 51-229,audio/mpeg,110168
-7938d8366e800b139db637f2c65a6d3f,EAEA0-D440-2589-5053-0/51_230.mp3,Sound file of APiCS example 51-230,audio/mpeg,529964
-3a0aaa5f2ee13881b3a5fd19b7c80e94,EAEA0-B413-8B91-8171-0/51_231.mp3,Sound file of APiCS example 51-231,audio/mpeg,447020
-6310f0b0bbf70adf1d09489d346fe1aa,EAEA0-6D47-71C7-3F55-0/51_232.mp3,Sound file of APiCS example 51-232,audio/mpeg,516140
-8759571305dc54bd809997f829bc71c5,EAEA0-6016-9696-A1FE-0/51_233.mp3,Sound file of APiCS example 51-233,audio/mpeg,94719
-323177bd76a6378ff321c7cee66f38d7,EAEA0-48E7-AFA8-109A-0/51_234.mp3,Sound file of APiCS example 51-234,audio/mpeg,94615
-cc9a0fded6a87ebbac4ec8f8b61de5d7,EAEA0-DF10-DC71-8617-0/51_235.mp3,Sound file of APiCS example 51-235,audio/mpeg,428588
+ID,Description,Media_Type,Download_URL,Contribution_ID,Language_IDs,size,File_Key
+a9e3060ff8c20a905525e265c7c565b2,PDF of glossed text for Early Sranan,application/pdf,Survey/1_gt.pdf,s-1,1,50302,EAEA0-F3F6-F66F-9B1E-0_1_gt.pdf
+aa75008ab84afd55024c6647085711aa,Early Sranan,text/html,Survey/1.html,s-1,1,264999,
+c54509f8b2fcc0d37b3ba3a1c72d0f0c,Map or figure accompanying language survey Early Sranan,image/png,Survey/1-1.png,s-1,1,104267,
+9d04a82a1f7c09921234ae768910c667,PDF of glossed text for Sranan,application/pdf,Survey/2_gt.pdf,s-2,2,71503,EAEA0-A03D-7E7F-35AA-0_2_gt.pdf
+f1608d81249d2cba288d0f13e3923504,Audio of the glossed text for Sranan being spoken,audio/mpeg,Survey/2_gt.mp3,s-2,2,1795970,EAEA0-A03D-7E7F-35AA-0_2_gt.mp3
+81156790894df331d3718213d5b56db3,Sranan,text/html,Survey/2.html,s-2,2,372829,
+49615b2639039606edfcb3cb7366e8f7,Map or figure accompanying language survey Sranan,image/png,Survey/2-1.png,s-2,2,98980,
+9c929b079bdfd20c8c52cdba7b6c21cf,PDF of glossed text for Saramaccan,application/pdf,Survey/3_gt.pdf,s-3,3,56359,EAEA0-FABF-475D-5CFF-0_3_gt.pdf
+6d2e697dd36d8a6980ac2ac742e1961a,Saramaccan,text/html,Survey/3.html,s-3,3,320494,
+bac6922673a0feb700aecf422215cd71,Map or figure accompanying language survey Saramaccan,image/png,Survey/3-1.png,s-3,3,109137,
+167f9a571dc08df068e8bdf928535ba0,PDF of glossed text for Nengee,application/pdf,Survey/4_gt.pdf,s-4,4,52792,EAEA0-43D4-4263-1F01-0_4_gt.pdf
+abc88c3fae81677865ee1af01243936e,Audio of the glossed text for Nengee being spoken,audio/mpeg,Survey/4_gt.mp3,s-4,4,1336457,EAEA0-43D4-4263-1F01-0_4_gt.mp3
+821b3640127445d1688de3cb6a915940,Nengee,text/html,Survey/4.html,s-4,4,264221,
+1f7370712eec729f5f3c5d73b53fa2b5,Map or figure accompanying language survey Nengee,image/png,Survey/4-1.png,s-4,4,139143,
+4ee37676e2635e6d008876b4e9b83cd5,PDF of glossed text for Creolese,application/pdf,Survey/5_gt.pdf,s-5,5,81859,EAEA0-B62A-6C0F-AAD1-0_5_gt.pdf
+5d7f2824f76a767033414764e5bf88f9,Creolese,text/html,Survey/5.html,s-5,5,281002,
+81095d13deea5755b074f3b2feccc2dd,Map or figure accompanying language survey Creolese,image/png,Survey/5-1.png,s-5,5,34180,
+1a2841d3a077dc778fbdb74cef240483,PDF of glossed text for Trinidad English Creole,application/pdf,Survey/6_gt.pdf,s-6,6,47658,EAEA0-1DC6-28E5-C84A-0_6_gt.pdf
+415f142437fdcb2a7acd95079f5d7645,Audio of the glossed text for Trinidad English Creole being spoken,audio/mpeg,Survey/6_gt.mp3,s-6,6,90112,EAEA0-1DC6-28E5-C84A-0_6_gt.mp3
+fedf0a7350665287c824ebc1779c0eba,Trinidad English Creole,text/html,Survey/6.html,s-6,6,234732,
+012f2cbfa1ecedbde802d4f9c266ca18,Map or figure accompanying language survey Trinidad English Creole,image/png,Survey/6-1.png,s-6,6,12311,
+ecedc2df4c81b72e09046b75daac6a87,PDF of glossed text for Vincentian Creole,application/pdf,Survey/7_gt.pdf,s-7,7,89855,EAEA0-7756-600B-3E45-0_7_gt.pdf
+61b30feaa466f348f3c76e94332a993b,Audio of the glossed text for Vincentian Creole being spoken,audio/mpeg,Survey/7_gt.mp3,s-7,7,4053158,EAEA0-7756-600B-3E45-0_7_gt.mp3
+7ee998aff56311dbf4d8bd77e1e54fd7,Vincentian Creole,text/html,Survey/7.html,s-7,7,328421,
+60476240b4e743a6f06b635a9b3f407d,Map or figure accompanying language survey Vincentian Creole,image/png,Survey/7-1.png,s-7,7,49216,
+72b8e34c36a13b5b93210431f05a9189,Map or figure accompanying language survey Vincentian Creole,image/png,Survey/7-2.png,s-7,7,58637,
+a95b0e4acb31f5bfb529e11d1eb5100c,PDF of glossed text for Jamaican,application/pdf,Survey/8_gt.pdf,s-8,8,75333,EAEA0-3A35-3650-07D6-0_8_gt.pdf
+9e2a9fd252b993e1d7f04841bab834a5,Audio of the glossed text for Jamaican being spoken,audio/mpeg,Survey/8_gt.mp3,s-8,8,5363494,EAEA0-3A35-3650-07D6-0_8_gt.mp3
+36670f1edb43e0cc096544dcf04f8419,Jamaican,text/html,Survey/8.html,s-8,8,297068,
+d704d229c2c4a6221a9e635bda115394,Map or figure accompanying language survey Jamaican,image/png,Survey/8-1.png,s-8,8,15697,
+f2088aebbd63074fcd402c600215cb66,PDF of glossed text for Belizean Creole,application/pdf,Survey/9_gt.pdf,s-9,9,60430,EAEA0-592B-5B36-0AD5-0_9_gt.pdf
+862c44314b2fe30558a00fa349764477,Belizean Creole,text/html,Survey/9.html,s-9,9,375115,
+4953d8d0e39fb9f393f90ae097d5ce0c,Map or figure accompanying language survey Belizean Creole,image/png,Survey/9-1.png,s-9,9,151593,
+3081dc1f5d3643cc21913e3d96342fcb,PDF of glossed text for San Andres Creole English,application/pdf,Survey/10_gt.pdf,s-10,10,65351,EAEA0-DD53-3548-FE55-0_10_gt.pdf
+f5a84ee9e803ff7ca2f0f60a0d09d361,San Andres Creole English,text/html,Survey/10.html,s-10,10,379041,
+3fbee37ec0d1ad4aee418bf2fdcb0483,Map or figure accompanying language survey San Andres Creole English,image/png,Survey/10-1.png,s-10,10,109802,
+4a8d010ca97f673e3e448a8e380f12b4,PDF of glossed text for Nicaraguan Creole English,application/pdf,Survey/11_gt.pdf,s-11,11,52165,EAEA0-6069-7C12-765E-0_11_gt.pdf
+09609ad2f0e0b6a36c5b33bfb571eba3,Audio of the glossed text for Nicaraguan Creole English being spoken,audio/mpeg,Survey/11_gt.mp3,s-11,11,560516,EAEA0-6069-7C12-765E-0_11_gt.mp3
+527c3853be955c5b0b4409bbe0e482cc,Nicaraguan Creole English,text/html,Survey/11.html,s-11,11,385099,
+cc2a9b91c82289573b65182a1de9fa41,Map or figure accompanying language survey Nicaraguan Creole English,image/png,Survey/11-1.png,s-11,11,129599,
+1ef51a42c91d0ec24f22a82c78f9b032,PDF of glossed text for Bahamian Creole,application/pdf,Survey/12_gt.pdf,s-12,12,84895,EAEA0-CA7F-4AD9-4D30-0_12_gt.pdf
+d863a469ceb3a64051ef8df649033f36,Audio of the glossed text for Bahamian Creole being spoken,audio/mpeg,Survey/12_gt.mp3,s-12,12,1678766,EAEA0-CA7F-4AD9-4D30-0_12_gt.mp3
+2fe579c2ee09eb28f6611c17221585fa,Bahamian Creole,text/html,Survey/12.html,s-12,12,408397,
+73a443274dcbd7be582411f19035f7fa,Map or figure accompanying language survey Bahamian Creole,image/png,Survey/12-1.png,s-12,12,132954,
+287b403d219a8018158d142b4ca15f82,PDF of glossed text for Gullah,application/pdf,Survey/13_gt.pdf,s-13,13,68430,EAEA0-FE27-4ED1-3332-0_13_gt.pdf
+8578b06e6b040ebca1ce16ef3d6fa5b7,Audio of the glossed text for Gullah being spoken,audio/mpeg,Survey/13_gt.mp3,s-13,13,505330,EAEA0-FE27-4ED1-3332-0_13_gt.mp3
+3c65d0f70859c0193afbd7fe33884897,Gullah,text/html,Survey/13.html,s-13,13,323867,
+19959de8516064c5eeb758a16f21822e,Map or figure accompanying language survey Gullah,image/png,Survey/13-1.png,s-13,13,22560,
+8adb7e052e5eb48b085aa34e369eed31,PDF of glossed text for African American English,application/pdf,Survey/14_gt.pdf,s-14,14,53700,EAEA0-2BEF-BCCD-AEF5-0_14_gt.pdf
+701de2bdf1dd5172dec9200325ad7432,Audio of the glossed text for African American English being spoken,audio/mpeg,Survey/14_gt.mp3,s-14,14,1893733,EAEA0-2BEF-BCCD-AEF5-0_14_gt.mp3
+38a58d8a1b52a3737989c6a6cd270535,African American English,text/html,Survey/14.html,s-14,14,226384,
+eb375da32cab94f600eac795174ee762,Map or figure accompanying language survey African American English,image/png,Survey/14-1.png,s-14,14,395326,
+bde0751ab1b19d0a491362c1f01222bc,PDF of glossed text for Krio,application/pdf,Survey/15_gt.pdf,s-15,15,73915,EAEA0-0D65-917F-6395-0_15_gt.pdf
+b1df1e6f245e7dfc8f8f5611c3d4bdd4,Audio of the glossed text for Krio being spoken,audio/mpeg,Survey/15_gt.mp3,s-15,15,2269962,EAEA0-0D65-917F-6395-0_15_gt.mp3
+403a064664e6be394ab957e0534db1e1,Krio,text/html,Survey/15.html,s-15,15,293915,
+3c059b0cd29f1e606f7f31ce8bc3b6e7,Map or figure accompanying language survey Krio,image/png,Survey/15-1.png,s-15,15,24806,
+865abf00f94869a7fb5c182b5671df73,PDF of glossed text for Ghanaian Pidgin English,application/pdf,Survey/16_gt.pdf,s-16,16,65563,EAEA0-CA39-12B4-3C15-0_16_gt.pdf
+c195595f41d92ce7263f0b00ab2f875c,Audio of the glossed text for Ghanaian Pidgin English being spoken,audio/mpeg,Survey/16_gt.mp3,s-16,16,955502,EAEA0-CA39-12B4-3C15-0_16_gt.mp3
+f992e508328ddcfa61b2866fb07629a5,Ghanaian Pidgin English,text/html,Survey/16.html,s-16,16,350845,
+39367e59a491d9b2a298456494592ba9,Map or figure accompanying language survey Ghanaian Pidgin English,image/png,Survey/16-1.png,s-16,16,54267,
+64f6c14f326ed250e874b652d9d90120,PDF of glossed text for Nigerian Pidgin,application/pdf,Survey/17_gt.pdf,s-17,17,47286,EAEA0-2E17-9925-8EC9-0_17_gt.pdf
+26d95798abc97cb346c3022122f7850b,Audio of the glossed text for Nigerian Pidgin being spoken,audio/mpeg,Survey/17_gt.mp3,s-17,17,728326,EAEA0-2E17-9925-8EC9-0_17_gt.mp3
+237d9bb35d85becf750593f7e8983849,Nigerian Pidgin,text/html,Survey/17.html,s-17,17,300225,
+1fb91160ebd28467bab7f7d535748d86,Map or figure accompanying language survey Nigerian Pidgin,image/png,Survey/17-1.png,s-17,17,15837,
+d01c68a56941c1e26851399da2944f9d,PDF of glossed text for Cameroon Pidgin English,application/pdf,Survey/18_gt.pdf,s-18,18,54715,EAEA0-FA0D-34A4-432A-0_18_gt.pdf
+f287a7dac36861dc0ecbb44954d8045b,Audio of the glossed text for Cameroon Pidgin English being spoken,audio/mpeg,Survey/18_gt.mp3,s-18,18,2455543,EAEA0-FA0D-34A4-432A-0_18_gt.mp3
+5220879a24300b24f982c6d8638e8abb,Cameroon Pidgin English,text/html,Survey/18.html,s-18,18,357366,
+2d484106a71de4a307bef3d9feee6ddb,Map or figure accompanying language survey Cameroon Pidgin English,image/png,Survey/18-1.png,s-18,18,289772,
+60003bffaaab4d7cdddfd075a1698c10,PDF of glossed text for Pichi,application/pdf,Survey/19_gt.pdf,s-19,19,71051,EAEA0-41D7-B3F4-A080-0_19_gt.pdf
+8818c8f5d038c5e5e79ab7ae78cd0762,Audio of the glossed text for Pichi being spoken,audio/mpeg,Survey/19_gt.mp3,s-19,19,806454,EAEA0-41D7-B3F4-A080-0_19_gt.mp3
+63dbc315bb51b3afa0d637aef38bc753,Pichi,text/html,Survey/19.html,s-19,19,442130,
+b74f698c8a06cbde1d4b98c2856f88f3,Map or figure accompanying language survey Pichi,image/png,Survey/19-1.png,s-19,19,28651,
+a7020d2ac26d2aee7f58e778ce1890b2,Map or figure accompanying language survey Pichi,image/png,Survey/19-2.png,s-19,19,38008,
+ebd89b3fd1ad12b9e1b9a9797cc7819f,PDF of glossed text for Chinese Pidgin English,application/pdf,Survey/20_gt.pdf,s-20,20,62792,EAEA0-6100-139B-1AAD-0_20_gt.pdf
+b8a3d640f18980c88671775e9826aed6,Chinese Pidgin English,text/html,Survey/20.html,s-20,20,279918,
+efb1d2affc3d9c674c2b91437114d644,Map or figure accompanying language survey Chinese Pidgin English,image/png,Survey/20-1.png,s-20,20,141905,
+c55c6a9fc8a287c8cbb0e008961d0181,PDF of glossed text for Tok Pisin,application/pdf,Survey/22_gt.pdf,s-22,22,53957,EAEA0-4CA6-8542-A148-0_22_gt.pdf
+31c1d42e6fa2bf668f11220cfc127535,Audio of the glossed text for Tok Pisin being spoken,audio/mpeg,Survey/22_gt.mp3,s-22,22,1347648,EAEA0-4CA6-8542-A148-0_22_gt.mp3
+4560eb1ab827645cfd6b40e8a6b20895,Tok Pisin,text/html,Survey/22.html,s-22,22,289631,
+2975af9f325a1526e82a4c14d1c8003e,Map or figure accompanying language survey Tok Pisin,image/png,Survey/22-1.png,s-22,22,25360,
+5cc95b4c0f71f93797dcd8da13991859,PDF of glossed text for Bislama,application/pdf,Survey/23_gt.pdf,s-23,23,57073,EAEA0-82AD-E503-DB1A-0_23_gt.pdf
+aba41214d59e1aa7caa5412d79cac42c,Audio of the glossed text for Bislama being spoken,audio/mpeg,Survey/23_gt.mp3,s-23,23,262,EAEA0-82AD-E503-DB1A-0_23_gt.mp3
+eb82de8db8fce77ee72f8cc3a239d822,Bislama,text/html,Survey/23.html,s-23,23,308576,
+9f5f01f807d2ad88974b01589ca36899,Map or figure accompanying language survey Bislama,image/png,Survey/23-1.png,s-23,23,21526,
+5696803bb620dc8feed5883921105317,PDF of glossed text for Norf'k,application/pdf,Survey/24_gt.pdf,s-24,24,46303,EAEA0-B214-2D4B-7ABF-0_24_gt.pdf
+aa64b44a43acba0940b939134b453baf,Norf’k,text/html,Survey/24.html,s-24,24,321810,
+fcf89080b58db6e6a2ec6d9c82a6b13b,Map or figure accompanying language survey Norf’k,image/png,Survey/24-1.png,s-24,24,18139,
+46fc7fe4694b9901259a4a521f05de6b,PDF of glossed text for Kriol,application/pdf,Survey/25_gt.pdf,s-25,25,73233,EAEA0-2D91-916D-CC5D-0_25_gt.pdf
+916f82cdddfaf0abebd82ce0992d5d03,Audio of the glossed text for Kriol being spoken,audio/mpeg,Survey/25_gt.mp3,s-25,25,495314,EAEA0-2D91-916D-CC5D-0_25_gt.mp3
+407d67200dd271408dd7777acea37a45,Kriol,text/html,Survey/25.html,s-25,25,356329,
+84f87cbfa58b197f638246bc1416322d,Map or figure accompanying language survey Kriol,image/png,Survey/25-1.png,s-25,25,17901,
+2cf95567615e06407aef4673c70082eb,PDF of glossed text for Hawai‘i Creole,application/pdf,Survey/26_gt.pdf,s-26,26,91822,EAEA0-7B89-0EA2-EB8A-0_26_gt.pdf
+ddd30b07c53f3cbee093a1076b2946ba,Audio of the glossed text for Hawai‘i Creole being spoken,audio/mpeg,Survey/26_gt.mp3,s-26,26,1782594,EAEA0-7B89-0EA2-EB8A-0_26_gt.mp3
+8fc4b05b6839eaab822c464a969a01eb,Hawai‘i Creole,text/html,Survey/26.html,s-26,26,336131,
+d7c13171299dc14bcf64f1cbc0f2d6cb,Map or figure accompanying language survey Hawai‘i Creole,image/png,Survey/26-1.png,s-26,26,25654,
+f0182cab1230b98af3651b3947204ba8,Map or figure accompanying language survey Hawai‘i Creole,image/png,Survey/26-2.png,s-26,26,137381,
+7bd8a8832eb551fdda01866331f1ecb7,PDF of glossed text for Negerhollands,application/pdf,Survey/27_gt.pdf,s-27,27,91012,EAEA0-B6DD-0D82-8C5F-0_27_gt.pdf
+f3f5953eb8440ec8c635084d921da02f,Negerhollands,text/html,Survey/27.html,s-27,27,283692,
+944c1c15abd99c1f2b98ed5cc39724c9,Map or figure accompanying language survey Negerhollands,image/png,Survey/27-1.png,s-27,27,49216,
+506f771d9271716db13906e879c10b3e,Map or figure accompanying language survey Negerhollands,image/png,Survey/27-2.png,s-27,27,71580,
+6019898f53deb5306df8e2edd2133161,PDF of glossed text for Berbice Dutch,application/pdf,Survey/28_gt.pdf,s-28,28,76676,EAEA0-3220-83D9-1D4C-0_28_gt.pdf
+003aeaf967d233f80b1ab5ec5d2ba903,Berbice Dutch,text/html,Survey/28.html,s-28,28,299782,
+1fb62d00bee9f04a54cd27740eba7114,Map or figure accompanying language survey Berbice Dutch,image/png,Survey/28-1.png,s-28,28,140467,
+2e1371cdcbfdb061f1cdd992d02c2320,PDF of glossed text for Afrikaans,application/pdf,Survey/29_gt.pdf,s-29,29,88514,EAEA0-5904-B53C-DD7D-0_29_gt.pdf
+015205bc098970695bcb347d0b4bddce,Afrikaans,text/html,Survey/29.html,s-29,29,329502,
+b777027967242284c0a407ce64914333,Map or figure accompanying language survey Afrikaans,image/png,Survey/29-1.png,s-29,29,287847,
+e732f45572e491ec203332d53f1a1fce,Map or figure accompanying language survey Afrikaans,image/png,Survey/29-2.png,s-29,29,19091,
+a9cddf80c59f8c8fce17af20d19a4d64,PDF of glossed text for Cape Verdean Creole of Santiago,application/pdf,Survey/30_gt.pdf,s-30,30,51308,EAEA0-A634-85C0-2D7B-0_30_gt.pdf
+1042467d532489dad95fd0ddcce6132a,Audio of the glossed text for Cape Verdean Creole of Santiago being spoken,audio/mpeg,Survey/30_gt.mp3,s-30,30,2754384,EAEA0-A634-85C0-2D7B-0_30_gt.mp3
+0ca77018f0b95b6ef3cae46e78c292bc,Cape Verdean Creole of Santiago,text/html,Survey/30.html,s-30,30,280741,
+50607f2fe544c80fee71431a4bd609c2,Map or figure accompanying language survey Cape Verdean Creole of Santiago,image/png,Survey/30-1.png,s-30,30,6328,
+d0c7f827a95e9b746b3774eba701aa9e,Map or figure accompanying language survey Cape Verdean Creole of Santiago,image/png,Survey/30-2.png,s-30,30,67538,
+193eb7530ec2c512b65b08a8ac185505,PDF of glossed text for Cape Verdean Creole of Brava,application/pdf,Survey/31_gt.pdf,s-31,31,56029,EAEA0-B86B-35E9-90AF-0_31_gt.pdf
+4be8f82dd9d4d0f0f52510ba77d0ba39,Cape Verdean Creole of Brava,text/html,Survey/31.html,s-31,31,257100,
+f425dd6f3a29183b5227b7ef6e2af626,Map or figure accompanying language survey Cape Verdean Creole of Brava,image/png,Survey/31-1.png,s-31,31,6328,
+e19c0c09cce8f15a2975673ca6b30a34,Map or figure accompanying language survey Cape Verdean Creole of Brava,image/png,Survey/31-2.png,s-31,31,67219,
+b735950253d8a9122f9c179e1d99ba28,PDF of glossed text for Cape Verdean Creole of São Vicente,application/pdf,Survey/32_gt.pdf,s-32,32,85220,EAEA0-CF1D-BC9D-57F5-0_32_gt.pdf
+6b217e243404ea5d3413f81ec7fddf12,Audio of the glossed text for Cape Verdean Creole of São Vicente being spoken,audio/mpeg,Survey/32_gt.mp3,s-32,32,3469152,EAEA0-CF1D-BC9D-57F5-0_32_gt.mp3
+2725a77654ecaf6a86b87c674ad5632a,Cape Verdean Creole of São Vicente,text/html,Survey/32.html,s-32,32,310172,
+c55b781d670c8b787604680933a83354,Map or figure accompanying language survey Cape Verdean Creole of São Vicente,image/png,Survey/32-1.png,s-32,32,6328,
+cad024ef5606806604021bf4dfe82b39,Map or figure accompanying language survey Cape Verdean Creole of São Vicente,image/png,Survey/32-2.png,s-32,32,69504,
+164fab2711665b1945ab30d6d6c42154,PDF of glossed text for Guinea-Bissau Kriyol,application/pdf,Survey/33_gt.pdf,s-33,33,67964,EAEA0-65AB-ED2B-0A34-0_33_gt.pdf
+04635ae44a6cc741a98f48e203c29bf1,Audio of the glossed text for Guinea-Bissau Kriyol being spoken,audio/mpeg,Survey/33_gt.mp3,s-33,33,4655053,EAEA0-65AB-ED2B-0A34-0_33_gt.mp3
+e84afd05313b9f6f494dddcf58a32464,Guinea-Bissau Kriyol,text/html,Survey/33.html,s-33,33,281346,
+fcbf4dd7e886336194cbada573767fe2,Map or figure accompanying language survey Guinea-Bissau Kriyol,image/png,Survey/33-1.png,s-33,33,22395,
+b643f4098406d134275e1db756ef539c,PDF of glossed text for Casamancese Creole,application/pdf,Survey/34_gt.pdf,s-34,34,73394,EAEA0-43FC-F459-7F28-0_34_gt.pdf
+0b9cec0ad8b740f465311e7bbef1110b,Audio of the glossed text for Casamancese Creole being spoken,audio/mpeg,Survey/34_gt.mp3,s-34,34,3881829,EAEA0-43FC-F459-7F28-0_34_gt.mp3
+023e2c324a6cdcba8c220e2e45d3e819,Casamancese Creole,text/html,Survey/34.html,s-34,34,327947,
+64b563ab4150681725c0243240454fc3,Map or figure accompanying language survey Casamancese Creole,image/png,Survey/34-1.png,s-34,34,33111,
+3dcadecf30924173f9af9f9f7922ff93,Map or figure accompanying language survey Casamancese Creole,image/png,Survey/34-2.png,s-34,34,2441,
+683604df20a712336edcc2b4758a5813,PDF of glossed text for Santome,application/pdf,Survey/35_gt.pdf,s-35,35,57313,EAEA0-7D6D-0953-8485-0_35_gt.pdf
+2cd43e48e024fe75f2d25df7c5cc2a23,Audio of the glossed text for Santome being spoken,audio/mpeg,Survey/35_gt.mp3,s-35,35,1602906,EAEA0-7D6D-0953-8485-0_35_gt.mp3
+d2e9b9108292ed71ac09e1f5f1f7e363,Santome,text/html,Survey/35.html,s-35,35,302262,
+310348d88359eb98537fd25ba4a6bbc7,Map or figure accompanying language survey Santome,image/png,Survey/35-1.png,s-35,35,28651,
+43a6f3fd53880c587aab675294aaed36,Map or figure accompanying language survey Santome,image/png,Survey/35-2.png,s-35,35,41989,
+bbd6d16d760a998eeac2f22e0f587d0d,PDF of glossed text for Angolar,application/pdf,Survey/36_gt.pdf,s-36,36,60434,EAEA0-657C-15B3-C77E-0_36_gt.pdf
+ba4205d223798d4318f7a34d2ca98ed3,Audio of the glossed text for Angolar being spoken,audio/mpeg,Survey/36_gt.mp3,s-36,36,358015,EAEA0-657C-15B3-C77E-0_36_gt.mp3
+e4d2acccc6b0a428b1b2a1f8776f794c,Angolar,text/html,Survey/36.html,s-36,36,431425,
+0a0a24464d3637818a5c7c91c55d9033,Map or figure accompanying language survey Angolar,image/png,Survey/36-1.png,s-36,36,28651,
+bacae874ce3a7b0230c68e3cca8917ed,Map or figure accompanying language survey Angolar,image/png,Survey/36-2.png,s-36,36,46378,
+ee7c49e7b559639f9490886ff058d962,PDF of glossed text for Principense,application/pdf,Survey/37_gt.pdf,s-37,37,59378,EAEA0-7128-6A3F-3A49-0_37_gt.pdf
+7ed448b285031ba8ba1e3fe0b661ec56,Audio of the glossed text for Principense being spoken,audio/mpeg,Survey/37_gt.mp3,s-37,37,337535,EAEA0-7128-6A3F-3A49-0_37_gt.mp3
+3846cf0cfbde4ebc3aa424d7e4b48634,Principense,text/html,Survey/37.html,s-37,37,309265,
+35110d70b0563217a22a98721d65d90e,Map or figure accompanying language survey Principense,image/png,Survey/37-1.png,s-37,37,28651,
+51fc17ae2a9ff25ff6e24d071b5c3bbe,Map or figure accompanying language survey Principense,image/png,Survey/37-2.png,s-37,37,11529,
+728941b9dee7fc42f25f9546d8767f70,PDF of glossed text for Fa d’Ambô,application/pdf,Survey/38_gt.pdf,s-38,38,52540,EAEA0-B0B9-790D-6A4D-0_38_gt.pdf
+a6f31872ab9c05048dfae0f0c2312ac8,Fa d’Ambô,text/html,Survey/38.html,s-38,38,297216,
+378772be938af8491ec56400b9f1a601,Map or figure accompanying language survey Fa d’Ambô,image/png,Survey/38-1.png,s-38,38,29081,
+749a1a7d220d7cadf33e925c63757557,Map or figure accompanying language survey Fa d’Ambô,image/png,Survey/38-2.png,s-38,38,3277,
+5732188f6293b5f5eef61920eb6fdda6,PDF of glossed text for Diu Indo-Portuguese,application/pdf,Survey/39_gt.pdf,s-39,39,76600,EAEA0-84F8-5EAE-67DE-0_39_gt.pdf
+f209cdbb84595f9a2d1e3b4ab9e3f906,Diu Indo-Portuguese,text/html,Survey/39.html,s-39,39,348767,
+9a65e466253a9e584940f889aab7af67,Map or figure accompanying language survey Diu Indo-Portuguese,image/png,Survey/39-1.png,s-39,39,144667,
+828083096837058619beb973b49a8ef2,PDF of glossed text for Korlai,application/pdf,Survey/40_gt.pdf,s-40,40,60467,EAEA0-4559-E978-D103-0_40_gt.pdf
+dcb7444bd02560ea9b01a1a4836c747a,Audio of the glossed text for Korlai being spoken,audio/mpeg,Survey/40_gt.mp3,s-40,40,990244,EAEA0-4559-E978-D103-0_40_gt.mp3
+e0669e46927b84fd4eb235383c1c4441,Korlai,text/html,Survey/40.html,s-40,40,360912,
+4ed46211e5e1a570547e5c45833b5453,Map or figure accompanying language survey Korlai,image/png,Survey/40-1.png,s-40,40,141818,
+ad09302c08515aaeec42d255d2b130f7,PDF of glossed text for Sri Lanka Portuguese,application/pdf,Survey/41_gt.pdf,s-41,41,114600,EAEA0-1CB0-06AF-55DD-0_41_gt.pdf
+dd61b6f21dbad65583ca0f529e77af2f,Audio of the glossed text for Sri Lanka Portuguese being spoken,audio/mpeg,Survey/41_gt.mp3,s-41,41,876544,EAEA0-1CB0-06AF-55DD-0_41_gt.mp3
+96df1370a61b4e7f4397ae2e06e137b4,Sri Lanka Portuguese,text/html,Survey/41.html,s-41,41,316190,
+78cf571959ebba304c3bba68bbe45fc3,Map or figure accompanying language survey Sri Lanka Portuguese,image/png,Survey/41-1.png,s-41,41,110776,
+1d936ce2bdbf0d85208db0b70c81cbc1,PDF of glossed text for Papiá Kristang,application/pdf,Survey/42_gt.pdf,s-42,42,81880,EAEA0-9B85-6443-C682-0_42_gt.pdf
+98956cd8c1ea182129069617f6cad263,Audio of the glossed text for Papiá Kristang being spoken,audio/mpeg,Survey/42_gt.mp3,s-42,42,7322677,EAEA0-9B85-6443-C682-0_42_gt.mp3
+2e5e91c3cbb56b6d233dfe572ac615b8,Papiá Kristang,text/html,Survey/42.html,s-42,42,324616,
+76592c3406b1df4c71abef05a7c4e678,Map or figure accompanying language survey Papiá Kristang,image/png,Survey/42-1.png,s-42,42,114868,
+b1215a2cfaa4b706bc90f1cbc0559fda,PDF of glossed text for Batavia Creole,application/pdf,Survey/43_gt.pdf,s-43,43,65461,EAEA0-2564-62A6-E107-0_43_gt.pdf
+e3be478597256a5a0adbca1602bfe74f,Batavia Creole,text/html,Survey/43.html,s-43,43,336968,
+c9eeb13df9e9354c51e622c97bdf7c49,Map or figure accompanying language survey Batavia Creole,image/png,Survey/43-1.png,s-43,43,275057,
+55251c2cdda72185e1c038e2d003885f,PDF of glossed text for Ternate Chabacano,application/pdf,Survey/44_gt.pdf,s-44,44,59198,EAEA0-5011-D4D4-6699-0_44_gt.pdf
+aee968fa316055e3d028b2cb8bd66b03,Audio of the glossed text for Ternate Chabacano being spoken,audio/mpeg,Survey/44_gt.mp3,s-44,44,866873,EAEA0-5011-D4D4-6699-0_44_gt.mp3
+ae40a96a5f0e2f8cbd5e4732ae895a6b,Ternate Chabacano,text/html,Survey/44.html,s-44,44,249736,
+fa041165642fe141f424f78d7c8385b6,Map or figure accompanying language survey Ternate Chabacano,image/png,Survey/44-1.png,s-44,44,222553,
+6a6fc5cc098d974239d1970c2f95dc1c,PDF of glossed text for Cavite Chabacano,application/pdf,Survey/45_gt.pdf,s-45,45,65282,EAEA0-2476-7C34-DC94-0_45_gt.pdf
+00347852fef07d57f000d9a358be8a91,Audio of the glossed text for Cavite Chabacano being spoken,audio/mpeg,Survey/45_gt.mp3,s-45,45,1439477,EAEA0-2476-7C34-DC94-0_45_gt.mp3
+a8f724199d8972fd86e842c1144b1b96,Cavite Chabacano,text/html,Survey/45.html,s-45,45,269627,
+ab8edc1aecac514c009e24a8ec4c6fd4,Map or figure accompanying language survey Cavite Chabacano,image/png,Survey/45-1.png,s-45,45,222553,
+5791e2fcba4e61d82133fd415b0d7a4a,PDF of glossed text for Zamboanga Chabacano,application/pdf,Survey/46_gt.pdf,s-46,46,68303,EAEA0-B284-E744-3BCE-0_46_gt.pdf
+31f015b04b24eb50b8193df15891ee31,Audio of the glossed text for Zamboanga Chabacano being spoken,audio/mpeg,Survey/46_gt.mp3,s-46,46,673815,EAEA0-B284-E744-3BCE-0_46_gt.mp3
+ec9d14ab5b5c5249d7c49fc1b9038bef,Zamboanga Chabacano,text/html,Survey/46.html,s-46,46,215522,
+0e0d2988df3a64a7841cd53eab67d4ad,Map or figure accompanying language survey Zamboanga Chabacano,image/png,Survey/46-1.png,s-46,46,252472,
+1bf256dfa35398dea3287cb729cd191a,PDF of glossed text for Papiamentu,application/pdf,Survey/47_gt.pdf,s-47,47,89990,EAEA0-C405-C636-A55E-0_47_gt.pdf
+d3ad47985c7212be291a8c846951de44,Audio of the glossed text for Papiamentu being spoken,audio/mpeg,Survey/47_gt.mp3,s-47,47,2987541,EAEA0-C405-C636-A55E-0_47_gt.mp3
+deaaa0be7c3e2eebd27d3b9d257ef248,Papiamentu,text/html,Survey/47.html,s-47,47,499081,
+9a1746619098117b5f6963d44624df31,Map or figure accompanying language survey Papiamentu,image/png,Survey/47-1.png,s-47,47,17003,
+522e827d60c8e54e5eb638b1631d2a42,Audio of the glossed text for Palenquero being spoken,audio/mpeg,Survey/48_gt.mp3,s-48,48,607712,EAEA0-5738-22E4-18BC-0_48_gt.mp3
+35645cf136ea3143cdf1a3407fddbb7d,PDF of glossed text for Palenquero,application/pdf,Survey/48_gt.pdf,s-48,48,73699,EAEA0-5738-22E4-18BC-0_48_gt.pdf
+8f957d05ff443e3773ba5885a13da66a,Palenquero,text/html,Survey/48.html,s-48,48,316983,
+66dc783aaaf87c555a9285500ece0d67,Map or figure accompanying language survey Palenquero,image/png,Survey/48-1.png,s-48,48,519252,
+1fdac27fd138359758573c65550b0832,Map or figure accompanying language survey Palenquero,image/png,Survey/48-2.png,s-48,48,32041,
+d987f3adb5d9dace57795fbeec753d39,PDF of glossed text for Haitian Creole,application/pdf,Survey/49_gt.pdf,s-49,49,61499,EAEA0-0922-9845-D14C-0_49_gt.pdf
+efbfc64fd4bb921b60f8376050911925,Audio of the glossed text for Haitian Creole being spoken,audio/mpeg,Survey/49_gt.mp3,s-49,49,688829,EAEA0-0922-9845-D14C-0_49_gt.mp3
+23e8899ab4d15a0fbd4f5ef8747b0cd8,Haitian Creole,text/html,Survey/49.html,s-49,49,342749,
+12bb8833dd97aed437efb8c1965a8152,Map or figure accompanying language survey Haitian Creole,image/png,Survey/49-1.png,s-49,49,14694,
+43229cc962ce15a302a3583103c7c9c8,PDF of glossed text for Guadeloupean Creole,application/pdf,Survey/50_gt.pdf,s-50,50,88990,EAEA0-AC40-B4D9-633B-0_50_gt.pdf
+dcf729c5d86266bcd47cce22638ece68,Audio of the glossed text for Guadeloupean Creole being spoken,audio/mpeg,Survey/50_gt.mp3,s-50,50,3139951,EAEA0-AC40-B4D9-633B-0_50_gt.mp3
+4cd5ba59ac2abe763f71e61cba98c609,Guadeloupean and Martinican Creole,text/html,Survey/50.html,s-50,50 51,405668,
+12691413390acd5c487d60fe849ab6fc,Map or figure accompanying language survey Guadeloupean and Martinican Creole,image/png,Survey/50-1.png,s-50,50 51,49241,
+73b77b2bfca8829f7ee0e17f379f9210,Map or figure accompanying language survey Guadeloupean and Martinican Creole,image/png,Survey/50-2.png,s-50,50 51,181790,
+2d3434cc08c2f7877cbcf86692d9126e,Map or figure accompanying language survey Guadeloupean and Martinican Creole,image/png,Survey/50-3.png,s-50,50 51,67866,
+17c5f3ead7b6b3eeba068e6f722665b8,Map or figure accompanying language survey Guadeloupean and Martinican Creole,image/png,Survey/50-4.png,s-50,50 51,61012,
+ef47f1c02b1b1a2d46857109b27dec5f,PDF of glossed text for Guyanais,application/pdf,Survey/52_gt.pdf,s-52,52,58753,EAEA0-182A-829B-1381-0_52_gt.pdf
+aad1d5015188363d1bd7b12bc4638c7f,Audio of the glossed text for Guyanais being spoken,audio/mpeg,Survey/52_gt.mp3,s-52,52,1900669,EAEA0-182A-829B-1381-0_52_gt.mp3
+2c4a12cd515c09e671004581a452fcc1,Guyanais,text/html,Survey/52.html,s-52,52,318029,
+259ef9dd4b283665807657c406896940,Map or figure accompanying language survey Guyanais,image/png,Survey/52-1.png,s-52,52,111238,
+e852cf302096bc50f7e557cac1ac3ae5,PDF of glossed text for Louisiana Creole,application/pdf,Survey/53_gt.pdf,s-53,53,86450,EAEA0-9940-68D9-20C5-0_53_gt.pdf
+57f3f07c83fe193ac048c83bbc1e28dc,Audio of the glossed text for Louisiana Creole being spoken,audio/mpeg,Survey/53_gt.mp3,s-53,53,2166531,EAEA0-9940-68D9-20C5-0_53_gt.mp3
+349064a149eaceeebca9d2306d05f6da,Louisiana Creole,text/html,Survey/53.html,s-53,53,347823,
+39ef4ee0c14db2489409b0fcca13bfec,Map or figure accompanying language survey Louisiana Creole,image/png,Survey/53-1.png,s-53,53,97267,
+b4a951fe3e99591241051442bd1874b9,PDF of glossed text for Reunion Creole,application/pdf,Survey/54_gt.pdf,s-54,54,60138,EAEA0-77CF-4F39-D254-0_54_gt.pdf
+8c42c51b60e9b3535ab01d19b528956a,Reunion Creole,text/html,Survey/54.html,s-54,54,282951,
+b6cd0e7910edc720ec591511e11435ce,Map or figure accompanying language survey Reunion Creole,image/png,Survey/54-1.png,s-54,54,32694,
+13cb77db8b90f97fffaeba080fc66e74,Map or figure accompanying language survey Reunion Creole,image/png,Survey/54-2.png,s-54,54,7119,
+191493f3507ebda9a9631cb88e7681ef,PDF of glossed text for Mauritian Creole,application/pdf,Survey/55_gt.pdf,s-55,55,62892,EAEA0-7BA9-1923-57AC-0_55_gt.pdf
+6cba12ed271bad4311fb14ad04ba3efe,Audio of the glossed text for Mauritian Creole being spoken,audio/mpeg,Survey/55_gt.mp3,s-55,55,2023424,EAEA0-7BA9-1923-57AC-0_55_gt.mp3
+0ba86747b96af2ba3f477aa6426d00f5,Mauritian Creole,text/html,Survey/55.html,s-55,55,326355,
+4beccf060caa1e73ce9bc89f9262af1c,Map or figure accompanying language survey Mauritian Creole,image/png,Survey/55-1.png,s-55,55,32694,
+9cad2fcd2efe09e23ed85165b8473ae2,Map or figure accompanying language survey Mauritian Creole,image/png,Survey/55-2.png,s-55,55,7119,
+2cfd7f12d5d612ad7846ae0152b3c179,PDF of glossed text for Seychelles Creole,application/pdf,Survey/56_gt.pdf,s-56,56,73673,EAEA0-20F6-BE49-D7F7-0_56_gt.pdf
+f4ec9878172eca0c078dc700c999d4be,Audio of the glossed text for Seychelles Creole being spoken,audio/mpeg,Survey/56_gt.mp3,s-56,56,532480,EAEA0-20F6-BE49-D7F7-0_56_gt.mp3
+c0db65af346bd8784cde0dba2470363e,Seychelles Creole,text/html,Survey/56.html,s-56,56,323082,
+119282965048b2719eb726dd56c59605,Map or figure accompanying language survey Seychelles Creole,image/png,Survey/56-1.png,s-56,56,15232,
+1519d5c7b29fe398a6076ad9b8b975dc,PDF of glossed text for Tayo,application/pdf,Survey/57_gt.pdf,s-57,57,65621,EAEA0-6FF4-72F0-207E-0_57_gt.pdf
+45238597f1f31b1e1a71554f5b557481,Tayo,text/html,Survey/57.html,s-57,57,351104,
+4692258f427083fc55a825d930322d38,Map or figure accompanying language survey Tayo,image/png,Survey/57-1.png,s-57,57,17122,
+98af58cde616fc1609c5823e9cc7382a,PDF of glossed text for Kikongo-Kituba,application/pdf,Survey/58_gt.pdf,s-58,58,76900,EAEA0-6442-67EF-C9AD-0_58_gt.pdf
+8629756edb92f7bcaeb194d350af3e40,Kikongo-Kituba,text/html,Survey/58.html,s-58,58,241646,
+123ddfdb418a49faf011d0b99bba643e,Map or figure accompanying language survey Kikongo-Kituba,image/png,Survey/58-1.png,s-58,58,27021,
+eccf98ef8b72c1650b83e04cc97fd91f,Map or figure accompanying language survey Kikongo-Kituba,image/png,Survey/58-2.png,s-58,58,226260,
+e99e268b9668829a8cbe6ce80347bfb1,PDF of glossed text for Sango,application/pdf,Survey/59_gt.pdf,s-59,59,110697,EAEA0-7E04-F1F2-A42D-0_59_gt.pdf
+312248210d365402f85144414e1ea089,Audio of the glossed text for Sango being spoken,audio/mpeg,Survey/59_gt.mp3,s-59,59,2506752,EAEA0-7E04-F1F2-A42D-0_59_gt.mp3
+1389b6e9aba0d23b0e1050688b09f7be,Sango,text/html,Survey/59.html,s-59,59,298574,
+1d8a2c2bfb4a99ee306e997830fd15f7,Map or figure accompanying language survey Sango,image/png,Survey/59-1.png,s-59,59,40342,
+becc65d1e62a96a946987397459ab92c,PDF of glossed text for Lingala,application/pdf,Survey/60_gt.pdf,s-60,60,64477,EAEA0-5916-5CA3-28EB-0_60_gt.pdf
+b1127d0da1b0f48feb86005b3e97a440,Audio of the glossed text for Lingala being spoken,audio/mpeg,Survey/60_gt.mp3,s-60,60,290305,EAEA0-5916-5CA3-28EB-0_60_gt.mp3
+01fe4d9addf60de2ae0d697f320dcd59,Lingala,text/html,Survey/60.html,s-60,60,290820,
+75da3a9baab7b34cb0bd97ca7cd52ec5,Map or figure accompanying language survey Lingala,image/png,Survey/60-1.png,s-60,60,59129,
+30966766d294dea5385821cb96225509,PDF of glossed text for Fanakalo,application/pdf,Survey/61_gt.pdf,s-61,61,65673,EAEA0-FDC4-0F6B-1CAC-0_61_gt.pdf
+c0e9c0e76948a383f427b1ef20bb9aac,Audio of the glossed text for Fanakalo being spoken,audio/mpeg,Survey/61_gt.mp3,s-61,61,1622016,EAEA0-FDC4-0F6B-1CAC-0_61_gt.mp3
+9841cc071e4a82e1662c7124ae999717,Fanakalo,text/html,Survey/61.html,s-61,61,245458,
+6366442679cf08b2391653b665600954,Map or figure accompanying language survey Fanakalo,image/png,Survey/61-1.png,s-61,61,139492,
+2a536d1703b7418e0efde52240982c40,Audio of the glossed text for Mixed Ma’a/Mbugu being spoken,audio/mpeg,Survey/62_gt.mp3,s-62,62,5270498,EAEA0-8D7B-BDCF-3D0D-0_62_gt.mp3
+1ec6a861ff5d8e1a2f789fd2f21f36f4,PDF of glossed text for Mixed Ma’a/Mbugu,application/pdf,Survey/62_gt.pdf,s-62,62,72985,EAEA0-8D7B-BDCF-3D0D-0_62_gt.pdf
+1d783eda3ae27f54525301b3dda6acfc,Mixed Ma’a/Mbugu,text/html,Survey/62.html,s-62,62,240970,
+cd7a2431a9da9a3585a200d279b18314,Map or figure accompanying language survey Mixed Ma’a/Mbugu,image/png,Survey/62-1.png,s-62,62,52979,
+f2aa343217d31445fd9f46402c031b7f,PDF of glossed text for Kinubi,application/pdf,Survey/63_gt.pdf,s-63,63,60698,EAEA0-3311-EE23-CF86-0_63_gt.pdf
+d2400265e8537cda80bc820cf3c549a2,Kinubi,text/html,Survey/63.html,s-63,63,210910,
+7ccbe0f9bb48f887ce98965909e90aa6,Map or figure accompanying language survey Kinubi,image/png,Survey/63-1.png,s-63,63,56587,
+184443fbe6d10c2d9c04e41ed4f19e43,PDF of glossed text for Juba Arabic,application/pdf,Survey/64_gt.pdf,s-64,64,51581,EAEA0-D8F6-D4CC-2801-0_64_gt.pdf
+232d470795f99cf4a695fdcd7f6b9d47,Audio of the glossed text for Juba Arabic being spoken,audio/mpeg,Survey/64_gt.mp3,s-64,64,568503,EAEA0-D8F6-D4CC-2801-0_64_gt.mp3
+ab2a7209eccc11a7d2e7d2ea4987ab09,Juba Arabic,text/html,Survey/64.html,s-64,64,374336,
+8d74587316564a7436ad5de7be064b25,Map or figure accompanying language survey Juba Arabic,image/png,Survey/64-1.png,s-64,64,83059,
+3d62f1251e9be998e50316a0787d314d,PDF of glossed text for Chinese Pidgin Russian,application/pdf,Survey/65_gt.pdf,s-65,65,51883,EAEA0-4A02-6FED-6382-0_65_gt.pdf
+22bd264dd19719d20e38edfd1a6e6f90,Chinese Pidgin Russian,text/html,Survey/65.html,s-65,65,261172,
+493879bde77101f63c7fbdd51ef48313,Map or figure accompanying language survey Chinese Pidgin Russian,image/png,Survey/65-1.png,s-65,65,191919,
+2e0da7e19e90f8c7bbccf805ede303f5,PDF of glossed text for Sri Lankan Malay,application/pdf,Survey/66_gt.pdf,s-66,66,66891,EAEA0-4011-EE5E-B117-0_66_gt.pdf
+7fcce31fa082e63f55f2fe2c74e137ab,Audio of the glossed text for Sri Lankan Malay being spoken,audio/mpeg,Survey/66_gt.mp3,s-66,66,1079520,EAEA0-4011-EE5E-B117-0_66_gt.mp3
+07ff86cfa41f4bcf37433533b16cdb8a,Sri Lankan Malay,text/html,Survey/66.html,s-66,66,273202,
+4d41c61c57e8c507960550ab5b274b39,Map or figure accompanying language survey Sri Lankan Malay,image/png,Survey/66-1.png,s-66,66,120770,
+c401292ba9441f90556437f937d7787e,PDF of glossed text for Singapore Bazaar Malay,application/pdf,Survey/67_gt.pdf,s-67,67,63398,EAEA0-889F-F835-01FD-0_67_gt.pdf
+f7d4227b47357c64ddefc18232e4d2fe,Audio of the glossed text for Singapore Bazaar Malay being spoken,audio/mpeg,Survey/67_gt.mp3,s-67,67,4182938,EAEA0-889F-F835-01FD-0_67_gt.mp3
+80a9ba08091631d9e1aee0bea15982d6,Singapore Bazaar Malay,text/html,Survey/67.html,s-67,67,253673,
+7a23ad0f015d3122a44148d7bb1164be,Map or figure accompanying language survey Singapore Bazaar Malay,image/png,Survey/67-1.png,s-67,67,261569,
+b5b5a41dca0b5021341cc3bcfa474f34,PDF of glossed text for Ambon Malay,application/pdf,Survey/68_gt.pdf,s-68,68,96667,EAEA0-C3AE-FDFE-AAC6-0_68_gt.pdf
+cd457b6d19f59fded4b4516d019b1474,Ambon Malay,text/html,Survey/68.html,s-68,68,318752,
+08506223941337b7cb0fe5fadd9d7743,Map or figure accompanying language survey Ambon Malay,image/png,Survey/68-1.png,s-68,68,82095,
+7005354ea199bea9818880be79fd1e62,PDF of glossed text for Yimas-Arafundi Pidgin,application/pdf,Survey/69_gt.pdf,s-69,69,71956,EAEA0-FCF3-869A-7E01-0_69_gt.pdf
+477fd5ed8da57be9590da6ab1fbbede1,Audio of the glossed text for Yimas-Arafundi Pidgin being spoken,audio/mpeg,Survey/69_gt.mp3,s-69,69,3507804,EAEA0-FCF3-869A-7E01-0_69_gt.mp3
+1b72733288863365802944cee869fc12,Yimas-Arafundi Pidgin,text/html,Survey/69.html,s-69,69,270422,
+a9d8d8c019cba2c44fec98c09e2076be,Map or figure accompanying language survey Yimas-Arafundi Pidgin,image/png,Survey/69-1.png,s-69,69,87387,
+b620290d51eb654bb345516b1bee1d29,PDF of glossed text for Pidgin Hindustani,application/pdf,Survey/70_gt.pdf,s-70,70,57141,EAEA0-3485-19DA-53C7-0_70_gt.pdf
+56e379fd7bf8304798310c069d9f3922,Audio of the glossed text for Pidgin Hindustani being spoken,audio/mpeg,Survey/70_gt.mp3,s-70,70,2529731,EAEA0-3485-19DA-53C7-0_70_gt.mp3
+2a9073fa540b99c456ca6530f952aef9,Pidgin Hindustani,text/html,Survey/70.html,s-70,70,214108,
+335e7b6c11e038fbddf39a41721f477f,Map or figure accompanying language survey Pidgin Hindustani,image/png,Survey/70-1.png,s-70,70,22426,
+ccbcfe99c80ccaaf648e06b15d031685,PDF of glossed text for Pidgin Hawaiian,application/pdf,Survey/71_gt.pdf,s-71,71,57903,EAEA0-F355-EBC4-708C-0_71_gt.pdf
+1cc56530011cfb7bb1355a42e1b06823,Pidgin Hawaiian,text/html,Survey/71.html,s-71,71,280041,
+779673a8a97d34d4410d21926d5856a9,Map or figure accompanying language survey Pidgin Hawaiian,image/png,Survey/71-1.png,s-71,71,48047,
+415bf03dce6c19b829b71da6840249cd,Map or figure accompanying language survey Pidgin Hawaiian,image/png,Survey/71-2.png,s-71,71,136415,
+6cdd6dcb408b34f60695a37829e67a01,PDF of glossed text for Gurindji Kriol,application/pdf,Survey/72_gt.pdf,s-72,72,76643,EAEA0-5321-76EF-C623-0_72_gt.pdf
+d3ad82b8226870699cd072d6d518135c,Audio of the glossed text for Gurindji Kriol being spoken,audio/mpeg,Survey/72_gt.mp3,s-72,72,1012539,EAEA0-5321-76EF-C623-0_72_gt.mp3
+97cd09638b300fcc8ff8a5a138c96c98,Gurindji Kriol,text/html,Survey/72.html,s-72,72,315306,
+f8636fb401769e1d4464b39253af9351,Map or figure accompanying language survey Gurindji Kriol,image/png,Survey/72-1.png,s-72,72,15870,
+712865f7bfd9d18d7fdbcf1096a049c5,PDF of glossed text for Media Lengua,application/pdf,Survey/73_gt.pdf,s-73,73,58316,EAEA0-E90B-E0A5-D843-0_73_gt.pdf
+7b0aab2ceb3dddeb6b4e6840b0553fd6,Media Lengua,text/html,Survey/73.html,s-73,73,229046,
+1afd6845b7c9a3a00ec0771eea839410,Map or figure accompanying language survey Media Lengua,image/png,Survey/73-1.png,s-73,73,132071,
+2f50f4f058dce266bad87220c22fdb7c,PDF of glossed text for Chinuk Wawa,application/pdf,Survey/74_gt.pdf,s-74,74,66921,EAEA0-8008-C65A-ED25-0_74_gt.pdf
+873a4e148444b5c3e0aa9ec0f5cc59ff,Audio of the glossed text for Chinuk Wawa being spoken,audio/mpeg,Survey/74_gt.mp3,s-74,74,3359380,EAEA0-8008-C65A-ED25-0_74_gt.mp3
+a9435460d574f5146a5bf0c555508035,Chinuk Wawa,text/html,Survey/74.html,s-74,74,252809,
+2dd8843d94d0680bef46920084d16d56,Map or figure accompanying language survey Chinuk Wawa,image/png,Survey/74-1.png,s-74,74,88880,
+3543cb7abf629c23b5441ce1064f2f1e,PDF of glossed text for Michif,application/pdf,Survey/75_gt.pdf,s-75,75,66334,EAEA0-F017-65B4-5BF1-0_75_gt.pdf
+d2d0e9af27c9606115ff0f23eef0e40a,Audio of the glossed text for Michif being spoken,audio/mpeg,Survey/75_gt.mp3,s-75,75,2740093,EAEA0-F017-65B4-5BF1-0_75_gt.mp3
+4d76b8bef75b0b4c395e0797650a9163,Michif,text/html,Survey/75.html,s-75,75,219540,
+d2961251a219f773beceaf2411785376,Map or figure accompanying language survey Michif,image/png,Survey/75-1.png,s-75,75,263998,
+1eb1ffda043dd1f60ab8d56d9d0e6d95,PDF of glossed text for Eskimo Pidgin,application/pdf,Survey/76_gt.pdf,s-76,76,55660,EAEA0-16B0-33CB-9534-0_76_gt.pdf
+35b944aad9e4763894c8e4545998101d,Eskimo Pidgin,text/html,Survey/76.html,s-76,76,258492,
+7b7b5f8ada2808b8cc6067d890395e38,Map or figure accompanying language survey Eskimo Pidgin,image/png,Survey/76-1.png,s-76,76,144745,
+100d93e3979d1c185744133c5e5cbd03,Map of the values for feature 0 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_0.pdf,a-0,,687741,EAEA0-A141-45A0-BA9C-0_APiCS_f_0.pdf
+1cbe1c9000e6c4f88dea85d24621072c,Map of the values for feature 1 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_1.pdf,a-1,,1021149,EAEA0-32D0-3180-74A3-0_APiCS_f_1.pdf
+bbe177f60bfef9d9706304d1d330c8bd,"Order of subject, object, and verb",text/html,Atlas/1.html,a-1,,177595,
+b3dc0ab56d33ff4c6a47b8ec6e2a17fa,Map of the values for feature 2 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_2.pdf,a-2,,1031465,EAEA0-9C8F-6F59-79F3-0_APiCS_f_2.pdf
+240fdb7d0e4bb276627a042254e0b06a,Order of possessor and possessum,text/html,Atlas/2.html,a-2,,156269,
+da1138fb05027015c5176b6967617b8d,Map of the values for feature 3 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_3.pdf,a-3,,1041492,EAEA0-41EC-7A1A-3FCF-0_APiCS_f_3.pdf
+b112d5768a1151caf28291b39a1cb8ed,Order of adjective and noun,text/html,Atlas/3.html,a-3,,155582,
+52fa7df9a643b33cd387985bea631a19,Map of the values for feature 4 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_4.pdf,a-4,,1012041,EAEA0-5F98-BF94-18FB-0_APiCS_f_4.pdf
+3be05ed192ac9a4e971b4a6a351e25e6,Order of adposition and noun phrase,text/html,Atlas/4.html,a-4,,166524,
+296c72149854a9fc180b78bb6d7ba815,Map of the values for feature 5 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_5.pdf,a-5,,1021568,EAEA0-A37F-EC51-3817-0_APiCS_f_5.pdf
+cbba12d99a69233cee64eb32f6bddf41,Order of demonstrative and noun,text/html,Atlas/5.html,a-5,,175185,
+4da39e5f2f51e8d2388ca875baccb655,Map of the values for feature 6 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_6.pdf,a-6,,1008126,EAEA0-F8A1-9173-A91A-0_APiCS_f_6.pdf
+53f0001aab9c1cc40cc032e3aef42861,Order of cardinal numeral and noun,text/html,Atlas/6.html,a-6,,170722,
+e9ad820bf5be3a4758a0e1d2b568ca6a,Map of the values for feature 7 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_7.pdf,a-7,,991162,EAEA0-2D91-CFE5-A6AF-0_APiCS_f_7.pdf
+f6694f3c5747fa048d7522f83056902f,Order of relative clause and noun,text/html,Atlas/7.html,a-7,,171575,
+0580d51febd2ea585d40d40baa73854e,Map of the values for feature 8 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_8.pdf,a-8,,1005507,EAEA0-EA7C-519D-B0E4-0_APiCS_f_8.pdf
+4979a45609667ac117e4479143ef109c,Order of degree word and adjective,text/html,Atlas/8.html,a-8,,170490,
+d5b8afdc4f3332350b5f61ddd7a0989b,Map of the values for feature 9 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_9.pdf,a-9,,689529,EAEA0-14C7-07D4-10D6-0_APiCS_f_9.pdf
+09972b45291cc5b37d4bb2171c279268,Position of definite article in the noun phrase,text/html,Atlas/9.html,a-9,,165205,
+b3b366e85c7cfa6e505423a580d4db8d,Map of the values for feature 10 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_10.pdf,a-10,,563580,EAEA0-2900-918B-5020-0_APiCS_f_s_10.pdf
+2783b566efca3df723ce6d693b655166,Position of indefinite article in the noun phrase,text/html,Atlas/10.html,a-10,,158103,
+a75dd4a836cbfdf5697781e37760aba9,Map of the values for feature 11 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_11.pdf,a-11,,735048,EAEA0-C308-2F74-83E9-0_APiCS_f_11.pdf
+2113f03111db161b54c8a0c67e4844b8,"Order of frequency adverb, verb, and object",text/html,Atlas/11.html,a-11,,167785,
+69ebac115639708d56f6eaa87b2dc297,Map of the values for feature 12 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_12.pdf,a-12,,1025176,EAEA0-95BF-9C34-671B-0_APiCS_f_12.pdf
+0fc6daf58a2df7caf2ad72b4819aab5f,Position of interrogative phrases in content questions,text/html,Atlas/12.html,a-12,,166424,
+e379e2992864ea555445d415c1c7e4a6,Map of the values for feature 13 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_13.pdf,a-13,,967255,EAEA0-13A3-1500-0F55-0_APiCS_f_13.pdf
+45fef41d2fff69b7fb11ecd067f8a8e2,Gender distinctions in personal pronouns,text/html,Atlas/13.html,a-13,,168480,
+4086c35c40b322e8a2db1895ce7d2351,Map of the values for feature 14 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_14.pdf,a-14,,685606,EAEA0-6059-D054-F89D-0_APiCS_f_14.pdf
+31af6b016ff1d649919ac6869084d2f7,Dual in independent personal pronouns,text/html,Atlas/14.html,a-14,,153990,
+8fb0e5c31578f3761b851219eb92bc93,Map of the values for feature 15 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_15.pdf,a-15,,570113,EAEA0-80C6-85FE-52AF-0_APiCS_f_s_15.pdf
+ea800503ae0cc2fcdc520636ec17ad4e,Inclusive/exclusive distinction in independent personal pronouns,text/html,Atlas/15.html,a-15,,146932,
+083acbccc5b7d8428d01db42617c455b,Map of the values for feature 16 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_16.pdf,a-16,,685658,EAEA0-369B-89F9-EE63-0_APiCS_f_16.pdf
+185e4e41121e325103b53bbbe5a2cd76,Person syncretism in independent personal pronouns,text/html,Atlas/16.html,a-16,,152722,
+6935a6d8552b43e156a598521565851f,Map of the values for feature 17 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_17.pdf,a-17,,685750,EAEA0-40B0-3B75-9FCA-0_APiCS_f_17.pdf
+88a45fec8777abbd226f2cabe189b2f7,Special dependent person forms for subject and object,text/html,Atlas/17.html,a-17,,164578,
+fd6821c435b0c8a6d8829c9a882e91f2,Map of the values for feature 18 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_18.pdf,a-18,,957774,EAEA0-F5B1-37AB-B895-0_APiCS_f_18.pdf
+55f9ceb5123b5c1b30e2fa385ff7a59a,Politeness distinctions in second-person pronouns,text/html,Atlas/18.html,a-18,,158497,
+3f5c8bc35eb55266cd6aef97d2a468f4,Map of the values for feature 19 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_19.pdf,a-19,,685805,EAEA0-403F-2F9B-361A-0_APiCS_f_19.pdf
+0fb0482cd41925a1844a2622833ff1d0,Interrogative pronouns,text/html,Atlas/19.html,a-19,,150017,
+33077f3f771a249545a5afbafc7e3c04,Map of the values for feature 20 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_20.pdf,a-20,,695250,EAEA0-1F40-5763-17BB-0_APiCS_f_20.pdf
+758243b12e373fdf988486ea36591db3,Pronoun conjunction,text/html,Atlas/20.html,a-20,,165968,
+89b05d96031d04272b4b79d5e93933f7,Map of the values for feature 21 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_21.pdf,a-21,,973687,EAEA0-C6BB-94E8-C504-0_APiCS_f_21.pdf
+4f85dec131743ce8215065dcd275995e,Indefinite pronouns,text/html,Atlas/21.html,a-21,,159511,
+02fc22369a7c5abb6aa1fdc2eb2127aa,Map of the values for feature 22 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_22.pdf,a-22,,960142,EAEA0-C411-0953-2630-0_APiCS_f_22.pdf
+161fa7efd7091563c22ed8ba66a49615,Occurrence of nominal plural markers,text/html,Atlas/22.html,a-22,,151097,
+282bb4427b20c062569c6b18d5ef0cd3,Map of the values for feature 23 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_23.pdf,a-23,,1138149,EAEA0-7047-A277-ADB2-0_APiCS_f_23.pdf
+4471c9a6c3f43808f5bbcc53c1e1e179,Expression of nominal plural meaning,text/html,Atlas/23.html,a-23,,157998,
+bd138d61a230d78b0741cbddf5fb4132,Map of the values for feature 24 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_24.pdf,a-24,,685555,EAEA0-0B1B-5EA8-0F1F-0_APiCS_f_24.pdf
+3e87410974022ac251f0d49245fa3952,The associative plural,text/html,Atlas/24.html,a-24,,153938,
+2f04a2df2d5ee1d8a5d6c279966b64c8,Map of the values for feature 25 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_25.pdf,a-25,,685877,EAEA0-836D-CD48-5440-0_APiCS_f_25.pdf
+1ae3116d27400ab20c1a871f55e251d0,Nominal plural marker and third-person-plural pronoun,text/html,Atlas/25.html,a-25,,169742,
+40906b8cc22cefe0313552d483ca9eae,Map of the values for feature 26 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_26.pdf,a-26,,685928,EAEA0-C0DD-A765-1C89-0_APiCS_f_26.pdf
+75693c130501ef3c8cfdd6ecdd837579,Functions of reduplication,text/html,Atlas/26.html,a-26,,169268,
+02b186885f789b2d2b499902dcf92dd1,Map of the values for feature 27 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_27.pdf,a-27,,575320,EAEA0-D5BE-63EC-8F75-0_APiCS_f_s_27.pdf
+4cf726acef015c64e17b4da66e9f84c7,Antidual of paired body-part terms,text/html,Atlas/27.html,a-27,,152040,
+6425040c8d28677ebade63c229314ef5,Map of the values for feature 28 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_28.pdf,a-28,,974529,EAEA0-DADB-46FC-BE46-0_APiCS_f_28.pdf
+62cee57253dfa2ed00dc02992d6f88bd,Definite articles,text/html,Atlas/28.html,a-28,,160318,
+20b38ffc8b2d0b87246e40f338a0d412,Map of the values for feature 29 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_29.pdf,a-29,,972683,EAEA0-CA48-012F-51F7-0_APiCS_f_29.pdf
+e9121cfaecd31f4912a5880957645f9e,Indefinite articles,text/html,Atlas/29.html,a-29,,166353,
+35c5e80e958d443f8034074609bb607b,Map of the values for feature 30 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_30.pdf,a-30,,712345,EAEA0-2C60-BB08-C1E4-0_APiCS_f_30.pdf
+99b0d7a3473e475774b58695819f7f3c,Generic noun phrases in subject function,text/html,Atlas/30.html,a-30,,168898,
+8b1d185fa131b9a1d057b0dd2096dc19,Map of the values for feature 31 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_31.pdf,a-31,,693071,EAEA0-612F-8FFA-6DB7-0_APiCS_f_31.pdf
+7a992c8a296f68296b4b3bef3094a6b7,Co-occurrence of demonstrative and definite article,text/html,Atlas/31.html,a-31,,156772,
+958735f2eb05de34cb80d856f57e65b1,Map of the values for feature 32 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_32.pdf,a-32,,957754,EAEA0-A50C-2796-FDD9-0_APiCS_f_32.pdf
+8587ee5dfc74c714f9aa11c2b79cb5e4,Pronominal and adnominal demonstratives,text/html,Atlas/32.html,a-32,,171175,
+20e94d4032311652628c3d497dc22e3f,Map of the values for feature 33 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_33.pdf,a-33,,959619,EAEA0-64DC-CE52-A5C1-0_APiCS_f_33.pdf
+61d34557c03d3a9b942956feac0a52f2,Distance contrasts in demonstratives,text/html,Atlas/33.html,a-33,,166840,
+7d316d1533c8bd3d5251ac31fb52ad9f,Map of the values for feature 34 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_34.pdf,a-34,,954132,EAEA0-4909-7947-7EBF-0_APiCS_f_34.pdf
+83d6b9c474788c383977b63f964c9fc2,Adnominal distributive numerals,text/html,Atlas/34.html,a-34,,177845,
+ac6b6249125808b5e6ed73d58a8f035a,Map of the values for feature 35 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_35.pdf,a-35,,974229,EAEA0-B3E7-243E-90AC-0_APiCS_f_35.pdf
+333268a9926c471d7b86acf31a998cfe,Ordinal numerals,text/html,Atlas/35.html,a-35,,155644,
+4e4758585a4cb5a54df2cf6f50641603,Map of the values for feature 36 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_36.pdf,a-36,,553216,EAEA0-2743-79AA-7095-0_APiCS_f_s_36.pdf
+5844fd0283a53679f6931b9c5da35df7,Sortal numeral classifiers,text/html,Atlas/36.html,a-36,,147705,
+9355df16eaf2d7af41c26c638192843e,Map of the values for feature 37 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_37.pdf,a-37,,723273,EAEA0-2CCE-A67A-98C4-0_APiCS_f_37.pdf
+9e2a88198a604a5498899f8046ccfb90,Marking of pronominal possessors,text/html,Atlas/37.html,a-37,,161004,
+f58f8eae88d7bd8e5e32f698f7640414,Map of the values for feature 38 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_38.pdf,a-38,,992066,EAEA0-2F99-3D2C-2AE1-0_APiCS_f_38.pdf
+df864733bb0bae008f5a8cff121b8791,Marking of possessor noun phrases,text/html,Atlas/38.html,a-38,,163751,
+b09089e4b181414f03e6b3d2beff23e2,Map of the values for feature 39 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_39.pdf,a-39,,696210,EAEA0-176F-FB7B-D8D6-0_APiCS_f_39.pdf
+cc7602290087fb36f493f61931567261,Independent pronominal possessors,text/html,Atlas/39.html,a-39,,168750,
+4d6c246284bf695f89b2f69e41c77a5a,Map of the values for feature 40 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_40.pdf,a-40,,685707,EAEA0-7835-2964-0F3E-0_APiCS_f_40.pdf
+d59b482c738e8300d932f9300e9680c5,Gender agreement of adnominal adjectives,text/html,Atlas/40.html,a-40,,157253,
+dfafe84fc33e5b16c6739a0b599cf3b3,Map of the values for feature 41 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_41.pdf,a-41,,710669,EAEA0-40F3-254E-C5FF-0_APiCS_f_41.pdf
+01099ac7afc82f8b527dc3dacc183069,Comparative adjective marking,text/html,Atlas/41.html,a-41,,174184,
+926ee5bb77bfd9eba1225c7e23dd4382,Map of the values for feature 42 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_42.pdf,a-42,,1067327,EAEA0-1EC9-D11E-C515-0_APiCS_f_42.pdf
+65791b8ac5199e8b18dbc67774ade58c,Comparative standard marking,text/html,Atlas/42.html,a-42,,168970,
+88279b155c7e6fcf91493aa2c536ba8b,Map of the values for feature 43 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_43.pdf,a-43,,726974,EAEA0-4752-A371-5CE2-0_APiCS_f_43.pdf
+79785038020e69bb77bfafadf6030817,"Position of tense, aspect, and mood markers in relation to the verb",text/html,Atlas/43.html,a-43,,167929,
+1fe25932599eb7f4aeda67b1e7fa57f2,Map of the values for feature 44 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_44.pdf,a-44,,687029,EAEA0-57CA-69D4-694C-0_APiCS_f_44.pdf
+8629b71405af5c56268778d58b51916d,"Internal order of tense, aspect, and mood markers",text/html,Atlas/44.html,a-44,,174434,
+94afb3b82c32abd09f4a3baa1ff3c6fc,Map of the values for feature 45 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_45.pdf,a-45,,686106,EAEA0-43E2-A11E-B5EA-0_APiCS_f_45.pdf
+1dc447f2e988fb03de287e359b2752d5,Tightness of the link between the past marker and the verb,text/html,Atlas/45.html,a-45,,174319,
+2f188e99edb0c83ac6d67cf7fa4a8ab8,Map of the values for feature 46 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_46.pdf,a-46,,685933,EAEA0-FC86-13FF-D850-0_APiCS_f_46.pdf
+98437e972584a00303ab01acc90aa19f,Tightness of the link between the progressive marker and the verb,text/html,Atlas/46.html,a-46,,169815,
+4693e3cc37e576ae08f33e2a1c3be720,Map of the values for feature 47 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_47.pdf,a-47,,686997,EAEA0-3D4A-1FB3-4485-0_APiCS_f_47.pdf
+d3e14964b606038d5e259b46b0213d72,Uses of the progressive marker,text/html,Atlas/47.html,a-47,,170818,
+1f81031864cd925b98a79238bf0b77bb,Map of the values for feature 48 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_48.pdf,a-48,,700211,EAEA0-5266-C2D4-A945-0_APiCS_f_48.pdf
+6bcc1fe946c3d5e45f21a746008d5def,Uses of the habitual marker,text/html,Atlas/48.html,a-48,,177112,
+b04a821d17d906cff14833eafc71d550,Map of the values for feature 49 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_49.pdf,a-49,,685721,EAEA0-2977-F4E7-654F-0_APiCS_f_49.pdf
+175ca1c10e0afff0272c6d4304db8ad9,Tense-aspect systems,text/html,Atlas/49.html,a-49,,172336,
+2802f4b575bef4dd4f5955e4acb8e9d6,Map of the values for feature 50 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_50.pdf,a-50,,685551,EAEA0-19E5-447B-4845-0_APiCS_f_50.pdf
+4f792bf73da68287b8cb133c6c06b8cc,"Negation and tense, aspect, and mood marking",text/html,Atlas/50.html,a-50,,171977,
+20dcb2f6bd7eeed6ef91924883bc413a,Map of the values for feature 51 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_51.pdf,a-51,,685681,EAEA0-B82E-071B-1451-0_APiCS_f_51.pdf
+92c33a747290d0a274bdb5b1f4393323,Present reference of stative verbs and past perfective reference of dynamic verbs,text/html,Atlas/51.html,a-51,,163162,
+dd0e870e0f9887d54dd18f41683c139a,Map of the values for feature 52 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_52.pdf,a-52,,685807,EAEA0-5C04-48CD-124B-0_APiCS_f_52.pdf
+7a29f090eb1cde036f8cf81fa310849b,Aspect markers and inchoative meaning,text/html,Atlas/52.html,a-52,,161907,
+40becf880279bd646a2beda99bf0cf88,Map of the values for feature 53 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_53.pdf,a-53,,684952,EAEA0-BE97-14C5-4368-0_APiCS_f_53.pdf
+b50044e8fc34ef73e92d69b8cb82ffe2,Aspect change in verb chains,text/html,Atlas/53.html,a-53,,188104,
+92a7c10bb95dc26878e27af506d8df8f,Map of the values for feature 54 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_54.pdf,a-54,,989794,EAEA0-EC76-DC91-7F12-0_APiCS_f_54.pdf
+8cc2b053c31b7ddb65c5a8d9dc41abbd,Suppletion according to tense and aspect,text/html,Atlas/54.html,a-54,,174375,
+5eaebdceca50b82a0f31578a318f5a70,Map of the values for feature 55 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_55.pdf,a-55,,685677,EAEA0-4C39-A471-3180-0_APiCS_f_55.pdf
+8ac1b5b4704607f6cad78fec312e56d6,Ability verb and epistemic possibility,text/html,Atlas/55.html,a-55,,181713,
+806225816eea97779f9f496227d22946,Map of the values for feature 56 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_56.pdf,a-56,,980745,EAEA0-E3A4-55BF-B5B3-0_APiCS_f_56.pdf
+d25ba482f58cca2adb6c64d094a0a2d3,The prohibitive,text/html,Atlas/56.html,a-56,,166265,
+eb24ca24436a3300b40b828e04bb3cf3,Map of the values for feature 57 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_57.pdf,a-57,,685815,EAEA0-0FA2-584A-6C0C-0_APiCS_f_57.pdf
+646ccf43deb6c71390ee99c2652edc92,Marking of patient noun phrases,text/html,Atlas/57.html,a-57,,164580,
+4d4c4797d1a3e2e666f876d1d4d915f3,Map of the values for feature 58 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_58.pdf,a-58,,553297,EAEA0-234F-C3E8-8A59-0_APiCS_f_s_58.pdf
+f79c68154790e24a7c052eea9c5045e4,Alignment of case marking of full noun phrases,text/html,Atlas/58.html,a-58,,143175,
+9937432f147b91a4388456d9cd6e59fb,Map of the values for feature 59 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_59.pdf,a-59,,954170,EAEA0-8BC6-6C8E-8826-0_APiCS_f_59.pdf
+fdbbe96e32b813b047572186bc7ac51f,Alignment of case marking of personal pronouns,text/html,Atlas/59.html,a-59,,151105,
+671b9b0d3ac8f5420003773520d7ca70,Map of the values for feature 60 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_60.pdf,a-60,,992581,EAEA0-0ACB-37AC-7DC5-0_APiCS_f_60.pdf
+4436d4124fd983dd52071d652966d2b3,Ditransitive constructions with ‘give’,text/html,Atlas/60.html,a-60,,171590,
+2d5f543a13e2d4270a3ca41455edbe68,Map of the values for feature 61 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_61.pdf,a-61,,728634,EAEA0-3377-3780-2D41-0_APiCS_f_61.pdf
+a59554a47e29e8910119943744dda3f6,Order of recipient and theme in ditransitive constructions,text/html,Atlas/61.html,a-61,,165895,
+0906b909b2c1acb87622b5774256ad25,Map of the values for feature 62 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_62.pdf,a-62,,983644,EAEA0-DC1B-22A1-2D3A-0_APiCS_f_62.pdf
+0388bdf22d914fb0e726bfee81044c88,Expression of pronominal subjects,text/html,Atlas/62.html,a-62,,164076,
+4975c796e718202fcd449f1223c7760e,Map of the values for feature 63 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_63.pdf,a-63,,692488,EAEA0-221C-929E-A7F8-0_APiCS_f_63.pdf
+d851d42ca3ca2a793b33cd9e6815f917,Expletive subject in ‘seem’ constructions,text/html,Atlas/63.html,a-63,,169853,
+46672f3df3e3e2daa23d57711464a822,Map of the values for feature 64 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_64.pdf,a-64,,704197,EAEA0-C906-6D1E-6F35-0_APiCS_f_64.pdf
+3fce9b656c0f1d35e10b111bf85fc00e,Expletive subject of existential verb,text/html,Atlas/64.html,a-64,,176431,
+69c4298d5f88d25fb7c9372bebb69645,Map of the values for feature 65 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_65.pdf,a-65,,703640,EAEA0-D494-C457-5BC1-0_APiCS_f_65.pdf
+acee2beebb5ee16255129b78665d6190,Raining constructions,text/html,Atlas/65.html,a-65,,163106,
+fe03079435fd3f74a8696649c5f68ff4,Map of the values for feature 66 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_66.pdf,a-66,,710210,EAEA0-9FA4-9DB3-3FA0-0_APiCS_f_66.pdf
+d806eee2241f2cf31329eb413d5acd9d,Experiencer constructions with ‘headache’,text/html,Atlas/66.html,a-66,,159569,
+81db2b6ce63224934a506d3a20513501,Map of the values for feature 67 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_67.pdf,a-67,,702197,EAEA0-1DAF-313A-2712-0_APiCS_f_67.pdf
+6963269602afbd54ffdae8907bd273cd,Experiencer constructions with ‘like’,text/html,Atlas/67.html,a-67,,157753,
+a26ef2769c3ec7d23d7e9f2131395c71,Map of the values for feature 68 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_68.pdf,a-68,,713594,EAEA0-DDC3-0CFB-8E6E-0_APiCS_f_68.pdf
+e86fcacb0ced6149943428d5a0ddf35b,Experiencer constructions with ‘fear’,text/html,Atlas/68.html,a-68,,159399,
+e7af287bda5ec5bdba4aa797fe1dfc0e,Map of the values for feature 69 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_69.pdf,a-69,,717594,EAEA0-87EA-16C5-DDCA-0_APiCS_f_69.pdf
+a8258e62cf9a17fb80f4b15f2c654560,Instrumental expressions,text/html,Atlas/69.html,a-69,,169951,
+c2f798f613bef9261d35b138497de75c,Map of the values for feature 70 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_70.pdf,a-70,,964755,EAEA0-5701-E9F9-9D8E-0_APiCS_f_70.pdf
+cac33f7fe6599696d262d6d2dcd06234,Comitatives and instrumentals,text/html,Atlas/70.html,a-70,,173863,
+2c68b6b49f90a6f1eb18a82048e752e2,Map of the values for feature 71 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_71.pdf,a-71,,959567,EAEA0-5764-266E-D9F3-0_APiCS_f_71.pdf
+b90b68955c8091656c2dab15f5b421fa,Noun phrase conjunction and comitative,text/html,Atlas/71.html,a-71,,181884,
+18713cf69a0e49c727714d83d8068be6,Map of the values for feature 72 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_72.pdf,a-72,,1074671,EAEA0-8522-2919-3E7C-0_APiCS_f_72.pdf
+2ecba9c6870091233b130da3462affcc,Nominal and verbal conjunction,text/html,Atlas/72.html,a-72,,174786,
+52e8c3198250724678d53698d9e07ec7,Map of the values for feature 73 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_73.pdf,a-73,,1089015,EAEA0-FA0F-9340-8939-0_APiCS_f_73.pdf
+9200ce87b4fddf28ac58bddea49b8f9a,Predicative noun phrases,text/html,Atlas/73.html,a-73,,165004,
+eb07237a9b7196c69d82a3c791506243,Map of the values for feature 74 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_74.pdf,a-74,,685726,EAEA0-089A-651C-A614-0_APiCS_f_74.pdf
+85260ba2831b5b3cd974502a637fb58c,Predicative adjectives,text/html,Atlas/74.html,a-74,,163085,
+951b42e61b347260f51320632af727c7,Map of the values for feature 75 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_75.pdf,a-75,,685746,EAEA0-7F8E-312D-918A-0_APiCS_f_75.pdf
+c17e21e46f4371f8a6f7d9c10f278354,Predicative locative phrases,text/html,Atlas/75.html,a-75,,162820,
+6367e174f9ce9b0e4375746059efde90,Map of the values for feature 76 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_76.pdf,a-76,,1049707,EAEA0-93FB-DCA7-D35E-0_APiCS_f_76.pdf
+4eb5198df7f776c13dad3204444c2748,Predicative noun phrases and predicative locative phrases,text/html,Atlas/76.html,a-76,,157314,
+2de34317e7e6409b937e6316e32b8971,Map of the values for feature 77 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_77.pdf,a-77,,984209,EAEA0-2D59-9E85-FD78-0_APiCS_f_77.pdf
+f3bd39879e2861312ace4369cff83c53,Predicative possession,text/html,Atlas/77.html,a-77,,164312,
+22f81235eac5373276ed53a4aea36357,Map of the values for feature 78 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_78.pdf,a-78,,685813,EAEA0-6667-CE2A-77EC-0_APiCS_f_78.pdf
+bd04cf38abedf82a56809cb7699a5096,Existential verb and transitive possession verb,text/html,Atlas/78.html,a-78,,170113,
+e4d550d2ecb3042fe6202a6603fa7bed,Map of the values for feature 79 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_79.pdf,a-79,,728519,EAEA0-C183-0611-9DB9-0_APiCS_f_79.pdf
+4627d2768c9b181aff74d4ded4199370,Going to named places,text/html,Atlas/79.html,a-79,,161749,
+203103a2a7a04ae0fe3ab01c97a685fb,Map of the values for feature 80 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_80.pdf,a-80,,703780,EAEA0-F8BD-10CA-CB6D-0_APiCS_f_80.pdf
+5e4dcb678ede67967cf35e64d90fd310,Coming from named places,text/html,Atlas/80.html,a-80,,160060,
+9fe4c36bb9dedff5ca975554c8560523,Map of the values for feature 81 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_81.pdf,a-81,,685771,EAEA0-5A53-B888-1BF6-0_APiCS_f_81.pdf
+f46c194bd8cc6df12a17194a65bce89c,Motion-to and motion-from,text/html,Atlas/81.html,a-81,,162621,
+86ae895b14b0ef5d3ca26473ea5adf52,Map of the values for feature 82 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_82.pdf,a-82,,705348,EAEA0-68F4-1139-912B-0_APiCS_f_82.pdf
+1c7fa5acf8e358b4563ac8cc3b0707ba,Transitive motion verbs: ‘push’,text/html,Atlas/82.html,a-82,,169395,
+4cf5f62d642ea6853a84bc5d91590f2e,Map of the values for feature 83 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_83.pdf,a-83,,698781,EAEA0-606C-106F-C4C6-0_APiCS_f_83.pdf
+061b8ca72bcd26484b9ab112c1eb2a2c,Transitive motion verbs: ‘pull’,text/html,Atlas/83.html,a-83,,167379,
+e51436ff915a472d63ce8367c0ad1aaf,Map of the values for feature 84 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_84.pdf,a-84,,685543,EAEA0-D7C6-71AE-F80D-0_APiCS_f_84.pdf
+269ea30f9722451f0e11bf6f8ab57af6,Directional serial verb constructions with 'come' and 'go',text/html,Atlas/84.html,a-84,,169680,
+bddc4cb7d2eac52cbdda345b9173b99e,Map of the values for feature 85 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_85.pdf,a-85,,722853,EAEA0-B7FB-DB0B-2E73-0_APiCS_f_85.pdf
+a6f9101a86ea23eb10119b33c80751ac,‘Take’ serial verb constructions,text/html,Atlas/85.html,a-85,,170979,
+99c37f71d2587624995cccc09db7937b,Map of the values for feature 86 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_86.pdf,a-86,,685806,EAEA0-4EE3-E4E8-0828-0_APiCS_f_86.pdf
+970d50b408ceb9a112a9db17916d6ed1,'Give' serial verb constructions,text/html,Atlas/86.html,a-86,,177428,
+0f2e453ece8fe24947bebbba377044ad,Map of the values for feature 87 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_87.pdf,a-87,,724266,EAEA0-7DB7-8206-B0D8-0_APiCS_f_87.pdf
+fd3b8bc89009bcfe954f28e2b10af0f3,Reflexive constructions,text/html,Atlas/87.html,a-87,,165310,
+de7ff990d2552f4d4e852aca34ac84b3,Map of the values for feature 88 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_88.pdf,a-88,,1020429,EAEA0-6FFA-46B7-2D8B-0_APiCS_f_88.pdf
+39d34eda80b179e6d68cbffbf5ff7f6b,Intensifiers and reflexive pronouns,text/html,Atlas/88.html,a-88,,170542,
+731b82ede19b5f34bd774e3440886c11,Map of the values for feature 89 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_89.pdf,a-89,,1062316,EAEA0-1FBE-355C-21BC-0_APiCS_f_89.pdf
+983cf3bcb0eab45de0328a7802af0242,Reciprocal constructions,text/html,Atlas/89.html,a-89,,165511,
+7942d5bafdfc5356e86f8d8e75b86cbb,Map of the values for feature 90 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_90.pdf,a-90,,702149,EAEA0-0C67-D001-2251-0_APiCS_f_90.pdf
+2611a8eb9c339fd196b1068a39c9270e,Passive constructions,text/html,Atlas/90.html,a-90,,163448,
+7ed7e19f52451c450553995624aa5feb,Map of the values for feature 91 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_91.pdf,a-91,,553347,EAEA0-F901-17ED-E47C-0_APiCS_f_s_91.pdf
+f086f458c1c80dca7695c55e106ce7a1,Applicative constructions,text/html,Atlas/91.html,a-91,,155194,
+a954c5ac1a122d7d6db4cc824e742c1b,Map of the values for feature 92 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_92.pdf,a-92,,1087023,EAEA0-5896-157C-E79D-0_APiCS_f_92.pdf
+d74dd0f7b4b2b877aa5e6c829c0528b7,Subject relative clauses,text/html,Atlas/92.html,a-92,,169630,
+7f52d112fa61b0aeb61d34851e870ed0,Map of the values for feature 93 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_93.pdf,a-93,,735573,EAEA0-1B1F-B55B-39F5-0_APiCS_f_93.pdf
+c8be7956622b1aa125c91f64387e0164,Object relative clauses,text/html,Atlas/93.html,a-93,,176483,
+35c4af1ca5efd968acdc7b5d0a08cf65,Map of the values for feature 94 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_94.pdf,a-94,,712509,EAEA0-599F-BE5C-9A39-0_APiCS_f_94.pdf
+e527726302375cc12f8a338f28a51b1c,Instrument relative clauses,text/html,Atlas/94.html,a-94,,174006,
+9036a1019abcfa4a44501f38b3e5f29d,Map of the values for feature 95 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_95.pdf,a-95,,740386,EAEA0-1F56-4901-DC8D-0_APiCS_f_95.pdf
+5bf0fd4db300d2591ceba4ff685c02e3,Complementizer with verbs of speaking,text/html,Atlas/95.html,a-95,,172816,
+bd99683ee41b9b6a8e00724b2b1b4e8c,Map of the values for feature 96 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_96.pdf,a-96,,728516,EAEA0-9FFC-882F-6E82-0_APiCS_f_96.pdf
+92aee1ee451b992e59bdef7b6d65e4e0,Complementizer with verbs of knowing,text/html,Atlas/96.html,a-96,,175367,
+40e41cdb99468982292942dacf9a10ab,Map of the values for feature 97 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_97.pdf,a-97,,976796,EAEA0-9C22-110E-DC86-0_APiCS_f_97.pdf
+2ac88d4544b1cc891cada42e4eeeb922,‘Want’ complement subjects,text/html,Atlas/97.html,a-97,,173490,
+60b55fdfe2b0124f92f7b12169a45315,Map of the values for feature 98 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_98.pdf,a-98,,685728,EAEA0-5A0E-A613-178B-0_APiCS_f_98.pdf
+15e4df01a0087333d450505aeccdf1cc,Complements of 'think' and 'want',text/html,Atlas/98.html,a-98,,182495,
+8ab0666b47c686e4ad331344d560cff6,Map of the values for feature 99 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_99.pdf,a-99,,570006,EAEA0-334F-D77F-0257-0_APiCS_f_s_99.pdf
+06e7c696d2aa9567fe53a7c14c371f9a,Verb doubling in temporal clauses,text/html,Atlas/99.html,a-99,,160938,
+07a3c78e1626b0f4104eeafd4062a6c0,Map of the values for feature 100 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_100.pdf,a-100,,1015834,EAEA0-6C98-9723-73A9-0_APiCS_f_100.pdf
+175ba8b4c0eb9f5ae2b81c42fad2d89e,Negative morpheme types,text/html,Atlas/100.html,a-100,,171379,
+d2588b959d2e31dd38ca1994e5af2576,Map of the values for feature 101 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_101.pdf,a-101,,692491,EAEA0-A264-A054-FB7C-0_APiCS_f_101.pdf
+9250a0e4f28b0080f5e91428c418e64e,Position of standard negation,text/html,Atlas/101.html,a-101,,170860,
+f3656c67a695350d60189b2c78eb2b43,Map of the values for feature 102 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_102.pdf,a-102,,966592,EAEA0-7408-B0E4-0FA8-0_APiCS_f_102.pdf
+6e22be75284f6cb71f76896facd8b2c8,Negation and indefinite pronouns,text/html,Atlas/102.html,a-102,,174914,
+dac7c040cc13dbc6faff1f776cbe0a39,Map of the values for feature 103 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_103.pdf,a-103,,1386716,EAEA0-0A09-DAE4-0D83-0_APiCS_f_103.pdf
+d27cd20d0d36f0457756f411978608d8,Polar questions,text/html,Atlas/103.html,a-103,,166416,
+1146d83f3880ad475a28fe35ddbff0ac,Map of the values for feature 104 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_104.pdf,a-104,,713202,EAEA0-4744-B146-76F0-0_APiCS_f_104.pdf
+322773d60aeead8b2834d587951d1874,Focusing of the noun phrase,text/html,Atlas/104.html,a-104,,192554,
+d560e12726a706c38d5f011937650c59,Map of the values for feature 105 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_105.pdf,a-105,,685426,EAEA0-6249-7880-F3C7-0_APiCS_f_105.pdf
+de966b2159bdf4825675b30e5a948139,Verb doubling and focus,text/html,Atlas/105.html,a-105,,177086,
+f29e2a08428e8830be0452c04b10d7c8,Map of the values for feature 106 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_106.pdf,a-106,,714517,EAEA0-0847-DA76-B7BF-0_APiCS_f_106.pdf
+b3e430e7019c9a6ac23e5f0da310cd9b,Focus particle ‘also’,text/html,Atlas/106.html,a-106,,165148,
+e64f884d1b6b21578ad30b3425249aaf,Map of the values for feature 107 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_107.pdf,a-107,,685505,EAEA0-4AC3-E3B7-3FDA-0_APiCS_f_107.pdf
+e767810d58397a24e5daf6aa1d50ce0c,Vocative markers,text/html,Atlas/107.html,a-107,,181050,
+fe0d4f8e7660348e221f572b98561885,Map of the values for feature 108 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_108.pdf,a-108,,985590,EAEA0-BA04-EFBC-9D57-0_APiCS_f_108.pdf
+28781a274a70a4afed379440c6b1fc95,Para-linguistic usages of clicks,text/html,Atlas/108.html,a-108,,155080,
+7f368e40f23dfa0d81274c4dac94fb7d,Map of the values for feature 109 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_109.pdf,a-109,,685623,EAEA0-C6C6-987B-8B1F-0_APiCS_f_109.pdf
+ae531fc75087a0e697f74bd18a5c6587,Pequenino,text/html,Atlas/109.html,a-109,,153563,
+82ef39609fe0dc9a3c62a24c84d0f0af,Map of the values for feature 110 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_110.pdf,a-110,,685622,EAEA0-FDA5-24FB-1732-0_APiCS_f_110.pdf
+b8239ad83e05f91086cdff28928b1ed3,Savvy,text/html,Atlas/110.html,a-110,,160247,
+57c23eed27ab1da2bc1fd93af418ff6c,Map of the values for feature 111 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_111.pdf,a-111,,697747,EAEA0-B693-A37F-8922-0_APiCS_f_111.pdf
+1b6ca6889a42e417b865d0d53ae5cf1d,'Tears',text/html,Atlas/111.html,a-111,,160393,
+188cdfae07b5a02bc43712a6bceeaa10,Map of the values for feature 112 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_112.pdf,a-112,,1247773,EAEA0-DE7F-E0B6-39DB-0_APiCS_f_112.pdf
+2cf4aa6f895c0404c95a3c601d43fed5,'Hand' and 'arm',text/html,Atlas/112.html,a-112,,169769,
+d05dd955055bcfa95f351bcf6ff31ca2,Map of the values for feature 113 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_113.pdf,a-113,,685239,EAEA0-1CCE-58CF-8C32-0_APiCS_f_113.pdf
+3562129d978e47bad162512781f6aa68,'Finger' and 'toe',text/html,Atlas/113.html,a-113,,154889,
+c466d445f737398580749da253d5afcc,Map of the values for feature 114 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_114.pdf,a-114,,685378,EAEA0-EFB0-431D-046D-0_APiCS_f_114.pdf
+acb1ee89bf840fee7d7a73e090859fb9,'Body hair' and 'feather',text/html,Atlas/114.html,a-114,,151669,
+855edaaca34d467438b69deda87df67b,Map of the values for feature 115 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_115.pdf,a-115,,685638,EAEA0-EBE8-32FA-4F43-0_APiCS_f_115.pdf
+4b39575071e86187c4cb385c213aaa28,'Hear' and 'smell',text/html,Atlas/115.html,a-115,,166774,
+5fad2749421805ca88bc7cc5884359ed,Map of the values for feature 116 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_116.pdf,a-116,,685532,EAEA0-49B0-AE38-E311-0_APiCS_f_116.pdf
+b3611da2350019e0873cb72a503238a2,'Green' and 'blue',text/html,Atlas/116.html,a-116,,155060,
+5134d26a3915eb21b7fa55f8017a90ca,Map of the values for feature 117 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_117.pdf,a-117,,692432,EAEA0-1E1D-563C-4739-0_APiCS_f_117.pdf
+113f7ccb6665bc1be55e0af4cf1a82d3,Female and male animals,text/html,Atlas/117.html,a-117,,167613,
+9fd33bed1195aca6d41ba11e5d796bf4,Map of the values for feature 118 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_118.pdf,a-118,,685766,EAEA0-B00B-277A-F880-0_APiCS_f_118.pdf
+c9dd9f75c8b3ad026b0b10e5c73cde34,Syllable onsets,text/html,Atlas/118.html,a-118,,144894,
+8e6248abedd2f7ef9ef796a2ced12204,Map of the values for feature 119 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_119.pdf,a-119,,685738,EAEA0-E737-9FDD-E010-0_APiCS_f_119.pdf
+a89310e8506fd5c9ebe54c2e0fe8abf1,Syllable codas,text/html,Atlas/119.html,a-119,,142542,
+adaee18aad8a6d97f33d7c4bb439fd59,Map of the values for feature 120 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_120.pdf,a-120,,1118782,EAEA0-DB5D-727F-E16E-0_APiCS_f_120.pdf
+76290bb5e73449307bf9e1f6f188e2ab,Tone,text/html,Atlas/120.html,a-120,,157755,
+82fb496c32100107134ed0c8d41b8ee2,Map of the values for feature 121 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_121.pdf,a-121,,579650,EAEA0-08E7-17C1-BE8A-0_APiCS_f_s_121.pdf
+c846734f3a22582a4184e6d5a9948572,Vowel height distinctions,text/html,Atlas/121.html,a-121,,137045,
+213629e9898c6ef920761b2aa79ab3e6,Map of the values for feature 122 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_122.pdf,a-122,,579793,EAEA0-9FEC-8676-D306-0_APiCS_f_s_122.pdf
+6281cc7255b543fa9c1f5265e6682009,Nasal vowels,text/html,Atlas/122.html,a-122,,136966,
+bb5cfe2131e2e25503c13034786c8d8e,Map of the values for feature 123 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_123.pdf,a-123,,570336,EAEA0-1B9F-4E92-AB8A-0_APiCS_f_s_123.pdf
+ad2c39ba88c28da1e02e288f71d97c5e,The schwa vowel,text/html,Atlas/123.html,a-123,,136341,
+fef33f164952cba747f508c50339402e,Map of the values for feature 124 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_124.pdf,a-124,,579808,EAEA0-337A-7873-9712-0_APiCS_f_s_124.pdf
+324fd7ef45b251ee7e278d5e8d47a45b,Labiodental fricatives,text/html,Atlas/124.html,a-124,,136519,
+c3fc299b9441eee521a1b7ed3531d051,Map of the values for feature 125 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_125.pdf,a-125,,579751,EAEA0-BBA0-C889-5B91-0_APiCS_f_s_125.pdf
+058e01640537fdf51741d99bece14e36,Palato-alveolar sibilants,text/html,Atlas/125.html,a-125,,136329,
+e1cbf6e7c6569e3ee8ad490f03b19a91,Map of the values for feature 126 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_126.pdf,a-126,,579702,EAEA0-5BF0-F6F4-3392-0_APiCS_f_s_126.pdf
+24b02e6b0f2e8c48ffa57b9e42489a9c,The voiced sibilant [z],text/html,Atlas/126.html,a-126,,136412,
+5501f849d4a4ef7195d4abce2bf4622d,Map of the values for feature 127 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_127.pdf,a-127,,563187,EAEA0-E48B-3F0F-D81C-0_APiCS_f_s_127.pdf
+d3fd25ed8c558a83c410dad04b51cbd0,Interdental fricatives,text/html,Atlas/127.html,a-127,,136740,
+22636d861622a5f8ee096441d12a5b57,Map of the values for feature 128 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_128.pdf,a-128,,579705,EAEA0-858C-56B8-D5C0-0_APiCS_f_s_128.pdf
+1b7965d9c3765b0b0052364a85188160,The palatal nasal,text/html,Atlas/128.html,a-128,,136069,
+3347ea887c140c90c1ca71f1f44ecc30,Map of the values for feature 129 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_129.pdf,a-129,,579507,EAEA0-2FE5-1075-DE62-0_APiCS_f_s_129.pdf
+d8ff89c6b96c382e9cced5006fe603ad,Prenasalized consonants,text/html,Atlas/129.html,a-129,,137789,
+91c89fcfa1d70821c4ebfd93faa95b3c,Map of the values for feature 130 in Gall-Peters projection,application/pdf,Atlas/APiCS_f_s_130.pdf,a-130,,579712,EAEA0-F1C2-3791-0928-0_APiCS_f_s_130.pdf
+ccb17fb5d55632dc34f64dc1b107a215,The segment [h],text/html,Atlas/130.html,a-130,,136365,
+2c5703b34e35a1d5509c0b6805211e97,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_64.mp3,,72,30695,EAEA0-7F8F-F0C0-E4CC-0_72_64.mp3
+1c0300805dda5144492a634a4fa849ae,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_12.mp3,,72,92184,EAEA0-C39E-63BB-8877-0_72_12.mp3
+9cc0a0dac55c18ac3142664ae0800aac,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_13.mp3,,72,74456,EAEA0-5BF9-C320-B649-0_72_13.mp3
+d93db5219b7cd69878e93f4b797ff7be,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_14.mp3,,72,59949,EAEA0-421A-D81B-1AB9-0_72_14.mp3
+2e63b5db0af561878ee2752ced87ffaf,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_15.mp3,,72,50245,EAEA0-85FC-1568-D51E-0_72_15.mp3
+475b4826c93f79d64c51d371b32a350e,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_16.mp3,,72,22093,EAEA0-9C03-1E6A-6234-0_72_16.mp3
+525c6b09bd54d4a1fa046569e7301739,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_20.mp3,,72,16851,EAEA0-D4EA-7356-0377-0_72_20.mp3
+851458f6367462c2f2412e18f915b647,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_22.mp3,,72,50879,EAEA0-1B59-0103-25F3-0_72_22.mp3
+4160b6f72f2c67ba0a3f9575d6adeccb,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_23.mp3,,72,50828,EAEA0-84D2-7730-F42A-0_72_23.mp3
+dd17d2b01c5200f9387d3daab7589688,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_25.mp3,,72,18910,EAEA0-E453-39B3-FDC8-0_72_25.mp3
+b8da827acff8a57448f78da232ea1daf,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_26.mp3,,72,18336,EAEA0-B8D1-30F8-7D83-0_72_26.mp3
+be90d9ae4b09c6bbaf0d5264a07e9cf2,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_27.mp3,,72,16095,EAEA0-B8FF-644C-7050-0_72_27.mp3
+a04cf55fb9fa2734bdff44f42188262f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_28.mp3,,72,18807,EAEA0-FB07-2BA6-E854-0_72_28.mp3
+2df1cf0ca384ca0792f0d48fff5e3429,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_29.mp3,,72,33252,EAEA0-BC4A-1547-7599-0_72_29.mp3
+369b99b36223fa68319b5f8d5d1f93e2,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_147.mp3,,72,49155,EAEA0-964D-5819-4FE9-0_72_147.mp3
+a97c06f4ec05622bf87f62f5059c6296,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_33.mp3,,72,12627,EAEA0-D4A7-28A1-6B52-0_72_33.mp3
+ad301994458ae1b387817e916f9c40d5,Audio of the spoken object language text of examples,audio/mpeg,Examples/41_38.mp3,,41,432000,EAEA0-0CE7-D655-B331-0_41_38.mp3
+eb8ba92cbf062d5b2716bc828cc33ae3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_34.mp3,,72,18077,EAEA0-2044-C8B2-7DBE-0_72_34.mp3
+ab3b2661e85c932a85ab0c8a42befc91,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_35.mp3,,72,26367,EAEA0-8103-A968-1BE3-0_72_35.mp3
+5b1d7d1256ff51eb78d9e85d70b00f18,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_36.mp3,,72,22456,EAEA0-D472-E61A-36B3-0_72_36.mp3
+e792acc14fe08e7a3fff09fbe54a0aaa,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_37.mp3,,72,25012,EAEA0-CADB-7E6C-EEA4-0_72_37.mp3
+081ed14244ab21a754f6c5ffedd0368d,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_38.mp3,,72,19281,EAEA0-9F53-34DD-455D-0_72_38.mp3
+eb89bb116201920a5977918f37f6b225,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_41.mp3,,72,26886,EAEA0-D5B5-C23F-4D43-0_72_41.mp3
+0d70ec3180295543153ac16d2bd9abec,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_40.mp3,,72,26630,EAEA0-7FF1-D1A4-9B1B-0_72_40.mp3
+9b433ca4d84df5243b3c46b75dd9077c,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_46.mp3,,72,42173,EAEA0-10A8-8D9C-BBB9-0_72_46.mp3
+80210fad978d4196cea2318e9e52de48,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_47.mp3,,72,40766,EAEA0-7B07-3251-9A05-0_72_47.mp3
+4d15db01b2d92ea9fd2a3dbebef64896,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_49.mp3,,72,44515,EAEA0-D851-0EDF-A95A-0_72_49.mp3
+0a947502945a406d54c7451a1d8a27f3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_50.mp3,,72,25219,EAEA0-6BEC-91F4-D73F-0_72_50.mp3
+fd720bea6e66a6c2bf2d31f630c0a173,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_51.mp3,,72,57028,EAEA0-5EE1-C0F6-EAF1-0_72_51.mp3
+40c18821a05178b2d1048a23c724047b,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_52.mp3,,72,57242,EAEA0-F0D3-5F5E-BF03-0_72_52.mp3
+988c773e0934a4cc5383c8d646b72e58,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_54.mp3,,72,70648,EAEA0-DB71-C3D3-6C42-0_72_54.mp3
+c6b41b35819e9c93f49c88cb0eac0bcb,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_55.mp3,,72,46293,EAEA0-BC2B-3054-B489-0_72_55.mp3
+2cd5c13b61fd2957e8787dc9b30c3a0a,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_56.mp3,,72,46318,EAEA0-32C4-352B-4F66-0_72_56.mp3
+89780314b7c3985e9f699283de9667f0,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_57.mp3,,72,54424,EAEA0-42CC-D08E-3915-0_72_57.mp3
+99e89e7131c6b3cc0dbb6ba5b4c33604,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_59.mp3,,72,40035,EAEA0-2521-2D32-F148-0_72_59.mp3
+857821853f3c5238b2eb1545cbb27d1f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_60.mp3,,72,20893,EAEA0-B069-A8E4-3D26-0_72_60.mp3
+35a225cb5425afb3e5c3639bd6a63163,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_61.mp3,,72,38520,EAEA0-D22A-2037-43B9-0_72_61.mp3
+80a1e7dbc811ea771e21c3501b6b22f9,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_63.mp3,,72,48040,EAEA0-8A06-FA1D-7900-0_72_63.mp3
+f2468f28aad6635303c35e78ab96d6fd,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_65.mp3,,72,30489,EAEA0-D49C-6B98-54E5-0_72_65.mp3
+0b38ba6cb60ff0cb1f22593e5b4e13e5,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_66.mp3,,72,28740,EAEA0-9175-318E-0D12-0_72_66.mp3
+4dd7a3a337b716dda2954ca9476cc4ea,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_67.mp3,,72,42901,EAEA0-6B7E-67CE-EBC0-0_72_67.mp3
+0f6a7ac5d354ee28d610813dd0de0866,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_68.mp3,,72,39508,EAEA0-2CD8-F16A-8A11-0_72_68.mp3
+8590141a6c943ad0528737c49cb8e8a0,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_69.mp3,,72,93281,EAEA0-21F5-B649-704C-0_72_69.mp3
+cd2f8e3fb3735d7c9b63a8780639bbb1,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_71.mp3,,72,37372,EAEA0-F703-C5B6-27B9-0_72_71.mp3
+d74b8437476a636cd4eb4e196a886201,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_73.mp3,,72,41649,EAEA0-2357-7D42-BDF0-0_72_73.mp3
+b9142df1e3cb912d383029c2a36338c9,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_100.mp3,,35,145635,EAEA0-2620-AC67-64E7-0_35_100.mp3
+b63438be2e35434c5769c3acac9234b0,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_72.mp3,,72,27617,EAEA0-910A-B37C-4A4C-0_72_72.mp3
+d048c2983a4cb421c9046412f0eb7381,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_75.mp3,,72,30332,EAEA0-C298-E555-C6DB-0_72_75.mp3
+3fd2aee1f02ddc56ef207b710b516a58,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_76.mp3,,72,65479,EAEA0-F587-8D57-63AA-0_72_76.mp3
+67d42e8969313ffa25f0074f28909ecf,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_78.mp3,,72,37009,EAEA0-46B5-FDB0-FDA2-0_72_78.mp3
+b10ff573c2191ef52c6f8dcaa61ad88f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_79.mp3,,72,63706,EAEA0-4A1C-4F75-12C8-0_72_79.mp3
+f8fc173846a466b5f5a3080ff1679d91,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_149.mp3,,72,34869,EAEA0-069F-29D5-FBB8-0_72_149.mp3
+3531f2780afee8d6a553e391514278fe,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_171.mp3,,72,47126,EAEA0-1229-A05B-FDE9-0_72_171.mp3
+f26e74c7f919160d4ef22029d0518b38,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_84.mp3,,72,26817,EAEA0-1E70-0DAF-817A-0_72_84.mp3
+488b45af2b8ce6da302686d5f6b84fb4,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_85.mp3,,72,38568,EAEA0-DAB3-B74D-088D-0_72_85.mp3
+3b26285dcd76f9e9a98d3868cf33afa3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_86.mp3,,72,5472256,EAEA0-6BF9-29D4-B19D-0_72_86.mp3
+26eabbba7ea23c222e2705cce2753ea1,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_88.mp3,,72,19718,EAEA0-CE2E-1399-D1CC-0_72_88.mp3
+24ed190995ce17c468a14c6744036ca3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_80.mp3,,72,27617,EAEA0-0BC3-BAD2-3AD2-0_72_80.mp3
+a4a59eea0c3210f13363fbb03cdcd0ba,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_89.mp3,,72,50778,EAEA0-3A3A-5DED-897B-0_72_89.mp3
+3607fea4ba0aa7957bd4ca243368e362,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_94.mp3,,72,32678,EAEA0-9C16-E26E-95BB-0_72_94.mp3
+2ced8c932b8bd320e2d7cec91c3a2903,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_95.mp3,,72,27255,EAEA0-01BC-C33E-0726-0_72_95.mp3
+55bec730159f59a35c2e56d109eee733,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_96.mp3,,72,21257,EAEA0-9800-7D02-6B17-0_72_96.mp3
+62c66d296450f549b4feead12fd2a840,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_98.mp3,,72,23291,EAEA0-3706-63C2-8EA5-0_72_98.mp3
+03a7376dd2d7113759de5e4390fb7076,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_99.mp3,,72,40863,EAEA0-AA07-3120-F192-0_72_99.mp3
+fee431716523074a9cba83d6f7e7ebc1,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_102.mp3,,72,26000,EAEA0-F04A-1525-E202-0_72_102.mp3
+9300c524b216fad53a9fc320b776304f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_103.mp3,,72,60059,EAEA0-B455-7D85-D7DF-0_72_103.mp3
+1e6eee5c25410c4670545db73c6e8bdb,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_104.mp3,,72,43706,EAEA0-875F-17BE-B4A5-0_72_104.mp3
+21f5200b840b1998d5cb76caac460e29,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_105.mp3,,72,69498,EAEA0-F905-3ADD-AA91-0_72_105.mp3
+79af8efad47e4710272f38daca059e59,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_106.mp3,,72,32573,EAEA0-9DBA-CA43-78F1-0_72_106.mp3
+f49799e265a94971118dedd7935ce61d,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_109.mp3,,72,123267,EAEA0-5D7E-EAB1-9B70-0_72_109.mp3
+4c31dc8a2bcd1e339627caf351a5f2d2,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_112.mp3,,72,24963,EAEA0-B3DF-91C6-BBDD-0_72_112.mp3
+061199cd0630bb893a8269348cce0072,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_113.mp3,,72,23502,EAEA0-A3BD-7194-7E18-0_72_113.mp3
+0500256bd722938c200f08e9bfaa3945,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_114.mp3,,72,27969,EAEA0-5CC0-9AB9-F22A-0_72_114.mp3
+b782ce6ffa1c6865a619930cd80c40de,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_115.mp3,,72,21985,EAEA0-A5EA-BB44-8AED-0_72_115.mp3
+93d7f0b12391e39f8548b4e3c4e5e3bd,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_116.mp3,,72,44098,EAEA0-8FCC-3888-676A-0_72_116.mp3
+c945d1676b3380c222f49a357ba670cc,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_81.mp3,,72,48636,EAEA0-7418-0007-1C09-0_72_81.mp3
+be9572a9a389fb4d699d645da6616412,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_120.mp3,,72,36643,EAEA0-8043-6EAE-7477-0_72_120.mp3
+5e76d0d4d9084d6e169cb49a9b6c4c34,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_121.mp3,,72,25431,EAEA0-7FB5-1F8B-7762-0_72_121.mp3
+293f5a1d2336c471dc36dae1c868a55d,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_125.mp3,,72,14010,EAEA0-33B8-935A-A031-0_72_125.mp3
+f6620754df7890fef7016c54cc468cb8,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_129.mp3,,72,78835,EAEA0-FC11-9C1E-D5CD-0_72_129.mp3
+56015816eeccfc178ff158655be10fd8,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_136.mp3,,72,22875,EAEA0-4A62-531D-4141-0_72_136.mp3
+92d51982d3e7683345f98cd406f1b756,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_137.mp3,,72,60057,EAEA0-6EF5-D1B7-8C4C-0_72_137.mp3
+1ebe622b2f3fb05cb3141fd237da2353,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_138.mp3,,72,22144,EAEA0-6A4D-5E19-1000-0_72_138.mp3
+8397fc7f2a30a7d6f83b3c757ccaf5e5,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_139.mp3,,72,18283,EAEA0-0EC6-7F77-7C0F-0_72_139.mp3
+315cdcbfa1d9e951ba0ea6e838db34ab,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_144.mp3,,72,50878,EAEA0-5831-BDC8-5BC1-0_72_144.mp3
+7e6d3ea7227b35823d4bc54e9fd535cd,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_145.mp3,,72,55734,EAEA0-3245-E2F6-EB02-0_72_145.mp3
+d933f9f530fb253f860a4a713e577a22,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_146.mp3,,72,27355,EAEA0-272F-180B-29EC-0_72_146.mp3
+ec7ef9c59ba5ff8e654f97fa70b89ce3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_148.mp3,,72,24700,EAEA0-643F-29BD-6A88-0_72_148.mp3
+5c7c3fbcdb2342b8e917460ce033c3b3,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_150.mp3,,72,20970,EAEA0-2447-D626-3F47-0_72_150.mp3
+bd3f27b94731a6e990fc140cd54a6c3b,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_153.mp3,,72,24802,EAEA0-C7B8-E297-0F95-0_72_153.mp3
+4c54b2aa02b4534943bc6c8fded60aa2,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_156.mp3,,72,35443,EAEA0-E4EE-BA1B-986F-0_72_156.mp3
+8d4c71362d6d5071b9107b8bee642ad2,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_157.mp3,,72,36277,EAEA0-7C8D-14BA-B2AC-0_72_157.mp3
+77da7ef46bba93ab8afb10df51b2d17d,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_230.mp3,,35,134499,EAEA0-33C3-9410-9AB6-0_35_230.mp3
+03262071d51c5a2f1567dd8242a90225,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_231.mp3,,35,115107,EAEA0-0044-6BA6-61AF-0_35_231.mp3
+8d74ac476d41bc3e797d2af9677ef75f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_158.mp3,,72,35703,EAEA0-0EC5-7A8B-026C-0_72_158.mp3
+bf920b55281fe3d74106f21d49ce2f6b,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_236.mp3,,35,44355,EAEA0-237C-C3F4-20B0-0_35_236.mp3
+7815005bec2edab0d4bcff4453586725,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_237.mp3,,35,54723,EAEA0-698F-E85F-B1C9-0_35_237.mp3
+4a984e96654f45787fb8ef74b47a3202,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_160.mp3,,72,106085,EAEA0-6C86-FBE4-309D-0_72_160.mp3
+96e426771c319556afc1877a61a68d80,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_161.mp3,,72,44776,EAEA0-9A06-0FA3-3115-0_72_161.mp3
+8a0708bee1a441741059ad965596ec3a,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_162.mp3,,72,30279,EAEA0-74FC-4647-963C-0_72_162.mp3
+7721d3f915f19d81791ea0e8d7bc62f6,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_165.mp3,,72,20841,EAEA0-77F2-9A04-6BA9-0_72_165.mp3
+af6e83741b07ba6bf2c24bf236afbe52,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_166.mp3,,72,28769,EAEA0-B959-1134-68BD-0_72_166.mp3
+bbdba44facd606e0adb2dfc40269689f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_167.mp3,,72,33248,EAEA0-42F3-29C8-F0CF-0_72_167.mp3
+24f730f7add942d2da6456a001056d2f,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_168.mp3,,72,25531,EAEA0-A791-7238-74C1-0_72_168.mp3
+2bc687689adfb67cc92c96911c9c9ceb,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_169.mp3,,72,48425,EAEA0-FCCE-7085-4EF2-0_72_169.mp3
+7a0c45385ce029d880ec26da6cd2300d,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_170.mp3,,72,93433,EAEA0-F745-4383-D866-0_72_170.mp3
+b32cc1588c1a6f94fb7616443e82dd92,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_258.mp3,,35,319010,EAEA0-7CA6-2A6E-D997-0_35_258.mp3
+df58cc438942afc20af5c221b9f335c9,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_261.mp3,,35,113954,EAEA0-AC3D-0993-5C74-0_35_261.mp3
+54902276b26224599f8c5acf3855f633,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_70.mp3,,72,43317,EAEA0-066E-6B26-55E6-0_72_70.mp3
+f11b7864f39178fead37e4cbe19a2608,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_262.mp3,,35,120051,EAEA0-65E7-6B27-CE91-0_35_262.mp3
+ee104f951617a6f4234d4db5197d1e6b,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_263.mp3,,35,121059,EAEA0-09B3-8B85-1993-0_35_263.mp3
+bdd683831e6b6a4c9a51cb6555f226a8,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_264.mp3,,35,103203,EAEA0-2252-D86E-C0EB-0_35_264.mp3
+8b9532c3d270100c8e38dc9410873671,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_265.mp3,,35,161187,EAEA0-9DBC-4C82-7FB7-0_35_265.mp3
+2d39900f933f0328173ffffa283a6a10,Audio of the spoken object language text of examples,audio/mpeg,Examples/36_163.mp3,,36,26338,EAEA0-7592-853A-301D-0_36_163.mp3
+4218075f4c857d91399077957d94dc81,Audio of the spoken object language text of examples,audio/mpeg,Examples/36_164.mp3,,36,25449,EAEA0-2279-47F9-8802-0_36_164.mp3
+14c37cbb6fd26e8e6b2fc3cb43846343,Audio of the spoken object language text of examples,audio/mpeg,Examples/36_165.mp3,,36,25922,EAEA0-47E4-6ED3-093B-0_36_165.mp3
+a944fc85037b3eda318a064344e2d502,Audio of the spoken object language text of examples,audio/mpeg,Examples/36_166.mp3,,36,24304,EAEA0-8992-54C5-BF0A-0_36_166.mp3
+648bbb07447aabbc17b42e856e218f05,Audio of the spoken object language text of examples,audio/mpeg,Examples/37_205.mp3,,37,7497,EAEA0-D649-C0AD-D139-0_37_205.mp3
+b235b376ae28fe1374c735718a49aa87,Audio of the spoken object language text of examples,audio/mpeg,Examples/37_206.mp3,,37,7863,EAEA0-40E1-BA62-E02D-0_37_206.mp3
+a5d3c2c3cbddecede1238f268e438607,Audio of the spoken object language text of examples,audio/mpeg,Examples/37_207.mp3,,37,13001,EAEA0-837B-2863-5A13-0_37_207.mp3
+331b343c57d5fc63a604fb161d8e2b2d,Audio of the spoken object language text of examples,audio/mpeg,Examples/37_208.mp3,,37,8411,EAEA0-29B5-D160-EE25-0_37_208.mp3
+2a242024123a4295a342da833ddf3f46,Audio of the spoken object language text of examples,audio/mpeg,Examples/72_134.mp3,,72,46527,EAEA0-1F90-6D8C-32D9-0_72_134.mp3
+9aebb334fe7ab89fd6d091e1f47c320c,Audio of the spoken object language text of examples,audio/mpeg,Examples/37_248.mp3,,37,6601,EAEA0-5C2C-EC2E-3D81-0_37_248.mp3
+b1747b8ccaad662271985bb1a049a1e9,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_270.mp3,,35,1260544,EAEA0-7B65-1B87-E568-0_35_270.mp3
+94fb1c5846be4c68b9cf66c817301aca,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_271.mp3,,35,103298,EAEA0-70E3-9E18-ADBB-0_35_271.mp3
+534c116fad85f7cfef20b4483b1f64eb,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_272.mp3,,35,1297408,EAEA0-BCE5-E301-C0FA-0_35_272.mp3
+e588fcef07c48accc64ecfc353cbd94f,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_273.mp3,,35,107042,EAEA0-D273-2E30-A57F-0_35_273.mp3
+37e0aced3868e97462f741e3ab05ab74,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_274.mp3,,35,120386,EAEA0-2D77-4448-187F-0_35_274.mp3
+074a5078bc5fa107ba261570435cd24b,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_275.mp3,,35,108386,EAEA0-061D-A4C2-4443-0_35_275.mp3
+7450303769743782592293771625e1d1,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_276.mp3,,35,1512448,EAEA0-1A77-9CA0-9350-0_35_276.mp3
+3bcdcd78a9d1173ae4c6681af94f22e5,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_277.mp3,,35,1266688,EAEA0-843F-87AB-CEED-0_35_277.mp3
+60c1345a65c57ff896d8e13e67708cca,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_278.mp3,,35,103874,EAEA0-AEA3-B1A2-7A86-0_35_278.mp3
+85c07687b37d6123532e58384c21c230,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_279.mp3,,35,1254400,EAEA0-A242-C970-D31B-0_35_279.mp3
+f26e106517c3341378336fe7b2327848,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_280.mp3,,35,1125376,EAEA0-7F6F-642B-9FE4-0_35_280.mp3
+338b5fd0a8bb48ec1dc7f40991bfa912,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_281.mp3,,35,1063936,EAEA0-AA01-C575-5368-0_35_281.mp3
+4f513cb964fe4892c7a07217da498507,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_282.mp3,,35,114338,EAEA0-E160-65A5-8C94-0_35_282.mp3
+9736afef8e29fbce88aa1136a343d0d0,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_283.mp3,,35,105794,EAEA0-8C88-97A2-1DD4-0_35_283.mp3
+159d4d70f3b0952c6b414004acd67db3,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_284.mp3,,35,1014784,EAEA0-7B8D-AE61-115A-0_35_284.mp3
+c0747c6e5b869aa970e56c04d460ba91,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_285.mp3,,35,1180672,EAEA0-8B72-8755-807F-0_35_285.mp3
+0fb84946c90e738dd77d6588ff2bab6c,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_286.mp3,,35,762880,EAEA0-289F-0571-2279-0_35_286.mp3
+ed81ab293a6878309732bd4922ec87f9,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_287.mp3,,35,1358848,EAEA0-1D48-AAF9-7426-0_35_287.mp3
+25897e7ac2a6f258545330ffb719e8d7,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_288.mp3,,35,132578,EAEA0-CA08-195F-58EA-0_35_288.mp3
+440efadd2ae54a7fad25c9e5bd5dde70,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_289.mp3,,35,108578,EAEA0-982A-72C2-648A-0_35_289.mp3
+bbd01e96d7c8398ac60bcfa39fa7774a,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_290.mp3,,35,125569,EAEA0-3CBC-B629-157B-0_35_290.mp3
+30350a21c9c7e6c8cdf75774097b4541,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_291.mp3,,35,1205248,EAEA0-669A-AE94-D238-0_35_291.mp3
+e3296a37f02efde7ebd9b95b8a6fdb0e,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_292.mp3,,35,1745920,EAEA0-4D42-F53B-5312-0_35_292.mp3
+9f771954c75497761e94d2e9dc9a8e91,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_293.mp3,,35,1604608,EAEA0-5C72-890E-8130-0_35_293.mp3
+599334b9ede5029b3ae44c834f8b9292,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_294.mp3,,35,85249,EAEA0-6969-3C9C-2AC9-0_35_294.mp3
+73cba98f3a09e94ee5c82cd839bbf13c,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_295.mp3,,35,136316,EAEA0-68C6-B358-581F-0_35_295.mp3
+7fe81d250bfc416472993d89a81df113,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_296.mp3,,35,965632,EAEA0-DE8F-DE39-DBE9-0_35_296.mp3
+e35d8029eab6a0cd3212530482328b61,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_297.mp3,,35,1684480,EAEA0-1ED0-FCD0-EBB0-0_35_297.mp3
+c29b2423139d99dd920b1b19949a2572,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_298.mp3,,35,2176000,EAEA0-FA85-8BBB-2538-0_35_298.mp3
+43d1ad90f1bff9d47c8766d4dce374ef,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_299.mp3,,35,109826,EAEA0-5FA9-1AE2-0BB7-0_35_299.mp3
+171b46b1293aa918dd9615090dbeade9,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_300.mp3,,35,97922,EAEA0-72D7-1555-6287-0_35_300.mp3
+0eab3b3ea0746c1fbb7916963010c841,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_301.mp3,,35,82748,EAEA0-E98D-6BD7-8F78-0_35_301.mp3
+350140d75e178b9a2c3ac44b4bcb8523,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_303.mp3,,35,134114,EAEA0-2B98-94B7-A19D-0_35_303.mp3
+1b99a41f40e5fb0842fc092aee99fc11,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_304.mp3,,35,98161,EAEA0-9D05-735A-EB57-0_35_304.mp3
+ef1af1d390b28f62b402787f7db8794c,Audio of the spoken object language text of examples,audio/mpeg,Examples/35_305.mp3,,35,1211392,EAEA0-1916-0195-8DC7-0_35_305.mp3
+d25868b0ab1eb6f5cf608ab5d021df36,Audio of the spoken object language text of examples,audio/mpeg,Examples/50_246.mp3,,50,695852,EAEA0-A06C-29B8-A0F3-0_50_246.mp3
+3867a0e40d10c536603f418b7f3f70b5,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_199.mp3,,51,86368,EAEA0-5778-98F3-A45A-0_51_199.mp3
+1b41013f2c396988e8160d445550a891,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_200.mp3,,51,451628,EAEA0-373B-4AD9-E7AF-0_51_200.mp3
+3a1342ea7acf9cf8d0bb98b852b6c55d,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_201.mp3,,51,139264,EAEA0-AD4F-F4F7-D1D2-0_51_201.mp3
+0be185821e41f820f1cd5866b3712c62,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_202.mp3,,51,423980,EAEA0-A3AC-2404-E770-0_51_202.mp3
+f34c69012fa725236fc219cf4c9e3e05,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_203.mp3,,51,100356,EAEA0-5AAB-6349-E0BD-0_51_203.mp3
+33fa71e1cb5d770d7737db752c619b94,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_204.mp3,,51,111525,EAEA0-E33C-4B0C-7492-0_51_204.mp3
+a906eb673e52fedf68fd755e1d134fc1,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_205.mp3,,51,24576,EAEA0-9F51-6A5A-8F1C-0_51_205.mp3
+6d7a42f75f484f3f5363523513e61538,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_206.mp3,,51,84173,EAEA0-B38A-3988-8D99-0_51_206.mp3
+f355a22cb59f5260a3895f4a7ea501f6,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_207.mp3,,51,108501,EAEA0-6C41-B2A8-6D15-0_51_207.mp3
+250dc31463566dc096870e5b15232e68,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_208.mp3,,51,456236,EAEA0-7E8E-5EEA-1F95-0_51_208.mp3
+7e14fe19360a5144a6ce466768346d65,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_209.mp3,,51,94826,EAEA0-CB14-3BD6-42B5-0_51_209.mp3
+196fd7651be6830dd0ef0730d9f32313,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_210.mp3,,51,83861,EAEA0-14A2-9276-DD1A-0_51_210.mp3
+3ce4f0111f2191a19770a5c2525beef6,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_211.mp3,,51,396332,EAEA0-A087-34DC-4A55-0_51_211.mp3
+6b19402637127d9b409a240c08348180,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_212.mp3,,51,104322,EAEA0-3823-5313-D772-0_51_212.mp3
+b725f8771f4c42eb28a968ee986bd1ac,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_214.mp3,,51,100568,EAEA0-94D8-9919-7C8F-0_51_214.mp3
+e940d2ef69f46550a568975ccbb775a0,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_215.mp3,,51,98682,EAEA0-524E-06A4-944E-0_51_215.mp3
+075c1c35590879e2a417f4819788a217,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_216.mp3,,51,95554,EAEA0-EF6D-C764-3FE7-0_51_216.mp3
+5bcb27b17907add7d5942e01d39922db,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_217.mp3,,51,90024,EAEA0-9106-04DE-CE9F-0_51_217.mp3
+8d39b9a1eef65f84536b99ee781d6c98,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_218.mp3,,51,112051,EAEA0-9DAD-1B44-F9B2-0_51_218.mp3
+d7bc136f414647df8809184f5b294f66,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_219.mp3,,51,557612,EAEA0-FD8D-1F10-64ED-0_51_219.mp3
+5ab14f4481c4cb37d6a5e033083aaf71,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_220.mp3,,51,121027,EAEA0-3C99-A884-4D7D-0_51_220.mp3
+f52a6c2c4819d55cc007096426f878b5,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_221.mp3,,51,97020,EAEA0-2E5F-CB60-0FC0-0_51_221.mp3
+976845808eefeae88ace6b6f2e5a06da,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_222.mp3,,51,97436,EAEA0-DC74-4D84-DC5E-0_51_222.mp3
+bdaf8ea347665cdc215a49a382bdaf40,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_223.mp3,,51,502316,EAEA0-74A6-C065-9A75-0_51_223.mp3
+e210716ff36091886127d2e4327d3654,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_224.mp3,,51,488492,EAEA0-9BDD-3859-93E4-0_51_224.mp3
+4690a6a810d1d22c3c66d042eb35671a,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_225.mp3,,51,511532,EAEA0-6EF5-1C94-E596-0_51_225.mp3
+cd30591d22e03c65498bc22bf0561396,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_226.mp3,,51,571436,EAEA0-1B18-AD89-7D6E-0_51_226.mp3
+6bac98226f74282ba135a076cd67c701,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_227.mp3,,51,400940,EAEA0-D51D-F22B-6B7E-0_51_227.mp3
+5cb000cc8720b69bad9c77587439090b,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_228.mp3,,51,502316,EAEA0-9F5A-DB25-7293-0_51_228.mp3
+f71a39185e2a3577860232ac5a43e30c,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_229.mp3,,51,110168,EAEA0-E54E-F32F-8612-0_51_229.mp3
+7938d8366e800b139db637f2c65a6d3f,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_230.mp3,,51,529964,EAEA0-D440-2589-5053-0_51_230.mp3
+3a0aaa5f2ee13881b3a5fd19b7c80e94,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_231.mp3,,51,447020,EAEA0-B413-8B91-8171-0_51_231.mp3
+6310f0b0bbf70adf1d09489d346fe1aa,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_232.mp3,,51,516140,EAEA0-6D47-71C7-3F55-0_51_232.mp3
+8759571305dc54bd809997f829bc71c5,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_233.mp3,,51,94719,EAEA0-6016-9696-A1FE-0_51_233.mp3
+323177bd76a6378ff321c7cee66f38d7,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_234.mp3,,51,94615,EAEA0-48E7-AFA8-109A-0_51_234.mp3
+cc9a0fded6a87ebbac4ec8f8b61de5d7,Audio of the spoken object language text of examples,audio/mpeg,Examples/51_235.mp3,,51,428588,EAEA0-DF10-DC71-8617-0_51_235.mp3
